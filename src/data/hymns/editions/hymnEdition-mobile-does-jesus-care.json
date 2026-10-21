@@ -1,0 +1,177 @@
+{
+  "sourceSha256": "bbd5cc424df94491327e279b6dd353021faa6bd9e8b53eb928bff0ec85d7ed63",
+  "metadata": {
+    "id": "hymn-mobile-does-jesus-care",
+    "title": "Does Jesus Care?",
+    "composer": "Frank E. Graeff (1860-1919),1901 · Joseph L. Hall (1866-1930),1901",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "mobile-does-jesus-care",
+    "sourceUrls": [
+      "https://www.mobilehymns.org/PDF/Does_Jesus_Care.pdf",
+      "https://www.mobilehymns.org/english/Does_Jesus_Care.html",
+      "https://mobilehymns.org/copyright.html"
+    ],
+    "collection": "Mobile Hymns #5018",
+    "credits": [
+      "Frank E. Graeff (1860-1919),1901",
+      "Joseph L. Hall (1866-1930),1901",
+      "Mobile Hymns #5018, downloaded 2026-09-30",
+      "Source-assisted manual transcription of the public-domain-labelled PDF"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Frank E.Graeff,1901; source labels public domain",
+      "Joseph L.Hall,1901; source score and information page label public domain",
+      "Frank E.Graeff / Joseph L.Hall; Mobile Hymns #5018 transcription",
+      "US public-domain source basis; no blanket worldwide clearance",
+      "Source-assisted manual transcription of the public-domain-labelled PDF",
+      "Source asserts public domain; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "territory": "US public-domain source basis; no blanket worldwide clearance",
+    "editionNotes": [
+      "Three printed historical stanzas1,3,4 plus common refrain,136 syllables; no added stanza or tempo",
+      "All4 source voices;288 pitch heads",
+      "Specific6/4 source edition; source ties retained where different stanza syllables coincide with tie continuation. Recommended ABCJS copy joins lyric underscore spacing only.",
+      "Source 6/4 edition; three printed historical stanzas (original1,3,4) and common refrain.",
+      "All four source voice streams preserved. Source ties may coincide with differing verse syllables.",
+      "Source asserts public domain; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "mobile-does-jesus-care",
+      "title": "Does Jesus Care?",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H095"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B088"
+        }
+      ],
+      "file": "abc/mobile-does-jesus-care.abc",
+      "sha256": "bbd5cc424df94491327e279b6dd353021faa6bd9e8b53eb928bff0ec85d7ed63",
+      "canonical_reference_in_archive": "manual_abc/mobile-does-jesus-care.abc",
+      "source_url": [
+        "https://www.mobilehymns.org/PDF/Does_Jesus_Care.pdf",
+        "https://www.mobilehymns.org/english/Does_Jesus_Care.html",
+        "https://mobilehymns.org/copyright.html"
+      ],
+      "collection": "Mobile Hymns #5018",
+      "rights_and_attribution": {
+        "text": "Frank E.Graeff,1901; source labels public domain",
+        "music": "Joseph L.Hall,1901; source score and information page label public domain",
+        "attribution": "Frank E.Graeff / Joseph L.Hall; Mobile Hymns #5018 transcription",
+        "territory": "US public-domain source basis; no blanket worldwide clearance"
+      },
+      "scope_and_edition_notes": [
+        "Three printed historical stanzas1,3,4 plus common refrain,136 syllables; no added stanza or tempo",
+        "All4 source voices;288 pitch heads",
+        "Specific6/4 source edition; source ties retained where different stanza syllables coincide with tie continuation. Recommended ABCJS copy joins lyric underscore spacing only."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-does-jesus-care-review.md",
+        "audit": "reports/independent-does-jesus-care-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H095",
+      "title": "Does Jesus Care?",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "mobile-does-jesus-care",
+      "abc_file": "abc/mobile-does-jesus-care.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H095",
+        "Hymn / version": "Does Jesus Care?",
+        "Playlist track #": "120",
+        "Music / score source": "https://library.timelesstruths.org/library/music/D/Does_Jesus_Care/Does_Jesus_Care.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Does_Jesus_Care/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "PDF SATB with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use listed PD edition",
+        "Rights source": "https://library.timelesstruths.org/music/Does_Jesus_Care/",
+        "Text, tune and version notes": "Frank E. Graeff and J. Lincoln Hall 1901; DOES JESUS CARE / MY SAVIOR CARES\nSource calls composer Joseph L. Hall; commonly catalogued J. Lincoln Hall",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B088",
+      "title": "Does Jesus Care?",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "mobile-does-jesus-care",
+      "abc_file": "abc/mobile-does-jesus-care.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B088",
+        "Song title": "Does Jesus Care?",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/D/Does_Jesus_Care/Does_Jesus_Care.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Does_Jesus_Care/",
+        "Editable source": "",
+        "Tune and work identity": "Frank E. Graeff and J. Lincoln Hall 1901; DOES JESUS CARE / MY SAVIOR CARES\nSource calls composer Joseph L. Hall; commonly catalogued J. Lincoln Hall",
+        "Public distribution rights": "US public domain underlying text and tune; use listed PD edition",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Does_Jesus_Care/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "120",
+        "Playlist artists": "The Haven Quartet",
+        "Original track titles": "Does Jesus Care?",
+        "Source review": "PDF SATB with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

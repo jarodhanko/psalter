@@ -1,0 +1,46 @@
+.service-booklet { min-width: 0; color: var(--ink, #17231f); background: var(--paper, #fffef9); border: 1px solid var(--line, #d9d4c7); border-radius: var(--radius, 0.8rem); }
+.service-booklet-header, .service-booklet-toolbar { padding: 1rem clamp(1rem, 3vw, 2rem); }
+.service-booklet-header { text-align: center; }
+.service-booklet-header h2 { margin: 0.3rem 0; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(1.6rem, 4vw, 2.4rem); overflow-wrap: anywhere; }
+.service-booklet-header h2:focus { outline: none; }
+.service-booklet-header p { margin: 0.5rem 0; }
+.service-booklet-eyebrow { font-size: 0.8rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.1em; }
+.service-booklet-toolbar { border-block: 1px solid var(--line, #d9d4c7); background: #f3f0e7; font-size: 0.9rem; }
+.service-booklet-toolbar p { margin: 0.65rem 0 0; line-height: 1.45; }
+.service-booklet-actions { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.65rem; }
+.service-booklet-actions button { min-height: 2.75rem; padding: 0.5rem 1rem; color: var(--forest, #18352d); background: white; border: 1px solid var(--forest, #18352d); border-radius: 0.4rem; font: inherit; font-weight: 700; }
+.service-booklet-actions button:last-child { color: white; background: var(--forest, #18352d); }
+.service-booklet-actions button:focus-visible, .service-booklet a:focus-visible { outline: 3px solid var(--gold, #c9a55a); outline-offset: 3px; }
+.service-booklet-toolbar progress { display: block; width: 100%; height: 0.6rem; margin-top: 1rem; accent-color: var(--forest, #18352d); }
+.service-booklet-preview-help { color: #56645e; }
+.service-booklet-entry { min-width: 0; padding: 1rem clamp(0.5rem, 2vw, 1.25rem); background: white; }
+.service-booklet-entry + .service-booklet-entry { border-top: 3px solid var(--line, #d9d4c7); }
+.service-booklet-song-heading { padding: 0.5rem; text-align: center; }
+.service-booklet-song-heading h3 { margin: 0.4rem 0; font-family: Georgia, 'Times New Roman', serif; font-size: clamp(1.4rem, 3vw, 2rem); overflow-wrap: anywhere; }
+.service-booklet-song-heading p { margin: 0.35rem 0; font-size: 0.85rem; line-height: 1.4; }
+.service-booklet-song-heading .service-booklet-build { font-size: 0.7rem; color: #56645e; }
+.service-booklet-row-status { padding: 1rem; text-align: center; color: #56645e; }
+.service-booklet-error { margin: 0.75rem 0; padding: 0.7rem; color: #7c1f1a; background: #fae8e6; border: 1px solid #c69089; border-radius: 0.35rem; line-height: 1.45; }
+/* The on-screen preview deliberately shows the same generated score and verse
+   transcript that will print, not a full-verse interactive score. */
+.service-booklet .score-canvas, .service-booklet .lyrics-transcript:not(.print-lyrics-transcript), .service-booklet .source-edition-details { display: none !important; }
+.service-booklet .print-score-canvas { display: block !important; position: static !important; left: auto !important; width: 100%; visibility: visible !important; pointer-events: none; }
+.service-booklet .print-score-canvas svg { max-width: 100%; height: auto; }
+.service-booklet .print-only { display: block !important; }
+.service-booklet-print-blocked { display: none; }
+@media print {
+  .service-booklet { width: 100%; border: 0; border-radius: 0; background: white; }
+  .service-booklet-toolbar, .service-booklet-row-status { display: none !important; }
+  .service-booklet-header { padding: 0 0 3mm; break-after: avoid; page-break-after: avoid; }
+  .service-booklet-header h2 { font-size: 19pt; }
+  .service-booklet-header p { margin: 1mm 0; font-size: 8pt; }
+  .service-booklet-entry { padding: 0; border: 0; break-inside: auto; page-break-inside: auto; }
+  /* Keep the booklet title with the first song; there is no cover-only page. */
+  .service-booklet-entry + .service-booklet-entry { border: 0; break-before: page; page-break-before: always; }
+  .service-booklet-song-heading { padding: 0 0 3mm; break-after: avoid; page-break-after: avoid; break-inside: avoid; page-break-inside: avoid; }
+  .service-booklet-song-heading h3 { margin: 1mm 0; font-size: 18pt; }
+  .service-booklet-song-heading p { margin: 1mm 0; font-size: 9pt; color: black; }
+  .service-booklet-song-heading .service-booklet-build { color: black; font-size: 7pt; }
+  .service-booklet[data-ready='false'] .service-booklet-entries { display: none !important; }
+  .service-booklet[data-ready='false'] .service-booklet-print-blocked { display: block !important; border: 1px solid black; padding: 4mm; }
+}

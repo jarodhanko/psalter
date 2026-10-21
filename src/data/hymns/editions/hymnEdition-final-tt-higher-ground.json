@@ -1,0 +1,169 @@
+{
+  "sourceSha256": "5578087fdb3f768d3b45109e1e42c8da70b6421477ac7d50432edda03959288c",
+  "metadata": {
+    "id": "hymn-final-tt-higher-ground",
+    "title": "Higher Ground",
+    "composer": "Charles H. Gabriel, 1902.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "SOPRANO ALTO",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "TENOR BASS",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "final-tt-higher-ground",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/H/Higher_Ground/Higher_Ground.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Johnson Oatman, Jr., 1898.  MUSIC: Charles H. Gabriel, 1902.  Public Domain.",
+      "Higher Ground",
+      "He maketh my feet like hinds’ feet, and setteth me upon my high places. Psa. 18:33; Dt. 32:13; Isa. 58:14",
+      "Come, and let us go up to the mountain of the LORD... and he will teach us of his ways, and we will walk in his paths. Mic. 4:2"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source labels historical words/music Public Domain; original territorial, version and modern-arrangement caveats retained; no new distribution clearance.",
+      "WORDS: Johnson Oatman, Jr., 1898.  MUSIC: Charles H. Gabriel, 1902.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "final-tt-higher-ground",
+      "title": "Higher Ground",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B119"
+        }
+      ],
+      "file": "abc/final-tt-higher-ground.abc",
+      "sha256": "5578087fdb3f768d3b45109e1e42c8da70b6421477ac7d50432edda03959288c",
+      "canonical_reference_in_archive": "musicxml_abc/TT_Higher_Ground.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/H/Higher_Ground/Higher_Ground.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Source labels historical words/music Public Domain; original territorial, version and modern-arrangement caveats retained; no new distribution clearance.",
+        "page_evidence": {
+          "page_download": {
+            "url": "https://library.timelesstruths.org/music/Higher_Ground/midi/",
+            "http_status": 200,
+            "content_type": "text/html; charset=utf-8",
+            "bytes": 12688,
+            "sha256": "2253bc50a9c627e47937ac45fbc4a67e58735f240cdd101923d7b97b1daa8d96",
+            "status": "downloaded",
+            "path": "sources/final_candidate_gaps/pages/TT_Higher_Ground.html"
+          },
+          "page_text": "\r\n        \r\n        \r\n        \r\n        \r\n            \r\n            Higher Ground > MIDI | Johnson Oatman, Jr. / Charles H. Gabriel\r\n            \r\n            \r\n            \r\n            \r\n            \r\n            \r\n            \r\n            \r\n                    \r\n            \r\n\r\n\r\n\r\n\r\n\r\n\r\n        \r\n        \r\n        \r\n\r\n        \r\n\r\n\r\n\r\n\r\n\n\r\n        \nTimeless Truths Free Online Library\n\nTimeless Truths Free Online Library | books, sheet music, midi, and more\n\r\nSkip over navigation\r\n        \r\n            \nBible\n\r\n            \nTexts\n\r\n            \nMusic\n\r\n            \nWelcome | About | Search | Help \n\r\n        \r\n        \n\n\n\n\r\n\t\n\n\r\n\t\t\tAll\r\n| Select Hymns\r\n| Evening Light Songs\r\n| Echoes from Heaven\r\n| The Blue Book\r\n| Sing unto the Lord\r\n\t\n\n\r\n\t\n\r\n\t\t\n\n\r\n\t\t\nHigher Ground | Johnson Oatman, Jr. / Charles H. Gabriel\r\n                \n\r\n                \n\r\n                    Aspiration\r\n                \n\r\n\t\n\r\n\t\n\r\n            \nReport Error\r\n                |   <<  \r\n                |   >>\r\n            \n\r\n\t\n\r\n\n\r\n            \r\n        \n\r\n        \r\n        \r\n                \n\r\n                    \nHigher Ground\n\r\n                    \nJohnson Oatman, Jr., 1898\n\r\n                    \ncopyright status is Public Domain\r\n\n\r\n                    \n\r\n                    \nSubjects:\r\n                        Aspiration,\r\n                        Supplication\n\r\n\t\t\t\t\t\nScripture: Deuteronomy 32:13; Psalm 18:33; Isaiah 58:14; Micah 4:2\n\r\n\t\t\t\t\r\n\t\t\t\t\nHigher Ground [.xml]\n\r\n\t\t\t\t\nCharles H. Gabriel, 1902\n\r\n\t\t\t\t\ncopyright status is Public Domain\r\n\n\r\n\t\t\t\t\n\r\n\t\t\t\t\nKey: A♭\n\r\n\t\t\t\t\nMeter: 8.8.8.8 D\n\r\n\t\t\t\t\n\r\n\t\t\t\t\nLearn about music formats...\n\r\n\t\t\t\t\n view sheet music [.pdf] [.sib]\n\r\n\t\t\t\t\n stop midi [.mid]\n\r\n\t\t\t\t\n audio recording [.mp3]\n\r\n\t\t\t\t\r\n            \r\n                        \r\n                        \nThis song in other languages:\n\r\n                        \r\n                            \n.pdf Deutsch (German)\n\r\n                            \n.pdf Pусский (Russian)\n\r\n                        \r\n                    \n\r\n                \r\n        \r\n        \r\n        \r\n\t\t\t\n\r\n\t\t\t\t\n\nNow playing MIDI.\n\nIt may take a few seconds to begin.\n\n\r\n\r\n\r\n\t\t\t\t\n\r\n\t\nI’m pressing on the upward way,\nNew heights I’m gaining every day;\nStill praying as I’m onward bound,\n“Lord, plant my feet on higher ground.”\r\n\t\nRefrain:\nLord, lift me up and let me stand,\nBy faith, on Heaven’s tableland,\nA higher plane than I have found;\nLord, plant my feet on higher ground.\n\n\n\nMy heart has no desire to stay\nWhere doubts arise and fears dismay;\nThough some may dwell where those abound,\nMy prayer, my aim, is higher ground.\n\n\nI want to live above the world,\nThough Satan’s darts at me are hurled;\nFor faith has caught the joyful sound,\nThe song of saints on higher ground.\n\n\nI want to scale the utmost height\nAnd catch a gleam of glory bright;\nBut still I’ll pray till heav’n I’ve found,\n“Lord, plant my feet on higher ground.”\n\n\r\n            \n\r\n\r\n\t\t\t\n\r\n            \r\n        \r\n        \n\r\n        \r\n\n\r\n        \n\r\n        Sources:\r\n\nHymnary.org (https://hymnary.org/tune/higher_ground_gabriel)\n\r\n\nAnonymous/Unknown, The Blue Book (62)\n\r\n        \n\r\n        \r\n\t\n\r\n            \nReport Error\r\n                |   <<  \r\n                |   >>\r\n            \n\r\n\t\n\r\n\n\r\n        \r\n",
+          "offered_assets": [
+            {
+              "url": "https://library.timelesstruths.org/library/music/H/Higher_Ground/Higher_Ground.xml",
+              "text": ".xml"
+            },
+            {
+              "url": "https://library.timelesstruths.org/library/music/H/Higher_Ground/Higher_Ground.pdf",
+              "text": ".pdf"
+            },
+            {
+              "url": "https://library.timelesstruths.org/music/Higher_Ground@de.pdf",
+              "text": ".pdf"
+            },
+            {
+              "url": "https://library.timelesstruths.org/music/Higher_Ground@ru.pdf",
+              "text": ".pdf"
+            }
+          ]
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B119",
+      "title": "Higher Ground",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "final-tt-higher-ground",
+      "abc_file": "abc/final-tt-higher-ground.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B119",
+        "Song title": "Higher Ground",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/146803",
+        "Lyrics source": "https://library.timelesstruths.org/music/Higher_Ground/",
+        "Editable source": "",
+        "Tune and work identity": "HIGHER GROUND; Charles H. Gabriel; words Johnson Oatman, Jr.",
+        "Public distribution rights": "Opened Timeless Truths source explicitly labels both words and music Public Domain. Use this traditional score, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Higher_Ground/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional title/work candidate; no recording audio comparison performed.  Latest user permits a traditional PD tune even if different from recorded tune; use only historical text without added contemporary chorus.",
+        "Playlist positions": "160",
+        "Playlist artists": "Bluegrass Brethren",
+        "Original track titles": "Higher Ground",
+        "Source review": "PDF score with lyrics\nPDF opened and parsed; recording tune not independently confirmed"
+      },
+      "available_reviewed_alternatives": [
+        "final-htg-higher-ground"
+      ]
+    }
+  ]
+}

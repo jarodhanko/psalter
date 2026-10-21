@@ -1,0 +1,277 @@
+{
+  "sourceSha256": "b71d3009d7e5d52eb60fc0de619f9a7eb9d38ffcf1c4a50735402281f4d23268",
+  "metadata": {
+    "id": "hymn-remaining-openpsalm-great-is-thy-faithfulness",
+    "title": "Great Is Thy Faithfulness",
+    "composer": "William M. Runyan",
+    "tune": "Faithfulness (Runyan)",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-openpsalm-great-is-thy-faithfulness",
+    "sourceUrls": [
+      "https://openpsalm.com/api/songs/19/export/musicxml"
+    ],
+    "collection": "OpenPsalm",
+    "credits": [
+      "William M. Runyan",
+      "Thomas O. Chisholm",
+      "Lyrics: Thomas O. Chisholm, 1923 (public domain)",
+      "Music: 'Faithfulness (Runyan)' by William M. Runyan, 1923 (public domain)",
+      "Obtained from the Open Hymnal Project, 2025 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "Creative Commons Attribution 4.0 International",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.",
+      "OpenPsalm",
+      "Great Is Thy Faithfulness"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "rights": [
+      "Source-specific assertions recorded; candidate status preserved; no independent worldwide clearance.",
+      "Lyrics: Thomas O. Chisholm, 1923 (public domain)\nMusic: 'Faithfulness (Runyan)' by William M. Runyan, 1923 (public domain)\nObtained from the Open Hymnal Project, 2025 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "Lyrics: Thomas O. Chisholm, 1923 (public domain)",
+      "Music: 'Faithfulness (Runyan)' by William M. Runyan, 1923 (public domain)",
+      "Obtained from the Open Hymnal Project, 2025 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license"
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added."
+    ],
+    "record": {
+      "source_id": "remaining-openpsalm-great-is-thy-faithfulness",
+      "title": "Great Is Thy Faithfulness",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H018"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B018"
+        }
+      ],
+      "file": "abc/remaining-openpsalm-great-is-thy-faithfulness.abc",
+      "sha256": "b71d3009d7e5d52eb60fc0de619f9a7eb9d38ffcf1c4a50735402281f4d23268",
+      "canonical_reference_in_archive": "musicxml_abc/OpenPsalm_Great_Is_Thy_Faithfulness.abc",
+      "source_url": "https://openpsalm.com/api/songs/19/export/musicxml",
+      "collection": "OpenPsalm",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions recorded; candidate status preserved; no independent worldwide clearance.",
+        "structured_source_evidence": {
+          "@context": "https://schema.org",
+          "@id": "https://openpsalm.com/songs/19#composition",
+          "@type": "MusicComposition",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Time signature",
+              "value": "3/4"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tempo",
+              "value": 100
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verses",
+              "value": 3
+            }
+          ],
+          "composer": [
+            {
+              "@type": "Person",
+              "name": "William M. Runyan"
+            }
+          ],
+          "contributor": [
+            {
+              "@type": "Organization",
+              "name": "OpenPsalm"
+            }
+          ],
+          "copyrightNotice": "Lyrics: Thomas O. Chisholm, 1923 (public domain)\nMusic: 'Faithfulness (Runyan)' by William M. Runyan, 1923 (public domain)\nObtained from the Open Hymnal Project, 2025 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+          "description": "Great Is Thy Faithfulness — 3 verses worship hymn. Browse, listen, and export as MusicXML, MIDI, LilyPond, or PDF.",
+          "encoding": [
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/19/export/musicxml",
+              "encodingFormat": "application/vnd.recordare.musicxml+xml",
+              "name": "Great Is Thy Faithfulness — MusicXML"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/19/export/midi",
+              "encodingFormat": "audio/midi",
+              "name": "Great Is Thy Faithfulness — MIDI"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/19/export/mp3",
+              "encodingFormat": "audio/mpeg",
+              "name": "Great Is Thy Faithfulness — MP3"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/19/export/lilypond",
+              "encodingFormat": "text/x-lilypond",
+              "name": "Great Is Thy Faithfulness — LilyPond"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/19/render/pdf",
+              "encodingFormat": "application/pdf",
+              "name": "Great Is Thy Faithfulness — PDF"
+            }
+          ],
+          "inLanguage": "en",
+          "isAccessibleForFree": true,
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "lyricist": [
+            {
+              "@type": "Person",
+              "name": "Thomas O. Chisholm"
+            }
+          ],
+          "lyrics": {
+            "@type": "CreativeWork",
+            "inLanguage": "en",
+            "text": "Verse 1\nGreat is Thy faithfulness, O God my Father;\nThere is no shadow of turning with Thee;\nThou changest not, Thy compassions, they fail not;\nAs Thou hast been, Thou forever will be.\n\nVerse 2\nSummer and winter and springtime and harvest,\nSun, moon and stars in their courses above\nJoin with all nature in manifold witness\nTo Thy great faithfulness, mercy and love.\n\nVerse 3\nPardon for sin and a peace that endureth\nThine own dear presence to cheer and to guide;\nStrength for today and bright hope for tomorrow,\nBlessings all mine, with ten thousand beside!\n\nChorus\nGreat is Thy faithfulness! Great is Thy faithfulness!\nMorning by morning new mercies I see.\nAll I have needed Thy hand hath provided;\nGreat is Thy faithfulness, Lord, unto me!"
+          },
+          "mainEntityOfPage": {
+            "@id": "https://openpsalm.com/songs/19",
+            "@type": "WebPage"
+          },
+          "musicCompositionForm": "Hymn",
+          "musicalKey": "Eb",
+          "name": "Great Is Thy Faithfulness",
+          "publisher": {
+            "@type": "Organization",
+            "name": "OpenPsalm",
+            "url": "https://openpsalm.com"
+          },
+          "url": "https://openpsalm.com/songs/19"
+        }
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H018",
+      "title": "Great Is Thy Faithfulness",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "remaining-openpsalm-great-is-thy-faithfulness",
+      "abc_file": "abc/remaining-openpsalm-great-is-thy-faithfulness.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H018",
+        "Hymn / version": "Great Is Thy Faithfulness",
+        "Playlist track #": "18, 40, 65, 82, 104, 110",
+        "Music / score source": "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/G-Hymns/Great-Is-Thy-Faithfulness/Great-Is-Thy-Faithfulness-Letter.pdf",
+        "Lyrics / companion source": "https://hymnary.org/text/great_is_thy_faithfulness_o_god_my_fathe",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "Two-page four-part shape-note PDF with three verses and chorus",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nOpened PDF labeled Public Domain; source edition page explicitly states Public Domain - USA. Avoid modern added verses and arrangements.",
+        "Rights source": "https://hymnstogod.org/Hymns-PD/G-Hymns/Great-Is-Thy-Faithfulness.html",
+        "Text, tune and version notes": "Text: Thomas O. Chisholm, 1923\nTune: FAITHFULNESS; William M. Runyan, 1923\nAlternative: Open Hymnal 2025 round-note SATB, words/music/setting PD, verified search-index content; direct OpenHymnal fetch returned 502. https://openhymnal.org/Pdf/Great_Is_Thy_Faithfulness-Faithfulness_Runyan.pdf\nAppears within medley track 110. Use the individual song edition rather than copying the medley arrangement.",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B018",
+      "title": "Great Is Thy Faithfulness",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-openpsalm-great-is-thy-faithfulness",
+      "abc_file": "abc/remaining-openpsalm-great-is-thy-faithfulness.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B018",
+        "Song title": "Great Is Thy Faithfulness",
+        "Status": "Candidate",
+        "Score / source": "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/G-Hymns/Great-Is-Thy-Faithfulness/Great-Is-Thy-Faithfulness-Letter.pdf",
+        "Lyrics source": "https://hymnary.org/text/great_is_thy_faithfulness_o_god_my_fathe",
+        "Editable source": "",
+        "Tune and work identity": "Text: Thomas O. Chisholm, 1923\nTune: FAITHFULNESS; William M. Runyan, 1923",
+        "Public distribution rights": "Public-domain source edition (US)\nOpened PDF labeled Public Domain; source edition page explicitly states Public Domain - USA. Avoid modern added verses and arrangements.",
+        "Rights / identity evidence": "https://hymnstogod.org/Hymns-PD/G-Hymns/Great-Is-Thy-Faithfulness.html",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 456 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "18, 38, 63, 82, 104, 456",
+        "Playlist artists": "Chris Rice; Fernando Ortega; The Worship Initiative; Shane & Shane; The Haven Quartet; Anthem Lights; Soul'd Out Quartet",
+        "Original track titles": "Great Is Thy Faithfulness",
+        "Source review": "Two-page four-part shape-note PDF with three verses and chorus. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

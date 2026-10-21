@@ -1,0 +1,77 @@
+% Source edition: tt-supplemental-my-redeemer
+% Source URL: https://library.timelesstruths.org/library/music/M/My_Redeemer/My_Redeemer.xml
+% Source SHA256: a3198a17ab63e538266a85994c6bf6e623bf951857fc90e89b9fa557a12d6249
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_My_Redeemer.repairs.json
+% Catalog membership: book2:B268
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Philip P. Bliss, 1876.  MUSIC: James McGranahan, 1877.  Public Domain.
+% Original credit-words: My Redeemer
+% Original credit-words: WORDS: Philip P. Bliss, 1876.  MUSIC: James McGranahan, 1877.  Public Domain.
+% Original credit-words: Christ hath redeemed us from the curse of the law, being made a curse for us. Gal. 3:13
+% Original credit-words:  In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace. Eph. 1:7
+X:1
+T:My Redeemer
+Z:WORDS: Philip P. Bliss, 1876.  MUSIC: James McGranahan, 1877.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+M:9/8
+K:Ab
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ (E A) [DB] | [Ec]3 [Ec]3 (([Ec] [DB])) [CA] | [EB]3 [EB]3 (E G) [EB] | [Ed]3- [Ed]2 [Ed] (d c) [EB] | %4
+w: 1.~I * will|sing of my * Re-|deem- er, And * His|won- * drous love * to|
+w: 2.~I * will|tell the won- * drous|sto- ry, How * my|lost * es- tate * to|
+w: 3.~I * will|praise my dear * Re-|deem- er, His * tri-|um- * phant pow’r * I’ll|
+w: 4.~I * will|sing of my * Re-|deem- er, And * His|heav’n- * ly love * to|
+ [Ec]6 |  (E A) [DB] | [Ec]3 [Ec]3 (([Ec] [DB])) [CA] | [EB]3 [EB]3 (E G) [EA] | %8
+w: me;|On * the|cru- el cross * He|suf- fered, From * the|
+w: save,|In * His|bound- less love * and|mer- cy, He * the|
+w: tell,|How * the|vic- to- ry * He|giv- eth O- * ver|
+w: me;|He * from|death to life * hath|brought me, Son * of|
+ [EB]3- [EB]2 [EB] (B A) [EG] | [EA]6 || [M:12/8]"^Refrain" (([CA] [DB])) [Ec] | [Fd]6- [Fd]2 [Fd] (([DF] [FA])) [Fd] | %12
+w: curse * to set * me|free.|Sing,_ oh,|sing_ of my * Re-|
+w: ran- * som free- * ly|gave.|||
+w: sin, * and death,_ and|hell.|||
+w: God * with Him * to|be.|||
+ [Ec]3 [Ec]6 (([CE] [EA])) [Ec] | B6- B2 [EB] |  (B A) [EB] | [Ec]6- [Ec]3 (([CA] [DB])) [Ec] | %16
+w: deem- er, With_ His|blood_ He|pur- * chased|me;_ On * the|
+w: ||||
+w: ||||
+w: ||||
+ [Fd]6- [Fd]2 [Fd] (([DF] [FA])) [Fd] |  [Ec]3 [Ec]6 (([CE] [EA])) [Ac] | [ce]6- [ce]2 [Bd] [Ac]2 [GB] | A6- A3 |] %20
+w: cross_ He sealed * my|par- don, Paid * the|debt,_ and made me|free._|
+w: ||||
+w: ||||
+w: ||||
+V:2
+ C2 x | x9 | x3 x3 E2 x | x3 x3 E2 x | %4
+ x6 |  C2 x | x9 | x3 x3 E2 x | %8
+ x3 x3 E2 x | x6 || [M:12/8] x3 | x12 | %12
+ x12 | E2 E E2 E E2 x |  E2 x | x12 | %16
+ x12 |  x12 | x12 | A2 E F2 F E3 |] %20
+V:3
+ A,2 A, | A,3 A,3 A,2 A, | [E,G,]3 [E,G,]3 [E,G,]2 [E,G,] | [E,B,]3- [E,B,]2 [E,B,] (B, A,) [E,G,] | %4
+w: ||||
+ [A,,A,]6 |  [A,,A,]2 [A,,A,] | [A,,A,]3 [A,,A,]3 [A,,A,]2 [A,,A,] | [E,G,]3 [E,G,]3 (G, B,) [E,C] | %8
+w: ||||
+ [E,D]3- [E,D]2 [E,D] (D C) [E,B,] | [A,,A,C]6 || [M:12/8] A,2 A, | [D,A,]2 [D,A,] [D,A,]2 [D,A,] [D,A,]2 [D,A,] [D,A,]2 [D,A,] | %12
+w: |||* of my Re- deem- er, sing, oh,|
+ [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] (A, C) [A,,E] | D6- D3 |  (([E,D] [F,C])) [G,B,] | A,2 A, A,2 A, A,3 A,2 A, | %16
+w: sing of my Re- deem- er, * * *||with * His|blood He pur- chased me; * *|
+ [D,A,]2 [D,A,] [D,A,]2 [D,A,] [D,A,]2 [D,A,] [D,A,]2 [D,A,] |  [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] [A,,A,]2 [A,,A,] (A, C) [A,E] | [E,E]2 [E,E] [E,E]2 [E,E] [E,E]2 [E,E] [E,E]2 [E,E] | C2 C D2 D C3 |] %20
+w: * He sealed my par- don, on the|cross He sealed my par- don, * * *|* and made me free, * * *|* and made me free.|
+V:4
+ A,2 A, | A,3 A,3 A,2 A, | x9 | x3 x3 E,2 x | %4
+w: ||||
+ x6 |  x3 | x9 | x3 x3 E,2 x | %8
+w: ||||
+ x3 x3 E,2 x | x6 || [M:12/8] A,2 A, | x12 | %12
+w: ||||
+ x3 x3 x3 A,,2 x | E,2 E, E,2 E, E,3 |  x3 | A,2 A, A,2 A, A,3 A,2 A, | %16
+w: |* He pur- chased me,|||
+ x12 |  x3 x3 x3 A,2 x | x12 | [A,,A,]6- [A,,A,]3 |] %20
+w: ||||

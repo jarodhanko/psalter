@@ -1,0 +1,242 @@
+{
+  "sourceSha256": "b299d63e35824dc23a42b12e6a468ec02afe0a643724607607e5c7b0a3a7bc98",
+  "metadata": {
+    "id": "hymn-aperio-wayfaring-stranger",
+    "title": "Poor Wayfaring Stranger",
+    "composer": "American traditional; arr. Kenan Schaefkofer, 2021",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "aperio-wayfaring-stranger",
+    "sourceUrls": [
+      "https://hymnsinger.com/listing/i-am-a-poor-wayfaring",
+      "https://hymnsinger.com/local-lilypond-outputs/i-am-a-poor-wayfaring-trad.pdf",
+      "https://github.com/kenakofer/hymnsinger/blob/0ac62b6560fb86f44dfa5a04417b445af1f68804/lilypond/shared-tunes/wayfaring-stranger.ily",
+      "https://github.com/kenakofer/hymnsinger/blob/0ac62b6560fb86f44dfa5a04417b445af1f68804/lilypond/songs/i-am-a-poor-wayfaring/i-am-a-poor-wayfaring.ly",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Public_Domain_Song_Anthology_with_Modern_and_Traditional_Harmonization.pdf#page=364",
+      "https://aperio.press/news/2020-03-17-public-domain-song-anthology/"
+    ],
+    "collection": "Hymn Singer / Kenan Schaefkofer, 2021 (SATB music); The Public Domain Song Anthology, printed p.344 / PDF p.364 (retained text)",
+    "credits": [
+      "American traditional; arr. Kenan Schaefkofer, 2021",
+      "Music: Hymn Singer, I am a poor wayfaring stranger, Kenan Schaefkofer, 2021",
+      "Text: The Public Domain Song Anthology (Berger/Israels, 2020), printed p.344 / PDF p.364",
+      "Composite edition: Hymn Singer SATB music with the retained anthology stanza and refrain; editorial lyric underlay"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "American traditional, arranged by Kenan Schaefkofer, 2021. The specific Hymn Singer score names the arranger and dedicates his copyright and related rights in this work to the public domain to the extent possible under law.",
+      "Work-specific public-domain dedication by the credited arranger; no formal CC0 legal-instrument URL is established for this arrangement.",
+      "Only the previously retained anthology stanza and refrain are used. The anthology asserts US public-domain status for underlying works and dedicates new contributions under CC0 1.0.",
+      "Music dedication applies to the extent possible under law. Retained text uses the anthology US public-domain assertion and CC0 waiver. No blanket worldwide or recording-specific arrangement clearance is claimed.",
+      "Retained anthology text: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+      "Music: American traditional, arr. Kenan Schaefkofer, 2021, Hymn Singer. Retained text: David Berger and Chuck Israels (2020), The Public Domain Song Anthology, Aperio Press, https://doi.org/10.32881/book2.",
+      "Kenan Schaefkofer dedicates his copyright and related rights in the arrangement to the public domain to the extent possible under law; no formal CC0 instrument is established for the music.",
+      "Retained anthology text: underlying US public-domain assertion; new anthology contributions CC0 1.0. No recording-specific arrangement clearance is claimed."
+    ],
+    "territory": "Music dedication applies to the extent possible under law. Retained text uses the anthology US public-domain assertion and CC0 waiver. No blanket worldwide or recording-specific arrangement clearance is claimed.",
+    "editionNotes": [
+      "Stable hymn/source ID, H061/B056 memberships and recording links are retained; the historical aperio prefix does not identify the replacement music publisher.",
+      "Four authored Hymn Singer SATB parts are transposed uniformly from D minor to E minor. Source 2/2 meter, quarter=130 tempo, all 32 bars, leading quarter rest, ties, slurs, visible rests and silent spacers are preserved; no fixed system breaks or harmony notes are added.",
+      "Soprano and bass enter at quarter 1, tenor at quarter 17 and alto at quarter 33. Shared unisons remain separate selectable parts; silence is not filled.",
+      "The current selected anthology stanza and refrain are retained exactly, including While journ-'ying, nor and going. The source's extra two stanzas are omitted. Editorial underlay follows source ornaments; more and to each span a two-eighth-note slur.",
+      "Compared with the prior melody: source variants include way-far-ing, ness/toil/nor, I before go, ornaments on more/to, and the low Jordan-line pickup. The duration remains 128 quarters, with the source leading rest instead of the prior trailing rest.",
+      "The incompatible anthology chord layer is removed. This is a composite edition, not the anthology's printed SATB or an unmodified facsimile.",
+      "Only the text source carries an established CC0 instrument; the music has the arranger's separate explicit public-domain dedication.",
+      "Prior melody-only ABC SHA-256: 1bc409cc72ca798d278afacdd907a45f0e5a22abcfe655ae805a05c20a5504f8. The earlier edition is not included in this clean source export.",
+      "Four authored SATB parts, uniformly transposed from D minor to E minor; source rests, ties, slurs and 32-bar form retained.",
+      "Soprano and bass enter together; tenor joins the second phrase and alto the third. Silent parts are not filled.",
+      "Only the previously selected stanza and refrain are retained, including While journ-'ying, nor and going. Source stanzas 2 and 3 are omitted.",
+      "Kenan Schaefkofer dedicates his copyright and related rights in the arrangement to the public domain to the extent possible under law; no formal CC0 instrument is established for the music.",
+      "Retained anthology text: underlying US public-domain assertion; new anthology contributions CC0 1.0. No recording-specific arrangement clearance is claimed."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "2026-10-17",
+      "Replaced the melody-only anthology music with the sourced Schaefkofer 2021 SATB arrangement; retained the existing selected stanza and refrain with editorial source-timed underlay.",
+      "1bc409cc72ca798d278afacdd907a45f0e5a22abcfe655ae805a05c20a5504f8",
+      "Uniform major second upward, D minor to E minor; source tenor C-sharp becomes D-sharp.",
+      "One shared soprano text lane; two additional melisma continuations on more and to. Exact-source native lower-part underlay uses the shared timing-witness mechanism without changing music. No new words, punctuation or stanzas."
+    ],
+    "record": {
+      "source_id": "aperio-wayfaring-stranger",
+      "title": "Poor Wayfaring Stranger",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H061"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B056"
+        }
+      ],
+      "file": "abc/aperio-wayfaring-stranger.abc",
+      "sha256": "b299d63e35824dc23a42b12e6a468ec02afe0a643724607607e5c7b0a3a7bc98",
+      "canonical_reference_in_archive": "src/data/hymns/abc/aperio-wayfaring-stranger.abc (Hymn Singer / retained-text composite, 2026-10-17)",
+      "source_url": [
+        "https://hymnsinger.com/listing/i-am-a-poor-wayfaring",
+        "https://hymnsinger.com/local-lilypond-outputs/i-am-a-poor-wayfaring-trad.pdf",
+        "https://github.com/kenakofer/hymnsinger/blob/0ac62b6560fb86f44dfa5a04417b445af1f68804/lilypond/shared-tunes/wayfaring-stranger.ily",
+        "https://github.com/kenakofer/hymnsinger/blob/0ac62b6560fb86f44dfa5a04417b445af1f68804/lilypond/songs/i-am-a-poor-wayfaring/i-am-a-poor-wayfaring.ly",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Public_Domain_Song_Anthology_with_Modern_and_Traditional_Harmonization.pdf#page=364",
+        "https://aperio.press/news/2020-03-17-public-domain-song-anthology/"
+      ],
+      "collection": "Hymn Singer / Kenan Schaefkofer, 2021 (SATB music); The Public Domain Song Anthology, printed p.344 / PDF p.364 (retained text)",
+      "rights_and_attribution": {
+        "music": "American traditional, arranged by Kenan Schaefkofer, 2021. The specific Hymn Singer score names the arranger and dedicates his copyright and related rights in this work to the public domain to the extent possible under law.",
+        "music_license_scope": "Work-specific public-domain dedication by the credited arranger; no formal CC0 legal-instrument URL is established for this arrangement.",
+        "text": "Only the previously retained anthology stanza and refrain are used. The anthology asserts US public-domain status for underlying works and dedicates new contributions under CC0 1.0.",
+        "territory": "Music dedication applies to the extent possible under law. Retained text uses the anthology US public-domain assertion and CC0 waiver. No blanket worldwide or recording-specific arrangement clearance is claimed.",
+        "text_license": "Retained anthology text: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)",
+        "attribution": "Music: American traditional, arr. Kenan Schaefkofer, 2021, Hymn Singer. Retained text: David Berger and Chuck Israels (2020), The Public Domain Song Anthology, Aperio Press, https://doi.org/10.32881/book2.",
+        "evidence_music": "https://hymnsinger.com/local-lilypond-outputs/i-am-a-poor-wayfaring-trad.pdf",
+        "evidence_text_pdf_page": 4,
+        "structured_source_evidence": {
+          "musicPdfSha256": "2ce058774a62294e4fd09d3b3c6d1649dcd2727199a5c8b00d35596e6564ba32",
+          "musicLilyPondSha256": "623212ce7a63aa5c0306ec1b523850508c91b7fa1056f9dd6dddd352058a6973",
+          "songLilyPondSha256": "9ae40cb24d3469df95fb64d0fd8e65dba83a1e226e62b6ca8a365a9e4fd4ed30",
+          "sourceCommit": "0ac62b6560fb86f44dfa5a04417b445af1f68804",
+          "authoredParts": [
+            "Soprano",
+            "Alto",
+            "Tenor",
+            "Bass"
+          ],
+          "sourceKey": "D minor",
+          "editionKey": "E minor",
+          "transpositionSemitones": 2,
+          "bars": 32,
+          "quartersPerPart": 128,
+          "writtenNoteHeads": [
+            78,
+            58,
+            68,
+            77
+          ],
+          "tieMergedAttacks": [
+            70,
+            53,
+            63,
+            70
+          ]
+        }
+      },
+      "scope_and_edition_notes": [
+        "Stable hymn/source ID, H061/B056 memberships and recording links are retained; the historical aperio prefix does not identify the replacement music publisher.",
+        "Four authored Hymn Singer SATB parts are transposed uniformly from D minor to E minor. Source 2/2 meter, quarter=130 tempo, all 32 bars, leading quarter rest, ties, slurs, visible rests and silent spacers are preserved; no fixed system breaks or harmony notes are added.",
+        "Soprano and bass enter at quarter 1, tenor at quarter 17 and alto at quarter 33. Shared unisons remain separate selectable parts; silence is not filled.",
+        "The current selected anthology stanza and refrain are retained exactly, including While journ-'ying, nor and going. The source's extra two stanzas are omitted. Editorial underlay follows source ornaments; more and to each span a two-eighth-note slur.",
+        "Compared with the prior melody: source variants include way-far-ing, ness/toil/nor, I before go, ornaments on more/to, and the low Jordan-line pickup. The duration remains 128 quarters, with the source leading rest instead of the prior trailing rest.",
+        "The incompatible anthology chord layer is removed. This is a composite edition, not the anthology's printed SATB or an unmodified facsimile.",
+        "Only the text source carries an established CC0 instrument; the music has the arranger's separate explicit public-domain dedication.",
+        "Prior melody-only ABC SHA-256: 1bc409cc72ca798d278afacdd907a45f0e5a22abcfe655ae805a05c20a5504f8. The earlier edition is not included in this clean source export."
+      ],
+      "editorial_corrections": {
+        "date": "2026-10-17",
+        "change": "Replaced the melody-only anthology music with the sourced Schaefkofer 2021 SATB arrangement; retained the existing selected stanza and refrain with editorial source-timed underlay.",
+        "prior_source_sha256": "1bc409cc72ca798d278afacdd907a45f0e5a22abcfe655ae805a05c20a5504f8",
+        "music_transposition": "Uniform major second upward, D minor to E minor; source tenor C-sharp becomes D-sharp.",
+        "lyric_underlay": "One shared soprano text lane; two additional melisma continuations on more and to. Exact-source native lower-part underlay uses the shared timing-witness mechanism without changing music. No new words, punctuation or stanzas."
+      },
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.0",
+        "actual_abcjs_browser_render": "Pending release-owner native browser qualification for this replacement.",
+        "live_project_import_tested": false,
+        "review_scope": "Pinned source PDF pixels and immutable LilyPond independently reviewed. All 325 written events and 68 selected soprano syllable placements match the source inventory; native browser qualification is separate."
+      },
+      "archive_provenance_report": {
+        "report": "docs/wayfaring-stranger-source-replacement.md",
+        "scope": "Separate sourced music and retained anthology text; source review and release qualification have distinct scopes."
+      },
+      "engine_note": "Standard four-voice ABCJS edition with original two-staff grouping; no per-score engraving or layout adapter."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H061",
+      "title": "Poor Wayfaring Stranger",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "aperio-wayfaring-stranger",
+      "abc_file": "abc/aperio-wayfaring-stranger.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H061",
+        "Hymn / version": "Poor Wayfaring Stranger",
+        "Playlist track #": "68",
+        "Music / score source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Public_Domain_Song_Anthology_with_Modern_and_Traditional_Harmonization.pdf#page=364",
+        "Lyrics / companion source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Public_Domain_Song_Anthology_with_Modern_and_Traditional_Harmonization.pdf#page=364",
+        "Editable notation / MIDI": "https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi%3A10.18130%2FV3%2FC4RD06",
+        "Available formats": "One-page melody/lyrics lead sheet with traditional and modern chord options; printed p344, PDF p364",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public domain / CC0: original songs and anthology itself declared public domain by publisher Aperio; unrestricted use, adaptation and sharing",
+        "Rights source": "https://aperio.press/news/2020-03-17-public-domain-song-anthology/",
+        "Text, tune and version notes": "Traditional American folk spiritual / WAYFARING STRANGER; David Berger/Chuck Israels open anthology edition\nRecommended open alternative under user’s preference. Downloaded full PDF and extracted page364. Different from Narrow Way recording and less choral detail than SATB. One full lyric stanza and refrain under melody. Dataset also offers editable XML/Sibelius: https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi%3A10.18130%2FV3%2FC4RD06 . Prefer this unrestricted source to worship-only Cyber Hymnal arrangement.\nFull PDF downloaded successfully; extracted page text confirms title, melody and lyrics. Publisher rights statement opened.",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared. The anthology has explicit CC0/public-domain evidence including its harmony. One lyric stanza and refrain are supplied; keep its verse/text limitations visible."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B056",
+      "title": "Poor Wayfaring Stranger",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "aperio-wayfaring-stranger",
+      "abc_file": "abc/aperio-wayfaring-stranger.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B056",
+        "Song title": "Poor Wayfaring Stranger",
+        "Status": "Candidate",
+        "Score / source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Public_Domain_Song_Anthology_with_Modern_and_Traditional_Harmonization.pdf#page=364",
+        "Lyrics source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Public_Domain_Song_Anthology_with_Modern_and_Traditional_Harmonization.pdf#page=364",
+        "Editable source": "https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi%3A10.18130%2FV3%2FC4RD06",
+        "Tune and work identity": "Traditional American folk spiritual / WAYFARING STRANGER; David Berger/Chuck Israels open anthology edition\nRecommended open alternative under user’s preference. Downloaded full PDF and extracted page364. Different from Narrow Way recording and less choral detail than SATB. One full lyric stanza and refrain under melody. Dataset also offers editable XML/Sibelius: https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi%3A10.18130%2FV3%2FC4RD06 . Prefer this unrestricted source to worship-only Cyber Hymnal arrangement.",
+        "Public distribution rights": "Public domain / CC0: original songs and anthology itself declared public domain by publisher Aperio; unrestricted use, adaptation and sharing",
+        "Rights / identity evidence": "https://aperio.press/news/2020-03-17-public-domain-song-anthology/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 353, 396 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "66, 353, 396",
+        "Playlist artists": "Narrow Way; Matthew Smith; Low Key",
+        "Original track titles": "Poor Wayfaring Stranger; Wayfaring Stranger",
+        "Source review": "One-page melody/lyrics lead sheet with traditional and modern chord options; printed p344, PDF p364. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "songs": [
+    {
+      "id": "psalter116b",
+      "previousAbc": "T:Remembrance of God (Second Tune)\nC:Tune: SPOHR; Arranged from Spohr\nM:3/4\nL:1/4\nK:G\n% validator: allow-photographed-partial-bars\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] D | B2 B | d2 G | B2 A | G2 || G | (e d) B | c2 d | B3- | B2 ||\nw: 1.~As pants the hart for cool-ing streams, When heat- * ed in the chase, *\nw: 2.~For Thee, my God, the liv-ing God, My thirst- * y soul doth pine; *\nw: 3.~Why rest-less, why cast down, my soul? Trust God, * Who will em-ploy *\nw: 4.~Why rest-less, why cast down, my soul? Hope still, * and thou shalt sing *\n[V:T2] D | D2 G | G2 G | G2 F | G2 || G | G2 G | G2 F | G3- | G2 ||\n[V:B1] D, | G,2 D | D2 D | D2 C | B,2 || B, | (C D) E | E2 D | D3- | D2 ||\n[V:B2] D, | G,2 G, | B,,2 B,, | D,2 D, | G,2 || G, | (C, B,,) E, | A,,2 D, | G,,3- | G,,2 ||\n[V:T1] B | A2 ^G | A2 B | c2 e | d2 || c | B2 c | A2 A | G3- | G2 |]\nw: So longs my soul, O God, for Thee And Thy re-fresh-ing grace. *\nw: O when shall I be-hold Thy face, Thou Maj-es-ty Di-vine? *\nw: His aid for thee, and change these sighs To thank-ful hymns of joy. *\nw: The praise of Him Who is thy God, Thy health's e-ter-nal spring. *\n[V:T2] G | F2 ^E | F2 ^G | A2 _B | A2 || A | G2 G | G2 F | G3- | G2 |]\n[V:B1] D | D2 D | D2 D | E2 ^C | D2 || D | D2 E | A,2 =C | B,3- | B,2 |]\n[V:B2] G, | D,2 D, | (D C) B, | A,2 =G, | F,2 || F, | G,2 C, | D,2 D, | G,,3- | G,,2 |]\nW:[Selected Stanzas]",
+      "previousAbcSHA256": "c7af2c32a67d7726d346702bd8a1d56c4337bcab707b64ebcf50c6d59b7c8927",
+      "correctedAbcSHA256": "f324177d1527d82dfc708ff91526bd953602821e070b47f99087ad34d99ecdf1",
+      "corrections": [
+        {
+          "before": "A2 _B | A2 || A",
+          "after": "A2 _B | B2 || A"
+        }
+      ],
+      "manualInitialSHA256": "d7724f5a3ece35da0dca5d6809326c5b6bce4ccb8af9baff1794acb8ea8e3ded",
+      "manualFinalSHA256": "c2a32d92f04362a540b610397bdc6e673d7eb3678b7cbe450e14ef84f1683b29",
+      "fixtureSHA256": "a1a66f87065af4a3480b1fbea2be1723a02d5c2b0d0eba45446b7e1d1c2d8baf",
+      "ledgerRevisions": {
+        "initialSHA256": "d7724f5a3ece35da0dca5d6809326c5b6bce4ccb8af9baff1794acb8ea8e3ded",
+        "revisions": [
+          {
+            "id": "spohr-q28-ownership",
+            "disclosedAfterCanonicalExposure": true,
+            "reason": "Initial reader reversed crossed/shared-unison lower-staff ownership. Reinspection and independent second pixel reviewer confirm upstem open D4 is tenor half; downstem closed D4,C4 are bass quarters. Musical source evidence, not assumption from canonical.",
+            "before": {
+              "T": [
+                {
+                  "index": 19,
+                  "segment": 12,
+                  "onsetQ": 28.0,
+                  "pitch": "D4",
+                  "midi": 62,
+                  "durationQ": 1.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": true,
+                  "slurEnd": false,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "soul,",
+                    "I",
+                    "thee,",
+                    "Him"
+                  ]
+                },
+                {
+                  "index": 20,
+                  "segment": 12,
+                  "onsetQ": 29.0,
+                  "pitch": "C4",
+                  "midi": 60,
+                  "durationQ": 1.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": false,
+                  "slurEnd": true,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "_",
+                    "_",
+                    "_",
+                    "_"
+                  ]
+                },
+                {
+                  "index": 21,
+                  "segment": 12,
+                  "onsetQ": 30.0,
+                  "pitch": "D4",
+                  "midi": 62,
+                  "durationQ": 1.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": false,
+                  "slurEnd": false,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "O",
+                    "be-",
+                    "and",
+                    "Who"
+                  ]
+                }
+              ],
+              "B": [
+                {
+                  "index": 19,
+                  "segment": 12,
+                  "onsetQ": 28.0,
+                  "pitch": "D4",
+                  "midi": 62,
+                  "durationQ": 2.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": false,
+                  "slurEnd": false,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "soul,",
+                    "I",
+                    "thee,",
+                    "Him"
+                  ]
+                },
+                {
+                  "index": 20,
+                  "segment": 12,
+                  "onsetQ": 30.0,
+                  "pitch": "B3",
+                  "midi": 59,
+                  "durationQ": 1.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": false,
+                  "slurEnd": false,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "O",
+                    "be-",
+                    "and",
+                    "Who"
+                  ]
+                }
+              ]
+            },
+            "after": {
+              "T": [
+                {
+                  "index": 19,
+                  "segment": 12,
+                  "onsetQ": 28.0,
+                  "pitch": "D4",
+                  "midi": 62,
+                  "durationQ": 2,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": false,
+                  "slurEnd": false,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "soul,",
+                    "I",
+                    "thee,",
+                    "Him"
+                  ]
+                },
+                {
+                  "index": 20,
+                  "segment": 12,
+                  "onsetQ": 30.0,
+                  "pitch": "D4",
+                  "midi": 62,
+                  "durationQ": 1.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": false,
+                  "slurEnd": false,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "O",
+                    "be-",
+                    "and",
+                    "Who"
+                  ]
+                }
+              ],
+              "B": [
+                {
+                  "index": 19,
+                  "segment": 12,
+                  "onsetQ": 28.0,
+                  "pitch": "D4",
+                  "midi": 62,
+                  "durationQ": 1.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": true,
+                  "slurEnd": false,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "soul,",
+                    "I",
+                    "thee,",
+                    "Him"
+                  ]
+                },
+                {
+                  "index": 20,
+                  "segment": 12,
+                  "onsetQ": 29.0,
+                  "pitch": "C4",
+                  "midi": 60,
+                  "durationQ": 1.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": false,
+                  "slurEnd": true,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "_",
+                    "_",
+                    "_",
+                    "_"
+                  ]
+                },
+                {
+                  "index": 21,
+                  "segment": 12,
+                  "onsetQ": 30.0,
+                  "pitch": "B3",
+                  "midi": 59,
+                  "durationQ": 1.0,
+                  "rest": false,
+                  "small": false,
+                  "tieStart": false,
+                  "tieEnd": false,
+                  "slurStart": false,
+                  "slurEnd": false,
+                  "fermata": false,
+                  "printedAccidental": null,
+                  "underlay": [
+                    "O",
+                    "be-",
+                    "and",
+                    "Who"
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      "independentReview": {
+        "sources": [
+          "rfpa175-native-0.3x.png",
+          "original1912-system4.png"
+        ],
+        "summary": "Independent RFPA/original second-system pixels: q34 (Thee) lower treble open head is on middle B4 line, not A4 space, so confirmed canonical pitch defect if A4. At q28–30 lower staff, offset open D4 has upstem (Tenor half), downstem closed D4 then C4 are Bass quarters; final shared-column upper D4 Tenor quarter/lower B3 Bass quarter. Canonical ownership matches; the ledger ownership revision and initial reading remain documented."
+      }
+    },
+    {
+      "id": "psalter118",
+      "previousAbc": "T:Spiritual Thirst\nC:Tune: SNOWDEN; Robert B. Robertson\nM:3/4\nL:1/4\nK:D\n% validator: allow-photographed-partial-bars\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] F | F3/4 F/4 F F | G3/4 G/4 G || F | E3/4 E/4 E E |\nw: 1.~As thirsts the hart for cool-ing flood, So longs my soul, O\nw: 2.~How oft I led the hap-py throngs That sought the house of\nw: 3.~O why, my soul, thy hope-less-ness? Why such dis-qui-et\n[V:T2] D | D3/4 D/4 D D | E3/4 E/4 E || D | C3/4 C/4 C C |\n[V:B1] A, | A,3/4 A,/4 A, A, | A,3/4 A,/4 A, || A, | A,3/4 A,/4 A, A, |\n[V:B2] D, | D,3/4 D,/4 D, D, | C,3/4 C,/4 C, || D, | A,,3/4 A,,/4 A,, A,, |\n[V:T1] A3/4 G/4 F || F | E2 B | A2 || G | F3/4 E/4 D E | F3/4 G/4 A\nw: liv-ing God, To taste Thy grace; When un-to Thee shall I draw near,\nw: God with songs Of joy and praise; I ev-er joined with true de-light\nw: and dis-tress? On God re-ly; For I shall yet be-hold His face,\n[V:T2] C3/4 E/4 D || D | D2 D | C2 || E | D3/4 C/4 D C | D3/4 E/4 F\n[V:B1] A,3/4 A,/4 A, || A, | ^G,2 G, | A,2 || A, | A,3/4 G,/4 F, G, | A,3/4 A,/4 A,\n[V:B2] A,,3/4 C,/4 D, || D, | E,2 E, | A,,2 || C, | D,3/4 D,/4 D, D, | D,3/4 D,/4 D,\n[V:T1] d | c3/4 B/4 A E | G3/4 F/4 E || D | F2 E | D2 |]\nw: O when with-in Thy courts ap-pear, And see Thy face?\nw: The mul-ti-tude that kept a-right The ho-ly days.\nw: Who is my God, and I His grace Will mag-ni-fy.\n[V:T2] F | A3/4 G/4 G C | E3/4 D/4 C || B, | D2 C | D2 |]\n[V:B1] A, | A,3/4 A,/4 A, G, | A,3/4 A,/4 A, || F, | A,2 G, | F,2 |]\n[V:B2] D, | A,,3/4 B,,/4 C, A,, | A,,3/4 A,,/4 A,, || D, | A,,2 A,, | D,2 |]\nW:[Selected Stanzas]",
+      "previousAbcSHA256": "5ee2b34dbff5538aa2899bbc80296c1d1f93bfd3ad9675184cef74d4f91cc708",
+      "correctedAbcSHA256": "b4574bedd2dff725840b4be7eca512a9c4d3b008ecbe7ccfcc94c70dd489cecc",
+      "corrections": [
+        {
+          "before": "[V:T1] A3/4 G/4 F || F | E2 B | A2 || G | F3/4 E/4 D E | F3/4 G/4 A",
+          "after": "[V:T1] A3/4 G/4 F || F | E2 B | A2 || G | F3/4 E/4 D E | F3/4 G/4 A |"
+        },
+        {
+          "before": "[V:T2] C3/4 E/4 D || D | D2 D | C2 || E | D3/4 C/4 D C | D3/4 E/4 F",
+          "after": "[V:T2] C3/4 E/4 D || D | D2 D | C2 || E | D3/4 C/4 D C | D3/4 E/4 F |"
+        },
+        {
+          "before": "[V:B1] A,3/4 A,/4 A, || A, | ^G,2 G, | A,2 || A, | A,3/4 G,/4 F, G, | A,3/4 A,/4 A,",
+          "after": "[V:B1] A,3/4 A,/4 A, || A, | ^G,2 G, | A,2 || A, | A,3/4 G,/4 F, G, | A,3/4 A,/4 A, |"
+        },
+        {
+          "before": "[V:B2] A,,3/4 C,/4 D, || D, | E,2 E, | A,,2 || C, | D,3/4 D,/4 D, D, | D,3/4 D,/4 D,",
+          "after": "[V:B2] A,,3/4 C,/4 D, || D, | E,2 E, | A,,2 || C, | D,3/4 D,/4 D, D, | D,3/4 D,/4 D, |"
+        },
+        {
+          "before": "E3/4 D/4 C || B, |",
+          "after": "E3/4 D/4 C || A, |"
+        }
+      ],
+      "manualInitialSHA256": "64d955782a9aecfaf362b9f11f299f05ba0fa8ce301e46bb32253edb34c30c3e",
+      "manualFinalSHA256": "64d955782a9aecfaf362b9f11f299f05ba0fa8ce301e46bb32253edb34c30c3e",
+      "fixtureSHA256": "467d22bc91bbf5404c3fae9cab09b1bfae30392e97ac2407333bfe70aaa06829",
+      "ledgerRevisions": {
+        "manualLedgerRevisions": [],
+        "frozenLedgerUnchanged": true,
+        "harnessRevisions": [
+          {
+            "time": "2026-10-09T07:50:18.612503+00:00",
+            "file": "check_audio.cjs",
+            "change": "Correct expected initial anacrusis volume from105 to85 under ABCJS automatic pickup treatment. Printed score contains no dynamics; initial callback files retained. Independent notes/lyrics/marks unchanged."
+          }
+        ]
+      },
+      "independentReview": {
+        "time": "2026-10-09T07:49:04Z",
+        "summary": "Independent RFPA/original third-system pixels confirm final-phrase pickup lower treble head lies on second ledger line below staff, A3 (upper head D4); canonical B3 is a confirmed pitch defect. Both second-system images also show a real thin vertical closing rule after near through each staff. The printed boundary at q24 is missing in canonical; its notation/phrase effect is distinct from the unchanged elapsed durations.",
+        "confirmedFindings": [
+          "alto event37 q30 A3 vs canonical B3",
+          "all four voices missing thin bar atq24"
+        ]
+      }
+    },
+    {
+      "id": "psalter119",
+      "previousAbc": "T:Devout Longings\nC:Tune: EDMESTON; Isaac B. Woodbury\nM:2/4\nL:1/4\nK:C\n% validator: allow-photographed-partial-bars\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] E E/ G/ | E3/2 E/ | F D | E3/2 || G/ | c/ G/ A/ G/ | G ^F | G z || E E/ G/ |\nw: Judge me, O God, and plead my cause A- gainst * a * god-less race; From men de-\nw: O Thou the God of all my strength, Why hast * Thou * cast me off? Why go I\nw: O send Thou forth Thy light and truth, Let them * be guides to * me, And bring me\nw: Then will I to God's al-tar go, To God, * my bound-less * joy; Yea, God my\nw: Why art thou then cast down, my soul, What should dis-cour-age * * thee? And why with\nw: Hope thou in God; His praise shall yet My thank-ful lips * em-ploy; * He is the\n[V:T2] C C/ E/ | C3/2 C/ | D B, | C3/2 || E/ | E F/ E/ | D D | D x || C C/ E/ |\n[V:B1] G, G,/ C/ | G,3/2 G,/ | G, G, | G,3/2 || C/ | C C/ B,/ | A, B, | B, z || G, G,/ C/ |\n[V:B2] C, C,/ C,/ | C,3/2 C,/ | G,, G,, | C,3/2 || C,/ | C, C,/ D,/ | D, D, | G,, x || C, C,/ C,/ |\n[V:T1] E3/2 E/ | F/ E/ F/ G/ | E3/2 || G/ | A3/4 B/4 c/ A/ | G/ E/ D | E3/2 || E/ | D3/2 E/ | G/ F/ E/ D/ | E2 |]\nw: ceit-ful and * un- * just De-liv- * * er in Thy * grace, De-liv-er in * Thy * grace.\nw: mourn-ing all * the * day, While foes * * op-press and * scoff, While foes op-press * and * scoff?\nw: to Thy ho- * ly * hill, Thy dwell- * * ing-place to * see, Thy dwell-ing-place * to * see.\nw: God, Thy Name * to * praise My harp * * I will em- * ploy, My harp I will * em- * ploy.\nw: vex-ing tho'ts * art * thou Dis-qui- * * et-ed in * me, Dis-qui-et-ed * in * me?\nw: spring of all * my * health, My God, * * my bound-less * joy, My God, my bound- * less * joy.\n[V:T2] C3/2 C/ | D/ C/ D/ E/ | C3/2 || C/ | F3/4 G/4 A/ F/ | E/ C/ B, | C3/2 || C/ | B,3/2 C/ | E/ D/ C/ B,/ | C2 |]\n[V:B1] G,3/2 G,/ | G, G, | G,3/2 || C/ | C3/2 C/ | C/ A,/ G, | G,3/2 || G,/ | G,3/2 G,/ | G, G, | G,2 |]\n[V:B2] C,3/2 C,/ | G, A,, | C,3/2 || E,/ | F,3/2 F,/ | D, A,, | C,3/2 || C,/ | G,,3/2 G,,/ | G,, G,, | C,2 |]\nW:1. Judge me, O God, and plead my cause Against a godless race; From men deceitful and unjust Deliver in Thy grace, Deliver in Thy grace.\nW:2. O Thou the God of all my strength, Why hast Thou cast me off? Why go I mourning all the day, While foes oppress and scoff, While foes oppress and scoff?\nW:3. O send Thou forth Thy light and truth, Let them be guides to me, And bring me to Thy holy hill, Thy dwelling-place to see, Thy dwelling-place to see.\nW:4. Then will I to God's altar go, To God, my boundless joy; Yea, God my God, Thy Name to praise My harp I will employ, My harp I will employ.\nW:5. Why art thou then cast down, my soul, What should discourage thee? And why with vexing tho'ts art thou Disquieted in me, Disquieted in me?\nW:6. Hope thou in God; His praise shall yet My thankful lips employ; He is the spring of all my health, My God, my boundless joy, My God, my boundless joy.",
+      "previousAbcSHA256": "acf4e821fddf82fe5f3c7c1bed42fd89bb11e09daae6e33b41ec953e536ec101",
+      "correctedAbcSHA256": "56858a06e037dcf43140704fe318d17172ef5fa46e1d14c36fb7adb9e06ff79f",
+      "corrections": [
+        {
+          "before": "[V:B1] G, G,/ C/ | G,3/2 G,/ | G, G, | G,3/2 || C/ | C C/ B,/ | A, B, | B, z || G, G,/ C/ |",
+          "after": "[V:B1] G, G,/ C/ | G,3/2 G,/ | G, G, | G,3/2 || C/ | C C | B, A, | B, z || G, G,/ C/ |"
+        },
+        {
+          "before": "[V:B2] C, C,/ C,/ | C,3/2 C,/ | G,, G,, | C,3/2 || C,/ | C, C,/ D,/ | D, D, | G,, x || C, C,/ C,/ |",
+          "after": "[V:B2] C, C,/ C,/ | C,3/2 C,/ | G,, G,, | C,3/2 || C,/ | C, C, | D, D, | G,, x || C, C,/ C,/ |"
+        },
+        {
+          "before": "[V:T2] C3/2 C/ | D/ C/ D/ E/ | C3/2 || C/ | F3/4 G/4 A/ F/ | E/ C/ B, | C3/2 || C/ | B,3/2 C/ | E/ D/ C/ B,/ | C2 |]",
+          "after": "[V:T2] C3/2 C/ | D/ C/ D/ E/ | C3/2 || G/ | F3/4 G/4 A/ F/ | E/ C/ B, | C3/2 || C/ | B,3/2 C/ | E/ D/ C/ B,/ | C2 |]"
+        },
+        {
+          "before": "[V:B1] G,3/2 G,/ | G, G, | G,3/2 || C/ | C3/2 C/ | C/ A,/ G, | G,3/2 || G,/ | G,3/2 G,/ | G, G, | G,2 |]",
+          "after": "[V:B1] G,3/2 G,/ | G, G, | G,3/2 || C/ | C3/2 C/ | C/ G,/ G, | G,3/2 || G,/ | G,3/2 G,/ | G, G, | G,2 |]"
+        },
+        {
+          "before": "[V:B2] C,3/2 C,/ | G, A,, | C,3/2 || E,/ | F,3/2 F,/ | D, A,, | C,3/2 || C,/ | G,,3/2 G,,/ | G,, G,, | C,2 |]",
+          "after": "[V:B2] C,3/2 C,/ | G, G,, | C,3/2 || E,/ | F,3/2 F,/ | G, G,, | C,3/2 || C,/ | G,,3/2 G,,/ | G,, G,, | C,2 |]"
+        },
+        {
+          "before": "w: O send Thou forth Thy light and truth, Let them * be guides to * me, And bring me",
+          "after": "w: O send Thou forth Thy light and truth, Let them * be * guides to me, And bring me"
+        },
+        {
+          "before": "w: Then will I to God's al-tar go, To God, * my bound-less * joy; Yea, God my",
+          "after": "w: Then will I to God's al-tar go, To God, * my * bound-less joy; Yea, God, my"
+        },
+        {
+          "before": "w: Why art thou then cast down, my soul, What should dis-cour-age * * thee? And why with",
+          "after": "w: Why art thou then cast down, my soul, What should * dis- * cour-age thee? And why with"
+        },
+        {
+          "before": "w: Hope thou in God; His praise shall yet My thank-ful lips * em-ploy; * He is the",
+          "after": "w: Hope thou in God; His praise shall yet My thank- * ful * lips em-ploy; He is the"
+        }
+      ],
+      "manualInitialSHA256": "da0de3fd284524db17001a8047018699b3b97171b282e96d70401ed72f7bcbd0",
+      "manualFinalSHA256": "5def57bca7d7b849e4bcfd2ae8e58dd1dba6418b7e09a6ef3f4c54676ee8fcbd",
+      "fixtureSHA256": "3aa7fb995223a1ad47e5aee1134068b2f0482c202add3d9463762f33d0d20b8f",
+      "ledgerRevisions": [
+        {
+          "revision": 1,
+          "atUtc": "2026-10-09T07:55:55.839534+00:00",
+          "field": "sopranoUnderlayByStanzaAndSegment stanza1–6 segment11",
+          "initial": "syllable1 syllable2 * *",
+          "revised": "syllable1 * syllable2 *",
+          "reason": "Magnified RFPA and-underlay-detail reveals text associated with the two two-note beamed pairs. Initial coarse positioning assigned second syllable one eighth early. No music event changed.",
+          "evidence": "rfpa-and-underlay-detail.png",
+          "independentReview": "Independently confirmed from both RFPA and original source images."
+        }
+      ],
+      "independentReview": {
+        "reviewedPixels": [
+          "rfpa178-native-0.3x.png",
+          "rfpa178-native-1.3x.png",
+          "original1912-system1.png",
+          "original1912-system2.png",
+          "rfpa-top-underlay-detail.png",
+          "rfpa-and-underlay-detail.png"
+        ],
+        "musicalReview": "Independent RFPA and original pixels corroborate the listed musical readings. Segment6 lower staff shows two unflagged C4 Tenor quarters and C3 Bass quarters. Segment7 Tenor descends B3→A3. System2 segment11 Bass second head is G2 (bottom line); segment13 shared treble pickup is G4 with both stems. Segment15 Tenor beam C4→G3 eighths, then G3 quarter; Bass G3 then G2 quarters. The discrepancies depend on the documented canonical comparison values.",
+        "underlayReview": "Second RFPA underlay pixels support segment6 paired beams: first pair ‘gainst / hast / them / God, / should / thank-’, second pair ‘a / Thou / be / my / dis- / ful’; next segment7 quarters ‘god-/less / cast/me / guides/to / bound-/less / cour-/age / lips/em-’, then race/off/me/joy/thee/ploy. Wide ‘guides’ and ‘bound’ center on next bar’s first quarter, despite leftward text extent. Segment11 original and RFPA show ‘and’ over first two-note beam and ‘un-’ over second beam, supporting the documented manual underlay revision."
+      }
+    },
+    {
+      "id": "psalter120",
+      "previousAbc": "T:Hope and Trust\nC:Tune: AMARA; William O. Perkins\nM:9/8\nL:1/8\nK:Eb\n% validator: allow-photographed-partial-bars\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] E2 F | G3 G3 B A G | F3 F3 || F2 G | A3 A3 c B A | G6 ||\nw: Judge me, God of my * sal-va-tion, Plead my cause, for Thee * I trust;\nw: On Thy strength a-lone * re-ly-ing, Why am I cast off * by Thee,\nw: Light and truth, my way * at-tend-ing, Send Thou forth to be * my guide,\nw: At Thy sa-cred al- * tar bend-ing, God, my God, my bound- * less joy,\n[V:T2] E2 E | E3 E3 G F E | D3 D3 || D2 E | F3 F3 A G F | E6 ||\n[V:B1] G,2 A, | B,3 B,3 E2 B, | B,3 B,3 || B,2 B, | B,3 B,3 B,2 B, | B,6 ||\n[V:B2] E,2 E, | E,3 E,3 E,2 E, | B,,3 B,,3 || B,,2 B,, | B,,3 B,,3 B,,2 B,, | E,6 ||\n[V:T1] E2 F | G3 G3 B A G | F3 F3 || F2 G | A3-A2 A A G F | E6 ||\nw: Hear my ear-nest sup- * pli-ca-tion, Save me from * my foes * un-just.\nw: In my help-less sor- * row sigh-ing, While the foe * op-press- * es me?\nw: Till Thy ho-ly mount * as-cend-ing, I with-in * Thy house * a-bide.\nw: Harp and voice, in wor- * ship blend-ing, For Thy praise * will I * em-ploy.\n[V:T2] E2 E | E3 E3 G F E | D3 D3 || D2 E | F3-F2 F F E D | E6 ||\n[V:B1] G,2 A, | B,3 B,3 E2 B, | B,3 B,3 || B,2 B, | B,3-B,2 B, B,2 A, | G,6 ||\n[V:B2] E,2 E, | E,3 E,3 E,2 E, | B,,3 B,,3 || B,,2 B,, | B,,3-B,,2 B,, B,,2 B,, | E,6 ||\n[V:T1] \"^Chorus\" B2 B | c3 c3 A B c | B3 G3 || B A G | F3-F2 F F E F | G6 ||\nw: O my soul, why art * thou griev-ing? What * dis-qui- * ets and * dis-mays?\n[V:T2] E2 E | E3 E3 E2 E | E3 E3 || G F E | D3-D2 D D C D | E6 ||\n[V:B1] G,2 G, | A,3 A,3 C B, A, | G,3 B,3 || B,2 B, | B,3-B,2 B, B,2 B, | B,6 ||\n[V:B2] E,2 E, | A,3 A,3 A,,2 E, | E,3 E,3 || E,2 E, | B,,3-B,,2 B,, B,,2 B,, | E,6 ||\n[V:T1] B2 B | c3 c3 A B c | B3 G3 || B A G | F3-F2 F F G F | E6 |]\nw: Hope in God; His help * re-ceiv-ing, I * shall yet * my Sav- * iour praise.\n[V:T2] E2 E | E3 E3 E2 E | E3 E3 || G F E | D3-D2 D D2 D | E6 |]\n[V:B1] G,2 G, | A,3 A,3 C B, A, | G,3 B,3 || B,2 B, | B,3-B,2 B, B,2 A, | G,6 |]\n[V:B2] E,2 E, | A,3 A,3 A,,2 E, | E,3 E,3 || E,2 E, | B,,3-B,,2 B,, B,,2 B,, | E,6 |]",
+      "previousAbcSHA256": "7da6816155688ff114842dc27c9dad45171e792adce1c21be0c15f9c46c373f5",
+      "correctedAbcSHA256": "a40dbf39e0aafc8432c33b83ca68ebe6c48b6b9706975d46669cdbe39ec38c8a",
+      "corrections": [
+        {
+          "before": "| A,3 A,3 A,,2 E, |",
+          "after": "| A,3 A,3 A,,2 C, |",
+          "count": 2
+        }
+      ],
+      "manualInitialSHA256": "56132d1f0bbceea2a83b7c798b6075853094535dc8a56ecdf8d73f41a2c060cb",
+      "manualFinalSHA256": "4fbad70c13d1c1da8379f6fc12e1e51ee74057cca870f477ea6d416e09ac82b2",
+      "fixtureSHA256": "478ea8ee733b352d98fa060a671924539cc9a1629fa3da6852585ed815a642ea",
+      "ledgerRevisions": [
+        {
+          "utc": "2026-10-09T07:58:58.944621+00:00",
+          "beforeSHA256": "56132d1f0bbceea2a83b7c798b6075853094535dc8a56ecdf8d73f41a2c060cb",
+          "afterSHA256": "4fbad70c13d1c1da8379f6fc12e1e51ee74057cca870f477ea6d416e09ac82b2",
+          "field": "underlaySoprano system1 stanza1 second attack",
+          "before": "me",
+          "after": "me,",
+          "reason": "Post-exposure punctuation comparison caught manual omission; RFPA179-native-0 and original1912-crop1 both visibly print comma. No musical-event expectations changed.",
+          "initialLedgerPreserved": true,
+          "independentConfirmation": "independent-comma-review.json"
+        }
+      ],
+      "independentReview": {
+        "summary": "Independent RFPA/original pixels confirm both bass final eighths (‘thou’ and ‘re-’) are C3 in RFPA, C-sharp3 under original E-major signature. The heads lie in C space between bass B2 and D3 lines, not E space above. These readings confirm the two documented canonical E-flat3 pitch discrepancies. The edition key shift itself remains qualified."
+      }
+    }
+  ],
+  "publicEvidenceNote": "Musical review findings summarized for public distribution; internal coordination and private repository identifiers omitted. Original source and musical ledger identities are retained."
+}

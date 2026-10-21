@@ -1,0 +1,229 @@
+{
+  "sourceSha256": "c79b3cb628060693f9eef7e08e2f3db2a7ed9629dfc1b3e976d0a1f5e958dad6",
+  "metadata": {
+    "id": "hymn-hc-fathers-world",
+    "title": "This is My Father's World",
+    "composer": "\"TERRA BEATA,\" Franklin L. Sheppard, 1915",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Piano",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "hc-fathers-world",
+    "sourceUrls": [
+      "https://hymncommons.org/piano-hymn-library/",
+      "https://hymncommons.org/about/",
+      "https://drive.usercontent.google.com/uc?id=1O-5gzuJfhtdLlpiAbSShq7GKksdmhrPv&export=download"
+    ],
+    "collection": "Hymn Commons",
+    "credits": [
+      "\"TERRA BEATA,\" Franklin L. Sheppard, 1915",
+      "Maltbie D. Babcock, 1901",
+      "Public domain.",
+      "6.6.8.6 meter."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.",
+      "Public domain."
+    ],
+    "territory": "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.",
+    "editionNotes": [
+      "Original MuseScore file is the authoritative conversion source; offeredPDF is a companion revision, not always an exact facsimile.",
+      "SourceMSCX voices, notes, grace notes, rests, lyrics/rows/onsets, slurs, ties, key and meter audited directly; source-specific tempos/dynamics/hairpins preserved.",
+      "No actualABCJS browser or liveapp import certification.",
+      "Four source voices, three verses, introduction and three-play repeat. MSCX source specifies quarter=90 and Introduction; companionPDF says84 and Prelude. MSCX values retained.",
+      "Exact printed/source stanzas; no new verses. Introduction/prelude, optional cue-size notes and additional accompaniment voice retained where present.",
+      "Piano hymn transcription includes a labelled instrumental Prelude and repeat structure. Review/remove or label the prelude for a hymnbook edition rather than silently treating it as original hymn. Full PDF is an independent score output; do not assume byte-identical revision to downloaded MSCZ without comparing."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "hc-fathers-world",
+      "title": "This is My Father's World",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H016"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B016"
+        }
+      ],
+      "file": "abc/hc-fathers-world.abc",
+      "sha256": "c79b3cb628060693f9eef7e08e2f3db2a7ed9629dfc1b3e976d0a1f5e958dad6",
+      "canonical_reference_in_archive": "reopened_xml_abc/HC_Fathers_World.abc",
+      "source_url": [
+        "https://hymncommons.org/piano-hymn-library/",
+        "https://hymncommons.org/about/",
+        "https://drive.usercontent.google.com/uc?id=1O-5gzuJfhtdLlpiAbSShq7GKksdmhrPv&export=download"
+      ],
+      "collection": "Hymn Commons",
+      "rights_and_attribution": {
+        "edition": {
+          "publisher_statement_url": "https://hymncommons.org/about/",
+          "local_snapshot": "sources/reopened_gaps/pages/HymnCommons_about.html",
+          "summary": "Publisher Ron Nelson says he transcribed PD hymns with MuseScore so others could change the arrangements, and explicitly describes all his material as public domain. Exact MSCX embedded copyright tags separately retained below.",
+          "embedded_tags": [
+            {
+              "name": "arranger",
+              "text": null
+            },
+            {
+              "name": "composer",
+              "text": "\"TERRA BEATA,\" Franklin L. Sheppard, 1915\n"
+            },
+            {
+              "name": "copyright",
+              "text": "Public domain.\n6.6.8.6 meter."
+            },
+            {
+              "name": "creationDate",
+              "text": "2025-09-11"
+            },
+            {
+              "name": "lyricist",
+              "text": " Maltbie D. Babcock, 1901\n"
+            },
+            {
+              "name": "movementNumber",
+              "text": null
+            },
+            {
+              "name": "movementTitle",
+              "text": null
+            },
+            {
+              "name": "platform",
+              "text": "Microsoft Windows"
+            },
+            {
+              "name": "source",
+              "text": null
+            },
+            {
+              "name": "subtitle",
+              "text": "Genesis 1"
+            },
+            {
+              "name": "translator",
+              "text": null
+            },
+            {
+              "name": "workNumber",
+              "text": null
+            },
+            {
+              "name": "workTitle",
+              "text": "This is My Father's World"
+            }
+          ]
+        },
+        "territory": "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959."
+      },
+      "scope_and_edition_notes": [
+        "Original MuseScore file is the authoritative conversion source; offeredPDF is a companion revision, not always an exact facsimile.",
+        "SourceMSCX voices, notes, grace notes, rests, lyrics/rows/onsets, slurs, ties, key and meter audited directly; source-specific tempos/dynamics/hairpins preserved.",
+        "No actualABCJS browser or liveapp import certification.",
+        "Four source voices, three verses, introduction and three-play repeat. MSCX source specifies quarter=90 and Introduction; companionPDF says84 and Prelude. MSCX values retained.",
+        "Exact printed/source stanzas; no new verses. Introduction/prelude, optional cue-size notes and additional accompaniment voice retained where present.",
+        "Piano hymn transcription includes a labelled instrumental Prelude and repeat structure. Review/remove or label the prelude for a hymnbook edition rather than silently treating it as original hymn. Full PDF is an independent score output; do not assume byte-identical revision to downloaded MSCZ without comparing."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-hymncommons-review.md",
+        "audit": "reports/independent-hymncommons-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H016",
+      "title": "This Is My Father's World",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "hc-fathers-world",
+      "abc_file": "abc/hc-fathers-world.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H016",
+        "Hymn / version": "This Is My Father's World",
+        "Playlist track #": "16, 46, 130",
+        "Music / score source": "https://hymnary.org/media/fetch/98116",
+        "Lyrics / companion source": "https://hymnary.org/text/this_is_my_fathers_world_and_to_my",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights source": "https://hymnary.org/media/fetch/98116",
+        "Text, tune and version notes": "Text: Maltbie D. Babcock\nTune: TERRA BEATA; Franklin L. Sheppard",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B016",
+      "title": "This Is My Father's World",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "hc-fathers-world",
+      "abc_file": "abc/hc-fathers-world.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B016",
+        "Song title": "This Is My Father's World",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/98116",
+        "Lyrics source": "https://hymnary.org/text/this_is_my_fathers_world_and_to_my",
+        "Editable source": "",
+        "Tune and work identity": "Text: Maltbie D. Babcock\nTune: TERRA BEATA; Franklin L. Sheppard",
+        "Public distribution rights": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/98116",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 216, 291 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "16, 43, 132, 216, 291",
+        "Playlist artists": "Fernando Ortega; Mark Schultz; Chris Rice; Norton Hall Band; The Booth Brothers",
+        "Original track titles": "This Is My Father's World",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

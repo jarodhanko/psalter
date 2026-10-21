@@ -1,0 +1,112 @@
+{
+  "songs": [
+    {
+      "id": "psalter129",
+      "previousAbc": "\nT:The Universal Sovereignty of Christ\nC:Tune: TRURO; Charles Burney\nR:Psalm 47; L. M.\nM:2/2\nL:1/4\nK:D\n%%score (T1 T2)(B1 B2)\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\nV:T1\nD2 F3/2 G/ | A3 A | B2 c2 | d3 || A | d2 A2 | (G F) (E D) | G2 F2 | E3 || E | A2 B2 | c3 e | (e d) (c B) | A3 || A | A2 d2 | (E B) (A G) | F2 E2 | D4 |]\nw:1.~Re-joice, ye peo-ple, hom-age give, To God with voice * of * tri-umph sing; He rul-eth in dread maj- * es- * ty, The great, the u- * ni- * ver-sal King.\nw:2.~He put-teth na-tions un-der us, And mak-eth us * tri- * um-phant stand; He giv-eth for our her- * it- * age His prom-ised rest, * a * good-ly land.\nw:3.~God hath as-cend-ed with a shout, Je-ho-vah with * the * trum-pet's sound; Sing praise to God our King, * sing * praise, Yea, let His glo- * rious * praise a-bound.\nw:4.~Our God is King of all the earth, With tho't-ful heart * His * praise make known; O'er all the na-tions God * doth * reign, Ex-alt-ed on * His * ho-ly throne.\nw:5.~To praise and serve our cov-enant God The prin-ces of * the * earth draw nigh; All king-ly pow'rs be-long * to * Him, He is ex-alt- * ed, * God Most High.\nV:T2\nD2 F3/2 G/ | A3 A | G2 G2 | F3 || A | A2 F2 | D2 (C D) | C2 D2 | C3 || E | E2 E2 | E3 E | F2 (E D) | C3 || E | D2 F2 | (E G) (F E) | D2 C2 | D4 |]\nV:B1\nD,2 F,3/2 G,/ | A,3 D | D2 A,2 | A,3 || A, | A,2 D2 | D2 A,2 | A,2 A,2 | A,3 || E | E2 ^G,2 | A,3 A, | A,2 (A, ^G,) | A,3 || C | D2 A,2 | (B, G,) (A, B,) | A,2 (A, G,) | F,4 |]\nV:B2\nD,2 F,3/2 G,/ | A,3 F, | G,2 E,2 | D,3 || A, | F,2 D,2 | (B, A,) (G, F,) | E,2 D,2 | A,,3 || E, | C,2 E,2 | A,3 C, | D,2 E,2 | A,,3 || G, | F,2 D,2 | (G, E,) (F, G,) | A,2 A,,2 | D,4 |]\n",
+      "previousAbcSHA256": "c055281ffba608f293967aa23bb7f327544d0ae1c215623e3107e9a743059195",
+      "correctedAbcSHA256": "4662a7492a602e6a289827c8abeb5021d573b4db3079eab97410514121ef0dbf",
+      "fixtureSHA256": "a7ed66e7a104c111ec332b91f31cb8a3a476e5929883176eb94186c15df8ae57",
+      "manualLedgerSHA256": "40cf28dc566d9692cee6a0236a8689f74f8423988f4ee7aad7679858e1f689a9",
+      "initialManualLedgerSHA256": "40cf28dc566d9692cee6a0236a8689f74f8423988f4ee7aad7679858e1f689a9",
+      "printedProse": {
+        "1": "Rejoice, ye people, homage give, To God with voice of triumph sing; He ruleth in dread majesty, The great, the universal King.",
+        "2": "He putteth nations under us And maketh us triumphant stand; He giveth for our heritage His promised rest, a goodly land.",
+        "3": "God hath ascended with a shout, Jehovah with the trumpet's sound; Sing praise to God our King, sing praise, Yea, let His glorious praise abound.",
+        "4": "Our God is King of all the earth, With tho'tful heart His praise make known; O'er all the nations God doth reign, Exalted on His holy throne.",
+        "5": "To praise and serve our covenant God The princes of the earth draw nigh; All kingly pow'rs belong to Him, He is exalted, God Most High."
+      },
+      "corrections": [
+        {
+          "before": "trum-pet's",
+          "after": "trump-et's"
+        },
+        {
+          "before": "prin-ces",
+          "after": "princ-es"
+        }
+      ],
+      "independentSecondReadingSHA256": "d55fc4bbfc2715db70c10b0ceccd1d15c8affaa10c4f77d10e68642329efe673"
+    },
+    {
+      "id": "psalter130",
+      "previousAbc": "T:The Ascended King\nC:Tune: SILVER STREET; Isaac Smith\nM:4/4\nL:1/4\nK:C\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] c2 G G | E2 G2 | c3 || e | d2 G2 | (c A) (G ^F) | G3 ||\nw:1.~All na-tions, clap your hands, Let shouts of tri- * umph * ring,\nw:2.~A-bove our might-y foes He gave us pow'r * to * stand,\nw:3.~With shouts as-cends our King; With trump-et's stir- * ring * call;\nw:4.~O sing in joy-ful strains, And make His glo- * ry * known;\nw:5.~Our fa-thers' God to own The kings of earth * draw * nigh,\n[V:T2] C2 G G | E2 G2 | E3 || G | G2 G2 | E2 D2 | D3 ||\n[V:B1] C2 G, G, | E,2 G,2 | G,3 || C | D2 B,2 | (A, C) (B, A,) | B,3 ||\n[V:B2] C,2 G, G, | E,2 G,2 | C,3 || C, | B,,2 E,2 | C,2 D,2 | G,,3 ||\n[V:T1] G | c2 e2 | c3 G | (A G) (A/2B/2 c) | B3 || G | (A B c) d | e2 d2 | c2 |]\nw: For might-y o-ver all * the * * lands The Lord * * Most High is King.\nw: And as our her-it-age * He * * chose The good- * * ly prom-ised land.\nw: Praise God, praise God, His prais- * es * * sing, For God * * is Lord of all.\nw: God o-ver all the na- * tions * * reigns, And ho- * * ly is His throne.\nw: For none can save but God * a- * * lone, He is * * the Lord Most High.\n[V:T2] E | E2 G2 | E3 G | (F G) (F G) | G3 || G | (F G2) A | G2 (G ^F) | E2 |]\n[V:B1] C | G,2 C2 | G,3 C | C2 (E D) | D3 || C | (C D C) C | C2 B,2 | C2 |]\n[V:B2] C, | C,2 C,2 | C,3 E, | (F, E,) (D, C,) | G,3 || E, | (F,2 E,) F, | G,2 G,,2 | C,2 |]",
+      "previousAbcSHA256": "dd2d4d1acba7b39fdf3d03bb0e31aba00776b1a094a08376002895d585c94904",
+      "correctedAbcSHA256": "655ab6bd6a08282046775c7ecf48e7f8582c377e9fecd147165d659d70bd49dd",
+      "fixtureSHA256": "289cc35e03ffd114c0a3a7bdfa4932fc31f5a6ba1acc82776c8397677c3d71c7",
+      "manualLedgerSHA256": "6232ba528d711a1f30c0cd4be47025ae4ade82122793785da0bee857b1d62830",
+      "initialManualLedgerSHA256": "6232ba528d711a1f30c0cd4be47025ae4ade82122793785da0bee857b1d62830",
+      "printedProse": {
+        "1": "All nations, clap your hands, Let shouts of triumph ring, For mighty over all the lands The Lord Most High is King.",
+        "2": "Above our mighty foes He gave us pow'r to stand, And as our heritage He chose The goodly promised land.",
+        "3": "With shouts ascends our King, With trumpet's stirring call; Praise God, praise God, His praises sing, For God is Lord of all.",
+        "4": "O sing in joyful strains, And make His glory known; God over all the nations reigns, And holy is His throne.",
+        "5": "Our fathers' God to own The kings of earth draw nigh, For none can save but God alone, He is the Lord Most High."
+      },
+      "corrections": [
+        {
+          "before": "c2 |]",
+          "after": "c4 |]"
+        },
+        {
+          "before": "E2 |]",
+          "after": "E4 |]"
+        },
+        {
+          "before": "C2 |]",
+          "after": "C4 |]"
+        },
+        {
+          "before": "C,2 |]",
+          "after": "C,4 |]"
+        },
+        {
+          "before": "C2 (E D)",
+          "after": "C2 (F D)"
+        },
+        {
+          "before": "C2 (F D)",
+          "after": "C2 (F E)"
+        },
+        {
+          "before": "G2 (G ^F)",
+          "after": "G2 (G F)"
+        }
+      ],
+      "independentSecondReadingSHA256": "1fbdfe9c08bbb885bceae45fc634892dfe9b722a89cb49bf4dca98da955910e0"
+    },
+    {
+      "id": "psalter131",
+      "previousAbc": "\nT:The Glory of the Church\nC:Tune: OTTERBOURNE; arranged from Haydn\nR:Psalm 48; L. M.\nM:3/4\nL:1/4\nK:Ab\n% validator: allow-photographed-partial-bars\n%%score (T1 T2)(B1 B2)\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\nV:T1\nA G A | B2 A | (G d) c | (c B) z || c B c | A2 G | (G/ F/ E) =D | E2 z || E F G | (A B) c | (e d) c | (c B) z || A B c | (d3/2 e/) f | A2 B | A3 |]\nw:1.~The Lord is great; with wor- * thy praise * Pro-claim His pow'r, His Name * * con-fess, With-in the cit- * y of * our God, * Up-on His mount * of ho-li-ness.\nw:2.~Mount Zi-on, glo-ri-ous * and fair, * Gives joy to peo-ple in * * all lands; The cit-y of * the might- * y King * In maj-es-ty * se-cure-ly stands.\nw:3.~With-in her dwell-ings for * de-fense * Our God has made His pres- * * ence known, And hos-tile kings, * in sud- * den fear, * Have fled as ships * by tem-pests blown.\nw:4.~With our own eyes we have * be-held * What oft our fa-thers told * * be-fore, That God Who in * His Zi- * on dwells * Will keep her safe- * ly ev-er-more.\nV:T2\nE E E | F2 E | E2 E | E2 x || E E E | =D2 E | (C B,) B, | B,2 x || E =D _D | C E E | E2 E | E2 x || E E E | F2 F | C2 D | C3 |]\nV:B1\nC D E | D2 A, | (B, G,) A, | (A, G,) z || A, B, A, | (A, B,) B, | (B,/ A,/ G,) F, | G,2 z || G, A, B, | (A, G,) A, | (G, B,) A, | (A, G,) z || C B, _A, | A,2 A, | A,2 G, | A,3 |]\nV:B2\nA,, B,, C, | D,2 C, | E,2 A,, | E,2 x || A, G, A, | F,2 E, | A,, C, C, | E,2 x || E, E, E, | E,2 E, | E,2 E, | E,2 x || A, G, G, | F,2 D, | E,2 E, | A,,3 |]\n",
+      "previousAbcSHA256": "38e41b7cfb0b4cbce94d96252a3d046bff957f9f4777b7621df7c05291f68292",
+      "correctedAbcSHA256": "d19a951e94e45c6022a5b5acbdd4eee00aad061da26cd2c9f17bd6af5713bc64",
+      "fixtureSHA256": "07ea389b1e4b931c5ef8ca9a64e8e6e84d36943f4c366277f6dc9c68d5e540f1",
+      "manualLedgerSHA256": "18d49163dae3158622a49d7898f46d9d0561a69b9c0429588579ee1e3ec6a2fa",
+      "initialManualLedgerSHA256": "bc9e31d87ba8fb4b06101b236286151422470e4c1bc81308ccb222343c9710eb",
+      "printedProse": {
+        "1": "The Lord is great; with worthy praise Proclaim His pow'r, His Name confess, Within the city of our God, Upon His mount of holiness.",
+        "2": "Mount Zion, glorious and fair, Gives joy to people in all lands; The city of the mighty King In majesty securely stands.",
+        "3": "Within her dwellings for defense Our God has made His presence known, And hostile kings, in sudden fear, Have fled as ships by tempests blown.",
+        "4": "With our own eyes we have beheld What oft our fathers told before, That God Who in His Zion dwells Will keep her safely evermore."
+      },
+      "corrections": [
+        {
+          "before": "F,2 E, | A,, C, C, |",
+          "after": "F,2 E, | A,, B,, C, |"
+        },
+        {
+          "before": "F,2 E, | A,, B,, C, |",
+          "after": "F,2 E, | A,, B,, B,, |"
+        },
+        {
+          "before": "F,2 E, | A,, B,, B,, |",
+          "after": "F,2 E, | (A,, B,,) B,, |"
+        },
+        {
+          "before": "C E E | E2 E",
+          "after": "(C E) E | E2 E"
+        }
+      ],
+      "independentSecondReadingSHA256": "16be8bbaab43e93c18973bcfce989ce087e10e512fd5d1d2d220fcc969a47706"
+    }
+  ]
+}

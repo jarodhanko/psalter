@@ -1,0 +1,20 @@
+{
+  "package": "abcjs",
+  "version": "6.7.0",
+  "patches": [
+    {
+      "file": "src/api/abc_tunebook_svg.js",
+      "beforeSha256": "f6b3caa29fe21e1dab6a6afdf2599d2e9c8fb86a66be47a8138c0ac181a1b685",
+      "afterSha256": "2c1e075d39f5beef01dcd21537920d18745ca02d8dabd329e5b75794f4500cb4",
+      "before": "\tvar widths = engraver_controller.getMeasureWidths(tune);",
+      "after": "\tvar widths;\n\ttry {\n\t\twidths = engraver_controller.getMeasureWidths(tune);\n\t} finally {\n\t\tengraver_controller.renderer.paper.dummySvg?.remove();\n\t}"
+    },
+    {
+      "file": "src/api/tune-metrics.js",
+      "beforeSha256": "b8c57ffe91b224c0c30056694f7986a5aa9134bb8582628399fba6d2df0e3b8d",
+      "afterSha256": "19687761bf9be81745dd8bac6030f934e4c48674efc42b488d6892ea84b5ce46",
+      "before": "\t\tvar engraver_controller = new EngraverController(div, params);\n\t\tvar widths = engraver_controller.getMeasureWidths(tune);\n            div.parentNode.removeChild(div);\n        return {sections: widths};",
+      "after": "\t\tvar engraver_controller;\n\t\ttry {\n\t\t\tengraver_controller = new EngraverController(div, params);\n\t\t\treturn {sections: engraver_controller.getMeasureWidths(tune)};\n\t\t} finally {\n\t\t\ttry {\n\t\t\t\tengraver_controller?.renderer.paper.dummySvg?.remove();\n\t\t\t} finally {\n\t\t\t\tdiv.remove();\n\t\t\t}\n\t\t}"
+    }
+  ]
+}

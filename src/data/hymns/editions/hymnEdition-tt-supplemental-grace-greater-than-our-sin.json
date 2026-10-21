@@ -1,0 +1,169 @@
+{
+  "sourceSha256": "0705bbc81e16d4d9b3d2d8ccecdf81f83f570adc8708215818ed4693ff6959a1",
+  "metadata": {
+    "id": "hymn-tt-supplemental-grace-greater-than-our-sin",
+    "title": "Grace Greater than Our Sin",
+    "composer": "“Moody”; Daniel B. Towner, 1910.",
+    "tune": "Moody",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-grace-greater-than-our-sin",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/G/Grace_Greater_than_Our_Sin/Grace_Greater_than_Our_Sin.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Julia H. Johnston, pub.1910.  MUSIC: “Moody”; Daniel B. Towner, 1910.  Public Domain",
+      "Grace Greater than Our Sin",
+      "Where sin abounded, grace did much more abound: That as sin hath reigned unto death, ",
+      "even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord. Rom. 5:20-21"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Julia H. Johnston, pub.1910.  MUSIC: “Moody”; Daniel B. Towner, 1910.  Public Domain"
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-grace-greater-than-our-sin",
+      "title": "Grace Greater than Our Sin",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B165"
+        }
+      ],
+      "file": "abc/tt-supplemental-grace-greater-than-our-sin.abc",
+      "sha256": "0705bbc81e16d4d9b3d2d8ccecdf81f83f570adc8708215818ed4693ff6959a1",
+      "canonical_reference_in_archive": "musicxml_abc/Grace_Greater_than_Our_Sin.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/G/Grace_Greater_than_Our_Sin/Grace_Greater_than_Our_Sin.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "inspection_status": "parsed_cached_web_text",
+          "method": "web_cached_page_then_actual_link_click",
+          "url": "https://library.timelesstruths.org/music/Grace_Greater_than_Our_Sin/",
+          "snapshot_path": "sources/timelesstruths_supplemental/pages/Grace_Greater_than_Our_Sin.web.txt",
+          "snapshot_sha256": "d5bc521ed286c9bf3bacfc7b7896f16a8f764de96c56145abeb5648ded10fc9d",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain L28:",
+              "preceding_context": [
+                "Grace",
+                "Report Error | << | >> L23: # Grace Greater than Our Sin",
+                "Julia H. Johnston , pub.1910"
+              ],
+              "following_context": [
+                "* * *",
+                "Subjects: Grace , Invitation L32:"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain L40:",
+              "preceding_context": [
+                "Scripture: Romans 5:20-21 L34:",
+                "Moody [.xml ]",
+                "Daniel B. Towner , 1910"
+              ],
+              "following_context": [
+                "* * *",
+                "Key: G L44:"
+              ]
+            }
+          ],
+          "rights_links": [],
+          "xml_link_count": 1,
+          "inspected_at_utc": "2026-09-30T18:10:44.614Z",
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B165",
+      "title": "Grace Greater than Our Sin",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-grace-greater-than-our-sin",
+      "abc_file": "abc/tt-supplemental-grace-greater-than-our-sin.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B165",
+        "Song title": "Grace Greater than Our Sin",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/G/Grace_Greater_than_Our_Sin/Grace_Greater_than_Our_Sin.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Grace_Greater_than_Our_Sin/",
+        "Editable source": "",
+        "Tune and work identity": "MOODY / Daniel B. Towner, 1910; Julia H. Johnston text",
+        "Public distribution rights": "Timeless Truths explicitly labels text and tune Public Domain. Use historical base score, not the commercial recording arrangement. Territory should be checked before worldwide distribution.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Grace_Greater_than_Our_Sin/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional song identity strongly suggested by title; actual Spotify audio has not been compared. Use the historical hymn edition; an alternate traditional tune is permitted.",
+        "Playlist positions": "225, 268",
+        "Playlist artists": "Don Moen; Phillips, Craig & Dean",
+        "Original track titles": "Grace Greater than Our Sin; Grace That Is Greater",
+        "Source review": "PDF SATB score with lyrics\nPDF opened and notation/lyrics text inspected"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+% Source edition: tt-supplemental-bringing-in-the-sheaves
+% Source URL: https://library.timelesstruths.org/library/music/B/Bringing_in_the_Sheaves/Bringing_in_the_Sheaves.xml
+% Source SHA256: d08a7656190ffd2a65f11727c3bfd28418417c0616518679a964e9e031fb3bd1
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Bringing_in_the_Sheaves.repairs.json
+% Catalog membership: book2:B306
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Knowles Shaw, 1874.  MUSIC: George A. Minor, 1880.  Public Domain.
+% Original credit-words: Bringing in the Sheaves
+% Original credit-words: WORDS: Knowles Shaw, 1874.  MUSIC: George A. Minor, 1880.  Public Domain.
+% Original credit-words: He that goeth forth and weepeth, bearing precious seed, 
+% Original credit-words: shall doubtless come again with rejoicing, bringing his sheaves with him. Psa. 126:6
+X:1
+T:Bringing in the Sheaves
+Z:WORDS: Knowles Shaw, 1874.  MUSIC: George A. Minor, 1880.  Public Domain.
+%%score [ 1 ( 2 3 ) ]
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Soprano" snm="S."
+V:2 bass nm="Bass" snm="B."
+V:3 bass 
+V:1
+ [EG] [EG] [EG]3/2 [FA]/ [EG]2 [CE]2 | [Ec] [Ec] [Ec]3/2 [Ed]/ [Fc]2 [FA]2 | [EG] [EG] [EG]3/2 [FA]/ [EG]2 [CE]2 | [CE] [CE] [B,D] [^A,^C] [B,D]4 |  %4
+w: 1.~Sow- ing in the morn- ing,|sow- ing seeds of kind- ness,|Sow- ing in the noon- tide|and the dew- y eve;|
+w: 2.~Sow- ing in the sun- shine,|sow- ing in the shad- ows,|Fear- ing nei- ther clouds nor|win- ter’s chill- ing breeze;|
+w: 3.~Go- ing forth with weep- ing,|sow- ing for the Mas- ter,|Tho’ the loss sus- tained our|spir- it of- ten grieves;|
+ [CE] [EG] [EG]3/2 [FA]/ [EG]2 [CE]2 | [Ec] [Ec] [Ec]3/2 [Ed]/ [Fc]2 [FA]2 | [EG] [EG] [Ec] [Fd] [Ge]2 [Gc]2 | [Fd] [Ec] [Ge]3/2 [Fd]/ [Ec]4 ||  %8
+w: Wait- ing for the har- vest,|and the time of reap- ing,|We shall come re- joic- ing,|bring- ing in the sheaves.|
+w: By and by the har- vest,|and the la- bor end- ed,|We shall come re- joic- ing,|bring- ing in the sheaves.|
+w: When our weep- ing’s o- ver,|He will bid us wel- come,|We shall come re- joic- ing,|bring- ing in the sheaves.|
+"^Refrain" [CE] [EG] [EG]3/2 [FA]/ [EG]4 | [FA] [Ac] [Ac]3/2 [FA]/ [EG]4 | [EG] [EG] [Ec] [Fd] [Ge]2 [Ec]2 | [Ge] [Ge] [Gd]3/2 [^Fc]/ [Gd]4 |  %12
+w: Bring- ing in the sheaves,|bring- ing in the sheaves,|We shall come re- joic- ing,|bring- ing in the sheaves;|
+w: ||||
+w: ||||
+ [CE] [EG] [EG]3/2 [FA]/ [EG]4 | [FA] [Ac] [Ac]3/2 [FA]/ [EG]4 | [EG] [EG] [Ec] [Fd] [Ge]2 [Gc]2 | [Fd] [Ec] [Ge]3/2 [Fd]/ [Ec]4 |] %16
+w: Bring- ing in the sheaves,|bring- ing in the sheaves,|We shall come re- joic- ing,|bring- ing in the sheaves.|
+w: ||||
+w: ||||
+V:2
+ [C,C] [C,C] [C,C]3/2 [C,C]/ [C,C]2 [C,G,]2 | [C,G,] [C,G,] [C,G,]3/2 [C,G,]/ [F,A,]2 [F,C]2 | [C,C] [C,C] [C,C]3/2 [C,C]/ [C,C]2 [C,G,]2 | [G,,G,] [G,,G,] [G,,G,] [G,,G,] [G,,G,]4 |  %4
+ [C,G,] [C,C] [C,C]3/2 [C,C]/ [C,C]2 [C,G,]2 | [C,G,] [C,G,] [C,G,]3/2 [C,G,]/ [F,A,]2 [F,C]2 | [C,C] [C,C] [C,G,] [C,G,] [C,C]2 [E,C]2 | [G,B,] [G,C] [G,C]3/2 G,/ [C,G,]4 ||  %8
+ [C,G,] [C,C] [C,C]3/2 [C,C]/ [C,C]4 | [F,C] [F,C] [F,C]3/2 [F,C]/ [C,C]4 | [C,C] [C,C] [C,G,] [C,G,] [C,C]2 [C,G,]2 | [C,C] C [B,D]3/2 [A,D]/ [G,B,]4 |  %12
+ [C,G,] [C,C] [C,C]3/2 [C,C]/ [C,C]4 | [F,C] [F,C] [F,C]3/2 [F,C]/ [C,C]4 | [C,C] [C,C] [C,G,] [C,G,] [C,C]2 [E,C]2 | [G,B,] [G,C] [G,C]3/2 G,/ [C,G,]4 |] %16
+V:3
+ x8 | x8 | x8 | x8 |  %4
+ x8 | x8 | x8 | x2 x3/2 G,/ x4 ||  %8
+ x8 | x8 | x8 | x C x2 x4 |  %12
+ x8 | x8 | x8 | x2 x3/2 G,/ x4 |] %16

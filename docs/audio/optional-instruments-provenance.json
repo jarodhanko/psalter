@@ -1,0 +1,19 @@
+{
+  "source": "paulrosen/midi-js-soundfonts",
+  "commit": "cbd6b6f6d1af89ebfb69402860741288f08ff8b7",
+  "license": "CC BY 3.0 US",
+  "fetchedDate": "2026-10-04",
+  "derivedDb8": "FFmpeg 7.1.5: -i C8.mp3 -af asetrate=46722,aresample=44100 -codec:a libmp3lame -q:a 2 Db8.mp3",
+  "banks": {
+    "acoustic_guitar_nylon": {
+      "files": 89,
+      "bytes": 1389915,
+      "sha256": "50c37d1fb5c08da76b65f80ca15231130c21d72469c6b36908f62fea18603c6c"
+    },
+    "harpsichord": {
+      "files": 89,
+      "bytes": 1763129,
+      "sha256": "075aa01e0649a210b05c925ce046d726d3214054c2c97f96bdce8b7c82c0f014"
+    }
+  }
+}

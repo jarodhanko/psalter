@@ -1,0 +1,51 @@
+{
+  "independence": "Initial pre-exposure soprano why G4 reading was disproved; both editions and revised ledger agree Ab4, retained unchanged. Two slashed soprano/alto grace notes are preserved without inferring optional singing or precise performance timing. ABCJS grace realization is separately characterized.",
+  "songs": [
+    {
+      "id": "psalter145",
+      "previousAbc": "T:The Vindication of Righteousness\nC:Tune: LUTON; George Burder\nO:Psalm 52, L. M.\nM:3/4\nL:1/8\nK:Eb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] B2 | B4 c2 | B4 A2 | G4 F2 | E4 || e2 | (e2 d2) c2 | (B2 A2) G2 | (A2 {/G}F2) E2 | B6 |\nw:1.~O might-y man, why wilt Thou boast Thy- self * in hate- * ful cru- * el-ty,\nw:2.~Thy tongue de-vis-eth wick-ed-ness, A weap- * on treach- * er-ous * and keen;\nw:3.~Since, O thou false, de-ceit-ful tongue, In dead- * ly words * Thou find- * est joy,\nw:4.~The good, con-firmed in god-ly fear, The pride * and fol- * ly shall * con-fess\nw:5.~I put my trust in God a-lone, For ev- * er-more * I trust * His grace,\nw:6.~With end-less thanks, O Lord, to Thee, Thy won- * drous works * will I * pro-claim,\n[V:T2] E2 | E4 E2 | E4 F2 | E4 D2 | E4 || G2 | (G2 F2) F2 | (G2 D2) E2 | (F2 {/E}D2) E2 | D6 |\n[V:B1] G,2 | G,4 A,2 | G,4 C2 | B,4 A,2 | G,4 || B,2 | B,4 D2 | (E2 B,2) B,2 | B,4 =A,2 | B,6 |\n[V:B2] E,2 | E,4 A,,2 | E,4 A,,2 | B,,4 B,,2 | E,4 || G,2 | B,4 A,2 | (G,2 F,2) E,2 | D,4 C,2 | B,,6 |\n[V:T1] B2 B2 B2 | c4 c2 | d4 d2 | e4 || e2 | (B2 A2) G2 | (A2 c2) A2 | G4 F2 | E4 |]\nw: When God Al-might-y is most kind, And ev- * er mer- * ci-ful is He?\nw: Thou lov-est e-vil more than good, And false- * hood in * thy sight is clean.\nw: The Lord shall pluck thee from thy place And all * thy wick- * ed-ness de-stroy.\nw: Of those who make not God their strength, But trust * in wealth * and wick-ed-ness.\nw: And like the trees with-in His courts I flour- * ish in * a fa-vored place.\nw: And in the pres-ence of Thy saints Will ev- * er hope * in Thy good Name.\n[V:T2] E2 E2 E2 | E4 F2 | F4 A2 | G4 || G2 | (E2 D2) E2 | E4 F2 | E4 D2 | E4 |]\n[V:B1] G,2 B,2 G,2 | A,4 A,2 | B,4 B,2 | B,4 || B,2 | B,4 B,2 | (C2 A,2) C2 | B,4 A,2 | G,4 |]\n[V:B2] E,2 G,2 E,2 | A,4 F,2 | B,4 B,,2 | E,4 || E,2 | (G,2 F,2) E,2 | A,,4 F,2 | B,,4 B,,2 | E,4 |]",
+      "previousAbcSHA256": "cf3863efff610cb1b5f4549c56c16b543d8a418453b64b21ed8b3e3e76b0c70f",
+      "correctedAbcSHA256": "0ebff3dfa7aa7e5f07bcb75c80709b84b869f448f7a5941ba96f6964246e2910",
+      "fixtureSHA256": "9d0e9b26449b9056a555a19bbb83c9aaf9733cb2f1e5b354fe8df25fc2bd7060",
+      "corrections": [
+        {
+          "before": "E,4 || G,2 | B,4 A,2",
+          "after": "E,4 || E,2 | B,4 A,2"
+        },
+        {
+          "before": "A,,4 F,2 | B,,4 B,,2 | E,4",
+          "after": "A,,4 F,2 | B,4 B,,2 | E,4"
+        }
+      ],
+      "printedProse": {
+        "1": "O mighty man, why wilt Thou boast Thyself in hateful cruelty, When God Almighty is most kind, And ever merciful is He?",
+        "2": "Thy tongue deviseth wickedness, A weapon treacherous and keen; Thou lovest evil more than good, And falsehood in thy sight is clean.",
+        "3": "Since, O thou false, deceitful tongue, In deadly words Thou findest joy, The Lord shall pluck thee from thy place And all thy wickedness destroy.",
+        "4": "The good, confirmed in godly fear, The pride and folly shall confess Of those who make not God their strength, But trust in wealth and wickedness.",
+        "5": "I put my trust in God alone, For evermore I trust His grace, And like the trees within His courts I flourish in a favored place.",
+        "6": "With endless thanks, O Lord, to Thee, Thy wondrous works will I proclaim, And in the presence of Thy saints Will ever hope in Thy good Name."
+      },
+      "ledgerRevisions": [
+        {
+          "revision": 1,
+          "at": "2026-10-09T11:35:22.963665+00:00",
+          "afterCanonicalExposure": true,
+          "event": "S.1.3.2",
+          "from": "G4",
+          "to": "Ab4",
+          "reason": "Independent source review followed by a second reading: RFPA head is between B4 and G4 lines, original1912 head center y105 between B4 line94 and G4 line117; three-flat key makes Ab4. Initial hand-reading was wrong.",
+          "sources": [
+            "rfpa-why-calibration.png",
+            "original1912-why-calibration.png"
+          ],
+          "initialLedgerSha256": "a0795d561b04c70a4e02ecf1766470db991c5f110814fc57d48c295e4174c22d",
+          "revisedLedgerSha256": "fd7a4b1ef513c0774da450ffab93c0a700e0b3c578c1c6d1b442c354c71a84ee"
+        }
+      ],
+      "independentReviewer": {
+        "statement": "Both enlarged final bass-bar crops were independently reviewed. The q43 hollow head sits in the space above the A3 top line, with opposing stems on that same head: Bb3 for both tenor and bass. This corroborates bass Bb2→Bb3. The independent review also confirmed the q12 Thy- bass head as Eb3 from original staff calibration. The why Ab4 remains unchanged."
+      }
+    }
+  ],
+  "publicEvidenceNote": "Musical review findings summarized for public distribution; internal coordination and private repository identifiers omitted. Original source and musical ledger identities are retained."
+}

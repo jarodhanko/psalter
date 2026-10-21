@@ -1,0 +1,11 @@
+# Psalter 348 lyric underlay follow-up — 2026-09-28
+
+## Bounded current-render disposition
+
+The 1400-pixel desktop render displays all six stanzas and the full score without clipping. It also visibly repeats verse 5's “Prosperity be found” and verse 6's “My care shall never cease” over the tune's fifth phrase. The owner photo prints each of those later verses with four lines and **does not print the repeated fifth line**. This may be a useful singing convention inferred from stanzas 1–4, but it is not photo-grounded lyric text. The original four-line `W:` transcripts remain exact. This setting must remain PARTIAL until the treatment of the extra musical phrase for verses 5–6 is settled, and a current independent full SATB printed-event review is recorded. The older source comment claiming PASS is superseded.
+
+The owner photo local source evidence (not distributed) (printed p. 298) is the authority. The four stanzas printed beneath the score have native `w:` rows, each covering all 34 soprano attacks in the photographed 13/10/11 system grouping. No pitches or durations were changed.
+
+Printed verses 5–6 appear below the score as four-line texts and have no printed note-by-note underlay. Their 8/6/8/6 syllable counts account for 28 syllables, while the soprano has 34 attacks and stanzas 1–4 each add a fifth 6-syllable line. I inferred `w:` underlay for verses 5–6 by assigning their four printed lines to the matching first four melodic phrases and repeating each final six-syllable line across the fifth phrase, following the explicit pattern in underlaid stanzas 1–4. The extra six note slots therefore carry “Prosperity be found” (v. 5) and “My care shall never cease” (v. 6). This is an editorial application of the tune’s established pattern, not a printed direction; the full printed texts remain verbatim in `W:`.
+
+Event-slot check: the soprano has 34 attacks. Stanzas 1–4 provide 34 lyric syllables each (8+6+8+6+6); verses 5–6 provide 28 printed syllables each (8+6+8+6), with the inferred final-line repetitions supplying the six remaining syllables/attacks. No pitches or durations were changed. Generated ABC and repository verification pass; the new later-verse rows have not had a separate visual render comparison.

@@ -1,0 +1,213 @@
+{
+  "sourceSha256": "dbcf559f94cd4e2818f1cbe9490038d086de9ec84adb9a684445f14d4c4dc06a",
+  "metadata": {
+    "id": "hymn-tt-supplemental-count-your-blessings",
+    "title": "Count Your Blessings",
+    "composer": "“Blessings”; Edwin O. Excell, 1897.",
+    "tune": "Blessings",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "SOPRANO ALTO",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "TENOR BASS",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-count-your-blessings",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/C/Count_Your_Blessings/Count_Your_Blessings.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Johnson Oatman, Jr., pub.1897.  MUSIC: “Blessings”; Edwin O. Excell, 1897.  Public Domain.",
+      "Count Your Blessings",
+      "In every thing give thanks: for this is the will of God in Christ Jesus concerning you. 1 Th. 5:18",
+      "Blessed be... God... who hath blessed us with all spiritual blessings in heavenly places in Christ. Eph. 1:3",
+      "*Alternate text."
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Johnson Oatman, Jr., pub.1897.  MUSIC: “Blessings”; Edwin O. Excell, 1897.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-count-your-blessings",
+      "title": "Count Your Blessings",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H047"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B046"
+        }
+      ],
+      "file": "abc/tt-supplemental-count-your-blessings.abc",
+      "sha256": "dbcf559f94cd4e2818f1cbe9490038d086de9ec84adb9a684445f14d4c4dc06a",
+      "canonical_reference_in_archive": "musicxml_abc/Count_Your_Blessings.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/C/Count_Your_Blessings/Count_Your_Blessings.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "url": "https://library.timelesstruths.org/music/Count_Your_Blessings/",
+          "html_path": "sources/timelesstruths_supplemental/pages/Count_Your_Blessings.html",
+          "html_sha256": "93999a5076995b18f7231371828ef4ddd75e6467ac2f79b346ff5de5f3d2e87e",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "| >>",
+                "Count Your Blessings",
+                "Johnson Oatman, Jr., pub.1897"
+              ],
+              "following_context": [
+                "Subjects:",
+                "Thanksgiving,"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "Scripture: Psalm 40:5; 1 Thessalonians 5:18; Ephesians 1:3",
+                "Blessings [.xml]",
+                "Edwin O. Excell, 1897"
+              ],
+              "following_context": [
+                "Key: E♭",
+                "Meter: 11.11.11.11 R"
+              ]
+            }
+          ],
+          "rights_links": [
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            },
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+          ],
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H047",
+      "title": "Count Your Blessings",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "tt-supplemental-count-your-blessings",
+      "abc_file": "abc/tt-supplemental-count-your-blessings.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H047",
+        "Hymn / version": "Count Your Blessings",
+        "Playlist track #": "53",
+        "Music / score source": "https://library.timelesstruths.org/library/music/C/Count_Your_Blessings/Count_Your_Blessings.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Count_Your_Blessings/",
+        "Editable notation / MIDI": "https://library.timelesstruths.org/music/Count_Your_Blessings/",
+        "Available formats": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain text and music (US), as labeled by source",
+        "Rights source": "https://library.timelesstruths.org/music/Count_Your_Blessings/",
+        "Text, tune and version notes": "Johnson Oatman Jr. 1897; BLESSINGS, Edwin O. Excell 1897\nPDF opened and parsed",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B046",
+      "title": "Count Your Blessings",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-count-your-blessings",
+      "abc_file": "abc/tt-supplemental-count-your-blessings.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B046",
+        "Song title": "Count Your Blessings",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/C/Count_Your_Blessings/Count_Your_Blessings.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Count_Your_Blessings/",
+        "Editable source": "https://library.timelesstruths.org/music/Count_Your_Blessings/",
+        "Tune and work identity": "Johnson Oatman Jr. 1897; BLESSINGS, Edwin O. Excell 1897\nPDF opened and parsed",
+        "Public distribution rights": "Public-domain text and music (US), as labeled by source",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Count_Your_Blessings/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 487 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "51, 487",
+        "Playlist artists": "Guy Penrod; The Worship Zone",
+        "Original track titles": "Count Your Blessings; Count Your Blessings - Piano",
+        "Source review": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "sourceSha256": "be31cf6c33a99b8ed6c745cb1b4905f1de97fd1dea90e95dfd5fd401195ab98f",
+  "metadata": {
+    "id": "hymn-mobile-we-have-an-anchor",
+    "title": "Will Your Anchor Hold (We Have an Anchor)",
+    "composer": "Priscilla J. Owens; William J. Kirkpatrick",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "mobile-we-have-an-anchor",
+    "sourceUrls": [
+      "https://mobilehymns.org/PDF/We_Have_An_Anchor.pdf",
+      "https://mobilehymns.org/english/We_Have_An_Anchor.html",
+      "https://upload.wikimedia.org/wikipedia/commons/6/66/Winning_songs_-_for_use_in_meetings_for_Christian_worship_or_work_%28IA_winningsongsforu00swen%29.pdf",
+      "https://mobilehymns.org/copyright.html"
+    ],
+    "collection": "Mobile Hymns / KIRKPATRICK",
+    "credits": [
+      "Priscilla J. Owens; William J. Kirkpatrick",
+      "Mobile Hymns, public-domain-labelled full score, retrieved 2026-09-30",
+      "Source-assisted manual SATB transcription; no new harmony or tempo"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Underlying text, translation, tune and selected edition must each be valid for intended territories. Catalog bases are primarily US public-domain; no worldwide clearance claimed.",
+      "Mobile Hymns; source-specific Public Domain declaration preserved. A fresh ABC transcription of the acquired full score.",
+      "Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Five source stanzas and common refrain; no tempo invented. Verse-dependent tie/syllable relationships retained.",
+      "All four source voices and final bass octave,314 heads; source fermatas/ties/slurs retained",
+      "All five printed stanzas, refrain, and all four source voice streams retained; final bass octave is a two-note chord. Same Owens/Kirkpatrick hymn as catalog Will Your Anchor Hold - Piano; traditional vocal edition, no recording-arrangement match claimed. Printed ties retained where alternate stanzas split syllables across tied notes; performance articulation is verse-dependent. The source splits the fermata phrase ending and following pickup with separate barlines; those partial bars are retained. Printed stanza 4 reads \"On the rising tide it the never fail\"; the apparent source typo is retained without silent correction. Two lower-staff slurs in source system 2 have coincident paths; both voice slurs are retained. Recommended copy corrects three verified source-text errors using Winning Songs1892,p165; canonical transcription remains literal.",
+      "All five printed stanzas, refrain, and all four source voice streams retained; final bass octave is a two-note chord.",
+      "Same Owens/Kirkpatrick hymn as catalog Will Your Anchor Hold - Piano; traditional vocal edition, no recording-arrangement match claimed.",
+      "Printed ties retained where alternate stanzas split syllables across tied notes; performance articulation is verse-dependent.",
+      "The source splits the fermata phrase ending and following pickup with separate barlines; those partial bars are retained.",
+      "Printed stanza 4 reads \"On the rising tide it the never fail\"; the apparent source typo is retained without silent correction.",
+      "Two lower-staff slurs in source system 2 have coincident paths; both voice slurs are retained.",
+      "Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed.",
+      "Recommended-copy editorial correction: verse1 can->the, verse4 the->can, verse3 missing our restored at existing continuation slot; verified Winning Songs1892 p165. Canonical source transcription remains literal."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "manual_abc/abcjs/mobile-we-have-an-anchor.abc",
+      "9fd5c539ddcb9f6862a058b81b6cbf656683e248d4ec801c8b5e769b5bc53cf4",
+      "be31cf6c33a99b8ed6c745cb1b4905f1de97fd1dea90e95dfd5fd401195ab98f",
+      "reports/anchor_editorial_corrections_proposal.json",
+      "sources/anchor_editorial_evidence/Winning_Songs_1892.pdf",
+      "1",
+      "strong tides lift and can",
+      "strong tides lift and the",
+      "ris- ing tide it the",
+      "ris- ing tide it can",
+      "shall_ bark",
+      "shall our bark",
+      "Our replaces an already existing blank continuation at whole-note onset7.125; no note, duration or following word shifts."
+    ],
+    "record": {
+      "source_id": "mobile-we-have-an-anchor",
+      "title": "Will Your Anchor Hold (We Have an Anchor)",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B314"
+        }
+      ],
+      "file": "abc/mobile-we-have-an-anchor.abc",
+      "sha256": "be31cf6c33a99b8ed6c745cb1b4905f1de97fd1dea90e95dfd5fd401195ab98f",
+      "canonical_reference_in_archive": "manual_abc/mobile-we-have-an-anchor.abc",
+      "source_url": [
+        "https://mobilehymns.org/PDF/We_Have_An_Anchor.pdf",
+        "https://mobilehymns.org/english/We_Have_An_Anchor.html",
+        "https://upload.wikimedia.org/wikipedia/commons/6/66/Winning_songs_-_for_use_in_meetings_for_Christian_worship_or_work_%28IA_winningsongsforu00swen%29.pdf",
+        "https://mobilehymns.org/copyright.html"
+      ],
+      "collection": "Mobile Hymns / KIRKPATRICK",
+      "rights_and_attribution": {
+        "rights_and_identity_lines": [
+          "Copyright Handling",
+          "Words by Priscilla J. Owens",
+          "Tune: WE HAVE AN ANCHOR by William J. Kirkpatrick (1838-1921)",
+          "Key signature: F major (1 flat)",
+          "Time signature: 4/4",
+          "Meter: 10.10.10.10.9.9.9.10",
+          "Public Domain",
+          "Copyright Handling"
+        ],
+        "edition_rights_evidence": {
+          "source_policy_url": "https://mobilehymns.org/copyright.html",
+          "source_policy_snapshot": "sources/reopened_gaps/pages/Mobile_copyright.html",
+          "policy_summary": "Public access is not blanket clearance: the site distinguishes public-domain songs and copyrighted songs supplied under specific permissions. This exact song page and PDF explicitly label Public Domain.",
+          "specific_song_label": "Public Domain",
+          "basis_limits": "Retain as source-specific declaration, not independent worldwide rights clearance; harmony/transcription authorship not separately stated."
+        },
+        "territorial_caveat": "Underlying text, translation, tune and selected edition must each be valid for intended territories. Catalog bases are primarily US public-domain; no worldwide clearance claimed.",
+        "source_attribution": "Mobile Hymns; source-specific Public Domain declaration preserved. A fresh ABC transcription of the acquired full score."
+      },
+      "scope_and_edition_notes": [
+        "Five source stanzas and common refrain; no tempo invented. Verse-dependent tie/syllable relationships retained.",
+        "All four source voices and final bass octave,314 heads; source fermatas/ties/slurs retained",
+        "All five printed stanzas, refrain, and all four source voice streams retained; final bass octave is a two-note chord. Same Owens/Kirkpatrick hymn as catalog Will Your Anchor Hold - Piano; traditional vocal edition, no recording-arrangement match claimed. Printed ties retained where alternate stanzas split syllables across tied notes; performance articulation is verse-dependent. The source splits the fermata phrase ending and following pickup with separate barlines; those partial bars are retained. Printed stanza 4 reads \"On the rising tide it the never fail\"; the apparent source typo is retained without silent correction. Two lower-staff slurs in source system 2 have coincident paths; both voice slurs are retained. Recommended copy corrects three verified source-text errors using Winning Songs1892,p165; canonical transcription remains literal."
+      ],
+      "editorial_corrections": {
+        "file": "manual_abc/abcjs/mobile-we-have-an-anchor.abc",
+        "before_sha256": "9fd5c539ddcb9f6862a058b81b6cbf656683e248d4ec801c8b5e769b5bc53cf4",
+        "after_sha256": "be31cf6c33a99b8ed6c745cb1b4905f1de97fd1dea90e95dfd5fd401195ab98f",
+        "canonical_unchanged": true,
+        "source_proposal": "reports/anchor_editorial_corrections_proposal.json",
+        "primary_evidence": "sources/anchor_editorial_evidence/Winning_Songs_1892.pdf",
+        "changes": [
+          {
+            "verse": 1,
+            "voice": "1",
+            "onset_whole_notes": 5.1875,
+            "before": "strong tides lift and can",
+            "after": "strong tides lift and the"
+          },
+          {
+            "verse": 4,
+            "voice": "1",
+            "onset_whole_notes": 5.1875,
+            "before": "ris- ing tide it the",
+            "after": "ris- ing tide it can"
+          },
+          {
+            "verse": 3,
+            "voice": "1",
+            "onset_whole_notes": 7.125,
+            "before": "shall_ bark",
+            "after": "shall our bark"
+          }
+        ],
+        "music_unchanged": true,
+        "other_source_words_unchanged": true,
+        "underlay_change": "Our replaces an already existing blank continuation at whole-note onset7.125; no note, duration or following word shifts."
+      },
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-anchor-review.md",
+        "audit": "reports/independent-anchor-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B314",
+      "title": "Will Your Anchor Hold - Piano",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "mobile-we-have-an-anchor",
+      "abc_file": "abc/mobile-we-have-an-anchor.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B314",
+        "Song title": "Will Your Anchor Hold - Piano",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/W/We_Have_an_Anchor/We_Have_an_Anchor.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/We_Have_an_Anchor/",
+        "Editable source": "",
+        "Tune and work identity": "WE HAVE AN ANCHOR — William J. Kirkpatrick (1882); Priscilla Owens (1882)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/We_Have_an_Anchor/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nAlso titled Will Your Anchor Hold. Input is instrumental; traditional lyrics supplied for underlying hymn. Exact Spotify melody not auditioned; recording-specific arrangement is not cleared.",
+        "Playlist positions": "486",
+        "Playlist artists": "The Worship Zone",
+        "Original track titles": "Will Your Anchor Hold - Piano",
+        "Source review": "PDF staff notation and full lyrics\nSource page and actual one-page PDF opened; score notation/lyrics extracted; recording audio not auditioned"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "sourceSha256": "28899207b08ada12aa8a8736706ff16d1c5abc7179a0f7310fbffa3ce94c8ea9",
+  "metadata": {
+    "id": "hymn-oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+    "title": "My Savior's Love (I Stand Amazed)",
+    "composer": "Words: Charles H. Gabriel, 1905. · Music and Setting: 'My Savior`s Love' or 'I Stand Amazed in the Presence' Charles H. Gabriel, 1905.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/My_Saviors_Love/My_Saviors_Love-My_Saviors_Love-I_Stand_Amazed_in_the_Presence.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Charles H. Gabriel, 1905.",
+      "Music and Setting: 'My Savior`s Love' or 'I Stand Amazed in the Presence' Charles H. Gabriel, 1905.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision.",
+      "Music source: Alexander's Gospel Songs #1, 1908 Hymn 1.  ABC file contributed to the Open Hymnal by Tobin Strong, 10 Feb 2014."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'My Savior`s Love' or 'I Stand Amazed in the Presence' Charles H. Gabriel, 1905.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+      "title": "My Savior's Love (I Stand Amazed)",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H087"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B080"
+        }
+      ],
+      "file": "abc/oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence.abc",
+      "sha256": "28899207b08ada12aa8a8736706ff16d1c5abc7179a0f7310fbffa3ce94c8ea9",
+      "canonical_reference_in_archive": "abc/oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/My_Saviors_Love/My_Saviors_Love-My_Saviors_Love-I_Stand_Amazed_in_the_Presence.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Charles H. Gabriel, 1905.",
+          "Music and Setting: 'My Savior`s Love' or 'I Stand Amazed in the Presence' Charles H. Gabriel, 1905.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision.",
+          "Music source: Alexander's Gospel Songs #1, 1908 Hymn 1.  ABC file contributed to the Open Hymnal by Tobin Strong, 10 Feb 2014."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'My Savior`s Love' or 'I Stand Amazed in the Presence' Charles H. Gabriel, 1905.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'My Savior`s Love' or 'I Stand Amazed in the Presence' Charles H. Gabriel, 1905.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H087",
+      "title": "My Savior's Love (I Stand Amazed)",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+      "abc_file": "abc/oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H087",
+        "Hymn / version": "My Savior's Love (I Stand Amazed)",
+        "Playlist track #": "111",
+        "Music / score source": "https://library.timelesstruths.org/library/music/M/My_Saviors_Love/My_Saviors_Love.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/My_Saviors_Love/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "PDF SATB with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use listed PD edition",
+        "Rights source": "https://library.timelesstruths.org/music/My_Saviors_Love/",
+        "Text, tune and version notes": "Charles H. Gabriel, words and music 1905; MY SAVIOR’S LOVE",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B080",
+      "title": "My Savior's Love (I Stand Amazed)",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+      "abc_file": "abc/oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B080",
+        "Song title": "My Savior's Love (I Stand Amazed)",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/M/My_Saviors_Love/My_Saviors_Love.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/My_Saviors_Love/",
+        "Editable source": "",
+        "Tune and work identity": "Charles H. Gabriel, words and music 1905; MY SAVIOR’S LOVE",
+        "Public distribution rights": "US public domain underlying text and tune; use listed PD edition",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/My_Saviors_Love/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "112",
+        "Playlist artists": "The Haven Quartet",
+        "Original track titles": "My Saviour's Love",
+        "Source review": "PDF SATB with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

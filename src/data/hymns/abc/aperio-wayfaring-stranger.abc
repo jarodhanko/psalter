@@ -1,0 +1,60 @@
+X:1
+T:Poor Wayfaring Stranger
+C:American traditional; arr. Kenan Schaefkofer, 2021
+S:Music: Hymn Singer, I am a poor wayfaring stranger, Kenan Schaefkofer, 2021
+S:Text: The Public Domain Song Anthology (Berger/Israels, 2020), printed p.344 / PDF p.364
+Z:Composite edition: Hymn Singer SATB music with the retained anthology stanza and refrain; editorial lyric underlay
+N:Four authored SATB parts, uniformly transposed from D minor to E minor; source rests, ties, slurs and 32-bar form retained.
+N:Soprano and bass enter together; tenor joins the second phrase and alto the third. Silent parts are not filled.
+N:Only the previously selected stanza and refrain are retained, including While journ-'ying, nor and going. Source stanzas 2 and 3 are omitted.
+N:Kenan Schaefkofer dedicates his copyright and related rights in the arrangement to the public domain to the extent possible under law; no formal CC0 instrument is established for the music.
+N:Retained anthology text: underlying US public-domain assertion; new anthology contributions CC0 1.0. No recording-specific arrangement clearance is claimed.
+M:2/2
+L:1/4
+Q:1/4=130
+%%score { ( 1 2 ) | ( 3 4 ) }
+V:1 clef=treble name="Soprano" stem=up
+V:2 clef=treble name="Alto" stem=down
+V:3 clef=bass name="Tenor" stem=up
+V:4 clef=bass name="Bass" stem=down
+K:Em
+[V:1] z E E B | B4- | B G A B | G E3 |
+w: I am a poor_ way-far-ing stran-ger
+[V:2] z x3 | x4 | x4 | x4 |
+[V:3] z x3 | x4 | x4 | x4 |
+[V:4] z E, E, B, | B,4- | B, G, A, B, | G, E,3 |
+[V:1] z E E B | A4- | A E G A | B4 |
+w: While journ-'ying through_ this world of woe,
+[V:2] z x3 | x4 | x4 | x4 |
+[V:3] z E, E, B, | C4- | C C C C | B,4 |
+[V:4] z E, E, B, | A,4- | A, E, G, A, | B,4 |
+[V:1] z E E B | B4- | B G A B | G E3 |
+w: Yet there's no sick- _ ness, toil, nor dan-ger
+[V:2] z E E G | G4- | G E E E | E E3 |
+[V:3] z B, B, B, | B,4- | B, B, C C | B, G,3 |
+[V:4] z E, E, E, | E,4- | E, E, E, E, | E, E,3 |
+[V:1] z E E B | A4- | A G E D | E4 |
+w: In that bright world_ to which I go.
+[V:2] z E E D | E4- | E E C B, | B,4 |
+[V:3] z E, G, B, | C4- | C B, A, A, | G,4 |
+[V:4] z E, C, B,, | A,,4- | A,, B,, C, D, | E,4 |
+[V:1] z B B d | e4- | e d e d | B G3 |
+w: I'm go-ing there_ to see my fath-er,
+[V:2] z G G G | G4- | G F G F | F2 E2 |
+[V:3] z B, B, B, | (C4 | B,) B, C B, | G, G,3 |
+[V:4] z E, E, D, | (C,2 E,2- | E,) E, E, F, | E, E,3 |
+[V:1] z B B d | e4- | e d (e/2 d/2) (B/2 A/2) | B4 |
+w: I'm go-ing there_ no more_ to_ roam;
+[V:2] z G G B | (c2 A2 | G) F F F | F4 |
+[V:3] z B, B, B, | (A,2 C2 | B,) D D D | (E2 ^D2) |
+[V:4] z E, E, D, | (C,4 | B,,) B,, B,, B,, | B,,4 |
+[V:1] z E E B | B4- | B G A B | G E3 |
+w: I'm just a go- _ ing o-ver Jor-dan.
+[V:2] z E E E | G4- | G E E E | E E3 |
+[V:3] z E E E | B,4- | B, B, C C | B, G,3 |
+[V:4] z E, E, E, | E,4- | E, E, E, E, | E, E,3 |
+[V:1] z E E B | A4- | A G E D | E4 |]
+w: I'm just a go- _ ing o-ver home.
+[V:2] z E E D | E4- | E E E D | E4 |]
+[V:3] z E, G, B, | C4- | C B, B, B, | B,4 |]
+[V:4] z E, C, B,, | A,,4- | A,, B,, B,, B,, | E,4 |]

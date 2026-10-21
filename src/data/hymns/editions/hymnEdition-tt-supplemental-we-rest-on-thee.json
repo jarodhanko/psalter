@@ -1,0 +1,186 @@
+{
+  "sourceSha256": "871efa80e8dcd1e1a5526067cf12e1572dbda1bbe6b0645e2aacc35dd60d2ece",
+  "metadata": {
+    "id": "hymn-tt-supplemental-we-rest-on-thee",
+    "title": "We Rest on Thee",
+    "composer": "“Finlandia”; Jean Sibelius, 1899.",
+    "tune": "Finlandia",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-we-rest-on-thee",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/W/We_Rest_on_Thee/We_Rest_on_Thee.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Edith G. Cherry, ca.1895.  MUSIC: “Finlandia”; Jean Sibelius, 1899.  Public Domain.",
+      "We Rest on Thee",
+      "Lord, it is nothing with thee to help, whether with many, or with them that have no power: ",
+      "help us, O Lord our God; for we rest on thee, and in thy name we go. 2 Chr. 14:11"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "FINLANDIA territorial restriction from original catalog remains: US public-domain candidate; do not infer worldwide clearance from the page or embedded Public Domain label.",
+      "WORDS: Edith G. Cherry, ca.1895.  MUSIC: “Finlandia”; Jean Sibelius, 1899.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-we-rest-on-thee",
+      "title": "We Rest on Thee",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B193"
+        }
+      ],
+      "file": "abc/tt-supplemental-we-rest-on-thee.abc",
+      "sha256": "871efa80e8dcd1e1a5526067cf12e1572dbda1bbe6b0645e2aacc35dd60d2ece",
+      "canonical_reference_in_archive": "musicxml_abc/We_Rest_on_Thee.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/W/We_Rest_on_Thee/We_Rest_on_Thee.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "url": "https://library.timelesstruths.org/music/We_Rest_on_Thee/",
+          "html_path": "sources/timelesstruths_supplemental/pages/We_Rest_on_Thee.html",
+          "html_sha256": "a085f7d43161fb6c825a79539d279751ee58f8f230152d3643cf7cad8692a02f",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "| >>",
+                "We Rest on Thee",
+                "Edith G. Cherry, ca.1895"
+              ],
+              "following_context": [
+                "Subject:",
+                "Trust"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "Scripture: 2 Chronicles 14:11",
+                "Finlandia [.xml]",
+                "Jean Sibelius, 1899"
+              ],
+              "following_context": [
+                "Key: F",
+                "Meter: 11.10.11.10.11.10"
+              ]
+            }
+          ],
+          "rights_links": [
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            },
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+          ],
+          "source_file_listed": true
+        },
+        "evidence_warnings": [
+          "FINLANDIA territorial restriction from original catalog remains: US public-domain candidate; do not infer worldwide clearance from the page or embedded Public Domain label."
+        ],
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B193",
+      "title": "We Rest On Thee",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-we-rest-on-thee",
+      "abc_file": "abc/tt-supplemental-we-rest-on-thee.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B193",
+        "Song title": "We Rest On Thee",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/W/We_Rest_on_Thee/We_Rest_on_Thee.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/We_Rest_on_Thee/",
+        "Editable source": "",
+        "Tune and work identity": "FINLANDIA; Jean Sibelius, 1899; Edith G. Cherry text ca.1895",
+        "Public distribution rights": "Timeless Truths labels both text and tune Public Domain; source is an alternate traditional setting, not the modern recording arrangement. US public-domain candidate; confirm distribution territory.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/We_Rest_on_Thee/",
+        "Remaining checks / version notes": "Candidate: same tune; US territory condition\n20schemes official article explicitly credits FINLANDIA and Edith Cherry (https://20schemesequip.com/we-rest-on-thee-congregational/). Use old hymn setting, not Sol & Carlie Fenne arrangement. US-only candidate: Sibelius died 1957, life+70 protection generally extends through 2027.",
+        "Playlist positions": "274",
+        "Playlist artists": "20schemes music",
+        "Original track titles": "We Rest On Thee",
+        "Source review": "PDF full vocal score with lyrics\nFull one-page PD-labelled score opened; artist page identifies same tune; modern arrangement not reused"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

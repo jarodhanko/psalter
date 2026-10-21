@@ -1,0 +1,37 @@
+{
+  "preExposureFreezeSucceeded": true,
+  "initialSHA256": "c5f0ff0031e89cf8a2e0bec52ee5d2acd00948d8a0a9ffbc1bd7181b4d422623",
+  "revisedSHA256": "ab244e7c01a615e07f808365e7a638a7dfcfb2e5ae6053530f1a1a51bf646be6",
+  "revisionUTC": "2026-10-09T07:19:04.086679+00:00",
+  "revisions": [
+    {
+      "voice": "T1",
+      "q": 84,
+      "beforeDuration": 2,
+      "afterDuration": 4,
+      "reason": "Post-exposure source rereading: all four terminal heads are stemless whole notes, not half notes. Canonical duration4 is correct. Coordinator second reading requested."
+    },
+    {
+      "voice": "T2",
+      "q": 84,
+      "beforeDuration": 2,
+      "afterDuration": 4,
+      "reason": "Post-exposure source rereading: all four terminal heads are stemless whole notes, not half notes. Canonical duration4 is correct. Coordinator second reading requested."
+    },
+    {
+      "voice": "B1",
+      "q": 84,
+      "beforeDuration": 2,
+      "afterDuration": 4,
+      "reason": "Post-exposure source rereading: all four terminal heads are stemless whole notes, not half notes. Canonical duration4 is correct. Coordinator second reading requested."
+    },
+    {
+      "voice": "B2",
+      "q": 84,
+      "beforeDuration": 2,
+      "afterDuration": 4,
+      "reason": "Post-exposure source rereading: all four terminal heads are stemless whole notes, not half notes. Canonical duration4 is correct. Coordinator second reading requested."
+    }
+  ],
+  "otherChanges": []
+}

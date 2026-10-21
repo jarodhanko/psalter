@@ -1,0 +1,113 @@
+% Source edition: tt-supplemental-count-your-blessings
+% Source URL: https://library.timelesstruths.org/library/music/C/Count_Your_Blessings/Count_Your_Blessings.xml
+% Source SHA256: 0a47fdc21a3e2162c30796458dab0333f877269758e4d2da5d160445f97c5151
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Count_Your_Blessings.repairs.json
+% Catalog membership: book1:H047, book2:B046
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Johnson Oatman, Jr., pub.1897.  MUSIC: “Blessings”; Edwin O. Excell, 1897.  Public Domain.
+% Original credit-words: Count Your Blessings
+% Original credit-words: WORDS: Johnson Oatman, Jr., pub.1897.  MUSIC: “Blessings”; Edwin O. Excell, 1897.  Public Domain.
+% Original credit-words: In every thing give thanks: for this is the will of God in Christ Jesus concerning you. 1 Th. 5:18
+% Original credit-words: Blessed be... God... who hath blessed us with all spiritual blessings in heavenly places in Christ. Eph. 1:3
+% Original credit-words:  *Alternate text.
+X:1
+T:Count Your Blessings
+Z:WORDS: Johnson Oatman, Jr., pub.1897.  MUSIC: “Blessings”; Edwin O. Excell, 1897.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+M:2/4
+K:Eb
+V:1 treble nm="SOPRANO ALTO" snm="S. A."
+V:2 treble 
+V:3 bass nm="TENOR BASS" snm="T. B."
+V:4 bass 
+L:1/4
+V:1
+[L:1/8]
+ [EG] [EG] [EG] [FA] | [GB] [GB] [GB] [EG] | [FA]2 [=EG]2 | [FA]4 | %4
+w: 1.~When up- on life’s|bil- lows you are|tem- pest-|tossed,|
+w: 2.~Are you ev- er|bur- dened with a|load of|care?|
+w: 3.~When you look at|oth- ers with their|lands and|gold,|
+w: 4.~So, a- mid the|con- flict wheth- er|great or|small,|
+w: ||||
+ [DF] [EG] [FA] [GB] | [Bd] [Ac] [GB] [FA] | [EG]2 [FA]2 | [GB]4 |  %8
+w: When you are dis-|cour- aged, think- ing|all is|lost,|
+w: Does the cross seem|heav- y you are|called to|bear?|
+w: Think that Christ has|prom- ised you His|wealth un-|told;|
+w: Do not be dis-|cour- aged, God is|o- ver|all;|
+w: ||||
+ [EG] [EG] [EG] [FA] | [GB] [GB] [GB] [EG] | [FA]2 [=EG]2 | [FA]4 | %12
+w: Count your man- y|bless- ings, name them|one by|one,|
+w: Count your man- y|bless- ings, eve- ry|doubt will|fly,|
+w: Count your man- y|bless- ings— \*mon- ey|can- not|buy|
+w: Count your man- y|bless- ings, an- gels|will at-|tend,|
+w: |* * (\*wealth can|nev- er|buy)|
+ [DF] [EG] [FA] [GB] | [Bd] [Ac] [GB] [FA] | [EG]2 [DF]2 | E4 ||  %16
+w: And it will sur-|prise you what the|Lord has|done.|
+w: And you will keep|sing- ing as the|days go|by.|
+w: Your re- ward in|heav- en, nor your|home on|high.|
+w: Help and com- fort|give you to your|jour- ney’s|end.|
+w: ||||
+"^Refrain" [GB]3 [GB] | [Ge] [GB] [GB] [EG] | A2 A2 | [B,A]4 | %20
+w: Count your|bless- ings, name them|one by|one,|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+ [FA]3 [FA] | [Bd] [Ac] [GB] [FA] | [EG]2 [FA]2 | [GB]4 |  %24
+w: Count your|bless- ings, see what|God has|done!|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+ [Ge]3 [Ge] | [Bd] [Ac] z2 |"^rit." [Ad] [Ad] [Ac] [Ac] | !fermata![AB]4 | %28
+w: Count your|bless- ings,|name them one by|one,|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+"^a tempo" [Ge] [Ge] [Gd] [Ge] | [Bd] [Ac] [FB] [FA] | [EG]2 [DF]2 | E4 |] %32
+w: \*Count your man- y|bless- ings, see what|God has|done.|
+w: (\*And it will sur-|prise you what the|Lord has|done.)|
+w: ||||
+w: ||||
+w: ||||
+V:2
+[L:1/8]
+ x4 | x4 | x4 | x4 | %4
+ x4 | x4 | x4 | x4 |  %8
+ x4 | x4 | x4 | x4 | %12
+ x4 | x4 | x4 | E4 ||  %16
+ x4 | x4 | (F E) (D C) | x4 | %20
+ x4 | x4 | x4 | x4 |  %24
+ x4 | x4 | x4 | x4 | %28
+ x4 | x4 | x4 | E4 |] %32
+V:3
+[L:1/8]
+ [E,B,] [E,B,] [E,B,] [E,B,] | [E,E] [E,B,] z2 | [B,,B,] [B,,B,] [B,,B,] [B,,B,] | [B,,B,]4 | %4
+w: ||||
+ [B,,B,] [B,,B,] [B,,B,] [B,,B,] | [B,,B,] [B,,B,] z2 | [E,B,] [E,B,] [E,E] [E,E] | [E,E]4 |  %8
+w: ||||
+ [E,B,] [E,B,] [E,B,] [E,B,] | [E,E] [E,B,] z2 | [B,,B,] [B,,B,] [B,,B,] [B,,B,] | [B,,B,]4 | %12
+w: ||||
+ [B,,B,] [B,,B,] [B,,B,] [B,,B,] | [B,,B,] [B,,B,] z2 | [B,,B,] [B,,B,] [B,,A,] [B,,A,] | [E,G,]4 ||  %16
+w: ||||
+ [E,E] [E,E] [E,E] [E,E] | [E,B,] [E,B,] z2 | [B,,B,] [B,,B,] [B,,B,] [B,,B,] | [B,,B,]4 | %20
+w: Count your man- y|bless- ings,|||
+ [B,,B,] [B,,B,] [B,,B,] [B,,B,] | [B,,B,] [B,,B,] z2 | [E,B,] [E,B,] [E,B,] [E,B,] | [E,E]4 |  %24
+w: Count your man- y|bless- ings,|||
+ [E,B,] [E,B,] [E,B,] [E,E] | [A,E] [A,E] z2 | [B,F] [B,F] [B,E] [B,E] | !fermata![B,D]4 | %28
+w: Count your man- y|bless- ings,|||
+ [E,E] [E,E] [E,E] [E,E] | [A,E] [A,E] [A,C] [A,C] | B,2 [B,,A,]2 | [E,G,]4 |] %32
+w: ||||
+V:4
+[L:1/4]
+ x2 | x2 | x2 | x2 | %4
+ x2 | x2 | x2 | x2 |  %8
+ x2 | x2 | x2 | x2 | %12
+ x2 | x2 | x2 | x2 ||  %16
+ x2 | x2 | x2 | x2 | %20
+ x2 | x2 | x2 | x2 |  %24
+ x2 | x2 | x2 | x2 | %28
+ x2 | x2 | B, x | x2 |] %32

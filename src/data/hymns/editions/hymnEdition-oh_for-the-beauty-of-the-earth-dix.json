@@ -1,0 +1,125 @@
+{
+  "sourceSha256": "08de3b4eb8b828636d3e5ef6fe31f8641ff282116e596cfb6836e311cd8c04f5",
+  "metadata": {
+    "id": "hymn-oh_for-the-beauty-of-the-earth-dix",
+    "title": "For the Beauty of the Earth",
+    "composer": "Words: Folliot S. Pierpoint, 1864.  Music: 'Dix' Conrad Kocher, 1838.  Setting: \"The English Hymnal\", 1906.",
+    "tune": "Dix",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_for-the-beauty-of-the-earth-dix",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/For_The_Beauty_Of_The_Earth/For_The_Beauty_Of_The_Earth-Dix.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Folliot S. Pierpoint, 1864.  Music: 'Dix' Conrad Kocher, 1838.  Setting: \"The English Hymnal\", 1906.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision.",
+      "Music source: The English Hymnal, 1906 Hymn 39."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Dix' Conrad Kocher, 1838.  Setting: \"The English Hymnal\", 1906.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_for-the-beauty-of-the-earth-dix",
+      "title": "For the Beauty of the Earth",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B150"
+        }
+      ],
+      "file": "abc/oh_for-the-beauty-of-the-earth-dix.abc",
+      "sha256": "08de3b4eb8b828636d3e5ef6fe31f8641ff282116e596cfb6836e311cd8c04f5",
+      "canonical_reference_in_archive": "abc/oh_for-the-beauty-of-the-earth-dix.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/For_The_Beauty_Of_The_Earth/For_The_Beauty_Of_The_Earth-Dix.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Folliot S. Pierpoint, 1864.  Music: 'Dix' Conrad Kocher, 1838.  Setting: \"The English Hymnal\", 1906.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision.",
+          "Music source: The English Hymnal, 1906 Hymn 39."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Dix' Conrad Kocher, 1838.  Setting: \"The English Hymnal\", 1906.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_for-the-beauty-of-the-earth-dix.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B150",
+      "title": "For the Beauty of the Earth",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_for-the-beauty-of-the-earth-dix",
+      "abc_file": "abc/oh_for-the-beauty-of-the-earth-dix.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B150",
+        "Song title": "For the Beauty of the Earth",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/F/For_the_Beauty_of_the_Earth/For_the_Beauty_of_the_Earth.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/For_the_Beauty_of_the_Earth/",
+        "Editable source": "",
+        "Tune and work identity": "DIX — Conrad Kocher (1838), arr. William H. Monk (1861); Folliott Pierpoint (1864)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/For_the_Beauty_of_the_Earth/",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nSAME HYMN / POSSIBLY DIFFERENT TUNE: DIX candidate; LUCERNA LAUDONIAE and other tunes also exist. Thompson recording tune not established. Exact Spotify melody not auditioned; recording-specific arrangement is not cleared. Under revised user instruction, retain this verified traditional PD setting even if recording uses another tune; disclose selected tune explicitly.",
+        "Playlist positions": "200",
+        "Playlist artists": "Steve and Danny Thompson",
+        "Original track titles": "For the Beauty of the Earth",
+        "Source review": "PDF staff notation and full lyrics\nSource page opened and PDF score text extracted; visual/audio comparison not completed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

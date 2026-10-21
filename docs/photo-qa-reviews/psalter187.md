@@ -1,0 +1,6 @@
+# Psalter 187 photo review — partial lyric underlay
+
+- Authority and boundary: local source evidence (not distributed), printed page 157. Photo 150/page 156 contains preceding no.186 material; no.187 / EVENTIDE is complete on photo 151 in three grand-staff systems. Photo 152/page 158 begins no.188. The heading reads “Supplication and Testimony,” Psalm 69, 10s, William H. Monk. The page footer prints `[Selected Stanzas]`; no copyright or separate rights notice is visible.
+- Converted the four photographed underlaid stanzas from `W:` text to `w:` rows, split at the three printed T1 system boundaries. Their wording and syllabification were checked against the photo. Replaced the former `W:[Selected Stanzas]` footer with `N:[Selected Stanzas]`. Preserved SATB music and all other source content; no forced staff breaks were added.
+- Structural ABCJS `parseOnly`: one tune, no parser warnings, 40 soprano events across systems of 13 / 14 / 13. Each stanza assigns all notes at each boundary (13/13, 14/14, 13/13; 40/40 total, zero gaps). Final printed words attach: `bless.`, `proclaim.`, `despise.`, and `live.`
+- Status is PARTIAL: the photo-grounded lyric placement parses fully, including final words, but this pass does not claim a fresh rendered-underlay comparison or new SATB approval.

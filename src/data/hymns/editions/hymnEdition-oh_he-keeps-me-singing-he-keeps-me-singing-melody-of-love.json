@@ -1,0 +1,129 @@
+{
+  "sourceSha256": "60bf29024e183ef281282789ab1ab17064140fa27d2c392ec595a74082a1197a",
+  "metadata": {
+    "id": "hymn-oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love",
+    "title": "He Keeps Me Singing",
+    "composer": "Words: Luther B. Bridgers, 1910. · Music: 'He Keeps Me Singing' or 'Melody of Love' Hans Engelmann, 1903. · Setting: \"The Revival No. 6\", Luther B. Bridgers, 1910.",
+    "tune": "He Keeps Me Singing",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/He_Keeps_Me_Singing/He_Keeps_Me_Singing-He_Keeps_Me_Singing-Melody_of_Love.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Luther B. Bridgers, 1910.",
+      "Music: 'He Keeps Me Singing' or 'Melody of Love' Hans Engelmann, 1903.",
+      "Setting: \"The Revival No. 6\", Luther B. Bridgers, 1910.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2015 Revision.",
+      "Music source: \"Tabernacle Hymns, Issue 2\", 1921 Hymn 13."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2015 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'He Keeps Me Singing' or 'Melody of Love' Hans Engelmann, 1903.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nTune credited to Hans Engelmann Melody of Love, 1903; arrangement Bridgers 1910. This differs from catalog SWEETEST NAME credit; compare rather than assume familiar melody.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love",
+      "title": "He Keeps Me Singing",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B151"
+        }
+      ],
+      "file": "abc/oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love.abc",
+      "sha256": "60bf29024e183ef281282789ab1ab17064140fa27d2c392ec595a74082a1197a",
+      "canonical_reference_in_archive": "abc/oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/He_Keeps_Me_Singing/He_Keeps_Me_Singing-He_Keeps_Me_Singing-Melody_of_Love.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Luther B. Bridgers, 1910.",
+          "Music: 'He Keeps Me Singing' or 'Melody of Love' Hans Engelmann, 1903.",
+          "Setting: \"The Revival No. 6\", Luther B. Bridgers, 1910.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2015 Revision.",
+          "Music source: \"Tabernacle Hymns, Issue 2\", 1921 Hymn 13."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'He Keeps Me Singing' or 'Melody of Love' Hans Engelmann, 1903.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nTune credited to Hans Engelmann Melody of Love, 1903; arrangement Bridgers 1910. This differs from catalog SWEETEST NAME credit; compare rather than assume familiar melody.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B151",
+      "title": "He Keeps Me Singing",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love",
+      "abc_file": "abc/oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B151",
+        "Song title": "He Keeps Me Singing",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/H/He_Keeps_Me_Singing/He_Keeps_Me_Singing.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/He_Keeps_Me_Singing/",
+        "Editable source": "",
+        "Tune and work identity": "SWEETEST NAME; Luther B. Bridgers, 1910",
+        "Public distribution rights": "Opened Timeless Truths source explicitly labels both words and music Public Domain. Use this traditional score, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/He_Keeps_Me_Singing/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional title/work candidate; no recording audio comparison performed. He Keeps Me Singing and Jesus Keeps Me Singing provisionally same Bridgers work; Low Key identity requires confirmation. Latest user permits a traditional PD tune even if different from recorded tune; use only historical text without added contemporary chorus.",
+        "Playlist positions": "201, 395",
+        "Playlist artists": "Steve and Danny Thompson; Low Key",
+        "Original track titles": "He Keeps Me Singing; Jesus Keeps Me Singing",
+        "Source review": "PDF score with lyrics\nPDF opened and parsed; recording tune not independently confirmed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

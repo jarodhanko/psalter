@@ -1,0 +1,166 @@
+{
+  "sourceSha256": "542e943f9f6896e5b31264d4113b6ff44b275d2b859aa2afb1a42e199691df77",
+  "metadata": {
+    "id": "hymn-remaining-tt-he-hideth-my-soul",
+    "title": "He Hideth My Soul",
+    "composer": "William J. Kirkpatrick, c.1890.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-tt-he-hideth-my-soul",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/H/He_Hideth_My_Soul/He_Hideth_My_Soul.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Frances J. Crosby, pub.1890.  MUSIC: William J. Kirkpatrick, c.1890.  Public Domain.",
+      "He Hideth My Soul",
+      "And it shall come to pass, while my glory passeth by, ",
+      "that I will put thee in a clift of the rock, and will cover thee with my hand while I pass by. Ex. 33:22"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source-specific assertions recorded; candidate status preserved; no independent worldwide clearance.",
+      "WORDS: Frances J. Crosby, pub.1890.  MUSIC: William J. Kirkpatrick, c.1890.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "remaining-tt-he-hideth-my-soul",
+      "title": "He Hideth My Soul",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H013"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B011"
+        }
+      ],
+      "file": "abc/remaining-tt-he-hideth-my-soul.abc",
+      "sha256": "542e943f9f6896e5b31264d4113b6ff44b275d2b859aa2afb1a42e199691df77",
+      "canonical_reference_in_archive": "musicxml_abc/He_Hideth_My_Soul.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/H/He_Hideth_My_Soul/He_Hideth_My_Soul.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions recorded; candidate status preserved; no independent worldwide clearance."
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H013",
+      "title": "He Hideth My Soul",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "remaining-tt-he-hideth-my-soul",
+      "abc_file": "abc/remaining-tt-he-hideth-my-soul.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H013",
+        "Hymn / version": "He Hideth My Soul",
+        "Playlist track #": "13, 38",
+        "Music / score source": "https://hymnary.org/media/fetch/111810",
+        "Lyrics / companion source": "https://hymnary.org/text/a_wonderful_savior_is_jesus_my_lord_a_wo",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nOpened Cyber Hymnal PDF says Public Domain.",
+        "Rights source": "https://hymnary.org/media/fetch/111810",
+        "Text, tune and version notes": "Text: Fanny J. Crosby, 1890\nTune: KIRKPATRICK; William J. Kirkpatrick",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B011",
+      "title": "He Hideth My Soul",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-tt-he-hideth-my-soul",
+      "abc_file": "abc/remaining-tt-he-hideth-my-soul.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B011",
+        "Song title": "He Hideth My Soul",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/111810",
+        "Lyrics source": "https://hymnary.org/text/a_wonderful_savior_is_jesus_my_lord_a_wo",
+        "Editable source": "",
+        "Tune and work identity": "Text: Fanny J. Crosby, 1890\nTune: KIRKPATRICK; William J. Kirkpatrick",
+        "Public distribution rights": "Public-domain source edition (US)\nOpened Cyber Hymnal PDF says Public Domain.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/111810",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "11, 36",
+        "Playlist artists": "Don Moen; Guy Penrod",
+        "Original track titles": "He Hideth My Soul",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

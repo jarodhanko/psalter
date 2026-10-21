@@ -1,0 +1,30 @@
+{
+  "preExposureFreezeSucceeded": true,
+  "initialSHA256": "a6b37b9bd1ba39de06673e5659ed96dde40db100de49c6d7eff05ae2d143b77a",
+  "revisedSHA256": "98829422e018faeae7468acc41e6152f2f2f02e50883a589e387175c60f7d012",
+  "revisionUTC": "2026-10-09T06:49:31.424773+00:00",
+  "preExposureDraftCorrection": "Before canonical exposure, corrected five alto D4 heads to Db4 by A-flat signature. Prior draft preserved. Successful final pre-exposure freeze then occurred06:47:01.555911Z.",
+  "revisions": [
+    {
+      "voice": "B1",
+      "q": [
+        18,
+        19
+      ],
+      "before": [
+        "Eb4 MIDI63",
+        "Db4 MIDI61"
+      ],
+      "after": [
+        "Db4 MIDI61",
+        "C4 MIDI60"
+      ],
+      "reason": "Canonical comparison prompted pixel reread. Both editions and coordinator independent review show space above bass first upper ledger then ledger center. Canonical correct; manual ledger corrected.",
+      "crops": [
+        "rfpa-alto6-tenor7.png",
+        "original1912-tenor7.png"
+      ]
+    }
+  ],
+  "postExposureOtherChanges": []
+}

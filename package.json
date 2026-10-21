@@ -1,0 +1,62 @@
+{
+  "name": "psalter-project",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "abcjs": "6.7.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "scripts": {
+    "generate:psalter": "node tools/generate-legacy-psalter-data.mjs",
+    "generate:kjv-psalms": "node tools/generate-kjv-psalms.mjs",
+    "start": "vite",
+    "dev": "vite",
+    "build": "node tools/prepare-audio.mjs --verify-only && node tools/generate-legacy-psalter-data.mjs && tsc -b && vite build",
+    "preview": "vite preview",
+    "validate:abc": "node tools/validate-abc.mjs",
+    "audit:lyrics": "node tools/audit-lyric-fields.mjs",
+    "inspect:underlay": "node tools/inspect-underlay.mjs",
+    "audit:lyrics:parity": "node tools/audit-lyric-parity.mjs",
+    "validate:audio-range": "node tools/validate-audio-range.mjs",
+    "validate:audio-assets": "node tools/validate-audio-assets.mjs",
+    "validate:release-safety": "node tools/validate-release-safety.mjs",
+    "validate:hosting-config": "node tools/validate-hosting-config.mjs",
+    "validate:build": "node tools/validate-build.mjs",
+    "prepare:pwa-update-fixture": "node tools/prepare-sw-update-browser-fixture.mjs",
+    "postinstall": "npm run patch:abcjs && npm run generate:psalter",
+    "qa:sheet": "node tools/qa-sheet.mjs",
+    "inspect:score-events": "node tools/inspect-score-events.mjs",
+    "prestart": "npm run generate:psalter",
+    "predev": "npm run generate:psalter",
+    "prevalidate:abc": "npm run generate:psalter",
+    "preaudit:lyrics": "npm run generate:psalter",
+    "preinspect:underlay": "npm run generate:psalter",
+    "preaudit:lyrics:parity": "npm run generate:psalter",
+    "prevalidate:audio-range": "npm run generate:psalter",
+    "preqa:sheet": "npm run generate:psalter",
+    "preinspect:score-events": "npm run generate:psalter",
+    "build:release": "node tools/build-release.mjs",
+    "validate:license-notices": "node tools/validate-license-notices.mjs",
+    "patch:abcjs": "node tools/patch-abcjs.mjs",
+    "check:abcjs-cleanup": "node tools/check-abcjs-measurement-cleanup.mjs",
+    "audio:prepare": "node tools/prepare-audio.mjs",
+    "audio:verify": "node tools/prepare-audio.mjs --verify-only"
+  },
+  "devDependencies": {
+    "@types/node": "^26.0.0",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.1",
+    "firebase-tools": "^15.30.2",
+    "jsdom": "30.1.2",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.0",
+    "vite-plugin-pwa": "^1.3.0"
+  },
+  "license": "SEE LICENSE IN LICENSE-SCOPE.md"
+}

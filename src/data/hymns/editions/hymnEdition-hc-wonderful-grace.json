@@ -1,0 +1,214 @@
+{
+  "sourceSha256": "ba05b33a13ec7487a7db0ea06a7fbbff65c0aba3960267ec4d0d359729cd4b4e",
+  "metadata": {
+    "id": "hymn-hc-wonderful-grace",
+    "title": "Wonderful Grace of Jesus",
+    "composer": "Haldor Lillenas · , 1918",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Piano",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      },
+      {
+        "id": "5",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (5)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "hc-wonderful-grace",
+    "sourceUrls": [
+      "https://hymncommons.org/piano-hymn-library/",
+      "https://hymncommons.org/about/",
+      "https://drive.usercontent.google.com/uc?id=171qrH6MGyd4VaG6mh06mg9xoaSedUlom&export=download"
+    ],
+    "collection": "Hymn Commons",
+    "credits": [
+      "Haldor Lillenas",
+      ", 1918",
+      "Public domain."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.",
+      "Public domain."
+    ],
+    "territory": "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.",
+    "editionNotes": [
+      "Original MuseScore file is the authoritative conversion source; offeredPDF is a companion revision, not always an exact facsimile.",
+      "SourceMSCX voices, notes, grace notes, rests, lyrics/rows/onsets, slurs, ties, key and meter audited directly; source-specific tempos/dynamics/hairpins preserved.",
+      "No actualABCJS browser or liveapp import certification.",
+      "Five source streams: SATB plus one isolated four-note inner accompaniment passage. TwoFsharp grace notes and three16th-note tuplets retained. Three verses and polyphonic refrain lyrics.",
+      "SuppliedMSCX has no prelude, tempo or repeat; companionPDF includes a prelude, quarter=112 and3x repeat. These PDF-only additions were not inserted into the native-source transcription.",
+      "Exact printed/source stanzas; no new verses. Introduction/prelude, optional cue-size notes and additional accompaniment voice retained where present.",
+      "Piano hymn transcription includes a labelled instrumental Prelude and repeat structure. Review/remove or label the prelude for a hymnbook edition rather than silently treating it as original hymn. Full PDF is an independent score output; do not assume byte-identical revision to downloaded MSCZ without comparing."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "hc-wonderful-grace",
+      "title": "Wonderful Grace of Jesus",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B128"
+        }
+      ],
+      "file": "abc/hc-wonderful-grace.abc",
+      "sha256": "ba05b33a13ec7487a7db0ea06a7fbbff65c0aba3960267ec4d0d359729cd4b4e",
+      "canonical_reference_in_archive": "reopened_xml_abc/HC_Wonderful_Grace.abc",
+      "source_url": [
+        "https://hymncommons.org/piano-hymn-library/",
+        "https://hymncommons.org/about/",
+        "https://drive.usercontent.google.com/uc?id=171qrH6MGyd4VaG6mh06mg9xoaSedUlom&export=download"
+      ],
+      "collection": "Hymn Commons",
+      "rights_and_attribution": {
+        "edition": {
+          "publisher_statement_url": "https://hymncommons.org/about/",
+          "local_snapshot": "sources/reopened_gaps/pages/HymnCommons_about.html",
+          "summary": "Publisher Ron Nelson says he transcribed PD hymns with MuseScore so others could change the arrangements, and explicitly describes all his material as public domain. Exact MSCX embedded copyright tags separately retained below.",
+          "embedded_tags": [
+            {
+              "name": "arranger",
+              "text": null
+            },
+            {
+              "name": "audioComUrl",
+              "text": null
+            },
+            {
+              "name": "composer",
+              "text": "Haldor Lillenas\n, 1918"
+            },
+            {
+              "name": "copyright",
+              "text": "Public domain."
+            },
+            {
+              "name": "creationDate",
+              "text": "2026-02-25"
+            },
+            {
+              "name": "lyricist",
+              "text": "Haldor Lillenas\n, 1918"
+            },
+            {
+              "name": "movementNumber",
+              "text": null
+            },
+            {
+              "name": "movementTitle",
+              "text": null
+            },
+            {
+              "name": "platform",
+              "text": "Microsoft Windows"
+            },
+            {
+              "name": "source",
+              "text": null
+            },
+            {
+              "name": "sourceRevisionId",
+              "text": null
+            },
+            {
+              "name": "subtitle",
+              "text": "John 1:16–17"
+            },
+            {
+              "name": "translator",
+              "text": null
+            },
+            {
+              "name": "workNumber",
+              "text": null
+            },
+            {
+              "name": "workTitle",
+              "text": "Wonderful Grace of Jesus"
+            }
+          ]
+        },
+        "territory": "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959."
+      },
+      "scope_and_edition_notes": [
+        "Original MuseScore file is the authoritative conversion source; offeredPDF is a companion revision, not always an exact facsimile.",
+        "SourceMSCX voices, notes, grace notes, rests, lyrics/rows/onsets, slurs, ties, key and meter audited directly; source-specific tempos/dynamics/hairpins preserved.",
+        "No actualABCJS browser or liveapp import certification.",
+        "Five source streams: SATB plus one isolated four-note inner accompaniment passage. TwoFsharp grace notes and three16th-note tuplets retained. Three verses and polyphonic refrain lyrics.",
+        "SuppliedMSCX has no prelude, tempo or repeat; companionPDF includes a prelude, quarter=112 and3x repeat. These PDF-only additions were not inserted into the native-source transcription.",
+        "Exact printed/source stanzas; no new verses. Introduction/prelude, optional cue-size notes and additional accompaniment voice retained where present.",
+        "Piano hymn transcription includes a labelled instrumental Prelude and repeat structure. Review/remove or label the prelude for a hymnbook edition rather than silently treating it as original hymn. Full PDF is an independent score output; do not assume byte-identical revision to downloaded MSCZ without comparing."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-hymncommons-review.md",
+        "audit": "reports/independent-hymncommons-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B128",
+      "title": "Wonderful Grace of Jesus",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "hc-wonderful-grace",
+      "abc_file": "abc/hc-wonderful-grace.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B128",
+        "Song title": "Wonderful Grace of Jesus",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/W/Wonderful_Grace_of_Jesus/Wonderful_Grace_of_Jesus.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Wonderful_Grace_of_Jesus/",
+        "Editable source": "",
+        "Tune and work identity": "WONDERFUL GRACE; Haldor Lillenas, 1918",
+        "Public distribution rights": "Timeless Truths labels both text and tune Public Domain; source is an alternate traditional setting, not the modern recording arrangement. US public-domain candidate; confirm distribution territory.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Wonderful_Grace_of_Jesus/",
+        "Remaining checks / version notes": "Candidate: traditional PD setting; recording arrangement differs\nTraditional 1918 work; The Browns recording not aurally compared. US public-domain candidate; Lillenas died 1959, so life+70 territories need separate clearance. Under the updated scope, this same-hymn traditional setting may be retained even if the recording melody differs; recording-specific additions are excluded.",
+        "Playlist positions": "173",
+        "Playlist artists": "The Browns",
+        "Original track titles": "Wonderful Grace of Jesus",
+        "Source review": "PDF full vocal score with lyrics\nFull PD-labelled PDF opened and score contents inspected via text extraction; no aural recording comparison or visual engraving QA"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

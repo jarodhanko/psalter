@@ -1,0 +1,145 @@
+{
+  "sourceSha256": "63836ac04c09952a78f1b9c12ccc688f80196fafa1038593225292183eb9b2bb",
+  "metadata": {
+    "id": "hymn-final-htg-oh-how-i-love-jesus",
+    "title": "Oh, How I Love Jesus",
+    "composer": "Frederick Whitfield | Anonymous",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "final-htg-oh-how-i-love-jesus",
+    "sourceUrls": [
+      "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/O-Hymns/Oh-How-I-Love-Jesus/Oh-How-I-Love-Jesus-6x9.mup",
+      "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/O-Hymns/Oh-How-I-Love-Jesus/Oh-How-I-Love-Jesus-6x9.pdf"
+    ],
+    "collection": "HymnsToGod.org; original MUP and PDF retained",
+    "credits": [
+      "Frederick Whitfield | Anonymous",
+      "HymnsToGod.org; original MUP and PDF retained"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source labels hymn Public Domain - USA; not worldwide clearance.",
+      "MUP header expressly donates its source code to the public domain; PDF bears Public Domain footer. This is a music transcription declaration, not merely a repository software license.",
+      "US candidate; other territories require independent clearance.",
+      "Retain Theodore (Ted) Gatza Jr., HymnsToGod.org and historical creators.",
+      "Source describes this hymn as believed public domain in the United States only",
+      "MUP source code donated to public domain; no global-territory clearance implied"
+    ],
+    "territory": "US candidate; other territories require independent clearance.",
+    "editionNotes": [
+      "Independent reviewer sign-off not performed.",
+      "No worldwide-territory clearance; underlying work and edition remain US-scoped candidates.",
+      "Contains an Amen ending. Preserve and label source-specific ending.",
+      "Source MUP SHA-256 d95fab65cd2820deb6c873fc101a50a7d19d3717a7d06c8160dcd7b0d09e3945",
+      "Source describes this hymn as believed public domain in the United States only",
+      "MUP source code donated to public domain; no global-territory clearance implied",
+      "Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction",
+      "All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map",
+      "Includes the source-specific Amen ending"
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "final-htg-oh-how-i-love-jesus",
+      "title": "Oh, How I Love Jesus",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B303"
+        }
+      ],
+      "file": "abc/final-htg-oh-how-i-love-jesus.abc",
+      "sha256": "63836ac04c09952a78f1b9c12ccc688f80196fafa1038593225292183eb9b2bb",
+      "canonical_reference_in_archive": "mup_abc/HTG_Oh-How-I-Love-Jesus-6x9.abc",
+      "source_url": [
+        "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/O-Hymns/Oh-How-I-Love-Jesus/Oh-How-I-Love-Jesus-6x9.mup",
+        "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/O-Hymns/Oh-How-I-Love-Jesus/Oh-How-I-Love-Jesus-6x9.pdf"
+      ],
+      "collection": "",
+      "rights_and_attribution": {
+        "underlying_work": "Source labels hymn Public Domain - USA; not worldwide clearance.",
+        "edition": "MUP header expressly donates its source code to the public domain; PDF bears Public Domain footer. This is a music transcription declaration, not merely a repository software license.",
+        "territory": "US candidate; other territories require independent clearance.",
+        "attribution": "Retain Theodore (Ted) Gatza Jr., HymnsToGod.org and historical creators.",
+        "evidence_page": "https://www.hymnstogod.org/Hymns-PD/O-Hymns/Oh-How-I-Love-Jesus.html",
+        "evidence_snapshot": "sources/final_candidate_gaps/pages/Oh_How_I_Love_Jesus.html"
+      },
+      "scope_and_edition_notes": [
+        "Independent reviewer sign-off not performed.",
+        "No worldwide-territory clearance; underlying work and edition remain US-scoped candidates.",
+        "Contains an Amen ending. Preserve and label source-specific ending."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-mup-review.md",
+        "audit": "reports/independent-mup-review.json",
+        "scope": "Independent of original MUP conversion worker: code/mapping inspection, source hashes, official compiler comparisons rerun, all11 complete source/canonical paired visual overviews, actualABCJS event tests. Not full human note-by-note proofreading or browser engraving."
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B303",
+      "title": "Oh How I Love Jesus",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "final-htg-oh-how-i-love-jesus",
+      "abc_file": "abc/final-htg-oh-how-i-love-jesus.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B303",
+        "Song title": "Oh How I Love Jesus",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/87863",
+        "Lyrics source": "https://library.timelesstruths.org/music/Oh_How_I_Love_Jesus/",
+        "Editable source": "",
+        "Tune and work identity": "O HOW I LOVE JESUS; traditional American melody; words Frederick Whitfield",
+        "Public distribution rights": "Opened Timeless Truths source explicitly labels both words and music Public Domain. Use this traditional score, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Oh_How_I_Love_Jesus/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional title/work candidate; no recording audio comparison performed.  Latest user permits a traditional PD tune even if different from recorded tune; use only historical text without added contemporary chorus.",
+        "Playlist positions": "467",
+        "Playlist artists": "Alan Ladd",
+        "Original track titles": "Oh How I Love Jesus",
+        "Source review": "PDF score with lyrics\nPDF opened and parsed; recording tune not independently confirmed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+% Source edition: tt-supplemental-we-rest-on-thee
+% Source URL: https://library.timelesstruths.org/library/music/W/We_Rest_on_Thee/We_Rest_on_Thee.xml
+% Source SHA256: 772f05415c625561870bea7762aa25a876238d05f5b387d59621434094039fc8
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_We_Rest_on_Thee.repairs.json
+% Catalog membership: book2:B193
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Edith G. Cherry, ca.1895.  MUSIC: “Finlandia”; Jean Sibelius, 1899.  Public Domain.
+% Original credit-words: We Rest on Thee
+% Original credit-words: WORDS: Edith G. Cherry, ca.1895.  MUSIC: “Finlandia”; Jean Sibelius, 1899.  Public Domain.
+% Original credit-words: Lord, it is nothing with thee to help, whether with many, or with them that have no power: 
+% Original credit-words: help us, O Lord our God; for we rest on thee, and in thy name we go. 2 Chr. 14:11
+X:1
+T:We Rest on Thee
+Z:WORDS: Edith G. Cherry, ca.1895.  MUSIC: “Finlandia”; Jean Sibelius, 1899.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+M:4/4
+K:F
+V:1 treble nm="Soprano" snm="S."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+L:1/8
+V:1
+[L:1/4]
+ [FA] [EG] [FA] | [EB]3 [FA] | [EG] [FA] [DF]3/2 [EG]/ | [EG] [FA]3- | %4
+w: 1.~We rest on|Thee, our|Shield and our De-|fend- er!|
+w: 2.~Yes, in Thy|Name, O|Cap- tain of sal-|va- tion!|
+w: 3.~We go in|faith, our|own great weak- ness|feel- ing,|
+w: 4.~We rest on|Thee, our|Shield and our De-|fend- er!|
+ [FA] [FA] [EG] [FA] | [EB]3 [FA] |  [EG] [FA] [DF]3/2 [EG]/ | [FA]4- | %8
+w: * We go not|forth a-|lone a- gainst the|foe;|
+w: * In Thy dear|Name, all|oth- er names a-|bove;|
+w: * And need- ing|more each|day Thy grace to|know:|
+w: * Thine is the|bat- tle,|Thine shall be the|praise;|
+ [FA] [Fc] [Fc] [Fc] | [Fd]3 [FA] | [FA] [Fc] [Fc]3/2 [EG]/ | [EG] [GB]3- | %12
+w: * Strong in Thy|strength, safe|in Thy keep- ing|ten- der,|
+w: * Je- sus our|Right- eous-|ness, our sure Foun-|da- tion,|
+w: * Yet from our|hearts a|song of tri- umph|peal- ing,|
+w: * When pass- ing|through the|gates of pearl- y|splen- dor,|
+ [GB] |  [GB] [^FA] G | [FA]3 F | F [FG] [EG]3/2 [EA]/ | %16
+w: |We rest on|Thee, and|in Thy Name we|
+w: |Our Prince of|glo- ry|and our King of|
+w: |“We rest on|Thee, and|in Thy Name we|
+w: |Vic- tors, we|rest with|Thee, through end- less|
+ [EA]4- | [EA] [Ac] [Fc] [Fc] | [Fd]3 [FA] |  [FA] [Fc] [Fc]3/2 [EG]/ | %20
+w: go.|* Strong in Thy|strength, safe|in Thy keep- ing|
+w: love.|* Je- sus our|Right- eous-|ness, our sure Foun-|
+w: go.”|* Yet from our|hearts a|song of tri- umph|
+w: days.|* When pass- ing|through the|gates of pearl- y|
+ [EG] [GB]3- | [GB] [GB] [^FA] G | [FA]3 [CF] | F [FG] [EG]3/2 F/ | %24
+w: ten- der,|* We rest on|Thee, and|in Thy Name we|
+w: da- tion,|* Our Prince of|glo- ry|and our King of|
+w: peal- ing,|* “We rest on|Thee, and|in Thy Name we|
+w: splen- dor,|* Vic- tors, we|rest with|Thee, through end- less|
+ F4- | F |] %26
+w: go.||
+w: love.||
+w: go.”||
+w: days.||
+V:2
+[L:1/4]
+ x3 | x4 | x4 | x4 | %4
+ x4 | x4 |  x4 | x4 | %8
+ x4 | x4 | x4 | x4 | %12
+ x |  x x G | x3 F | F x x2 | %16
+ x4 | x4 | x4 |  x4 | %20
+ x4 | x2 x G | x4 | F x x3/2 F/ | %24
+ F4- | F |] %26
+V:3
+[L:1/4]
+ [F,C] [B,C] [A,C] | [G,C]3 [F,C] | [B,C] [A,C] B,3/2 [G,B,]/ | [G,C] [F,C]3- | %4
+ [F,C] [F,C] [B,C] [A,C] | [G,C]3 [F,C] |  [B,C] [A,C] B,3/2 [G,B,]/ | [F,C]4- | %8
+ [F,C] [F,A,] [F,A,] [E,A,] | [D,A,]3 [D,D] | [D,D] [A,,C] [A,,C]3/2 [C,C]/ | [C,C] [G,,D]3- | %12
+ [G,,D] |  [G,,D] [A,,C] [B,,D] | [C,C]3 C | [B,D] [B,D] [B,D]3/2 [B,^C]/ | %16
+ [A,^C]4- | [A,C] [F,C] [F,A,] [E,A,] | [D,A,]3 [D,D] |  [D,D] [A,C] [A,C]3/2 C/ | %20
+ C [G,D]3- | [G,D] [G,,D] [A,,C] [B,,D] | [C,C]3 [C,A,] | [C,A,] [C,B,] [C,B,]3/2 [F,A,]/ | %24
+ [F,A,]4- | [F,A,] |] %26
+V:4
+[L:1/8]
+ x6 | x8 | x4 B,3 x | x8 | %4
+ x8 | x8 |  x4 B,3 x | x8 | %8
+ x8 | x8 | x8 | x8 | %12
+ x2 |  x6 | x6 C2 | x8 | %16
+ x8 | x8 | x8 |  x4 x3 C | %20
+ C2 x6 | x8 | x8 | x8 | %24
+ x8 | x2 |] %26

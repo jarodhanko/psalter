@@ -1,0 +1,130 @@
+{
+  "compact": [
+    {
+      "note": "A3",
+      "duration": 3.129,
+      "peakDb": -22.0,
+      "firstSecondRmsDb": -35.1
+    },
+    {
+      "note": "C4",
+      "duration": 3.129,
+      "peakDb": -21.0,
+      "firstSecondRmsDb": -34.2
+    },
+    {
+      "note": "E4",
+      "duration": 3.129,
+      "peakDb": -24.0,
+      "firstSecondRmsDb": -41.2
+    },
+    {
+      "note": "C8",
+      "duration": 3.129,
+      "peakDb": -28.5,
+      "firstSecondRmsDb": -51.2
+    },
+    {
+      "note": "Db8",
+      "duration": 2.884,
+      "peakDb": -23.8,
+      "firstSecondRmsDb": -46.7
+    }
+  ],
+  "concertGrand": [
+    {
+      "note": "A3",
+      "duration": 15.322,
+      "peakDb": -15.7,
+      "firstSecondRmsDb": -31.3
+    },
+    {
+      "note": "C4",
+      "duration": 15.541,
+      "peakDb": -11.7,
+      "firstSecondRmsDb": -24.1
+    },
+    {
+      "note": "E4",
+      "duration": 14.811,
+      "peakDb": -10.9,
+      "firstSecondRmsDb": -27.4
+    },
+    {
+      "note": "C8",
+      "duration": 2.773,
+      "peakDb": -22.1,
+      "firstSecondRmsDb": -43.5
+    },
+    {
+      "note": "Db8",
+      "duration": 2.773,
+      "peakDb": -22.3,
+      "firstSecondRmsDb": -43.7
+    }
+  ],
+  "acoustic_guitar_nylon": [
+    {
+      "note": "A3",
+      "duration": 3.129,
+      "peakDb": -15.3,
+      "firstSecondRmsDb": -26.7
+    },
+    {
+      "note": "C4",
+      "duration": 3.129,
+      "peakDb": -16.0,
+      "firstSecondRmsDb": -31.1
+    },
+    {
+      "note": "E4",
+      "duration": 3.129,
+      "peakDb": -15.3,
+      "firstSecondRmsDb": -32.6
+    },
+    {
+      "note": "C8",
+      "duration": 3.129,
+      "peakDb": -22.6,
+      "firstSecondRmsDb": -50.8
+    },
+    {
+      "note": "Db8",
+      "duration": 2.953,
+      "peakDb": -22.2,
+      "firstSecondRmsDb": -51.0
+    }
+  ],
+  "harpsichord": [
+    {
+      "note": "A3",
+      "duration": 3.129,
+      "peakDb": -15.7,
+      "firstSecondRmsDb": -29.3
+    },
+    {
+      "note": "C4",
+      "duration": 3.129,
+      "peakDb": -16.2,
+      "firstSecondRmsDb": -29.8
+    },
+    {
+      "note": "E4",
+      "duration": 3.129,
+      "peakDb": -16.4,
+      "firstSecondRmsDb": -34.2
+    },
+    {
+      "note": "C8",
+      "duration": 3.129,
+      "peakDb": -22.2,
+      "firstSecondRmsDb": -40.9
+    },
+    {
+      "note": "Db8",
+      "duration": 2.953,
+      "peakDb": -22.0,
+      "firstSecondRmsDb": -41.2
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "bank": "acoustic_guitar_nylon-mp3",
+    "note": "A3",
+    "durationSeconds": 3.129,
+    "expectedHz": 220.0,
+    "spectralPeakNearExpectedHz": 219.54,
+    "centsFromExpected": -3.64,
+    "peak": 0.171632,
+    "rms": 0.027293
+  },
+  {
+    "bank": "acoustic_guitar_nylon-mp3",
+    "note": "C4",
+    "durationSeconds": 3.129,
+    "expectedHz": 261.63,
+    "spectralPeakNearExpectedHz": 261.26,
+    "centsFromExpected": -2.43,
+    "peak": 0.15814,
+    "rms": 0.01586
+  },
+  {
+    "bank": "acoustic_guitar_nylon-mp3",
+    "note": "E4",
+    "durationSeconds": 3.129,
+    "expectedHz": 329.63,
+    "spectralPeakNearExpectedHz": 329.9,
+    "centsFromExpected": 1.41,
+    "peak": 0.170874,
+    "rms": 0.013432
+  },
+  {
+    "bank": "acoustic_guitar_nylon-mp3",
+    "note": "C8",
+    "durationSeconds": 3.129,
+    "expectedHz": 4186.01,
+    "spectralPeakNearExpectedHz": 4182.82,
+    "centsFromExpected": -1.32,
+    "peak": 0.074073,
+    "rms": 0.00163
+  },
+  {
+    "bank": "acoustic_guitar_nylon-mp3",
+    "note": "Db8",
+    "durationSeconds": 2.953,
+    "expectedHz": 4434.92,
+    "spectralPeakNearExpectedHz": 4431.47,
+    "centsFromExpected": -1.35,
+    "peak": 0.077611,
+    "rms": 0.001636
+  },
+  {
+    "bank": "harpsichord-mp3",
+    "note": "A3",
+    "durationSeconds": 3.129,
+    "expectedHz": 220.0,
+    "spectralPeakNearExpectedHz": 219.87,
+    "centsFromExpected": -0.99,
+    "peak": 0.163201,
+    "rms": 0.01991
+  },
+  {
+    "bank": "harpsichord-mp3",
+    "note": "C4",
+    "durationSeconds": 3.129,
+    "expectedHz": 261.63,
+    "spectralPeakNearExpectedHz": 261.43,
+    "centsFromExpected": -1.32,
+    "peak": 0.15419,
+    "rms": 0.01872
+  },
+  {
+    "bank": "harpsichord-mp3",
+    "note": "E4",
+    "durationSeconds": 3.129,
+    "expectedHz": 329.63,
+    "spectralPeakNearExpectedHz": 329.22,
+    "centsFromExpected": -2.13,
+    "peak": 0.152108,
+    "rms": 0.011319
+  },
+  {
+    "bank": "harpsichord-mp3",
+    "note": "C8",
+    "durationSeconds": 3.129,
+    "expectedHz": 4186.01,
+    "spectralPeakNearExpectedHz": 4178.11,
+    "centsFromExpected": -3.27,
+    "peak": 0.07796,
+    "rms": 0.005077
+  },
+  {
+    "bank": "harpsichord-mp3",
+    "note": "Db8",
+    "durationSeconds": 2.953,
+    "expectedHz": 4434.92,
+    "spectralPeakNearExpectedHz": 4426.42,
+    "centsFromExpected": -3.32,
+    "peak": 0.079472,
+    "rms": 0.005079
+  }
+]

@@ -1,0 +1,9 @@
+# Psalter 193 photo QA (partial)
+
+- Source: local source evidence (not distributed) (annotated photo 156), printed page 162.
+- Boundary: “The Reign of Christ,” Psalm 72, C.M.; HYMN by John E. Gould. Six stanzas are underlaid across two systems. The entry ends on this page; no.194 begins below. The photographed marker reads `[Stanzas 7–12]`.
+- Rights/footer: no copyright or permission notice is visible for no.193; none was added.
+- Lyric alignment: the photograph places all six printed rows against both soprano systems. In the 19-event first system, events 1–8 carry the first poetic line, 9–10 extend its last syllable, 11–16 carry the second poetic line, event 17 extends its last syllable over the tied note, and rests at 18–19 are skipped. In the 20-event second system, events 1–8 carry the third poetic line, 9–10 extend its last syllable, 11–16 carry the fourth poetic line, 17–18 extend its last syllable, and the rests at 19–20 are skipped. This same placement fits all six stanza rows, including stanza 1’s “A-noint-ed” and stanza 6’s “The earth, un-til the moon shall fade.” The full photo-grounded stanza text remains in `W:`.
+- Structural check: ABCJS parsed the two soprano systems with 19 and 20 note/rest events and no warnings. A focused regression test verifies every lyric slot for all six stanzas and confirms rests at events 18–19 and 19–20 (one-based).
+- Browser-layout smoke check: a fresh 1280 × 2400 production screenshot was compared with the source photo. All six stanza rows appear under both systems, with the first five on one score and stanza 6 on a repeated score; the expected final words and rests are visible without clipping. Screenshot scratch is ignored under local source evidence (not distributed).
+- Status: PARTIAL. Lyric-to-note alignment and a browser-layout smoke check are reconciled against the original photo. No full SATB note audit, audible playback, or physical-device print approval is claimed.

@@ -1,0 +1,162 @@
+{
+  "sourceSha256": "9d108a45a1c98d91bbc09e711861d54c16d0be30758615ae5fd463d06201d558",
+  "metadata": {
+    "id": "hymn-oh_amazing-grace-new-britain",
+    "title": "Amazing Grace",
+    "composer": "Words: John Newton, 1779.  last verse author unknown, before 1829. · Music: 'New Britain' James P. Carrell and David L. Clayton, 1831.  Setting: Edwin Othello Excell, 1900.",
+    "tune": "New Britain",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_amazing-grace-new-britain",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Amazing_Grace/Amazing_Grace-New_Britain.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: John Newton, 1779.  last verse author unknown, before 1829.",
+      "Music: 'New Britain' James P. Carrell and David L. Clayton, 1831.  Setting: Edwin Othello Excell, 1900.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision.",
+      "Music source: \"Joy to the World\", 1915, Hymn 209 Ed. E. O. Excell  explicit about arrangement.  Christian Classics Ethereal Library (ccel.org) Hymnary  Think setting from \"Make His praise glorious\", 1900.  Ed. Edwin Othello Excell."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'New Britain' James P. Carrell and David L. Clayton, 1831.  Setting: Edwin Othello Excell, 1900.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_amazing-grace-new-britain",
+      "title": "Amazing Grace",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H057"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B052"
+        }
+      ],
+      "file": "abc/oh_amazing-grace-new-britain.abc",
+      "sha256": "9d108a45a1c98d91bbc09e711861d54c16d0be30758615ae5fd463d06201d558",
+      "canonical_reference_in_archive": "abc/oh_amazing-grace-new-britain.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Amazing_Grace/Amazing_Grace-New_Britain.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: John Newton, 1779.  last verse author unknown, before 1829.",
+          "Music: 'New Britain' James P. Carrell and David L. Clayton, 1831.  Setting: Edwin Othello Excell, 1900.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision.",
+          "Music source: \"Joy to the World\", 1915, Hymn 209 Ed. E. O. Excell  explicit about arrangement.  Christian Classics Ethereal Library (ccel.org) Hymnary  Think setting from \"Make His praise glorious\", 1900.  Ed. Edwin Othello Excell."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'New Britain' James P. Carrell and David L. Clayton, 1831.  Setting: Edwin Othello Excell, 1900.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'New Britain' James P. Carrell and David L. Clayton, 1831.  Setting: Edwin Othello Excell, 1900.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_amazing-grace-new-britain.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H057",
+      "title": "Amazing Grace",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_amazing-grace-new-britain",
+      "abc_file": "abc/oh_amazing-grace-new-britain.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H057",
+        "Hymn / version": "Amazing Grace",
+        "Playlist track #": "62, 114, 127",
+        "Music / score source": "https://library.timelesstruths.org/library/music/A/Amazing_Grace/Amazing_Grace.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Amazing_Grace/",
+        "Editable notation / MIDI": "https://library.timelesstruths.org/music/Amazing_Grace/",
+        "Available formats": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain text and music (US), as labeled by source",
+        "Rights source": "https://library.timelesstruths.org/music/Amazing_Grace/",
+        "Text, tune and version notes": "John Newton 1779; NEW BRITAIN, traditional; anonymous final stanza\nPDF has four stanzas (1, 2, 3, and When we have been there); webpage carries seven.\nPDF opened and parsed\nAppears within medley track 114. Use the individual song edition rather than copying the medley arrangement.",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": [
+        "tt-amazing-grace"
+      ]
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B052",
+      "title": "Amazing Grace",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_amazing-grace-new-britain",
+      "abc_file": "abc/oh_amazing-grace-new-britain.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B052",
+        "Song title": "Amazing Grace",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/A/Amazing_Grace/Amazing_Grace.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Amazing_Grace/",
+        "Editable source": "https://library.timelesstruths.org/music/Amazing_Grace/",
+        "Tune and work identity": "John Newton 1779; NEW BRITAIN, traditional; anonymous final stanza\nPDF has four stanzas (1, 2, 3, and When we have been there); webpage carries seven.",
+        "Public distribution rights": "Public-domain text and music (US), as labeled by source",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Amazing_Grace/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 189 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "60, 122, 189",
+        "Playlist artists": "Alan Jackson; Chris Else; Chris Rice",
+        "Original track titles": "Amazing Grace",
+        "Source review": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": [
+        "tt-amazing-grace"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+% Source edition: hc-turn-your-eyes
+% Source URL: https://drive.usercontent.google.com/uc?id=10kxunACODiZaoR9F6i6RMEk2n5UX2eGI&export=download
+% Source format: original MuseScore4 MSCZ/MSCX; MusicXML exported with webmscore1.2.1
+% Source key signature restored from explicit MSCX concertKey; notes/spelling/onsets independently checked.
+% Catalog memberships: book2:B145
+% Source voices, printed stanzas and any introduction/prelude retained.
+% Rights: {'publisher_statement_url': 'https://hymncommons.org/about/', 'local_snapshot': 'sources/reopened_gaps/pages/HymnCommons_about.html', 'summary': 'Publisher Ron Nelson says he transcribed PD hymns with MuseScore so others could change the arrangements, and explicitly describes all his material as public domain. Exact MSCX embedded copyright tags separately retained below.', 'embedded_tags': [{'name': 'arranger', 'text': None}, {'name': 'audioComUrl', 'text': None}, {'name': 'composer', 'text': 'Helen Howarth Lemmel, 1922'}, {'name': 'copyright', 'text': '“Turn Your Eyes Upon Jesus,” lyrics and music by Helen Howarth Lemmel (1922); \nfirst U.S. publication in Gospel Truth in Song (Chicago, IL: Harry D. Clarke, 1924).\nPublic domain (U.S.).'}, {'name': 'creationDate', 'text': '2026-08-09'}, {'name': 'lyricist', 'text': 'Helen Howarth Lemmel, 1922'}, {'name': 'movementNumber', 'text': None}, {'name': 'movementTitle', 'text': None}, {'name': 'platform', 'text': 'Microsoft Windows'}, {'name': 'source', 'text': None}, {'name': 'sourceRevisionId', 'text': None}, {'name': 'subtitle', 'text': 'Worship'}, {'name': 'translator', 'text': None}, {'name': 'workNumber', 'text': None}, {'name': 'workTitle', 'text': 'Turn Your Eyes Upon Jesus'}]}
+% Territory: Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.
+% MuseScore source hash: 2e9cfa1e4f262aee48f72da6885e5d6c9d7bd748641c50b7fa0dcd2c87494f17
+% Source end-repeat count3 restored as explicit3x annotation; playback repeat-count support depends on importer.
+X:1
+T:Turn Your Eyes Upon Jesus
+C:Helen Howarth Lemmel, 1922
+Z:Helen Howarth Lemmel, 1922
+Z:“Turn Your Eyes Upon Jesus,” lyrics and music by Helen Howarth Lemmel (1922);
+Z:first U.S. publication in Gospel Truth in Song (Chicago, IL: Harry D. Clarke, 1924).
+Z:Public domain (U.S.).
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=96
+M:3/4
+K:F
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+[L:1/4]
+"^Prelude" A/ B/ | c2 c | c A!>(! G | F2!>)! F | %4
+w: ||||
+w: ||||
+w: ||||
+!mp! F z F/!<(! G/ | A3/2!<)! G/ A |!>(! B A G | F3-!>)! |  %8
+w: ||||
+w: ||||
+w: ||||
+ F z |:!mf! A | A ^G A | c B A | %12
+w: |1. O|soul are you|wea- ry and|
+w: |2. Thro’|death in- to|life ev- er-|
+w: |3. His|word shall not|fail you- He|
+ A3 | G2 D | F E F |  A G C | %16
+w: troub-|led? No|light in the|dark- ness you|
+w: last-|ing He|passed, and we|fol- low Him|
+w: prom-|ised; Be-|lieve Him, and|all will be|
+ A3- | A z (A/ A/) | A ^G A | d c A | %20
+w: see?|* There’s *|light for a|look at the|
+w: there;|* O- ver|us sin no|more hath do-|
+w: well:|* Then *|go to a|world that is|
+ A3 | G z G |  (A =B) c | =E F D | %24
+w: Sav-|ior, And|life more a-|bun- dant and|
+w: min-|ion For|more * than|conqu- or’s we|
+w: dy-|ing, His|per- fect sal-|va- tion to|
+ C3 | z3 | A2 A | c3/2 A/ G | %28
+w: free!||Turn your|eyes up- on|
+w: are!||||
+w: tell!||||
+ F3 |  F z F |!<(! B B B!<)! | !^!d B A | %32
+w: Je-|sus, Look|full in His|won- der- ful|
+w: ||||
+w: ||||
+ G3- | G z A/ B/ | c2 c |  c A!>(! G | %36
+w: face;|_ And the|things of|earth will grow|
+w: ||||
+w: ||||
+ F2!>)! F |!mp! F z F/!<(! G/ | A3/2!<)! G/ A |!>(! B A G | %40
+w: strange- ly|dim In the|light of His|glo- ry and|
+w: ||||
+w: ||||
+ F3-!>)! | F z "^3x":| %42
+w: grace.||
+w: ||
+w: ||
+V:2
+[L:1/4]
+ F/ F/ | F2 F | F F E | D2 E | %4
+ D z D/D/ | C3/2 E/ F | E E E | F3- |  %8
+ F x |: F | F F F | F F _E | %12
+ D3 | D2 D | C C C |  E E C | %16
+ C3- | C z (F/ F/) | F F F | F F F | %20
+ D3 | E z E |  (F A) _E | =E D =B, | %24
+ C2 [=B,D] | [CE] [CF] [EG] | F2 F | E3/2 E/ E | %28
+ F3 |  _E z E | D D D | !^!D D D | %32
+ (E C D | E) z F/ F/ | F2 F |  F F E | %36
+ D2 E | D z D/D/ | C3/2 E/ F | E E E | %40
+ F3- | F z :| %42
+V:3
+[L:1/4]
+ C/ C/ | C2 C | C C B, | A,2 A, | %4
+ B, z A,/B,/ | F,3/2 C/ C | D C B, | A,3- |  %8
+ A, z |: C | C =B, C | A, F, F, | %12
+ (F,2 ^F,) | E,2 B, | A, G, A, |  C B, E, | %16
+ F,3- | F, z (C/ C/) | C =B, C | B, A, C | %20
+ =B,3 | C z C |  (C D) A, | C =B, F, | %24
+ E,2 F, | G, A, C | C2 C | G,3/2 C/ B, | %28
+ A,3 |  A, z A, | F, F, F, | F, G, F, | %32
+ (E,2 F,) | G, z C/ C/ | C2 C |  C C B, | %36
+ A,2 A, | B, z A,/B,/ | F,3/2 C/ C | D C B, | %40
+ A,3- | A, z :| %42
+V:4
+[L:1/4]
+ F,/ G,/ | A,2 A, | A, F, ^C, | D,2 C, | %4
+ B,, z D,/ B,,/ | C,3/2 C,/ C, | C, C, C, | [F,,F,]3- |  %8
+ [F,,F,] x |: F, | F, F, F, | F, D, C, | %12
+ B,,3 | B,,2 B,, | C, C, C, |  C, C, C, | %16
+ F,,3- | F,, z (F,/ F,/) | F, F, F, | F, F, F, | %20
+ F,3 | E, z C, |  (F, F,) ^F, | G, G, G,, | %24
+ C,3- | C,3 | F,2 F, | C,3/2 C,/ C, | %28
+ D,3 |  C, z F, | B,, B,, B,, | B,, B,, =B,, | %32
+ C,3- | C, z F,/ G,/ | A,2 A, |  A, F, ^C, | %36
+ D,2 C, | B,, z D,/ B,,/ | C,3/2 C,/ C, | C, C, C, | %40
+ [F,,F,]3- | [F,,F,] z :| %42

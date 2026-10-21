@@ -1,0 +1,156 @@
+{
+  "sourceSha256": "b519a1af7693af77cf5a1fef61f1f2661583335433ab9fcac5d7ea8ac0fc5dbe",
+  "metadata": {
+    "id": "hymn-oh_be-still-my-soul-finlandia",
+    "title": "Be Still, My Soul",
+    "composer": "Words: Katharina A. von Schlegel, 1752.  Translated by Jane L. Borthwick, 1855. · Music: 'Finlandia' Jean Sibelius, 1899.  Setting: from Jean Sibelius, 1900.",
+    "tune": "Finlandia",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_be-still-my-soul-finlandia",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Be_Still_My_Soul/Be_Still_My_Soul-Finlandia.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Katharina A. von Schlegel, 1752.  Translated by Jane L. Borthwick, 1855.",
+      "Music: 'Finlandia' Jean Sibelius, 1899.  Setting: from Jean Sibelius, 1900.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Finlandia' Jean Sibelius, 1899.  Setting: from Jean Sibelius, 1900.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_be-still-my-soul-finlandia",
+      "title": "Be Still, My Soul",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H001"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B001"
+        }
+      ],
+      "file": "abc/oh_be-still-my-soul-finlandia.abc",
+      "sha256": "b519a1af7693af77cf5a1fef61f1f2661583335433ab9fcac5d7ea8ac0fc5dbe",
+      "canonical_reference_in_archive": "abc/oh_be-still-my-soul-finlandia.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Be_Still_My_Soul/Be_Still_My_Soul-Finlandia.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Katharina A. von Schlegel, 1752.  Translated by Jane L. Borthwick, 1855.",
+          "Music: 'Finlandia' Jean Sibelius, 1899.  Setting: from Jean Sibelius, 1900.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Finlandia' Jean Sibelius, 1899.  Setting: from Jean Sibelius, 1900.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'Finlandia' Jean Sibelius, 1899.  Setting: from Jean Sibelius, 1900.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_be-still-my-soul-finlandia.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H001",
+      "title": "Be Still, My Soul",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_be-still-my-soul-finlandia",
+      "abc_file": "abc/oh_be-still-my-soul-finlandia.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H001",
+        "Hymn / version": "Be Still, My Soul",
+        "Playlist track #": "1, 74, 133",
+        "Music / score source": "https://teainitiatives.wordpress.com/wp-content/uploads/2016/05/be_still_my_soul-finlandia.pdf",
+        "Lyrics / companion source": "https://hymnary.org/text/be_still_my_soul_the_lord_is_on_thy_side",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nOpened mirror of Open Hymnal 2008 score explicitly says public domain and identifies words, translation, melody, setting. US scope; Sibelius status differs internationally.",
+        "Rights source": "https://teainitiatives.wordpress.com/wp-content/uploads/2016/05/be_still_my_soul-finlandia.pdf",
+        "Text, tune and version notes": "Text: Katharina A. von Schlegel; English Jane L. Borthwick\nTune: FINLANDIA; Jean Sibelius, 1899; setting 1900",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared. Sibelius-related rights differ outside the US; this is not worldwide clearance."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B001",
+      "title": "Be Still, My Soul",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_be-still-my-soul-finlandia",
+      "abc_file": "abc/oh_be-still-my-soul-finlandia.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B001",
+        "Song title": "Be Still, My Soul",
+        "Status": "Candidate",
+        "Score / source": "https://teainitiatives.wordpress.com/wp-content/uploads/2016/05/be_still_my_soul-finlandia.pdf",
+        "Lyrics source": "https://hymnary.org/text/be_still_my_soul_the_lord_is_on_thy_side",
+        "Editable source": "",
+        "Tune and work identity": "Text: Katharina A. von Schlegel; English Jane L. Borthwick\nTune: FINLANDIA; Jean Sibelius, 1899; setting 1900",
+        "Public distribution rights": "Public-domain source edition (US)\nOpened mirror of Open Hymnal 2008 score explicitly says public domain and identifies words, translation, melody, setting. US scope; Sibelius status differs internationally.",
+        "Rights / identity evidence": "https://teainitiatives.wordpress.com/wp-content/uploads/2016/05/be_still_my_soul-finlandia.pdf",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 302, 304, 307, 366 were grouped by title. Confirm the same hymn/text and check for added sections.\nSibelius-related rights differ outside the US. This is not worldwide clearance.",
+        "Playlist positions": "1, 74, 302, 304, 307, 366, 405",
+        "Playlist artists": "The Haven Quartet; David Archuleta; Jean Sibelius; Libera; Luanne Asta; Mary Barrett; 4ordained",
+        "Original track titles": "Be Still, My Soul; Sibelius / Arr. Prizeman: Be Still, My Soul (From Finlandia, Op. 26); Be Still My Soul",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

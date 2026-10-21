@@ -1,0 +1,67 @@
+% Source edition: tt-my-faith-has-found-a-resting-place
+% Source URL: https://library.timelesstruths.org/library/music/M/My_Faith_Has_Found_a_Resting_Place/My_Faith_Has_Found_a_Resting_Place.xml
+% Source SHA256: 6f579f97f58b235fce32faf631431b9841866700012f98575fc490a2a8a4ab0d
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_My_Faith_Has_Found_a_Resting_Place.repairs.json
+% Catalog membership: book1:H072, book2:B067
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Eliza E. Hewitt, pub.1891.  MUSIC: “Landås”; André E. M. Grétry; arr. by William J. Kirkpatrick.  Public Domain.
+% Original credit-words: My Faith Has Found a Resting Place
+% Original credit-words: WORDS: Eliza E. Hewitt, pub.1891.  MUSIC: “Landås”; André E. M. Grétry; arr. by William J. Kirkpatrick.  Public Domain.
+% Original credit-words: Come unto me, all ye that labour and are heavy laden, and I will give you rest. Mt. 11:28
+% Original credit-words: We which have believed do enter into rest. Heb. 4:3
+X:1
+T:My Faith Has Found a Resting Place
+Z:WORDS: Eliza E. Hewitt, pub.1891.  MUSIC: “Landås”; André E. M. Grétry; arr. by William J. Kirkpatrick.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+M:3/4
+K:Ab
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ [CE] | [CE]/ [DF]/ E [CA] | [DG]/ [DF]/ [DF] [EF] | [Fd]/ [FB]/ [EA] [EG] | %4
+w: 1.~My|faith has found a|rest- ing place, Not|in de- vice or|
+w: 2.~E-|nough for me that|Je- sus saves, This|ends my fear and|
+w: 3.~My|heart is lean- ing|on the Word, The|liv- ing Word of|
+w: 4.~My|great phy- si- cian|heals the sick, The|lost He came to|
+ [EA]2 |  [CE] | [CE]/ [DF]/ [CE] [CA] | [EG]/ [DF]/ [DF] [EF] | %8
+w: creed;|I|trust the ev- er-|liv- ing One, His|
+w: doubt;|A|sin- ful soul I|came to Him, He’ll|
+w: God,|Sal-|va- tion by my|Sav- ior’s name, Sal-|
+w: save;|For|me His pre- cious|blood He shed, For|
+ [Fd]/ [FB]/ [EA] [EG] | [EA]2 || "^Refrain" [EA] | [EA]/ [Ac]/ [Ae] [Ac] | %12
+w: wounds for me shall|plead.|I|need no oth- er|
+w: nev- er cast me|out.|||
+w: va- tion through His|blood.|||
+w: me His life He|gave.|||
+ [Gc]/ [GB]/ [GB] [Gc] | [FA]/ [=EG]/ F [FB] | (A G) |  [DE] | %16
+w: ar- gu- ment, I|need no oth- er|plea, *|It|
+w: ||||
+w: ||||
+w: ||||
+ [CE]/ [DF]/ [CE] [CA] | [EG]/ [DF]/ [DF] [EF] | [Fd]/ [FB]/ [EA] [EG] | [EA]2 |] %20
+w: is e- nough that|Je- sus died, And|that He died for|me.|
+w: ||||
+w: ||||
+w: ||||
+V:2
+ x | x E x | x3 | x3 | %4
+ x2 |  x | x3 | x3 | %8
+ x3 | x2 ||  x | x3 | %12
+ x3 | x F x | E2 |  x | %16
+ x3 | x3 | x3 | x2 |] %20
+V:3
+ [A,,A,] | [A,,A,]/ [A,,A,]/ [C,A,] [A,,A,] | [D,A,]/ [D,A,]/ [D,A,] [C,=A,] | [B,,B,]/ [B,,D]/ [E,C] [E,B,] | %4
+ [A,C]2 |  [A,,A,] | [A,,A,]/ [A,,A,]/ [A,,A,] [A,,A,] | [D,A,]/ [D,A,]/ [D,A,] [C,=A,] | %8
+ [B,,B,]/ [B,,D]/ [E,C] [E,B,] | [A,C]2 ||  [A,C] | [A,C]/ [A,E]/ [A,C] A, | %12
+ [E,E]/ [E,E]/ [E,E] [=E,C] | [F,C]/ [C,B,]/ [D,A,] [=D,B,] | (C B,) |  [E,G,] | %16
+ [A,,A,]/ [A,,A,]/ [A,,A,] [A,,A,] | [D,A,]/ [D,A,]/ [D,A,] [C,=A,] | [B,,B,]/ [B,,D]/ [C,C] [E,D] | [A,C]2 |] %20
+V:4
+ x | x3 | x3 | x3 | %4
+ x2 |  x | x3 | x3 | %8
+ x3 | x2 ||  x | x2 A, | %12
+ x3 | x3 | E,2 |  x | %16
+ x3 | x3 | x3 | x2 |] %20

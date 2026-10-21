@@ -1,0 +1,1028 @@
+{
+  "sources": [
+    [
+      "aperio-battle-hymn",
+      "Mine Eyes Have Seen the Glory (Battle Hymn of the Republic)"
+    ],
+    [
+      "aperio-wayfaring-stranger",
+      "Poor Wayfaring Stranger"
+    ],
+    [
+      "cantorion-here-is-love",
+      "Here Is Love"
+    ],
+    [
+      "final-htg-day-by-day",
+      "Day by Day"
+    ],
+    [
+      "final-htg-god-leads-us-along",
+      "God Leads Us Along"
+    ],
+    [
+      "final-htg-hallelujah-praise-jehovah",
+      "Hallelujah! Praise Jehovah!"
+    ],
+    [
+      "final-htg-how-gentle-god-s-commands",
+      "How Gentle God's Commands"
+    ],
+    [
+      "final-htg-i-must-tell-jesus",
+      "I Must Tell Jesus"
+    ],
+    [
+      "final-htg-love-lifted-me",
+      "Love Lifted Me"
+    ],
+    [
+      "final-htg-near-to-the-heart-of-god",
+      "Near To The Heart Of God"
+    ],
+    [
+      "final-htg-oh-how-i-love-jesus",
+      "Oh, How I Love Jesus"
+    ],
+    [
+      "final-htg-take-time-to-be-holy",
+      "Take Time To Be Holy"
+    ],
+    [
+      "final-tt-higher-ground",
+      "Higher Ground"
+    ],
+    [
+      "hc-fathers-world",
+      "This is My Father's World"
+    ],
+    [
+      "hc-turn-your-eyes",
+      "Turn Your Eyes Upon Jesus"
+    ],
+    [
+      "hc-wonderful-grace",
+      "Wonderful Grace of Jesus"
+    ],
+    [
+      "ly_sands-of-time-rutherford",
+      "The Sands of Time Are Sinking"
+    ],
+    [
+      "ly_softly-and-tenderly-thompson",
+      "Softly and Tenderly Jesus Is Calling"
+    ],
+    [
+      "mobile-complete-in-thee",
+      "Complete in Thee"
+    ],
+    [
+      "mobile-does-jesus-care",
+      "Does Jesus Care?"
+    ],
+    [
+      "mobile-o-love",
+      "O Love That Wilt Not Let Me Go"
+    ],
+    [
+      "mobile-only-trust-him",
+      "Only Trust Him"
+    ],
+    [
+      "mobile-spirit-of-god",
+      "Spirit of God, Descend Upon My Heart"
+    ],
+    [
+      "mobile-we-have-an-anchor",
+      "Will Your Anchor Hold (We Have an Anchor)"
+    ],
+    [
+      "mobile-well-work-till-jesus-comes",
+      "We'll Work Till Jesus Comes"
+    ],
+    [
+      "oh_a-mighty-fortress-is-our-god-ein-feste-burg-isorhythmic",
+      "A Mighty Fortress Is Our God"
+    ],
+    [
+      "oh_all-creatures-of-our-god-and-king-lasst-uns-erfreuen",
+      "All Creatures of Our God and King"
+    ],
+    [
+      "oh_all-hail-the-power-of-jesus-name-coronation",
+      "All Hail the Power of Jesus’ Name"
+    ],
+    [
+      "oh_amazing-grace-new-britain",
+      "Amazing Grace"
+    ],
+    [
+      "oh_be-still-my-soul-finlandia",
+      "Be Still, My Soul"
+    ],
+    [
+      "oh_be-thou-my-vision-slane",
+      "Be Thou My Vision"
+    ],
+    [
+      "oh_blessed-assurance-blessed-assurance-assurance",
+      "Blessed Assurance"
+    ],
+    [
+      "oh_christ-arose-christ-arose",
+      "Low In The Grave He Lay (Christ Arose)"
+    ],
+    [
+      "oh_come-thou-long-expected-jesus-jefferson",
+      "Come Thou Long-Expected Jesus (original Wesley hymn)"
+    ],
+    [
+      "oh_crown-him-with-many-crowns-diademata",
+      "Crown Him with Many Crowns"
+    ],
+    [
+      "oh_for-the-beauty-of-the-earth-dix",
+      "For the Beauty of the Earth"
+    ],
+    [
+      "oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn",
+      "Glorious Things Of Thee Are Spoken"
+    ],
+    [
+      "oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love",
+      "He Keeps Me Singing"
+    ],
+    [
+      "oh_he-leadeth-me-he-leadeth-me",
+      "He Leadeth Me"
+    ],
+    [
+      "oh_holy-holy-holy-nicaea",
+      "Holy Holy Holy"
+    ],
+    [
+      "oh_i-sing-the-mighty-power-of-god-ellacombe",
+      "I Sing the Mighty Power of God"
+    ],
+    [
+      "oh_immortal-invisible-god-only-wise-st-denio",
+      "Immortal, Invisible, God Only Wise"
+    ],
+    [
+      "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+      "It Is Well with My Soul"
+    ],
+    [
+      "oh_jesus-shall-reign-duke-street",
+      "Jesus Shall Reign"
+    ],
+    [
+      "oh_more-love-to-thee-more-love-to-thee",
+      "More Love To Thee"
+    ],
+    [
+      "oh_my-hope-is-built-melita",
+      "The Solid Rock (My Hope Is Built on Nothing Less)"
+    ],
+    [
+      "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+      "My Savior's Love (I Stand Amazed)"
+    ],
+    [
+      "oh_now-thank-we-all-our-god-nun-danket",
+      "Now Thank We All Our God"
+    ],
+    [
+      "oh_o-for-a-thousand-tongues-azmon",
+      "Oh for a Thousand Tongues to Sing"
+    ],
+    [
+      "oh_our-god-our-help-in-ages-past-st-anne",
+      "O God, Our Help in Ages Past"
+    ],
+    [
+      "oh_pass-me-not-o-gentle-savior-pass-me-not-o-gentle-savior",
+      "Pass Me Not, O Gentle Savior"
+    ],
+    [
+      "oh_praise-god-from-whom-all-blessings-flow-old-100th",
+      "Doxology (Praise God, from Whom All Blessings Flow)"
+    ],
+    [
+      "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+      "Praise, My Soul, the King of Heaven"
+    ],
+    [
+      "oh_praise-to-the-lord-the-almighty-lobe-den-herren",
+      "Praise to the Lord the Almighty"
+    ],
+    [
+      "oh_savior-like-a-shepherd-lead-us-bradbury",
+      "Savior, Like a Shepherd Lead Us"
+    ],
+    [
+      "oh_take-my-life-and-let-it-be-mozart",
+      "Take My Life And Let It Be"
+    ],
+    [
+      "oh_the-churchs-one-foundation-aurelia",
+      "The Church's One Foundation"
+    ],
+    [
+      "oh_the-old-rugged-cross-old-rugged-cross",
+      "The Old Rugged Cross"
+    ],
+    [
+      "oh_we-gather-together-kremser",
+      "We Gather Together to Ask the Lord's Blessing"
+    ],
+    [
+      "oh_what-a-friend-we-have-in-jesus-untitled",
+      "What a Friend We Have in Jesus"
+    ],
+    [
+      "oh_when-i-survey-the-wondrous-cross-duke-street",
+      "When I Survey the Wondrous Cross"
+    ],
+    [
+      "oh_when-the-roll-is-called-up-yonder-when-the-roll-is-called-up-yonder",
+      "When the Roll Is Called Up Yonder"
+    ],
+    [
+      "our-great-savior-hyfrydol",
+      "Our Great Savior (Jesus! What a Friend for Sinners)"
+    ],
+    [
+      "remaining-openpsalm-all-people",
+      "All People That on Earth Do Dwell"
+    ],
+    [
+      "remaining-openpsalm-all-the-way-my-savior-leads-me",
+      "All the Way My Savior Leads Me"
+    ],
+    [
+      "remaining-openpsalm-christ-the-lord-is-risen-today",
+      "Christ the Lord Is Risen Today"
+    ],
+    [
+      "remaining-openpsalm-great-is-thy-faithfulness",
+      "Great Is Thy Faithfulness"
+    ],
+    [
+      "remaining-openpsalm-i-will-sing-the-wondrous-story",
+      "I Will Sing the Wondrous Story"
+    ],
+    [
+      "remaining-openpsalm-o-worship-the-king",
+      "O Worship the King"
+    ],
+    [
+      "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+      "On Jordan's Stormy Banks I Stand"
+    ],
+    [
+      "remaining-openpsalm-praise-him-praise-him",
+      "Praise Him! Praise Him!"
+    ],
+    [
+      "remaining-openpsalm-sound-the-battle-cry",
+      "Sound the Battle Cry"
+    ],
+    [
+      "remaining-openpsalm-tell-me-the-story-of-jesus",
+      "Tell Me the Story of Jesus"
+    ],
+    [
+      "remaining-tt-children-of-the-heavenly-father",
+      "Children of the Heavenly Father"
+    ],
+    [
+      "remaining-tt-god-be-with-you-till-we-meet-again",
+      "God Be with You till We Meet Again"
+    ],
+    [
+      "remaining-tt-he-hideth-my-soul",
+      "He Hideth My Soul"
+    ],
+    [
+      "tt-lead-kindly-light",
+      "Lead, Kindly Light"
+    ],
+    [
+      "tt-lead-me-to-calvary",
+      "Lead Me to Calvary"
+    ],
+    [
+      "tt-my-faith-has-found-a-resting-place",
+      "My Faith Has Found a Resting Place"
+    ],
+    [
+      "tt-my-jesus-i-love-thee",
+      "My Jesus, I Love Thee"
+    ],
+    [
+      "tt-nearer-still-nearer",
+      "Nearer, Still Nearer"
+    ],
+    [
+      "tt-supplemental-bringing-in-the-sheaves",
+      "Bringing in the Sheaves"
+    ],
+    [
+      "tt-supplemental-count-your-blessings",
+      "Count Your Blessings"
+    ],
+    [
+      "tt-supplemental-grace-greater-than-our-sin",
+      "Grace Greater than Our Sin"
+    ],
+    [
+      "tt-supplemental-i-love-to-tell-the-story",
+      "I Love to Tell the Story"
+    ],
+    [
+      "tt-supplemental-in-the-cross-of-christ-i-glory",
+      "In the Cross of Christ I Glory"
+    ],
+    [
+      "tt-supplemental-jesus-lover-of-my-soul",
+      "Jesus, Lover of My Soul"
+    ],
+    [
+      "tt-supplemental-like-a-river-glorious",
+      "Like a River Glorious"
+    ],
+    [
+      "tt-supplemental-my-redeemer",
+      "My Redeemer"
+    ],
+    [
+      "tt-supplemental-o-perfect-love",
+      "O Perfect Love"
+    ],
+    [
+      "tt-supplemental-onward-christian-soldiers",
+      "Onward, Christian Soldiers"
+    ],
+    [
+      "tt-supplemental-rejoice-the-lord-is-king",
+      "Rejoice, the Lord Is King"
+    ],
+    [
+      "tt-supplemental-sweet-hour-of-prayer",
+      "Sweet Hour of Prayer"
+    ],
+    [
+      "tt-supplemental-the-king-of-love-my-shepherd-is",
+      "The King of Love My Shepherd Is"
+    ],
+    [
+      "tt-supplemental-trusting-jesus",
+      "Trusting Jesus"
+    ],
+    [
+      "tt-supplemental-we-rest-on-thee",
+      "We Rest on Thee"
+    ],
+    [
+      "winkworth-whateer-gastorius",
+      "Whate'er My God Ordains Is Right"
+    ]
+  ],
+  "books": [
+    {
+      "id": "traditional-christian-hymns",
+      "displayName": "Traditional Hymns",
+      "shortName": "Traditional Hymns",
+      "playlistUrl": "https://open.spotify.com/playlist/1b9jWFcBFsHhBPaBIGGmkn",
+      "key": "book1",
+      "entries": [
+        [
+          29,
+          "H001"
+        ],
+        [
+          3,
+          "H002"
+        ],
+        [
+          38,
+          "H005"
+        ],
+        [
+          59,
+          "H007"
+        ],
+        [
+          64,
+          "H008"
+        ],
+        [
+          50,
+          "H009"
+        ],
+        [
+          42,
+          "H010"
+        ],
+        [
+          68,
+          "H011"
+        ],
+        [
+          75,
+          "H013"
+        ],
+        [
+          79,
+          "H014"
+        ],
+        [
+          25,
+          "H015"
+        ],
+        [
+          13,
+          "H016"
+        ],
+        [
+          66,
+          "H018"
+        ],
+        [
+          54,
+          "H019"
+        ],
+        [
+          73,
+          "H021"
+        ],
+        [
+          17,
+          "H022"
+        ],
+        [
+          57,
+          "H023"
+        ],
+        [
+          47,
+          "H024"
+        ],
+        [
+          49,
+          "H025"
+        ],
+        [
+          0,
+          "H026"
+        ],
+        [
+          39,
+          "H027"
+        ],
+        [
+          30,
+          "H029"
+        ],
+        [
+          80,
+          "H030"
+        ],
+        [
+          26,
+          "H031"
+        ],
+        [
+          53,
+          "H035"
+        ],
+        [
+          84,
+          "H036"
+        ],
+        [
+          92,
+          "H037"
+        ],
+        [
+          89,
+          "H040"
+        ],
+        [
+          48,
+          "H042"
+        ],
+        [
+          52,
+          "H045"
+        ],
+        [
+          82,
+          "H047"
+        ],
+        [
+          34,
+          "H054"
+        ],
+        [
+          28,
+          "H057"
+        ],
+        [
+          1,
+          "H061"
+        ],
+        [
+          69,
+          "H064"
+        ],
+        [
+          76,
+          "H065"
+        ],
+        [
+          40,
+          "H069"
+        ],
+        [
+          27,
+          "H070"
+        ],
+        [
+          78,
+          "H072"
+        ],
+        [
+          85,
+          "H074"
+        ],
+        [
+          67,
+          "H077"
+        ],
+        [
+          77,
+          "H082"
+        ],
+        [
+          45,
+          "H083"
+        ],
+        [
+          46,
+          "H087"
+        ],
+        [
+          51,
+          "H089"
+        ],
+        [
+          62,
+          "H091"
+        ],
+        [
+          63,
+          "H093"
+        ],
+        [
+          19,
+          "H095"
+        ],
+        [
+          20,
+          "H099"
+        ],
+        [
+          56,
+          "H107"
+        ],
+        [
+          11,
+          "H110"
+        ],
+        [
+          74,
+          "H111"
+        ]
+      ],
+      "manifest": {
+        "packageId": "traditional-christian-hymns",
+        "schemaVersion": 1,
+        "corpusVersion": "2026-09-30-import-v2",
+        "releaseVersion": "1.0.0",
+        "canonicalCount": 52,
+        "arrangementCount": 52,
+        "canonicalAbcSha256": "9c16e9e519e44f8c3f79e1ab924b1d633e88df027bf3bbe6cebda7cb1c73e477",
+        "generatedArtifactsSha256": "ff405a3a0e24f887541ddce75a94641a600a117eb07e6c905e5c3facc3fa9fd5"
+      }
+    },
+    {
+      "id": "christian-hymns-contemporary",
+      "displayName": "Traditional and Contemporary Hymns",
+      "shortName": "Traditional and Contemporary Hymns",
+      "playlistUrl": "https://open.spotify.com/playlist/15KG94mLEF2aw944IzsTN4",
+      "key": "book2",
+      "entries": [
+        [
+          25,
+          "B015"
+        ],
+        [
+          26,
+          "B029"
+        ],
+        [
+          27,
+          "B066"
+        ],
+        [
+          63,
+          "B086"
+        ],
+        [
+          64,
+          "B006"
+        ],
+        [
+          28,
+          "B052"
+        ],
+        [
+          29,
+          "B001"
+        ],
+        [
+          30,
+          "B027"
+        ],
+        [
+          31,
+          "B127"
+        ],
+        [
+          81,
+          "B306"
+        ],
+        [
+          73,
+          "B021"
+        ],
+        [
+          65,
+          "B242"
+        ],
+        [
+          33,
+          "B160"
+        ],
+        [
+          18,
+          "B162"
+        ],
+        [
+          82,
+          "B046"
+        ],
+        [
+          34,
+          "B050"
+        ],
+        [
+          3,
+          "B084"
+        ],
+        [
+          19,
+          "B088"
+        ],
+        [
+          51,
+          "B082"
+        ],
+        [
+          35,
+          "B150"
+        ],
+        [
+          36,
+          "B124"
+        ],
+        [
+          74,
+          "B115"
+        ],
+        [
+          4,
+          "B166"
+        ],
+        [
+          83,
+          "B165"
+        ],
+        [
+          66,
+          "B018"
+        ],
+        [
+          5,
+          "B284"
+        ],
+        [
+          75,
+          "B011"
+        ],
+        [
+          37,
+          "B151"
+        ],
+        [
+          38,
+          "B004"
+        ],
+        [
+          2,
+          "B226"
+        ],
+        [
+          12,
+          "B119"
+        ],
+        [
+          39,
+          "B025"
+        ],
+        [
+          6,
+          "B211"
+        ],
+        [
+          84,
+          "B035"
+        ],
+        [
+          7,
+          "B163"
+        ],
+        [
+          40,
+          "B065"
+        ],
+        [
+          88,
+          "B268"
+        ],
+        [
+          67,
+          "B072"
+        ],
+        [
+          41,
+          "B210"
+        ],
+        [
+          85,
+          "B069"
+        ],
+        [
+          42,
+          "B008"
+        ],
+        [
+          86,
+          "B122"
+        ],
+        [
+          43,
+          "B261"
+        ],
+        [
+          77,
+          "B077"
+        ],
+        [
+          76,
+          "B061"
+        ],
+        [
+          87,
+          "B135"
+        ],
+        [
+          8,
+          "B304"
+        ],
+        [
+          32,
+          "B094"
+        ],
+        [
+          0,
+          "B024"
+        ],
+        [
+          44,
+          "B159"
+        ],
+        [
+          78,
+          "B067"
+        ],
+        [
+          79,
+          "B012"
+        ],
+        [
+          46,
+          "B080"
+        ],
+        [
+          9,
+          "B120"
+        ],
+        [
+          80,
+          "B028"
+        ],
+        [
+          47,
+          "B060"
+        ],
+        [
+          49,
+          "B031"
+        ],
+        [
+          20,
+          "B092"
+        ],
+        [
+          89,
+          "B038"
+        ],
+        [
+          68,
+          "B009"
+        ],
+        [
+          48,
+          "B040"
+        ],
+        [
+          10,
+          "B303"
+        ],
+        [
+          69,
+          "B059"
+        ],
+        [
+          21,
+          "B286"
+        ],
+        [
+          90,
+          "B113"
+        ],
+        [
+          62,
+          "B083"
+        ],
+        [
+          50,
+          "B007"
+        ],
+        [
+          1,
+          "B056"
+        ],
+        [
+          70,
+          "B130"
+        ],
+        [
+          53,
+          "B034"
+        ],
+        [
+          52,
+          "B043"
+        ],
+        [
+          91,
+          "B191"
+        ],
+        [
+          54,
+          "B019"
+        ],
+        [
+          17,
+          "B022"
+        ],
+        [
+          71,
+          "B209"
+        ],
+        [
+          22,
+          "B172"
+        ],
+        [
+          92,
+          "B036"
+        ],
+        [
+          55,
+          "B137"
+        ],
+        [
+          11,
+          "B173"
+        ],
+        [
+          72,
+          "B200"
+        ],
+        [
+          56,
+          "B102"
+        ],
+        [
+          93,
+          "B236"
+        ],
+        [
+          57,
+          "B023"
+        ],
+        [
+          16,
+          "B313"
+        ],
+        [
+          45,
+          "B078"
+        ],
+        [
+          13,
+          "B016"
+        ],
+        [
+          94,
+          "B171"
+        ],
+        [
+          14,
+          "B145"
+        ],
+        [
+          58,
+          "B305"
+        ],
+        [
+          95,
+          "B193"
+        ],
+        [
+          24,
+          "B223"
+        ],
+        [
+          59,
+          "B014"
+        ],
+        [
+          96,
+          "B155"
+        ],
+        [
+          60,
+          "B188"
+        ],
+        [
+          61,
+          "B241"
+        ],
+        [
+          23,
+          "B314"
+        ],
+        [
+          15,
+          "B128"
+        ]
+      ],
+      "manifest": {
+        "packageId": "christian-hymns-contemporary",
+        "schemaVersion": 1,
+        "corpusVersion": "2026-09-30-import-v2",
+        "releaseVersion": "1.0.0",
+        "canonicalCount": 97,
+        "arrangementCount": 97,
+        "canonicalAbcSha256": "b24f55771621bdaff30a68f2f9d647d916ae35759eee34503bca9995c3d9323a",
+        "generatedArtifactsSha256": "aecc17b62305cc4d9c1f880145476cedb086f2ef8d41e905150eaddd6e0febda"
+      }
+    }
+  ]
+}

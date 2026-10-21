@@ -1,0 +1,55 @@
+% Source edition: tt-supplemental-o-perfect-love
+% Source URL: https://library.timelesstruths.org/library/music/O/O_Perfect_Love/O_Perfect_Love.xml
+% Source SHA256: 94a46ab6fa0cd0b16bc7635ec2ea5be95888986684f5ef3eb37d103a4da24f62
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_O_Perfect_Love.repairs.json
+% Catalog membership: book1:H040, book2:B038
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Dorothy F. Gurney, 1883.  MUSIC: “Sandringham”; Joseph Barnby, 1889.  Public Domain.
+% Original credit-words: O Perfect Love
+% Original credit-words: WORDS: Dorothy F. Gurney, 1883.  MUSIC: “Sandringham”; Joseph Barnby, 1889.  Public Domain.
+% Original credit-words: Know the love of Christ, which passeth knowledge. Eph. 3:19
+% Original credit-words: They are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder. Mt. 19:6
+X:1
+T:O Perfect Love
+Z:WORDS: Dorothy F. Gurney, 1883.  MUSIC: “Sandringham”; Joseph Barnby, 1889.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ [A,D]2 [DF] [DA] | [CA]2 [CA]2 | [DA] [DA] [Dd] [Dc] | [Dc]2 [DB]2 | %4
+w: 1.~O per- fect|Love, all|hu- man thought tran-|scend- ing,|
+w: 2.~O per- fect|Life, be|Thou their full as-|sur- ance,|
+w: 3.~Grant them the|joy which|bright- ens earth- ly|sor- row;|
+ [B,E]2 [CF] [CG] | [DA]2 [CF]2 |  [B,D] [B,D] [B,F] [B,E] | [A,C]4 | %8
+w: Low- ly we|kneel in|prayer be- fore Thy|throne,|
+w: Of ten- der|char- i-|ty and stead- fast|faith,|
+w: Grant them the|peace which|calms all earth- ly|strife;|
+ [A,D]2 [DF] [DA] | [CA]2 [CA]2 | [DA] [DA] [Fd] [Ec] |  [Ec]2 [DB]2 | %12
+w: That theirs may|be the|love which knows no|end- ing,|
+w: Of pa- tient|hope and|qui- et, brave en-|dur- ance,|
+w: And to life’s|day the|glo- rious un- known|mor- row|
+ [GB]2 [FA] [EG] | [DF] [^DA] [EG] [B,E] | B,2 [A,C]2 | [A,D]4 |] %16
+w: Whom Thou for-|ev- er- more dost|join in|one.|
+w: With child- like|trust that fears not|pain nor|death.|
+w: That dawns up-|on e- ter- nal|love and|life.|
+V:2
+ x4 | x4 | x4 | x4 | %4
+ x4 | x4 |  x4 | x4 | %8
+ x4 | x4 | x4 |  x4 | %12
+ x4 | x4 | B,2 x2 | x4 |] %16
+V:3
+ [D,F,]2 [D,A,] [F,A,] | [E,G,]2 [E,G,]2 | [F,A,] [D,F,] [E,G,] [F,A,] | G,2 G,2 | %4
+ [G,B,]2 [G,A,] [G,A,] | [F,A,]2 [F,^A,]2 |  [B,,B,] [B,,F,] [E,,E,A,] [E,,E,G,] | [A,,E,]4 | %8
+ [D,F,]2 [D,A,] [F,A,] | [E,G,]2 A,2 | [F,A,] [F,A,] [F,^A,] [F,A,] |  [G,^A,]2 [G,B,]2 | %12
+ [G,,B,]2 [A,,C] [A,,C] | [B,,D] [F,,=C] [G,,B,] [G,,G,] | [A,,G,]2 [A,,G,]2 | [D,F,]4 |] %16
+V:4
+ x4 | x4 | x4 | G,2 G,2 | %4
+ x4 | x4 |  x4 | x4 | %8
+ x4 | x2 A,2 | x4 |  x4 | %12
+ x4 | x4 | x4 | x4 |] %16

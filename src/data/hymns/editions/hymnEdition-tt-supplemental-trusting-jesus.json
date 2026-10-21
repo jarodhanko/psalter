@@ -1,0 +1,174 @@
+{
+  "sourceSha256": "378cf26f2a750ddae93b2494c2dee3d550a2f5c9c147bb30046e2f5ed4c12555",
+  "metadata": {
+    "id": "hymn-tt-supplemental-trusting-jesus",
+    "title": "Trusting Jesus",
+    "composer": "Ira D. Sankey, 1876.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-trusting-jesus",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/T/Trusting_Jesus/Trusting_Jesus.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Edgar P. Stites, 1876.  MUSIC: Ira D. Sankey, 1876.  Public Domain.",
+      "Trusting Jesus",
+      "Let not your heart be troubled: ye believe in God, believe also in me. Jn. 14:1",
+      "Commit thy way unto the Lord; trust also in him; and he shall bring it to pass. Psa. 37:5"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Edgar P. Stites, 1876.  MUSIC: Ira D. Sankey, 1876.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-trusting-jesus",
+      "title": "Trusting Jesus",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B171"
+        }
+      ],
+      "file": "abc/tt-supplemental-trusting-jesus.abc",
+      "sha256": "378cf26f2a750ddae93b2494c2dee3d550a2f5c9c147bb30046e2f5ed4c12555",
+      "canonical_reference_in_archive": "musicxml_abc/Trusting_Jesus.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/T/Trusting_Jesus/Trusting_Jesus.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "inspection_status": "parsed_cached_web_text",
+          "method": "web_cached_page_then_actual_link_click",
+          "url": "https://library.timelesstruths.org/music/Trusting_Jesus/",
+          "snapshot_path": "sources/timelesstruths_supplemental/pages/Trusting_Jesus.web.txt",
+          "snapshot_sha256": "f8684c3d5ab8455f82f0804cbe191dfb69247dc58a99b5665384820303ca0f6a",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain L29:",
+              "preceding_context": [
+                "Trust",
+                "Report Error | << | >> L24: # Trusting Jesus",
+                "Edgar P. Stites , 1876"
+              ],
+              "following_context": [
+                "* * *",
+                "Subject: Trust L33:"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain L41:",
+              "preceding_context": [
+                "Scripture: John 14:1; Psalm 37:5 L35:",
+                "Trusting Jesus [.xml ]",
+                "Ira D. Sankey , 1876"
+              ],
+              "following_context": [
+                "* * *",
+                "Key: G L45:"
+              ]
+            }
+          ],
+          "rights_links": [],
+          "xml_link_count": 1,
+          "inspected_at_utc": "2026-09-30T18:11:10.252Z",
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B171",
+      "title": "Trusting Jesus",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-trusting-jesus",
+      "abc_file": "abc/tt-supplemental-trusting-jesus.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B171",
+        "Song title": "Trusting Jesus",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/T/Trusting_Jesus/Trusting_Jesus.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Trusting_Jesus/",
+        "Editable source": "",
+        "Tune and work identity": "TRUSTING JESUS; Ira D. Sankey; words Edgar P. Stites",
+        "Public distribution rights": "Opened Timeless Truths source explicitly labels both words and music Public Domain. Use this traditional score, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Trusting_Jesus/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional title/work candidate; no recording audio comparison performed.  Latest user permits a traditional PD tune even if different from recorded tune; use only historical text without added contemporary chorus.",
+        "Playlist positions": "235",
+        "Playlist artists": "Hyles-Anderson College",
+        "Original track titles": "Trusting Jesus",
+        "Source review": "PDF score with lyrics\nPDF opened and parsed; recording tune not independently confirmed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

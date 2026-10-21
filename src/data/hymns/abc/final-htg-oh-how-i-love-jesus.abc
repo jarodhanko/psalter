@@ -1,0 +1,193 @@
+%abc-2.1
+X:1
+T:Oh, How I Love Jesus
+C:Frederick Whitfield | Anonymous
+S:HymnsToGod.org; original MUP and PDF retained
+M:6/8
+L:1/8
+Q:1/4=100
+N:Source MUP SHA-256 d95fab65cd2820deb6c873fc101a50a7d19d3717a7d06c8160dcd7b0d09e3945
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+N:Includes the source-specific Amen ending
+K:Ab
+% SOURCE title bold (19) "" "Oh, How I Love Jesus" ""
+% SOURCE title (2)""
+% SOURCE title (11) "" "\f(TI)We love, because he first loved us. - 1 Jn. 4;19"""
+% SOURCE title (11) "A\(flat) - 4 - DO" "" ""
+% SOURCE title (13) "Frederick Whitfield" " " "Anonymous"
+% SOURCE title (11) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // Mup vs. 7.1 arkkra.com
+% SOURCE // The hymn produced by this Mup file is believed to be in the public 
+% SOURCE // domain in the United States of America.
+% SOURCE // This Mup file is donated to the public domain.
+% SOURCE //	Hymn Source: The Popular Hymnal
+% SOURCE //	Old Standard Hymns and Popular Gospel Songs 
+% SOURCE //	for Use in All Departments of Church, Sunday School
+% SOURCE //	and Young People’s Work
+% SOURCE //	Edited and Compiled by ROBERT H. COLEMAN
+% SOURCE //	Compiler of
+% SOURCE //	The Evangel, New Evangel, World Evangel, Herald and Treasury of Song
+% SOURCE //	THE JUDSON PRESS
+% SOURCE //	Chicago, St. Loius, Boston, Kansas City, Los Angeles, Seattle. Toronto
+% SOURCE //	Copyright 1918
+% SOURCE //	Hymn no. 274
+% SOURCE // Transcribed by: 
+% SOURCE //	Ted Gatza, Jr. 05/21/2024
+% SOURCE //
+% SOURCE // 	Revisions:
+% SOURCE //		
+% SOURCE //
+% SOURCE // HymnsToGod.org
+% SOURCE //==== FOR 6X9 ==========
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //Define macros
+% SOURCE    //Lyrics
+% SOURCE      //Lyrics Between Staffs
+% SOURCE      //Lyrics Below Bass Staff    
+% SOURCE      //Text - Above Staff
+% SOURCE      //Fermatas
+% SOURCE      //Note Accents
+% SOURCE      //Repeats
+% SOURCE //=========================
+% SOURCE //set midi
+% SOURCE //=========================
+% SOURCE //Verse
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3
+% SOURCE //3
+% SOURCE //4	
+% SOURCE //5
+% SOURCE //5
+% SOURCE //6
+% SOURCE //7
+% SOURCE //7
+% SOURCE //8
+% SOURCE //9
+% SOURCE //10
+% SOURCE //11
+% SOURCE //12
+% SOURCE //13
+% SOURCE //14
+% SOURCE //15
+% SOURCE //15
+% SOURCE //16
+% SOURCE //17
+% SOURCE //18
+% SOURCE //19
+V:11
+[AC] | [cE]2 [cE] [cE][BD] [cE] | [AC]2 [AC] [AC]2 [|] [AE] | x2 x BA x |
+w: 1.~There is a name * I love to hear, I * *
+w: 2.~It tells me of * a Sav- ior's love, Who * *
+w: 3.~It tells me what * my Fa- ther hath In * *
+w: 4.~It tells of One * whose lov- ing heart Can * *
+V:12
+x | x6 | x4 x [|] x | [BE]2 [BE] E2 [BE] |
+w: love to sing its
+w: died to set me
+w: store for ev- 'ry
+w: feel my deep- est
+V:21
+[A,A,,] | [A,A,,]2 [A,A,,] [A,A,,]2 [A,A,,] | [A,A,,]2 [A,A,,] [A,A,,]2 [|] [A,C,] | [G,E,]2 [G,E,] G,F, [G,E,] |
+V:22
+x | x6 | x4 x [|] x | x2 x E,2 x |
+V:11
+[(c(E]3 [A)e)]2 [|] [dE] | [cE]2 [cE] [cE][BD] [cE] | [AC]2 [AC] [AC]2 [|] [AE] | Bc [dF] [cE]2 [BD] |
+w: worth; * It sounds like mu- * sic in mine ear, The sweet- * est name on
+w: free; * It tells me of * His pre- cious blood, The sin- * ner's per- fect
+w: day, * And tho' I tread * a dark- some path, Yields sun- * shine all the
+w: woe, * Who in each sor- * row bears a- part, That none * can bear be-
+V:12
+x4 x [|] x | x6 | x4 x [|] x | F2 x x2 x |
+w: *
+w: *
+w: *
+w: *
+V:21
+(A,3 C2) [|] B, | [A,A,,]2 [A,A,,] [A,A,,]2 [A,A,,] | [A,A,,]2 [A,A,,] [A,A,,]2 [|] [A,C,] | [A,D,]2 [A,D,] [A,E,]2 [G,E,] |
+V:22
+A,3- A,2 [|] A, | x6 | x4 x [|] x | x6 |
+V:11
+[A-C-]3 [AC]3 ||
+w: earth. *
+w: plea. *
+w: way. *
+w: low. *
+V:12
+x6 ||
+w: 
+w: 
+w: 
+w: 
+V:21
+[A,-A,,-]3 [A,A,,]3 ||
+V:22
+x6 ||
+V:11
+"^Chorus"[cE]3 [cE] [BD] [cE] | [AC]3 A3 | [BD]3 [BD] [AC] [BD] | [cE]3 (e2 d) |
+w: Oh, how I love Je- sus, Oh, how I love Je- sus *
+w: * * * * * * * * * * * * *
+w: * * * * * * * * * * * * *
+w: * * * * * * * * * * * * *
+V:12
+x6 | x3 (C2 E) | x6 | x3 A3 |
+w: * * *
+w: * * *
+w: * * *
+w: * * *
+V:21
+[A,A,,]3 [A,A,,] [A,A,,] [A,A,,] | [A,A,,]3 A,3 | [G,E,]3 [G,E,] [A,E,] [G,E,] | A,3 (C2 B,) |
+V:22
+x6 | x3 (A,,2 C,) | x6 | A,3 A,3 |
+V:11
+[cE]3 [cE] [BD] [cE] | [AC]3 [AC]2 [|] [AE] | Bc [dA] [cE]2 [BD] | [A-C-]3 [AC]2 |]
+w: Oh, how I love Je- sus, Be- cause * He first loved me. *
+w: * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * *
+V:12
+x6 | x4 x [|] x | F2 x x2 x | x4 x |]
+w: *
+w: *
+w: *
+w: *
+V:21
+[A,A,,]3 [A,A,,] [A,A,,] [A,A,,] | [A,A,,]3 [A,A,,]2 [|] [A,C,] | [A,D,]2 [A,D,] [A,E,]2 [G,E,] | [A,-A,,-]3 [A,A,,]2 |]
+V:22
+x6 | x4 x [|] x | x6 | x4 x |]
+V:11
+[AD]6 | [AC]6 |]
+w: A- MEN.
+w: * *
+w: * *
+w: * *
+V:12
+x6 | x6 |]
+w: 
+w: 
+w: 
+w: 
+V:21
+[F,D,]6 | [A,E,]6 |]
+V:22
+x6 | x6 |]

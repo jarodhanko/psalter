@@ -1,0 +1,9 @@
+# Psalter 415 later-stanza underlay review — 2026-09-28
+
+The owner's annotated photos local source evidence (not distributed) (printed p. 358) and local source evidence (not distributed) (p. 359 continuation) are authoritative. The clean scan local source evidence (not distributed) agrees with the score page. The continuation photo prints all of stanzas 3–10 and supports their existing words and punctuation. While checking it, corrected stanza 7's `W:` punctuation after “maintain” to the printed comma.
+
+Added T1 `w:` rows for stanzas 3–10, pairing the eight metrical lines as four groups over the score's repeated melodic phrases. For stanza 8, the 15 T1 note events in each system divide into 8/7, 8/7, 7/8, and 7/8 syllable slots respectively. The inferred row uses `Myr-iad` as a two-syllable sung form in both occurrences and `De-liv-'rer` for the conventional three-syllable elision in “Deliverer”; these are editorial underlay choices, not changes to the photographed wording. The owner photo prints the full forms in `W:` and remains verbatim. ABC `~` binds multiple lyric tokens under one note but does not identify how to pronounce or elide these words, so the syllabification records the intended scan directly. No repeat or refrain is printed for the later stanzas. The final underlaid group (lines 7–8) lands on the score's closing cadence and fermata. Notes, durations, and the printed performance note are unchanged.
+
+The first `w:` row of each inferred stanza is explicitly numbered, including stanza 8. Earlier unnumbered rows were already in stanza order, but their omitted labels made the generated stanza audit and viewer metadata misleading.
+
+This is a visual/metre review; it does not certify the SATB transcription or audio. The generated ABC and repository verification pass with all ten stanza rows attached across the four T1 music lines, but a separate visual render comparison of stanza 8 has not been performed.

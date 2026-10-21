@@ -1,0 +1,14 @@
+# Psalter 354b lyric underlay review
+
+- Ground truth: annotated photo local source evidence (not distributed) (photo 297, printed page 303), lower ALBANO setting labeled `SECOND TUNE`.
+- The lower setting prints stanzas 1–4 beneath each of its two soprano systems. Each photographed half-stanza has 14 syllables, matching the 14 soprano note events in that system. Syllable divisions and note alignment were checked against the printed lyric placement in the photograph.
+- Added `w:` underlay for the four stanzas printed beneath ALBANO, numbering the opening rows only. The six complete stanzas remain in `W:`. Stanzas 5–6 are printed as text between the two tunes, not under ALBANO. Stanza 6's pictured text has exactly 14 syllables in each half, so it is also aligned to the 14 soprano events per system; this is a text-and-meter inference, not printed ALBANO underlay. Stanza 5 is likewise inferred from the printed text and meter: its first half fits 14 soprano events when “wandering” is conventionally sung as “wand'ring” (two syllables), giving 8 + 6 syllables across the two printed lines. The `w:` transcription marks that elision explicitly; the `W:` text remains verbatim.
+- This review certifies the lyric underlay only. It does not independently re-evaluate the complete SATB transcription.
+
+Status: stanzas 1–4 have photographed ALBANO underlay; stanzas 5–6 are meter-aligned inferences. The 354b SATB transcription remains unaudited.
+
+## Printed key correction — 2026-09-29
+
+Two bounded reviewers independently checked ALBANO's first and second printed systems against the owner's page 303 photo; the same-edition clean `_354_2.webp` aided the second-system reading. Both systems have **one flat**, B-flat, so the printed key is F major. The prior `K:Bb` incorrectly flattened every otherwise unmarked E. The canonical ABC now uses `K:F`, preserving the separately engraved `_E2` in Alto bar 5. This restores natural E in at least Bass bar 1, Soprano/Alto bar 2, Soprano bar 3, Alto bar 4, Soprano bars 6 and 8, and Tenor bar 7. The reviewers found no other definite notehead/rhythm discrepancy in their bounded visual passes, but this does not certify all SATB events or inferred stanzas 5–6; overall status remains **PARTIAL**.
+
+`node tools/verify.mjs` passed after the correction (474 arrangements, 0 ABC warnings, 148 existing tests, TypeScript and production/PWA build). Firebase production Hosting was updated; its served `psalter354b` asset returned HTTP 200 and matched the local build SHA-256. A fresh 1400-pixel desktop capture, local source evidence (not distributed) (ignored scratch), visibly shows the one-flat signature, “F Major” key label, both photographed lyric systems, and the repeated setting for stanza 6 without clipping. This render check is not full photo certification.

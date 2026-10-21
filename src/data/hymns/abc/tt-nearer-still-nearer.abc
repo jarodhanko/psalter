@@ -1,0 +1,67 @@
+% Source edition: tt-nearer-still-nearer
+% Source URL: https://library.timelesstruths.org/library/music/N/Nearer_Still_Nearer/Nearer_Still_Nearer.xml
+% Source SHA256: 332233184ffc85dac5f95f50c1e8a4b21e4139211f8e19aa4ffa1027b5b24809
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Nearer_Still_Nearer.repairs.json
+% Catalog membership: book1:H030, book2:B028
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS and MUSIC: Lelia N. Morris, pub.1898.  Public Domain.
+% Original credit-words: Nearer, Still Nearer
+% Original credit-words: WORDS and MUSIC: Lelia N. Morris, pub.1898.  Public Domain.
+% Original credit-words:  Draw nigh to God, and he will draw nigh to you. Jas. 4:8 Let us draw near with a true heart in full assurance of faith. Heb. 10:22
+% Original credit-words: It is good for me to draw near to God: I have put my trust in the Lord God. Ps. 73:28
+X:1
+T:Nearer, Still Nearer
+Z:WORDS and MUSIC: Lelia N. Morris, pub.1898.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+M:4/4
+K:Db
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ [DF]2 [DF] [DF] | [EA]2 [EA]2 | D2 [DG] [DG] | [DF]3 z | %4
+w: 1.~Near- er, still|near- er,|close to Thy|heart,|
+w: 2.~Near- er, still|near- er,|noth- ing I|bring,|
+w: 3.~Near- er, still|near- er,|Lord, to be|Thine!|
+w: 4.~Near- er, still|near- er,|while life shall|last,|
+ [DB]2 [GB] [GB] | [FA]2 [DF] [DF] |  [DF]2 [B,E] [DE] | [CE]3 z | %8
+w: Draw me, my|Sav- ior— so|pre- cious Thou|art!|
+w: Naught as an|of- f’ring to|Je- sus, my|King;|
+w: Sin, with its|fol- lies, I|glad- ly re-|sign,|
+w: Till safe in|glo- ry my|an- chor is|cast;|
+ [DF]2 [DF] [DF] | [EA]2 [FA]2 | [GB]2 [Gc] [Fd] | [Ec]3 z | %12
+w: Fold me, oh,|fold me|close to Thy|breast;|
+w: On- ly my|sin- ful,|now con- trite|heart,|
+w: All of its|pleas- ures,|pomp and its|pride,|
+w: Through end- less|a- ges|ev- er to|be|
+ [Ad]2 [Ac] [GB] |  [FA]2 [DF] [DA] | [CA]2 [CA]3/2 [CG]/ | [DF]3 z | %16
+w: Shel- ter me|safe in that|“ha- ven of|rest”;|
+w: Grant me the|cleans- ing Thy|blood doth im-|part;|
+w: Give me but|Je- sus, my|Lord cru- ci-|fied;|
+w: Near- er, my|Sav- ior, still|near- er to|Thee;|
+ [GB]2 [Gc] [Gd] | [Fd]2 D [DE] | [DF]2 [CF]3/2 [CE]/ | [DD]4 |] %20
+w: Shel- ter me|safe in that|“ha- ven of|rest.”|
+w: Grant me the|cleans- ing Thy|blood doth im-|part.|
+w: Give me but|Je- sus, my|Lord cru- ci-|fied.|
+w: Near- er, my|Sav- ior, still|near- er to|Thee!|
+V:2
+ x4 | x4 | D2 x2 | x4 | %4
+ x4 | x4 |  x4 | x4 | %8
+ x4 | x4 | x4 | x4 | %12
+ x4 |  x4 | x4 | x4 | %16
+ x4 | x2 D x | x4 | x4 |] %20
+V:3
+ [D,A,]2 [D,A,] [D,A,] | [C,A,]2 [C,E,]2 | [B,,F,]2 [G,,B,] B, | [D,F,]3 z | %4
+ (G, B,) [G,D] [G,D] | [D,D]2 [D,A,] [D,A,] |  [B,,B,]2 [E,=G,] [E,G,] | [A,,A,]3 z | %8
+ [D,A,]2 [D,A,] [D,A,] | [C,A,]2 [D,D]2 | [G,D]2 [E,A,] [D,A,] | A,3 z | %12
+ (A, D) [G,D] [G,D] |  [D,D]2 [D,A,] [D,F,] | [A,,E,]2 [A,,E,]3/2 [A,,A,]/ | [D,A,]3 z | %16
+ [G,,D]2 [G,,C] [G,,B,] | [A,,A,]2 [__B,,=G,] [=B,,G,] | [A,,A,]2 [A,,A,]3/2 [A,,G,]/ | [D,F,]4 |] %20
+V:4
+ x4 | x4 | x2 x (G,,/ B,,/) | x4 | %4
+ G,2 x2 | x4 |  x4 | x4 | %8
+ x4 | x4 | x4 | A,3 x | %12
+ F,2 x2 |  x4 | x4 | x4 | %16
+ x4 | x4 | x4 | x4 |] %20

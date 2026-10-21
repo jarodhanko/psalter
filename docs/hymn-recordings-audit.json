@@ -1,0 +1,3463 @@
+{
+  "schemaVersion": 1,
+  "mappingSourceSha256": "7f21339b35aea122f74c0da2f7c031c7ab6a24380082c0e358b56772a69474b3",
+  "runtimeEntriesSha256": "b3fff1369060ef75df3eda61c402d1a0298e3059afb1ef36c9bb129106426712",
+  "verificationDate": "2026-10-06",
+  "playlistSnapshotDate": "2026-09-30",
+  "summary": {
+    "memberships": 149,
+    "uniqueSourceEditions": 97,
+    "primaryLinks": 149,
+    "uniquePrimaryRecordings": 101,
+    "matchStatus": {
+      "probable": 144,
+      "exact": 3,
+      "different_tune": 2
+    },
+    "tuneComparison": {
+      "not_verified": 111,
+      "possible_different_tune": 33,
+      "same_historical_tune_documented": 3,
+      "different_tune_documented": 2
+    },
+    "currentRecordingMetadataVerified": 149,
+    "currentPlaylistMembershipVerified": 78,
+    "membershipFrom20260930AuditOnly": 71,
+    "byBook": {
+      "book1": {
+        "probable": 52
+      },
+      "book2": {
+        "probable": 92,
+        "exact": 3,
+        "different_tune": 2
+      }
+    },
+    "unmatchedPrimaryIdentities": 0
+  },
+  "verificationLimits": [
+    "No audio was auditioned. Notation and recordings are separate arrangements.",
+    "All 149 primary links (101 distinct Spotify IDs) have current first-party title/artist verification.",
+    "Current first 100 tracks of each playlist match the September 30 audit exactly, and current totals remain 146 and 489. Membership beyond those first 100 tracks was verified only in the September 30 catalog snapshot.",
+    "Source and recording rights are separate. These links do not establish publication clearance for scores, lyrics, arrangements, or recordings.",
+    "Catalog version prose is historical evidence; selectedTune and sourceAbcSha256 bind the actual installed notation."
+  ],
+  "playlists": {
+    "traditional-christian-hymns": "https://open.spotify.com/playlist/1b9jWFcBFsHhBPaBIGGmkn",
+    "christian-hymns-contemporary": "https://open.spotify.com/playlist/15KG94mLEF2aw944IzsTN4"
+  },
+  "sourceEditions": {
+    "oh_be-still-my-soul-finlandia": {
+      "sourceAbcSha256": "b519a1af7693af77cf5a1fef61f1f2661583335433ab9fcac5d7ea8ac0fc5dbe",
+      "selectedTune": "Finlandia"
+    },
+    "final-htg-day-by-day": {
+      "sourceAbcSha256": "de04abc72946e58db46637b41c0a35be5d6f197da5aac95ef417ef1222d1f637",
+      "selectedTune": "BLOTT EN DAG (Ahnfelt)"
+    },
+    "oh_he-leadeth-me-he-leadeth-me": {
+      "sourceAbcSha256": "84b75a9b1e6233a3665eeb7fa904c4ba646bff70d268d0447d1d337a0a26a725",
+      "selectedTune": "HE LEADETH ME (Bradbury)"
+    },
+    "oh_what-a-friend-we-have-in-jesus-untitled": {
+      "sourceAbcSha256": "89bd2b5f48c17bb06fe7dc30fe1a77315083e8a7a3b74d2e8494c37306799214",
+      "selectedTune": "CONVERSE (the Open Hymnal file labels it untitled)"
+    },
+    "remaining-openpsalm-all-the-way-my-savior-leads-me": {
+      "sourceAbcSha256": "7e8ca442609173539b65cdf5d283e2aabdae7e0c62606b8903df7efde99cdd53",
+      "selectedTune": "ALL THE WAY (Lowry)"
+    },
+    "oh_pass-me-not-o-gentle-savior-pass-me-not-o-gentle-savior": {
+      "sourceAbcSha256": "06b30284d0fdc9712c72d8df78675da2c67246a21e918811932985df8cd8ada3",
+      "selectedTune": "Pass Me Not O Gentle Savior"
+    },
+    "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre": {
+      "sourceAbcSha256": "7261e3c2590276c6ae9f686c042dca5bf4b2119e5a3ee02e5f2bb62c6bf97c6e",
+      "selectedTune": "VILLE DU HAVRE (Bliss)"
+    },
+    "remaining-openpsalm-o-worship-the-king": {
+      "sourceAbcSha256": "68305357e4ecb0c0886b7650dadfca8301ce2e454126040741c3b2663933ec69",
+      "selectedTune": "Lyons"
+    },
+    "remaining-tt-he-hideth-my-soul": {
+      "sourceAbcSha256": "542e943f9f6896e5b31264d4113b6ff44b275d2b859aa2afb1a42e199691df77",
+      "selectedTune": "HE HIDETH MY SOUL (Kirkpatrick)"
+    },
+    "tt-my-jesus-i-love-thee": {
+      "sourceAbcSha256": "87ee161444d21c2e11ce447f302f6da4cffb5e16f878459c0d2e084d738302f6",
+      "selectedTune": "Gordon"
+    },
+    "oh_a-mighty-fortress-is-our-god-ein-feste-burg-isorhythmic": {
+      "sourceAbcSha256": "ad1c619c0ec3ee053d04096af771fb9847675809b7f72bec6ea286e4bf1da8ab",
+      "selectedTune": "Ein Feste Burg (Isorhythmic)"
+    },
+    "hc-fathers-world": {
+      "sourceAbcSha256": "c79b3cb628060693f9eef7e08e2f3db2a7ed9629dfc1b3e976d0a1f5e958dad6",
+      "selectedTune": "TERRA BEATA"
+    },
+    "remaining-openpsalm-great-is-thy-faithfulness": {
+      "sourceAbcSha256": "b71d3009d7e5d52eb60fc0de619f9a7eb9d38ffcf1c4a50735402281f4d23268",
+      "selectedTune": "Faithfulness (Runyan)"
+    },
+    "oh_savior-like-a-shepherd-lead-us-bradbury": {
+      "sourceAbcSha256": "2736e7020e77b0baa6cc1b4adaa5399a302918d48cd67f2b2b0ce79491bf3032",
+      "selectedTune": "BRADBURY"
+    },
+    "remaining-tt-children-of-the-heavenly-father": {
+      "sourceAbcSha256": "0317892ac451e07a529a25222d18f2e6792933f7868e2bf37c019bc437826391",
+      "selectedTune": "Tryggare Kan Ingen Vara"
+    },
+    "ly_softly-and-tenderly-thompson": {
+      "sourceAbcSha256": "b6d67a4968a97da5a07cf241d24297aaa1457f0faa6c8f97ab590675d6c642a4",
+      "selectedTune": "THOMPSON"
+    },
+    "oh_the-old-rugged-cross-old-rugged-cross": {
+      "sourceAbcSha256": "53c1aaada598728a03c35d8e546ec66bf157aee92d80eeaabe0ebda115eeee06",
+      "selectedTune": "OLD RUGGED CROSS (Bennard)"
+    },
+    "oh_now-thank-we-all-our-god-nun-danket": {
+      "sourceAbcSha256": "394a7250f4497b4ae7dd88d7a06975fe1a8267c1eae05d89ffe769e68ff748c7",
+      "selectedTune": "Nun Danket"
+    },
+    "oh_our-god-our-help-in-ages-past-st-anne": {
+      "sourceAbcSha256": "066907fbdc4a85567f1a50895109ab2975a18db5ef59caedcfd546bdfc1cf7ce",
+      "selectedTune": "St. Anne"
+    },
+    "aperio-battle-hymn": {
+      "sourceAbcSha256": "cd460169b67dc0706a7e228e20cbfc58d6920e7148af286464ee26fb7baac9cb",
+      "selectedTune": "BATTLE HYMN (Steffe)"
+    },
+    "oh_holy-holy-holy-nicaea": {
+      "sourceAbcSha256": "2f24671f4266261c21d57bf523c37652ea4be81e7478f9d6e034c4c62c560a96",
+      "selectedTune": "Nicaea"
+    },
+    "oh_be-thou-my-vision-slane": {
+      "sourceAbcSha256": "63b5bd2fe83d369f76036e05318b7f562d974906276ae2d001cdeb72a45642ea",
+      "selectedTune": "Slane"
+    },
+    "tt-nearer-still-nearer": {
+      "sourceAbcSha256": "fdb5827c3d400c339d997b2eb73da1438a7c0f7c0e49ea776de7281b0eb57aee",
+      "selectedTune": "NEARER STILL NEARER (Morris)"
+    },
+    "oh_all-creatures-of-our-god-and-king-lasst-uns-erfreuen": {
+      "sourceAbcSha256": "cc0979466a1d1e13b0ba1a845b65ee003c156ef53e21aac5c8685a801d96c4fc",
+      "selectedTune": "Lasst Uns Erfreuen"
+    },
+    "oh_praise-to-the-lord-the-almighty-lobe-den-herren": {
+      "sourceAbcSha256": "7ef76f6fffb63713f00a71731d7347cfa0efe4216ad58ef6c518fd27608c50be",
+      "selectedTune": "Lobe den Herren"
+    },
+    "tt-supplemental-i-love-to-tell-the-story": {
+      "sourceAbcSha256": "c129dcc020ecdf2794fac76b8f627e4827074cd831af0134f5f63918beb8922f",
+      "selectedTune": "Hankey"
+    },
+    "tt-supplemental-sweet-hour-of-prayer": {
+      "sourceAbcSha256": "dd230ad877ac514e545ac6d831ff44319e84a4c7614abdf1c78d84b9f0ce41fa",
+      "selectedTune": "Sweet Hour"
+    },
+    "tt-supplemental-o-perfect-love": {
+      "sourceAbcSha256": "a65b60ab9c1d3641153df30040855a399368c22a7449524af001750b74303d9d",
+      "selectedTune": "Sandringham"
+    },
+    "oh_o-for-a-thousand-tongues-azmon": {
+      "sourceAbcSha256": "cb757f08245199d19cdeed78bcdb9a6a5f06d5969df309391768804a839e1de5",
+      "selectedTune": "Azmon"
+    },
+    "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima": {
+      "sourceAbcSha256": "a3ca47e0b47b6020106aff0b38c586f84aab931b6be0fab6d0c52277be14ca35",
+      "selectedTune": "Praise My Soul"
+    },
+    "tt-supplemental-count-your-blessings": {
+      "sourceAbcSha256": "dbcf559f94cd4e2818f1cbe9490038d086de9ec84adb9a684445f14d4c4dc06a",
+      "selectedTune": "Blessings"
+    },
+    "oh_crown-him-with-many-crowns-diademata": {
+      "sourceAbcSha256": "43e139fe74896759ffd1517b2df55a0880d2885b3d44dea473e2e4a50fd06a60",
+      "selectedTune": "Diademata"
+    },
+    "oh_amazing-grace-new-britain": {
+      "sourceAbcSha256": "9d108a45a1c98d91bbc09e711861d54c16d0be30758615ae5fd463d06201d558",
+      "selectedTune": "New Britain"
+    },
+    "aperio-wayfaring-stranger": {
+      "sourceAbcSha256": "1bc409cc72ca798d278afacdd907a45f0e5a22abcfe655ae805a05c20a5504f8",
+      "selectedTune": "WAYFARING STRANGER (traditional)"
+    },
+    "remaining-openpsalm-on-jordans-stormy-banks-i-stand": {
+      "sourceAbcSha256": "7f8c893226207eac3cd983e0a776c083998f24760c86fd72a687a02abccb19b7",
+      "selectedTune": "On Jordan's Stormy Banks (Tullius C. O'Kane, 1877)"
+    },
+    "tt-lead-kindly-light": {
+      "sourceAbcSha256": "c974c091b47f8cd9b2ecceceb4452773eaa46e37cf38bc32af8a2d5af22e3120",
+      "selectedTune": "Lux Benigna"
+    },
+    "oh_i-sing-the-mighty-power-of-god-ellacombe": {
+      "sourceAbcSha256": "6bc1a7d185d09769515f802f2e908db12d42e24da0db41286ffa67ae5bc91971",
+      "selectedTune": "Ellacombe"
+    },
+    "oh_all-hail-the-power-of-jesus-name-coronation": {
+      "sourceAbcSha256": "3391922a5dd603e73180d780e3921bb08a92c4ecb85f5d8c07bd3958de537a86",
+      "selectedTune": "Coronation"
+    },
+    "tt-my-faith-has-found-a-resting-place": {
+      "sourceAbcSha256": "d08fdcf2605d3358af371d8263b6489870f8285635d09711958c7b24675eca70",
+      "selectedTune": "Land\u00e5s"
+    },
+    "tt-supplemental-in-the-cross-of-christ-i-glory": {
+      "sourceAbcSha256": "0abe44ac995e15ef682136ea400ae61c61ae88448c3d86dc258e3b7eafe315a7",
+      "selectedTune": "Rathbun"
+    },
+    "remaining-openpsalm-i-will-sing-the-wondrous-story": {
+      "sourceAbcSha256": "fc387f305d77dd757c1cd77164808dab232d0b676741e71fb72a0c9f806b7757",
+      "selectedTune": "WONDROUS STORY (Bilhorn)"
+    },
+    "tt-lead-me-to-calvary": {
+      "sourceAbcSha256": "9587ce06d7a7c8e948e721b041c75150fa800601446122662c2dcb40a4e45fe0",
+      "selectedTune": "Duncannon"
+    },
+    "oh_my-hope-is-built-melita": {
+      "sourceAbcSha256": "4f40852fc6dc17f9fe04ac330890b80bfd80449ffb63a1d76d1568ab00dd6c9d",
+      "selectedTune": "Melita"
+    },
+    "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence": {
+      "sourceAbcSha256": "28899207b08ada12aa8a8736706ff16d1c5abc7179a0f7310fbffa3ce94c8ea9",
+      "selectedTune": "MY SAVIOR'S LOVE (Gabriel)"
+    },
+    "oh_praise-god-from-whom-all-blessings-flow-old-100th": {
+      "sourceAbcSha256": "238399b4bb615f0981b5910a5e1d27e26c0167807c19097f757c1cbc09ec00fa",
+      "selectedTune": "Old 100th"
+    },
+    "our-great-savior-hyfrydol": {
+      "sourceAbcSha256": "11b2cb0e0171cc7d5340d252ceacc9071b37ae1e9628910c7ae16a3176e38d75",
+      "selectedTune": "HYFRYDOL"
+    },
+    "remaining-openpsalm-all-people": {
+      "sourceAbcSha256": "c99974266e730aa121babe2c1c7dc8ef37db7d5d41da4029020001de094928ee",
+      "selectedTune": "Old Hundredth"
+    },
+    "mobile-does-jesus-care": {
+      "sourceAbcSha256": "bbd5cc424df94491327e279b6dd353021faa6bd9e8b53eb928bff0ec85d7ed63",
+      "selectedTune": "MY SAVIOR CARES (Hall)"
+    },
+    "mobile-o-love": {
+      "sourceAbcSha256": "7ad0152c427c56883f51071ff82a7db237d40faf23286508845a348862bd6abd",
+      "selectedTune": "ST. MARGARET"
+    },
+    "oh_the-churchs-one-foundation-aurelia": {
+      "sourceAbcSha256": "a21a7088d628d5b53ece7fcc6ccad0da44984c15b1541917deb4e2bc37ce2c38",
+      "selectedTune": "Aurelia"
+    },
+    "final-htg-take-time-to-be-holy": {
+      "sourceAbcSha256": "4b3614db39be489c94ae40d658897c102890736b6e5ee793af140453a0225085",
+      "selectedTune": "HOLINESS (Stebbins)"
+    },
+    "remaining-tt-god-be-with-you-till-we-meet-again": {
+      "sourceAbcSha256": "d303c04438eff72af0e51b1e62a8b83f9a559c7fac246ae9d7f0a35e967df030",
+      "selectedTune": "God Be with You"
+    },
+    "oh_blessed-assurance-blessed-assurance-assurance": {
+      "sourceAbcSha256": "cff4ed719969ce105b87cf164c3449dab45db25f6f5dd6a6ee7aa387ac1645b5",
+      "selectedTune": "ASSURANCE"
+    },
+    "tt-supplemental-bringing-in-the-sheaves": {
+      "sourceAbcSha256": "f9238fa3efb59de38a0a543c35d9d4b8f5d38e07a03af0d5d2179fb66de59384",
+      "selectedTune": "BRINGING IN THE SHEAVES (Minor)"
+    },
+    "remaining-openpsalm-christ-the-lord-is-risen-today": {
+      "sourceAbcSha256": "fc98ee48e4232ab39e0ef05703d4934d2c5ad403c9a7053c431fd61344c30376",
+      "selectedTune": "Easter Hymn"
+    },
+    "oh_come-thou-long-expected-jesus-jefferson": {
+      "sourceAbcSha256": "f029b43b8216f390952410219ab31f3bdd6da4c6b625f8250c946c2740730178",
+      "selectedTune": "JEFFERSON"
+    },
+    "mobile-complete-in-thee": {
+      "sourceAbcSha256": "a1533292ac7cc29c4440aed0e49a08e1d7aa430a0b539cad311cf1179fdb5495",
+      "selectedTune": "BITTIKOFER"
+    },
+    "oh_for-the-beauty-of-the-earth-dix": {
+      "sourceAbcSha256": "08de3b4eb8b828636d3e5ef6fe31f8641ff282116e596cfb6836e311cd8c04f5",
+      "selectedTune": "Dix"
+    },
+    "oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn": {
+      "sourceAbcSha256": "3bd406aed1b103a5ab82c99b6894abbffe5fc6e0a3b540c0c750082a354bba92",
+      "selectedTune": "Austria (Haydn)"
+    },
+    "final-htg-god-leads-us-along": {
+      "sourceAbcSha256": "6affc0fd9540d9b6e8fb617c32d845c5c3a2ad7b11f532a9b68206180dbceb7b",
+      "selectedTune": "GOD LEADS US ALONG (Young)"
+    },
+    "tt-supplemental-grace-greater-than-our-sin": {
+      "sourceAbcSha256": "0705bbc81e16d4d9b3d2d8ccecdf81f83f570adc8708215818ed4693ff6959a1",
+      "selectedTune": "Moody"
+    },
+    "final-htg-hallelujah-praise-jehovah": {
+      "sourceAbcSha256": "2845504b4668477eef4539e991a8e12d6bc266299d6130cbbc1cd3f267b1d570",
+      "selectedTune": "PRAISE JEHOVAH (Kirkpatrick)"
+    },
+    "oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love": {
+      "sourceAbcSha256": "60bf29024e183ef281282789ab1ab17064140fa27d2c392ec595a74082a1197a",
+      "selectedTune": "He Keeps Me Singing"
+    },
+    "cantorion-here-is-love": {
+      "sourceAbcSha256": "d1d2052c36accafa36091203951ddf71e167797aacfbc570c686ed475332368c",
+      "selectedTune": "CYMRAEG (Lowry)"
+    },
+    "final-tt-higher-ground": {
+      "sourceAbcSha256": "5578087fdb3f768d3b45109e1e42c8da70b6421477ac7d50432edda03959288c",
+      "selectedTune": "HIGHER GROUND (Gabriel)"
+    },
+    "final-htg-how-gentle-god-s-commands": {
+      "sourceAbcSha256": "2c3f6cb95006a221911207a2dd65f5fb089318b8416aa02839e92d6b72aebe6f",
+      "selectedTune": "DENNIS (N\u00e4geli/Mason)"
+    },
+    "final-htg-i-must-tell-jesus": {
+      "sourceAbcSha256": "17c44cc4a790dd46712f0f70f81ef25dfefa75f2ade73b855c286dec1ddb7faa",
+      "selectedTune": "ORWIGSBURG (Hoffman)"
+    },
+    "tt-supplemental-my-redeemer": {
+      "sourceAbcSha256": "119d5844d02ea44e268e7d610da0662b06a2b70604b5124dc403af61dc9f1922",
+      "selectedTune": "MY REDEEMER (McGranahan)"
+    },
+    "oh_immortal-invisible-god-only-wise-st-denio": {
+      "sourceAbcSha256": "4d8cc05324b97f735203f3fea6e73fa6af9ea3dd2f16b02f23a6b6b1e1ab9020",
+      "selectedTune": "St. Denio"
+    },
+    "tt-supplemental-jesus-lover-of-my-soul": {
+      "sourceAbcSha256": "dc3155484dcd4d2c660b6894fd373979a518f0081aa76a39b6492b21c74d9f65",
+      "selectedTune": "Martyn"
+    },
+    "oh_jesus-shall-reign-duke-street": {
+      "sourceAbcSha256": "702d4316ada7b82164ae4a69204749b3f7115737d57a905fd4024a92a99be9f4",
+      "selectedTune": "Duke Street"
+    },
+    "tt-supplemental-like-a-river-glorious": {
+      "sourceAbcSha256": "8748b9577110c936168d589ff3308e197bffa8566bb102af859b9553cb3f3a84",
+      "selectedTune": "Wye Valley"
+    },
+    "final-htg-love-lifted-me": {
+      "sourceAbcSha256": "24267d538beba5b948c516e30c603b07eb8698c43430524cf0d8f7cdcbb2c54b",
+      "selectedTune": "LOVE LIFTED ME (Smith)"
+    },
+    "oh_christ-arose-christ-arose": {
+      "sourceAbcSha256": "2a94b4a81f5d4764ad6849f7a9b28126c5d258d3e8891f0911597810b359430c",
+      "selectedTune": "CHRIST AROSE (Lowry)"
+    },
+    "oh_more-love-to-thee-more-love-to-thee": {
+      "sourceAbcSha256": "f34e8f6b7904c51aa59031879f7f50b7b81fa8af1aa95a83f92ef7320c3a8942",
+      "selectedTune": "More Love to Thee"
+    },
+    "final-htg-near-to-the-heart-of-god": {
+      "sourceAbcSha256": "ce031bce15626ff19767ac86d70ff05ff0ada24ae361739efc83277105a14d4a",
+      "selectedTune": "MCAFEE"
+    },
+    "final-htg-oh-how-i-love-jesus": {
+      "sourceAbcSha256": "63836ac04c09952a78f1b9c12ccc688f80196fafa1038593225292183eb9b2bb",
+      "selectedTune": "O HOW I LOVE JESUS (traditional)"
+    },
+    "mobile-only-trust-him": {
+      "sourceAbcSha256": "89fd7b13cb3866918b38b8bdfe5ad4a3e31af3263fd382f9e12bb5c4ac32738d",
+      "selectedTune": "MINERVA (source label; catalog STOCKTON)"
+    },
+    "tt-supplemental-onward-christian-soldiers": {
+      "sourceAbcSha256": "36a7dbe747a567acfba0ef7f5ae7f00da02b518daef5e745182e20d99c0cd993",
+      "selectedTune": "St. Gertrude"
+    },
+    "remaining-openpsalm-praise-him-praise-him": {
+      "sourceAbcSha256": "eddbc510ce7f3ac5f5ec8f49528c2cd23e56811064bed28b34aad70ae16d3201",
+      "selectedTune": "Joyful Song"
+    },
+    "tt-supplemental-rejoice-the-lord-is-king": {
+      "sourceAbcSha256": "0a93eeb6c3d3a5100e77b11c2b9cd6bef14ea36ac92223f6f9d851cebc57d1e6",
+      "selectedTune": "Darwall"
+    },
+    "remaining-openpsalm-sound-the-battle-cry": {
+      "sourceAbcSha256": "81df7676a0eaf1a92b9593daeed12833427205f1676828a4c8c74ba5e8b948f0",
+      "selectedTune": "SOUND THE BATTLE CRY (Sherwin)"
+    },
+    "mobile-spirit-of-god": {
+      "sourceAbcSha256": "d56c3a3ffbf7a09fd10d0c8db01918ea98d807f5760e2e39fd5a000c5c95014f",
+      "selectedTune": "MORECAMBE"
+    },
+    "oh_take-my-life-and-let-it-be-mozart": {
+      "sourceAbcSha256": "51fa4b304529ed8cf538c8adbaf3c74d95ff08d9a75becfc32046fa2ce68e253",
+      "selectedTune": "Mozart"
+    },
+    "remaining-openpsalm-tell-me-the-story-of-jesus": {
+      "sourceAbcSha256": "723ce7f57dde2271ca78f635eda5dc53df22d3699c93b4b5ee0d56a4b2e89ff3",
+      "selectedTune": "STORY OF JESUS (Sweney)"
+    },
+    "tt-supplemental-the-king-of-love-my-shepherd-is": {
+      "sourceAbcSha256": "cd6ba23c9c23cbf080c7e6ad3d02e7266bddf8a6f80b673e42896da08663a6fe",
+      "selectedTune": "St. Columba"
+    },
+    "ly_sands-of-time-rutherford": {
+      "sourceAbcSha256": "6d61697fefa5f51ca3b728179798713324d98f5d0bc91f47fc0f0c536846357b",
+      "selectedTune": "RUTHERFORD"
+    },
+    "tt-supplemental-trusting-jesus": {
+      "sourceAbcSha256": "378cf26f2a750ddae93b2494c2dee3d550a2f5c9c147bb30046e2f5ed4c12555",
+      "selectedTune": "TRUSTING JESUS (Sankey)"
+    },
+    "hc-turn-your-eyes": {
+      "sourceAbcSha256": "4af53ab4df1782eab78a55f5b5a250721768b80ba7628d14f44d78c33d365a4d",
+      "selectedTune": "LEMMEL"
+    },
+    "oh_we-gather-together-kremser": {
+      "sourceAbcSha256": "5075906b98323ea4cb0a457b11b0d93661381b4fabf8676589e44859396c0862",
+      "selectedTune": "Kremser"
+    },
+    "tt-supplemental-we-rest-on-thee": {
+      "sourceAbcSha256": "871efa80e8dcd1e1a5526067cf12e1572dbda1bbe6b0645e2aacc35dd60d2ece",
+      "selectedTune": "Finlandia"
+    },
+    "mobile-well-work-till-jesus-comes": {
+      "sourceAbcSha256": "6ed762520aa0e9b027d7fb229d1b85d19e19e9be5878351001a254f5ba826cfc",
+      "selectedTune": "O LAND OF REST"
+    },
+    "winkworth-whateer-gastorius": {
+      "sourceAbcSha256": "da8bf230672af6db34349c5fd282032bc75b58200afda7a73d54b900d6ba74dc",
+      "selectedTune": "WAS GOTT TUT / GASTORIUS"
+    },
+    "oh_when-i-survey-the-wondrous-cross-duke-street": {
+      "sourceAbcSha256": "aec225fb7306a45a7d5097b91c0d53d5526f9e187c4816558b9528fc098b2518",
+      "selectedTune": "Duke Street"
+    },
+    "oh_when-the-roll-is-called-up-yonder-when-the-roll-is-called-up-yonder": {
+      "sourceAbcSha256": "c6729bc14681e4f91c59dd74924cad69fa4e44e26e2b9af436d85ac8dc2e25a9",
+      "selectedTune": "When The Roll Is Called Up Yonder"
+    },
+    "mobile-we-have-an-anchor": {
+      "sourceAbcSha256": "be31cf6c33a99b8ed6c745cb1b4905f1de97fd1dea90e95dfd5fd401195ab98f",
+      "selectedTune": "WE HAVE AN ANCHOR (Kirkpatrick)"
+    },
+    "hc-wonderful-grace": {
+      "sourceAbcSha256": "ba05b33a13ec7487a7db0ea06a7fbbff65c0aba3960267ec4d0d359729cd4b4e",
+      "selectedTune": "WONDERFUL GRACE (Lillenas)"
+    }
+  },
+  "recordings": {
+    "https://open.spotify.com/track/1mGvfoW5zthju8GMICuxaR": {
+      "trackTitle": "Be Still My Soul",
+      "artists": [
+        "4ordained"
+      ],
+      "album": "Bring Me Home",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/1b9jWFcBFsHhBPaBIGGmkn",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/6caTGHD1msohRYH2bltVC1": {
+      "trackTitle": "Day by Day",
+      "artists": [
+        "Cause of Christ",
+        "Carver Bowers"
+      ],
+      "album": "Day by Day",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/1b9jWFcBFsHhBPaBIGGmkn",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/59diiHLSmM3Yesu1EKYhO2": {
+      "trackTitle": "He Leadeth Me",
+      "artists": [
+        "Norton Hall Band"
+      ],
+      "album": "Still Our Refuge",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4iFGj9LMN5xYuGeDcNifo9": {
+      "trackTitle": "What A Friend",
+      "artists": [
+        "Jadon Lavik"
+      ],
+      "album": "Roots Run Deep",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4Iwjf7eEVyNDqJmiZz32Lj": {
+      "trackTitle": "All The Way My Saviour Leads Me",
+      "artists": [
+        "David Lyle Morris"
+      ],
+      "album": "Worship Box Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/3xLwitdrvYdfrLyryB89fK": {
+      "trackTitle": "Pass Me Not O Gentle Savior",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymns of Hope",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/3VgFcUGnIykIeCZ67X2mNk": {
+      "trackTitle": "It Is Well With My Soul",
+      "artists": [
+        "Anthem Lights"
+      ],
+      "album": "Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/2n9OVWdOSZmyD6dKZDzduY": {
+      "trackTitle": "O Worship the King",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Heritage of Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/6wyxwRLRNeTHbr8L93G3CG": {
+      "trackTitle": "He Hideth My Soul",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymns of Hope",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/273TJnnLY5u6eCPxwa3EUT": {
+      "trackTitle": "My Jesus I Love Thee",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymnbook",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/273TJnnLY5u6eCPxwa3EUT",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:49.761126+00:00"
+    },
+    "https://open.spotify.com/track/6whxIKinQUTM6A6q9k5tbL": {
+      "trackTitle": "A Mighty Fortress Is Our God",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "So Many Ways To Praise",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/6tHwEfq4JpewxJbxXhuMZb": {
+      "trackTitle": "This Is My Father's World",
+      "artists": [
+        "Fernando Ortega"
+      ],
+      "album": "BEGINNINGS - 2 CD Set",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8": {
+      "trackTitle": "Great Is Thy Faithfulness",
+      "artists": [
+        "Chris Rice"
+      ],
+      "album": "Peace Like A River: The Hymns Project",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/0M9hkNdHnFgQGHQBRoVo62": {
+      "trackTitle": "Saviour Like a Shepherd",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Awesome God",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/5n2zdy43VvopBYYN1X58sh": {
+      "trackTitle": "Children of the Heavenly Father",
+      "artists": [
+        "Haven",
+        "Jeff Gunn"
+      ],
+      "album": "Reflections",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/56zx52VJ3tR4TzdKoHJb0U": {
+      "trackTitle": "Softly And Tenderly",
+      "artists": [
+        "Guy Penrod"
+      ],
+      "album": "Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/7sOnzexqMEnQrPu4G4NEkA": {
+      "trackTitle": "The Old Rugged Cross",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymns of Hope",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/1sfUMaKOgaB4fCB5b1aEp9": {
+      "trackTitle": "Now Thank We All Our God",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Heritage of Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/1zUaoEFnInGQ3wt5K5lln7": {
+      "trackTitle": "O God Our Help in Ages Past",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymnbook",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/1byz9eOXF1aCIdoxHGfXEz": {
+      "trackTitle": "Mine Eyes have Seen the Glory",
+      "artists": [
+        "The Worship Team"
+      ],
+      "album": "The Worship Collection: Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/5C3CbFv0fgltdTCEv1IbZD": {
+      "trackTitle": "Holy, Holy, Holy",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Heritage of Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/0n9UsDgyuEeLuWaOj8SNtE": {
+      "trackTitle": "Be Thou My Vision - Live",
+      "artists": [
+        "The Mandate",
+        "Stuart Townend",
+        "Robin Mark"
+      ],
+      "album": "Worship Box Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/6cUdB8ZUTsUwk7e5INjZNO": {
+      "trackTitle": "Nearer, Still Nearer",
+      "artists": [
+        "Narrow Way"
+      ],
+      "album": "Shelter Me",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4ptK5l9hoTJnqZRabXfyz7": {
+      "trackTitle": "All Creatures of Our God and King",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymnbook",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/1yaEJkc1US0XTOMsxnsHzy": {
+      "trackTitle": "Praise To the Lord, The Almighty",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Be Ye Holy",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/1DnYLeFtojD8ay88nmumrb": {
+      "trackTitle": "I Love to Tell the Story",
+      "artists": [
+        "Chris Rupp"
+      ],
+      "album": "Rise: A Cappella, Vol. I",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/1k43j3q3q4U5sl7PVnofbo": {
+      "trackTitle": "Sweet Hour of Prayer",
+      "artists": [
+        "The Emmanuel Quartet"
+      ],
+      "album": "Hymns: A Legacy of Inspiration",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/14P2L2TVn3XLk9UZTAdFVz": {
+      "trackTitle": "O Perfect Love",
+      "artists": [
+        "The Worship Team"
+      ],
+      "album": "The Worship Collection: Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4uN09y2poX1GwsgHC5RIuh": {
+      "trackTitle": "O For A Thousand Tongues To Sing",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Be Ye Holy",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/5TjVO6iFiv4H0dAo8cOrDI": {
+      "trackTitle": "Praise My Soul The King of Heaven",
+      "artists": [
+        "Graham Kendrick",
+        "Martin Smith"
+      ],
+      "album": "Simply Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4ad1Cxg3SH5053Q7U2tiLO": {
+      "trackTitle": "Count Your Blessings",
+      "artists": [
+        "Guy Penrod"
+      ],
+      "album": "Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/2IgR2eVEywDIXjKhroOwyz": {
+      "trackTitle": "Crown Him With Many Crowns",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Heritage of Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/7zXFXjuYcNOAiOfLmS4ydL": {
+      "trackTitle": "Amazing Grace",
+      "artists": [
+        "Alan Jackson"
+      ],
+      "album": "Precious Memories: Vol. II",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/2eshJ2zQab5Z6yYFBdoCVo": {
+      "trackTitle": "Poor Wayfaring Stranger",
+      "artists": [
+        "Narrow Way"
+      ],
+      "album": "Shelter Me",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4vyjTtkW2sGokYAc8BedLv": {
+      "trackTitle": "On Jordan\u2019s Stormy Banks",
+      "artists": [
+        "The Emmanuel Quartet"
+      ],
+      "album": "Hymns: A Legacy of Inspiration",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4kV4Hs86A3ASlVTucY8mYb": {
+      "trackTitle": "Lead, Kindly Light",
+      "artists": [
+        "Voice Male"
+      ],
+      "album": "Hims II",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/5QYYQgzgpVvQyxM2ZHqDfv": {
+      "trackTitle": "I Sing the Mighty Power of God",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Be Ye Holy",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/5kVIqJRp2b3pq2GLIn5edx": {
+      "trackTitle": "All Hail the Power",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Everything's Gonna Be Alright In Christ",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/6lPau59ZDnn0yLEQNVdgHd": {
+      "trackTitle": "My Faith Has Found a Resting Place",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymns of Hope",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4avKSya843lN1fX0yUedZP": {
+      "trackTitle": "In The Cross Of Christ I Glory",
+      "artists": [
+        "The Worship Team"
+      ],
+      "album": "The Worship Collection: Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/3ipuXBatoeYQIjCOJ92etV": {
+      "trackTitle": "I Will Sing the Wondrous Story - Live",
+      "artists": [
+        "The Mandate",
+        "Stuart Townend",
+        "Robin Mark"
+      ],
+      "album": "Worship Box Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/7sytxTc3ZgADSbvDeRvCac": {
+      "trackTitle": "Lead Me to Calvary",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymns of Hope",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/7sytxTc3ZgADSbvDeRvCac",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:56.835066+00:00"
+    },
+    "https://open.spotify.com/track/3OYdTPsom81ka2fccjQM29": {
+      "trackTitle": "On Christ the Solid Rock",
+      "artists": [
+        "Phillips, Craig & Dean"
+      ],
+      "album": "Hymns & Psalms",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3OYdTPsom81ka2fccjQM29",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:04.194116+00:00"
+    },
+    "https://open.spotify.com/track/3nAsiXIntUvPf37RAJUjdI": {
+      "trackTitle": "My Saviour's Love",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Awesome God",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3nAsiXIntUvPf37RAJUjdI",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:08.802351+00:00"
+    },
+    "https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY": {
+      "trackTitle": "Doxology (feat. Selah)",
+      "artists": [
+        "Anthem Lights",
+        "Selah"
+      ],
+      "album": "Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/7eDggDAqjNLmvPsWR4W4LY",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:56.805684+00:00"
+    },
+    "https://open.spotify.com/track/3lX7Gu6lxmHLaDBV4u04e9": {
+      "trackTitle": "Our Great Savior",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Be Ye Holy",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3lX7Gu6lxmHLaDBV4u04e9",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:08.833383+00:00"
+    },
+    "https://open.spotify.com/track/5svDTzEImIqu739MDgMefA": {
+      "trackTitle": "All People That On Earth Do Dwell (Psalm 100)",
+      "artists": [
+        "The Trails Church"
+      ],
+      "album": "Hymns of the Trails, Vol. 1",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/5svDTzEImIqu739MDgMefA",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:38.024512+00:00"
+    },
+    "https://open.spotify.com/track/5h0ujAubhLfiCj3QDis7Sp": {
+      "trackTitle": "Does Jesus Care?",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Heritage of Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/5h0ujAubhLfiCj3QDis7Sp",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:31.507291+00:00"
+    },
+    "https://open.spotify.com/track/6IO3rQkzuQKjGb5ctftHnh": {
+      "trackTitle": "O Love That WIll Not Let Me Go",
+      "artists": [
+        "Dave Hunt"
+      ],
+      "album": "Ebenezer: A Collection of Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/6IO3rQkzuQKjGb5ctftHnh",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:42.403412+00:00"
+    },
+    "https://open.spotify.com/track/69CGXrJPJzTF4EUoO9SxC8": {
+      "trackTitle": "The Church's One Foundation",
+      "artists": [
+        "Norton Hall Band"
+      ],
+      "album": "Morning by Morning",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/69CGXrJPJzTF4EUoO9SxC8",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:38.026884+00:00"
+    },
+    "https://open.spotify.com/track/0APnpAzL87hnsuMH464xo4": {
+      "trackTitle": "Take Time to Be Holy",
+      "artists": [
+        "Joseph Habedank"
+      ],
+      "album": "Take Time to Be Holy",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/0APnpAzL87hnsuMH464xo4",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:40.580968+00:00"
+    },
+    "https://open.spotify.com/track/0kxoStdKoaNtgEB69AUiQy": {
+      "trackTitle": "God Be With You Till We Meet Again",
+      "artists": [
+        "Daniel Beck"
+      ],
+      "album": "Abide With Me",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/0kxoStdKoaNtgEB69AUiQy",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:42.312632+00:00"
+    },
+    "https://open.spotify.com/track/79VOo4gfJwGsxWMD3pmmIY": {
+      "trackTitle": "All the Way My Savior Leads Me",
+      "artists": [
+        "Acapeldridge"
+      ],
+      "album": "Whatever Is True",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/79VOo4gfJwGsxWMD3pmmIY",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:51.115469+00:00"
+    },
+    "https://open.spotify.com/track/0q0JcleyBOSVOCpvQS3LCq": {
+      "trackTitle": "Be Still, My Soul",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "So Many Ways To Praise",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/4I6jiVkI2XDCTnTsgrLRv2": {
+      "trackTitle": "Blessed Assurance",
+      "artists": [
+        "Hymns You Love to Sing Performers"
+      ],
+      "album": "50 Contemporary Hymns You Love To Sing",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/4I6jiVkI2XDCTnTsgrLRv2",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:19.653099+00:00"
+    },
+    "https://open.spotify.com/track/63zB4nMWwIQP93vrUI9j9h": {
+      "trackTitle": "Bringing in the Sheaves",
+      "artists": [
+        "The Christian Choristers"
+      ],
+      "album": "Church in the Wildwood",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/63zB4nMWwIQP93vrUI9j9h",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:38.074451+00:00"
+    },
+    "https://open.spotify.com/track/5pZ0mMC1VwPY80qDEcMmXA": {
+      "trackTitle": "Christ the Lord Is Risen Today (Arr. J. Rutter for Choir, Organ & Brass Ensemble)",
+      "artists": [
+        "Anonymous",
+        "The Cambridge Singers",
+        "John Scott",
+        "City of London Sinfonia",
+        "John Rutter"
+      ],
+      "album": "Sing, Ye Heavens: Hymns for All Time",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/5pZ0mMC1VwPY80qDEcMmXA",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:37.906761+00:00"
+    },
+    "https://open.spotify.com/track/3tWOYs6Nx588yH1VJ50xEF": {
+      "trackTitle": "Come Thou Long Expected Jesus",
+      "artists": [
+        "Future Of Forestry"
+      ],
+      "album": "Light Has Come: Christmas",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3tWOYs6Nx588yH1VJ50xEF",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:15.098752+00:00"
+    },
+    "https://open.spotify.com/track/7JxpQC9Q1vAUC7KItUShA4": {
+      "trackTitle": "Complete in Thee",
+      "artists": [
+        "Benjamin Everson"
+      ],
+      "album": "A Cappella",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/7JxpQC9Q1vAUC7KItUShA4",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:51.285558+00:00"
+    },
+    "https://open.spotify.com/track/5Jli30RyyJZxUfMxp1jfyG": {
+      "trackTitle": "Day By Day",
+      "artists": [
+        "Haven"
+      ],
+      "album": "Acappella Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/5Jli30RyyJZxUfMxp1jfyG",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:24.751096+00:00"
+    },
+    "https://open.spotify.com/track/3ryWhVI8VXOo69UmGLaWKo": {
+      "trackTitle": "For the Beauty of the Earth",
+      "artists": [
+        "Steve and Danny Thompson"
+      ],
+      "album": "How Firm a Foundation",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3ryWhVI8VXOo69UmGLaWKo",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:15.020077+00:00"
+    },
+    "https://open.spotify.com/track/6oqGVpa77m5kod7e8n4T6U": {
+      "trackTitle": "Glorious Things Of Thee Are Spoken",
+      "artists": [
+        "The Worship Team"
+      ],
+      "album": "The Worship Collection: Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/6oqGVpa77m5kod7e8n4T6U",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:47.080614+00:00"
+    },
+    "https://open.spotify.com/track/2aY2ZDYII2OO8SntDsPTzY": {
+      "trackTitle": "God Leads His Dear Children Along",
+      "artists": [
+        "Selah"
+      ],
+      "album": "Step Into My Story",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/2aY2ZDYII2OO8SntDsPTzY",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:58.513705+00:00"
+    },
+    "https://open.spotify.com/track/1lKed9cyQ55isbUcXQ7kj7": {
+      "trackTitle": "Grace Greater than Our Sin",
+      "artists": [
+        "Don Moen"
+      ],
+      "album": "Hymnbook",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/1lKed9cyQ55isbUcXQ7kj7",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:49.753278+00:00"
+    },
+    "https://open.spotify.com/track/3S4xL5eaOjWvqAKiVtKpTc": {
+      "trackTitle": "Hallelujah, Praise Jehovah",
+      "artists": [
+        "The Hope Heralds"
+      ],
+      "album": "Declare Your Praise",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3S4xL5eaOjWvqAKiVtKpTc",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:04.135794+00:00"
+    },
+    "https://open.spotify.com/track/0tYc8tPRFvQoUxx7jkA2CY": {
+      "trackTitle": "He Keeps Me Singing",
+      "artists": [
+        "Steve and Danny Thompson"
+      ],
+      "album": "How Firm a Foundation",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/0tYc8tPRFvQoUxx7jkA2CY",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:45.154075+00:00"
+    },
+    "https://open.spotify.com/track/3VAKDAw54ftMWK81QZmgS5": {
+      "trackTitle": "Here Is Love - Single Edit",
+      "artists": [
+        "Matthew Smith"
+      ],
+      "album": "Here Is Love",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3VAKDAw54ftMWK81QZmgS5",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:08.825472+00:00"
+    },
+    "https://open.spotify.com/track/6hLblqWPC9bb4fyCXHfbQa": {
+      "trackTitle": "Higher Ground",
+      "artists": [
+        "Bluegrass Brethren"
+      ],
+      "album": "Near The Cross: Favorites From The Hymnbook - Vol. 2",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/6hLblqWPC9bb4fyCXHfbQa",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:47.141623+00:00"
+    },
+    "https://open.spotify.com/track/1TVCzW4RFYHndKbeQhuTCl": {
+      "trackTitle": "How Gentle God's Commands",
+      "artists": [
+        "Luanne Asta"
+      ],
+      "album": "Peace in the City",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/1TVCzW4RFYHndKbeQhuTCl",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:45.043576+00:00"
+    },
+    "https://open.spotify.com/track/5Ua7kxCBoOCX57kRvJJKb9": {
+      "trackTitle": "I Must Tell Jesus",
+      "artists": [
+        "Sounds Like Reign"
+      ],
+      "album": "Living Room Sessions",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/5Ua7kxCBoOCX57kRvJJKb9",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:31.519820+00:00"
+    },
+    "https://open.spotify.com/track/69WrDcoQ0LR7KOXaZNrQyb": {
+      "trackTitle": "I Will Sing of My Redeemer",
+      "artists": [
+        "Fernando Ortega"
+      ],
+      "album": "This Bright Hour",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/69WrDcoQ0LR7KOXaZNrQyb",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:42.504305+00:00"
+    },
+    "https://open.spotify.com/track/3S7EE9cdHfrMM1okLVl5Nh": {
+      "trackTitle": "Immortal, Invisible, God Only Wise",
+      "artists": [
+        "Jaron & Katherine Kamin"
+      ],
+      "album": "Here Among Us",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3S7EE9cdHfrMM1okLVl5Nh",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:04.085333+00:00"
+    },
+    "https://open.spotify.com/track/71Ayi9xayZzNoEt8QNqijy": {
+      "trackTitle": "Jesus Lover of My Soul",
+      "artists": [
+        "Steve Green"
+      ],
+      "album": "Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/71Ayi9xayZzNoEt8QNqijy",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:51.163215+00:00"
+    },
+    "https://open.spotify.com/track/5gtQECV8IqraPGOcCyDfEi": {
+      "trackTitle": "Jesus Shall Reign",
+      "artists": [
+        "Norton Hall Band"
+      ],
+      "album": "All Ye Who Hear",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/5gtQECV8IqraPGOcCyDfEi",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:31.590748+00:00"
+    },
+    "https://open.spotify.com/track/2vKCsTB7GXaqIrPGP6bPqO": {
+      "trackTitle": "Like A River Glorious",
+      "artists": [
+        "Haven"
+      ],
+      "album": "Acappella Hymns",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/2vKCsTB7GXaqIrPGP6bPqO",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:58.352329+00:00"
+    },
+    "https://open.spotify.com/track/4g0oorNsWEA5CszdyEwZMm": {
+      "trackTitle": "Love Lifted Me",
+      "artists": [
+        "The Worship Zone"
+      ],
+      "album": "Hymns 10",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/4g0oorNsWEA5CszdyEwZMm",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:19.714299+00:00"
+    },
+    "https://open.spotify.com/track/5kee6zChAhBlArnGyDhkl8": {
+      "trackTitle": "Low In The Grave He Lay (Christ Arose)",
+      "artists": [
+        "Samuel Larson"
+      ],
+      "album": "Praises Rising",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/5kee6zChAhBlArnGyDhkl8",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:31.477703+00:00"
+    },
+    "https://open.spotify.com/track/4Gd3N1h6NXQPQvYKnBkfTB": {
+      "trackTitle": "More Love To Thee",
+      "artists": [
+        "Fernando Ortega"
+      ],
+      "album": "Fernando Ortega",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/4Gd3N1h6NXQPQvYKnBkfTB",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:15.114331+00:00"
+    },
+    "https://open.spotify.com/track/0XhI6EAHBZ6ISWryINQxhL": {
+      "trackTitle": "Near To The Heart Of God",
+      "artists": [
+        "Bluegrass Brethren"
+      ],
+      "album": "Near The Cross: Favorites From The Hymnbook - Vol. 2",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/0XhI6EAHBZ6ISWryINQxhL",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:40.656622+00:00"
+    },
+    "https://open.spotify.com/track/4N9EA97IA9ISEJm5pVQc8Q": {
+      "trackTitle": "O God Our Help In Ages Past",
+      "artists": [
+        "The Haven Quartet"
+      ],
+      "album": "Be Ye Holy",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/playlist/15KG94mLEF2aw944IzsTN4",
+      "recordingMetadataObservedAt": "2026-10-06T15:21:00Z"
+    },
+    "https://open.spotify.com/track/52lE9NWWn3N1riVHFT6vGV": {
+      "trackTitle": "Oh How I Love Jesus",
+      "artists": [
+        "Alan Ladd"
+      ],
+      "album": "Did You Think To Pray",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/52lE9NWWn3N1riVHFT6vGV",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:24.897587+00:00"
+    },
+    "https://open.spotify.com/track/3KbXFVFjJ1CkZSmglUHYJP": {
+      "trackTitle": "Only Trust Him",
+      "artists": [
+        "Alan Jackson"
+      ],
+      "album": "Precious Memories: Vol. II",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3KbXFVFjJ1CkZSmglUHYJP",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:58.425696+00:00"
+    },
+    "https://open.spotify.com/track/3ONU53zAFPsL3aOZCr56ir": {
+      "trackTitle": "Onward Christian Soldiers",
+      "artists": [
+        "Stephen R Cheney"
+      ],
+      "album": "Songs of Faith, Hope and Love",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3ONU53zAFPsL3aOZCr56ir",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:04.252867+00:00"
+    },
+    "https://open.spotify.com/track/535XGfjpGPCMqSACLFhhLp": {
+      "trackTitle": "Praise Him! Praise Him!",
+      "artists": [
+        "Ernie Haase & Signature Sound"
+      ],
+      "album": "The Favorite Hymns of Fanny Crosby",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/535XGfjpGPCMqSACLFhhLp",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:24.780759+00:00"
+    },
+    "https://open.spotify.com/track/3unicmL7N0jbQBEJRaaNPm": {
+      "trackTitle": "Rejoice the Lord Is King",
+      "artists": [
+        "Phillips, Craig & Dean"
+      ],
+      "album": "Hymns and Psalms",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3unicmL7N0jbQBEJRaaNPm",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:15.024513+00:00"
+    },
+    "https://open.spotify.com/track/6VYoP5IUBcXwv0nKFJKsD0": {
+      "trackTitle": "Sound The Battle Cry",
+      "artists": [
+        "Fountainview Academy Orchestra & Singers"
+      ],
+      "album": "The Great Controversy",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/6VYoP5IUBcXwv0nKFJKsD0",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:47.034942+00:00"
+    },
+    "https://open.spotify.com/track/0tWcsyh87PEdTHlsixUcl3": {
+      "trackTitle": "Spirit of God, Descend Upon My Heart",
+      "artists": [
+        "Melinda Hawley"
+      ],
+      "album": "Simply Sweet Hymns of Faith 2",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/0tWcsyh87PEdTHlsixUcl3",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:45.132132+00:00"
+    },
+    "https://open.spotify.com/track/1Zs9hBTrFmmANk2qQ8OdHT": {
+      "trackTitle": "Take My Life And Let It Be",
+      "artists": [
+        "Hymns You Love to Sing Performers"
+      ],
+      "album": "50 Contemporary Hymns You Love To Sing",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/1Zs9hBTrFmmANk2qQ8OdHT",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:45.035900+00:00"
+    },
+    "https://open.spotify.com/track/3qeDrDO45B3Jx2QlkmsKoj": {
+      "trackTitle": "Tell Me the Story of Jesus",
+      "artists": [
+        "The Booth Brothers"
+      ],
+      "album": "Harmony",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3qeDrDO45B3Jx2QlkmsKoj",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:08.818631+00:00"
+    },
+    "https://open.spotify.com/track/6Gu5r38ZGkS5xnqbEEYh9w": {
+      "trackTitle": "The King of Love My Shepherd Is",
+      "artists": [
+        "Herbster Family"
+      ],
+      "album": "Resting",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/6Gu5r38ZGkS5xnqbEEYh9w",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:42.649260+00:00"
+    },
+    "https://open.spotify.com/track/2EsYmaVSDWfaYTMfCV8VgY": {
+      "trackTitle": "The Sands of Time Are Sinking",
+      "artists": [
+        "Already Not Yet"
+      ],
+      "album": "The Hymnody Collection",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/2EsYmaVSDWfaYTMfCV8VgY",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:49.767747+00:00"
+    },
+    "https://open.spotify.com/track/3MgpzkzQ0jaTU6uxmlI2kK": {
+      "trackTitle": "Trusting Jesus",
+      "artists": [
+        "Hyles-Anderson College"
+      ],
+      "album": "Day by Day",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/3MgpzkzQ0jaTU6uxmlI2kK",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:58.399608+00:00"
+    },
+    "https://open.spotify.com/track/0g4LI6POtcLQLzrwPwWsHl": {
+      "trackTitle": "Turn Your Eyes Upon Jesus",
+      "artists": [
+        "Living Stones Quartet"
+      ],
+      "album": "Gospel Music",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/0g4LI6POtcLQLzrwPwWsHl",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:40.561231+00:00"
+    },
+    "https://open.spotify.com/track/754cn5osPEAoZPKHjyrXRh": {
+      "trackTitle": "We Gather Together to Ask the Lord's Blessing",
+      "artists": [
+        "Melinda Hawley"
+      ],
+      "album": "Simply Sweet Hymns of Faith 2",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/754cn5osPEAoZPKHjyrXRh",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:50.991207+00:00"
+    },
+    "https://open.spotify.com/track/2Qp39oqRt98VMeSlqYSayz": {
+      "trackTitle": "We Rest On Thee",
+      "artists": [
+        "20schemes music"
+      ],
+      "album": "We Rest On Thee",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/2Qp39oqRt98VMeSlqYSayz",
+      "recordingMetadataObservedAt": "2026-10-06T15:27:49.697647+00:00"
+    },
+    "https://open.spotify.com/track/6OPuDtYDueJc5AGdcZ1LGL": {
+      "trackTitle": "We'll Work Till Jesus Comes",
+      "artists": [
+        "Voice of Praise"
+      ],
+      "album": "Rejoice and Sing",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/6OPuDtYDueJc5AGdcZ1LGL",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:42.624619+00:00"
+    },
+    "https://open.spotify.com/track/4r5SjM8nGxsD4QAoP7eHvS": {
+      "trackTitle": "Whate'er My God Ordains Is Right - Live",
+      "artists": [
+        "Sovereign Grace Music",
+        "Bob Kauflin"
+      ],
+      "album": "Together for the Gospel IV",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/4r5SjM8nGxsD4QAoP7eHvS",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:19.699044+00:00"
+    },
+    "https://open.spotify.com/track/7KSTGYUeyrgYRtOXW7NbAF": {
+      "trackTitle": "When I Survey the Wondrous Cross",
+      "artists": [
+        "Joseph Habedank"
+      ],
+      "album": "Take Time to Be Holy",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/7KSTGYUeyrgYRtOXW7NbAF",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:56.894563+00:00"
+    },
+    "https://open.spotify.com/track/6oGd2wLqEArfXElKGRY2JN": {
+      "trackTitle": "When the Roll Is Called Up Yonder",
+      "artists": [
+        "The Allen Family"
+      ],
+      "album": "Songs of Yesterday",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/6oGd2wLqEArfXElKGRY2JN",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:47.115061+00:00"
+    },
+    "https://open.spotify.com/track/5DbxtUzM9hbb7abvmBQlsM": {
+      "trackTitle": "Will Your Anchor Hold - Piano",
+      "artists": [
+        "The Worship Zone"
+      ],
+      "album": "Piano Hymns 5",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/5DbxtUzM9hbb7abvmBQlsM",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:24.849361+00:00"
+    },
+    "https://open.spotify.com/track/4H3ocadcOU7yvMzD1grNP4": {
+      "trackTitle": "Wonderful Grace of Jesus",
+      "artists": [
+        "The Browns"
+      ],
+      "album": "Heritage Hymn Collection. Vol. 1",
+      "recordingMetadataSourceUrl": "https://open.spotify.com/embed/track/4H3ocadcOU7yvMzD1grNP4",
+      "recordingMetadataObservedAt": "2026-10-06T15:28:19.747683+00:00"
+    }
+  },
+  "memberships": [
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 1,
+      "catalogId": "H001",
+      "sourceEditionId": "oh_be-still-my-soul-finlandia",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1mGvfoW5zthju8GMICuxaR",
+      "playlistPosition": 1,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 2,
+      "catalogId": "H002",
+      "sourceEditionId": "final-htg-day-by-day",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6caTGHD1msohRYH2bltVC1",
+      "playlistPosition": 2,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 3,
+      "catalogId": "H005",
+      "sourceEditionId": "oh_he-leadeth-me-he-leadeth-me",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/59diiHLSmM3Yesu1EKYhO2",
+      "playlistPosition": 5,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 4,
+      "catalogId": "H007",
+      "sourceEditionId": "oh_what-a-friend-we-have-in-jesus-untitled",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4iFGj9LMN5xYuGeDcNifo9",
+      "playlistPosition": 7,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 5,
+      "catalogId": "H008",
+      "sourceEditionId": "remaining-openpsalm-all-the-way-my-savior-leads-me",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "The David Lyle Morris alternative is associated with Rich Mullins\u2019s tune, but the exact master was not confirmed. Book 1 has only that recording. Book 2 instead selects Acapeldridge; its melody is not independently confirmed.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/4Iwjf7eEVyNDqJmiZz32Lj",
+      "playlistPosition": 8,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 6,
+      "catalogId": "H009",
+      "sourceEditionId": "oh_pass-me-not-o-gentle-savior-pass-me-not-o-gentle-savior",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3xLwitdrvYdfrLyryB89fK",
+      "playlistPosition": 9,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 7,
+      "catalogId": "H010",
+      "sourceEditionId": "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3VgFcUGnIykIeCZ67X2mNk",
+      "playlistPosition": 10,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 8,
+      "catalogId": "H011",
+      "sourceEditionId": "remaining-openpsalm-o-worship-the-king",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/2n9OVWdOSZmyD6dKZDzduY",
+      "playlistPosition": 11,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 9,
+      "catalogId": "H013",
+      "sourceEditionId": "remaining-tt-he-hideth-my-soul",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6wyxwRLRNeTHbr8L93G3CG",
+      "playlistPosition": 13,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 10,
+      "catalogId": "H014",
+      "sourceEditionId": "tt-my-jesus-i-love-thee",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/273TJnnLY5u6eCPxwa3EUT",
+      "playlistPosition": 105,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 11,
+      "catalogId": "H015",
+      "sourceEditionId": "oh_a-mighty-fortress-is-our-god-ein-feste-burg-isorhythmic",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6whxIKinQUTM6A6q9k5tbL",
+      "playlistPosition": 15,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 12,
+      "catalogId": "H016",
+      "sourceEditionId": "hc-fathers-world",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6tHwEfq4JpewxJbxXhuMZb",
+      "playlistPosition": 16,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 13,
+      "catalogId": "H018",
+      "sourceEditionId": "remaining-openpsalm-great-is-thy-faithfulness",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8",
+      "playlistPosition": 18,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 14,
+      "catalogId": "H019",
+      "sourceEditionId": "oh_savior-like-a-shepherd-lead-us-bradbury",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0M9hkNdHnFgQGHQBRoVo62",
+      "playlistPosition": 19,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 15,
+      "catalogId": "H021",
+      "sourceEditionId": "remaining-tt-children-of-the-heavenly-father",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5n2zdy43VvopBYYN1X58sh",
+      "playlistPosition": 21,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 16,
+      "catalogId": "H022",
+      "sourceEditionId": "ly_softly-and-tenderly-thompson",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/56zx52VJ3tR4TzdKoHJb0U",
+      "playlistPosition": 22,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 17,
+      "catalogId": "H023",
+      "sourceEditionId": "oh_the-old-rugged-cross-old-rugged-cross",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/7sOnzexqMEnQrPu4G4NEkA",
+      "playlistPosition": 23,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 18,
+      "catalogId": "H024",
+      "sourceEditionId": "oh_now-thank-we-all-our-god-nun-danket",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1sfUMaKOgaB4fCB5b1aEp9",
+      "playlistPosition": 24,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 19,
+      "catalogId": "H025",
+      "sourceEditionId": "oh_our-god-our-help-in-ages-past-st-anne",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1zUaoEFnInGQ3wt5K5lln7",
+      "playlistPosition": 25,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 20,
+      "catalogId": "H026",
+      "sourceEditionId": "aperio-battle-hymn",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1byz9eOXF1aCIdoxHGfXEz",
+      "playlistPosition": 26,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 21,
+      "catalogId": "H027",
+      "sourceEditionId": "oh_holy-holy-holy-nicaea",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5C3CbFv0fgltdTCEv1IbZD",
+      "playlistPosition": 27,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 22,
+      "catalogId": "H029",
+      "sourceEditionId": "oh_be-thou-my-vision-slane",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0n9UsDgyuEeLuWaOj8SNtE",
+      "playlistPosition": 29,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 23,
+      "catalogId": "H030",
+      "sourceEditionId": "tt-nearer-still-nearer",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6cUdB8ZUTsUwk7e5INjZNO",
+      "playlistPosition": 30,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 24,
+      "catalogId": "H031",
+      "sourceEditionId": "oh_all-creatures-of-our-god-and-king-lasst-uns-erfreuen",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4ptK5l9hoTJnqZRabXfyz7",
+      "playlistPosition": 91,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 25,
+      "catalogId": "H035",
+      "sourceEditionId": "oh_praise-to-the-lord-the-almighty-lobe-den-herren",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1yaEJkc1US0XTOMsxnsHzy",
+      "playlistPosition": 37,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 26,
+      "catalogId": "H036",
+      "sourceEditionId": "tt-supplemental-i-love-to-tell-the-story",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1DnYLeFtojD8ay88nmumrb",
+      "playlistPosition": 39,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 27,
+      "catalogId": "H037",
+      "sourceEditionId": "tt-supplemental-sweet-hour-of-prayer",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1k43j3q3q4U5sl7PVnofbo",
+      "playlistPosition": 41,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 28,
+      "catalogId": "H040",
+      "sourceEditionId": "tt-supplemental-o-perfect-love",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/14P2L2TVn3XLk9UZTAdFVz",
+      "playlistPosition": 44,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 29,
+      "catalogId": "H042",
+      "sourceEditionId": "oh_o-for-a-thousand-tongues-azmon",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4uN09y2poX1GwsgHC5RIuh",
+      "playlistPosition": 47,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 30,
+      "catalogId": "H045",
+      "sourceEditionId": "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5TjVO6iFiv4H0dAo8cOrDI",
+      "playlistPosition": 50,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 31,
+      "catalogId": "H047",
+      "sourceEditionId": "tt-supplemental-count-your-blessings",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4ad1Cxg3SH5053Q7U2tiLO",
+      "playlistPosition": 53,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 32,
+      "catalogId": "H054",
+      "sourceEditionId": "oh_crown-him-with-many-crowns-diademata",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/2IgR2eVEywDIXjKhroOwyz",
+      "playlistPosition": 58,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 33,
+      "catalogId": "H057",
+      "sourceEditionId": "oh_amazing-grace-new-britain",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/7zXFXjuYcNOAiOfLmS4ydL",
+      "playlistPosition": 62,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 34,
+      "catalogId": "H061",
+      "sourceEditionId": "aperio-wayfaring-stranger",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/2eshJ2zQab5Z6yYFBdoCVo",
+      "playlistPosition": 68,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 35,
+      "catalogId": "H064",
+      "sourceEditionId": "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed setting is by Tullius C. O\u2019Kane (1877), whereas the earlier catalog describes Durham/McIntosh PROMISED LAND. The Emmanuel Quartet melody is unverified.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/4vyjTtkW2sGokYAc8BedLv",
+      "playlistPosition": 71,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 36,
+      "catalogId": "H065",
+      "sourceEditionId": "tt-lead-kindly-light",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Lux Benigna.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/4kV4Hs86A3ASlVTucY8mYb",
+      "playlistPosition": 76,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 37,
+      "catalogId": "H069",
+      "sourceEditionId": "oh_i-sing-the-mighty-power-of-god-ellacombe",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Ellacombe.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/5QYYQgzgpVvQyxM2ZHqDfv",
+      "playlistPosition": 81,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 38,
+      "catalogId": "H070",
+      "sourceEditionId": "oh_all-hail-the-power-of-jesus-name-coronation",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5kVIqJRp2b3pq2GLIn5edx",
+      "playlistPosition": 86,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 39,
+      "catalogId": "H072",
+      "sourceEditionId": "tt-my-faith-has-found-a-resting-place",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6lPau59ZDnn0yLEQNVdgHd",
+      "playlistPosition": 88,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 40,
+      "catalogId": "H074",
+      "sourceEditionId": "tt-supplemental-in-the-cross-of-christ-i-glory",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Rathbun.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/4avKSya843lN1fX0yUedZP",
+      "playlistPosition": 90,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 41,
+      "catalogId": "H077",
+      "sourceEditionId": "remaining-openpsalm-i-will-sing-the-wondrous-story",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed tune is Peter Bilhorn\u2019s WONDROUS STORY. The earlier catalog says the Mandate/Robin Mark recording likely uses HYFRYDOL. This is a likely different-tune link; the recording melody has not been independently verified.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/3ipuXBatoeYQIjCOJ92etV",
+      "playlistPosition": 96,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 42,
+      "catalogId": "H082",
+      "sourceEditionId": "tt-lead-me-to-calvary",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/7sytxTc3ZgADSbvDeRvCac",
+      "playlistPosition": 103,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 43,
+      "catalogId": "H083",
+      "sourceEditionId": "oh_my-hope-is-built-melita",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed tune is MELITA, although the earlier catalog describes Bradbury\u2019s SOLID ROCK. The Phillips, Craig & Dean recording has not been independently compared to MELITA; treat it as a likely different-tune recording, not an exact score example.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/3OYdTPsom81ka2fccjQM29",
+      "playlistPosition": 106,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 44,
+      "catalogId": "H087",
+      "sourceEditionId": "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3nAsiXIntUvPf37RAJUjdI",
+      "playlistPosition": 111,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 45,
+      "catalogId": "H089",
+      "sourceEditionId": "oh_praise-god-from-whom-all-blessings-flow-old-100th",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY",
+      "playlistPosition": 113,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 46,
+      "catalogId": "H091",
+      "sourceEditionId": "our-great-savior-hyfrydol",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3lX7Gu6lxmHLaDBV4u04e9",
+      "playlistPosition": 115,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 47,
+      "catalogId": "H093",
+      "sourceEditionId": "remaining-openpsalm-all-people",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5svDTzEImIqu739MDgMefA",
+      "playlistPosition": 118,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 48,
+      "catalogId": "H095",
+      "sourceEditionId": "mobile-does-jesus-care",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5h0ujAubhLfiCj3QDis7Sp",
+      "playlistPosition": 120,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 49,
+      "catalogId": "H099",
+      "sourceEditionId": "mobile-o-love",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6IO3rQkzuQKjGb5ctftHnh",
+      "playlistPosition": 125,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 50,
+      "catalogId": "H107",
+      "sourceEditionId": "oh_the-churchs-one-foundation-aurelia",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/69CGXrJPJzTF4EUoO9SxC8",
+      "playlistPosition": 138,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 51,
+      "catalogId": "H110",
+      "sourceEditionId": "final-htg-take-time-to-be-holy",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0APnpAzL87hnsuMH464xo4",
+      "playlistPosition": 141,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "traditional-christian-hymns",
+      "hymnNumber": 52,
+      "catalogId": "H111",
+      "sourceEditionId": "remaining-tt-god-be-with-you-till-we-meet-again",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0kxoStdKoaNtgEB69AUiQy",
+      "playlistPosition": 142,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 1,
+      "catalogId": "B015",
+      "sourceEditionId": "oh_a-mighty-fortress-is-our-god-ein-feste-burg-isorhythmic",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6whxIKinQUTM6A6q9k5tbL",
+      "playlistPosition": 15,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 2,
+      "catalogId": "B029",
+      "sourceEditionId": "oh_all-creatures-of-our-god-and-king-lasst-uns-erfreuen",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4ptK5l9hoTJnqZRabXfyz7",
+      "playlistPosition": 91,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 3,
+      "catalogId": "B066",
+      "sourceEditionId": "oh_all-hail-the-power-of-jesus-name-coronation",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Coronation.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/5kVIqJRp2b3pq2GLIn5edx",
+      "playlistPosition": 86,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 4,
+      "catalogId": "B086",
+      "sourceEditionId": "remaining-openpsalm-all-people",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5svDTzEImIqu739MDgMefA",
+      "playlistPosition": 118,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 5,
+      "catalogId": "B006",
+      "sourceEditionId": "remaining-openpsalm-all-the-way-my-savior-leads-me",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Acapeldridge\u2019s standalone recording is selected instead of the David Lyle Morris alternative associated with a different tune. The Acapeldridge melody has not been independently compared with the Lowry score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/79VOo4gfJwGsxWMD3pmmIY",
+      "playlistPosition": 175,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 6,
+      "catalogId": "B052",
+      "sourceEditionId": "oh_amazing-grace-new-britain",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/7zXFXjuYcNOAiOfLmS4ydL",
+      "playlistPosition": 60,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 7,
+      "catalogId": "B001",
+      "sourceEditionId": "oh_be-still-my-soul-finlandia",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0q0JcleyBOSVOCpvQS3LCq",
+      "playlistPosition": 1,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 8,
+      "catalogId": "B027",
+      "sourceEditionId": "oh_be-thou-my-vision-slane",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0n9UsDgyuEeLuWaOj8SNtE",
+      "playlistPosition": 27,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 9,
+      "catalogId": "B127",
+      "sourceEditionId": "oh_blessed-assurance-blessed-assurance-assurance",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4I6jiVkI2XDCTnTsgrLRv2",
+      "playlistPosition": 170,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 10,
+      "catalogId": "B306",
+      "sourceEditionId": "tt-supplemental-bringing-in-the-sheaves",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/63zB4nMWwIQP93vrUI9j9h",
+      "playlistPosition": 475,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 11,
+      "catalogId": "B021",
+      "sourceEditionId": "remaining-tt-children-of-the-heavenly-father",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5n2zdy43VvopBYYN1X58sh",
+      "playlistPosition": 21,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 12,
+      "catalogId": "B242",
+      "sourceEditionId": "remaining-openpsalm-christ-the-lord-is-risen-today",
+      "matchStatus": "exact",
+      "tuneComparison": "same_historical_tune_documented",
+      "qualification": "The arranger identifies LYRA DAVIDICA / EASTER HYMN and the Sing, ye Heavens recording. The score has the same historical hymn tune; the Rutter fanfare, orchestration and harmony differ.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5pZ0mMC1VwPY80qDEcMmXA",
+      "playlistPosition": 356,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": [
+        "https://johnrutter.com/music/printed-music/catalogue/christ-the-lord-is-risen-today"
+      ]
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 13,
+      "catalogId": "B160",
+      "sourceEditionId": "oh_come-thou-long-expected-jesus-jefferson",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed tune is JEFFERSON, while the earlier catalog describes HYFRYDOL. The artist\u2019s published lyrics confirm an additional stanza absent from the selected historical text. Recording-to-score melody has not been independently compared.",
+      "linkLabel": "Listen on Spotify (version differs)",
+      "trackUrl": "https://open.spotify.com/track/3tWOYs6Nx588yH1VJ50xEF",
+      "playlistPosition": 217,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": [
+        "https://www.futureofforestry.com/comethoulongexpectedjesus"
+      ]
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 14,
+      "catalogId": "B162",
+      "sourceEditionId": "mobile-complete-in-thee",
+      "matchStatus": "different_tune",
+      "tuneComparison": "different_tune_documented",
+      "qualification": "The artist identifies Ben Nyce\u2019s new tune, set in 3/4 by Ben Everson. The installed edition uses Talmage Bittikofer\u2019s 1921 tune.",
+      "linkLabel": "Listen on Spotify (different tune)",
+      "trackUrl": "https://open.spotify.com/track/7JxpQC9Q1vAUC7KItUShA4",
+      "playlistPosition": 221,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": [
+        "https://www.beneverson.com/products/complete-in-thee-hymn?variant=28495496478804"
+      ]
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 15,
+      "catalogId": "B046",
+      "sourceEditionId": "tt-supplemental-count-your-blessings",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4ad1Cxg3SH5053Q7U2tiLO",
+      "playlistPosition": 51,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 16,
+      "catalogId": "B050",
+      "sourceEditionId": "oh_crown-him-with-many-crowns-diademata",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/2IgR2eVEywDIXjKhroOwyz",
+      "playlistPosition": 56,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 17,
+      "catalogId": "B084",
+      "sourceEditionId": "final-htg-day-by-day",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5Jli30RyyJZxUfMxp1jfyG",
+      "playlistPosition": 116,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 18,
+      "catalogId": "B088",
+      "sourceEditionId": "mobile-does-jesus-care",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5h0ujAubhLfiCj3QDis7Sp",
+      "playlistPosition": 120,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 19,
+      "catalogId": "B082",
+      "sourceEditionId": "oh_praise-god-from-whom-all-blessings-flow-old-100th",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/7eDggDAqjNLmvPsWR4W4LY",
+      "playlistPosition": 114,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 20,
+      "catalogId": "B150",
+      "sourceEditionId": "oh_for-the-beauty-of-the-earth-dix",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Dix.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/3ryWhVI8VXOo69UmGLaWKo",
+      "playlistPosition": 200,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 21,
+      "catalogId": "B124",
+      "sourceEditionId": "oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Austria (Haydn).",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/6oqGVpa77m5kod7e8n4T6U",
+      "playlistPosition": 167,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 22,
+      "catalogId": "B115",
+      "sourceEditionId": "remaining-tt-god-be-with-you-till-we-meet-again",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0kxoStdKoaNtgEB69AUiQy",
+      "playlistPosition": 154,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 23,
+      "catalogId": "B166",
+      "sourceEditionId": "final-htg-god-leads-us-along",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/2aY2ZDYII2OO8SntDsPTzY",
+      "playlistPosition": 226,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 24,
+      "catalogId": "B165",
+      "sourceEditionId": "tt-supplemental-grace-greater-than-our-sin",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Moody.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/1lKed9cyQ55isbUcXQ7kj7",
+      "playlistPosition": 225,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 25,
+      "catalogId": "B018",
+      "sourceEditionId": "remaining-openpsalm-great-is-thy-faithfulness",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8",
+      "playlistPosition": 18,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 26,
+      "catalogId": "B284",
+      "sourceEditionId": "final-htg-hallelujah-praise-jehovah",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3S4xL5eaOjWvqAKiVtKpTc",
+      "playlistPosition": 429,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 27,
+      "catalogId": "B011",
+      "sourceEditionId": "remaining-tt-he-hideth-my-soul",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6wyxwRLRNeTHbr8L93G3CG",
+      "playlistPosition": 11,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 28,
+      "catalogId": "B151",
+      "sourceEditionId": "oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0tYc8tPRFvQoUxx7jkA2CY",
+      "playlistPosition": 201,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 29,
+      "catalogId": "B004",
+      "sourceEditionId": "oh_he-leadeth-me-he-leadeth-me",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/59diiHLSmM3Yesu1EKYhO2",
+      "playlistPosition": 4,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 30,
+      "catalogId": "B226",
+      "sourceEditionId": "cantorion-here-is-love",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: CYMRAEG (Lowry).",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/3VAKDAw54ftMWK81QZmgS5",
+      "playlistPosition": 350,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 31,
+      "catalogId": "B119",
+      "sourceEditionId": "final-tt-higher-ground",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6hLblqWPC9bb4fyCXHfbQa",
+      "playlistPosition": 160,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 32,
+      "catalogId": "B025",
+      "sourceEditionId": "oh_holy-holy-holy-nicaea",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5C3CbFv0fgltdTCEv1IbZD",
+      "playlistPosition": 25,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 33,
+      "catalogId": "B211",
+      "sourceEditionId": "final-htg-how-gentle-god-s-commands",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1TVCzW4RFYHndKbeQhuTCl",
+      "playlistPosition": 306,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 34,
+      "catalogId": "B035",
+      "sourceEditionId": "tt-supplemental-i-love-to-tell-the-story",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1DnYLeFtojD8ay88nmumrb",
+      "playlistPosition": 37,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 35,
+      "catalogId": "B163",
+      "sourceEditionId": "final-htg-i-must-tell-jesus",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5Ua7kxCBoOCX57kRvJJKb9",
+      "playlistPosition": 223,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 36,
+      "catalogId": "B065",
+      "sourceEditionId": "oh_i-sing-the-mighty-power-of-god-ellacombe",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Ellacombe.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/5QYYQgzgpVvQyxM2ZHqDfv",
+      "playlistPosition": 81,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 37,
+      "catalogId": "B268",
+      "sourceEditionId": "tt-supplemental-my-redeemer",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Selected tune is McGranahan\u2019s MY REDEEMER. Fernando Ortega may use HYFRYDOL; the primary recording melody is not verified.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/69WrDcoQ0LR7KOXaZNrQyb",
+      "playlistPosition": 404,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 38,
+      "catalogId": "B072",
+      "sourceEditionId": "remaining-openpsalm-i-will-sing-the-wondrous-story",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed tune is Peter Bilhorn\u2019s WONDROUS STORY. The earlier catalog says the Mandate/Robin Mark recording likely uses HYFRYDOL. This is a likely different-tune link; the recording melody has not been independently verified.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/3ipuXBatoeYQIjCOJ92etV",
+      "playlistPosition": 96,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 39,
+      "catalogId": "B210",
+      "sourceEditionId": "oh_immortal-invisible-god-only-wise-st-denio",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: St. Denio.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/3S7EE9cdHfrMM1okLVl5Nh",
+      "playlistPosition": 303,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 40,
+      "catalogId": "B069",
+      "sourceEditionId": "tt-supplemental-in-the-cross-of-christ-i-glory",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Rathbun.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/4avKSya843lN1fX0yUedZP",
+      "playlistPosition": 90,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 41,
+      "catalogId": "B008",
+      "sourceEditionId": "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3VgFcUGnIykIeCZ67X2mNk",
+      "playlistPosition": 8,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 42,
+      "catalogId": "B122",
+      "sourceEditionId": "tt-supplemental-jesus-lover-of-my-soul",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Martyn.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/71Ayi9xayZzNoEt8QNqijy",
+      "playlistPosition": 164,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 43,
+      "catalogId": "B261",
+      "sourceEditionId": "oh_jesus-shall-reign-duke-street",
+      "matchStatus": "exact",
+      "tuneComparison": "same_historical_tune_documented",
+      "qualification": "Norton Hall\u2019s own chord chart credits Isaac Watts and John Hatton. The selected score is DUKE STREET; the Norton Hall harmony and performance differ.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/5gtQECV8IqraPGOcCyDfEi",
+      "playlistPosition": 393,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": [
+        "https://static1.squarespace.com/static/54bfc960e4b0f8f3b48d7c6e/t/60abdf5506afef15c7f9d907/1621876566995/Jesus%2BShall%2BReign%2B%28C%29-%2BChord%2BChart.pdf"
+      ]
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 44,
+      "catalogId": "B077",
+      "sourceEditionId": "tt-lead-me-to-calvary",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/7sytxTc3ZgADSbvDeRvCac",
+      "playlistPosition": 103,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 45,
+      "catalogId": "B061",
+      "sourceEditionId": "tt-lead-kindly-light",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Lux Benigna.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/4kV4Hs86A3ASlVTucY8mYb",
+      "playlistPosition": 76,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 46,
+      "catalogId": "B135",
+      "sourceEditionId": "tt-supplemental-like-a-river-glorious",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/2vKCsTB7GXaqIrPGP6bPqO",
+      "playlistPosition": 183,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 47,
+      "catalogId": "B304",
+      "sourceEditionId": "final-htg-love-lifted-me",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4g0oorNsWEA5CszdyEwZMm",
+      "playlistPosition": 470,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 48,
+      "catalogId": "B094",
+      "sourceEditionId": "oh_christ-arose-christ-arose",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: CHRIST AROSE (Lowry).",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/5kee6zChAhBlArnGyDhkl8",
+      "playlistPosition": 130,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 49,
+      "catalogId": "B024",
+      "sourceEditionId": "aperio-battle-hymn",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1byz9eOXF1aCIdoxHGfXEz",
+      "playlistPosition": 24,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 50,
+      "catalogId": "B159",
+      "sourceEditionId": "oh_more-love-to-thee-more-love-to-thee",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4Gd3N1h6NXQPQvYKnBkfTB",
+      "playlistPosition": 215,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 51,
+      "catalogId": "B067",
+      "sourceEditionId": "tt-my-faith-has-found-a-resting-place",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6lPau59ZDnn0yLEQNVdgHd",
+      "playlistPosition": 88,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 52,
+      "catalogId": "B012",
+      "sourceEditionId": "tt-my-jesus-i-love-thee",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/273TJnnLY5u6eCPxwa3EUT",
+      "playlistPosition": 105,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 53,
+      "catalogId": "B080",
+      "sourceEditionId": "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3nAsiXIntUvPf37RAJUjdI",
+      "playlistPosition": 112,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 54,
+      "catalogId": "B120",
+      "sourceEditionId": "final-htg-near-to-the-heart-of-god",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0XhI6EAHBZ6ISWryINQxhL",
+      "playlistPosition": 162,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 55,
+      "catalogId": "B028",
+      "sourceEditionId": "tt-nearer-still-nearer",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6cUdB8ZUTsUwk7e5INjZNO",
+      "playlistPosition": 28,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 56,
+      "catalogId": "B060",
+      "sourceEditionId": "oh_now-thank-we-all-our-god-nun-danket",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1sfUMaKOgaB4fCB5b1aEp9",
+      "playlistPosition": 71,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 57,
+      "catalogId": "B031",
+      "sourceEditionId": "oh_our-god-our-help-in-ages-past-st-anne",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4N9EA97IA9ISEJm5pVQc8Q",
+      "playlistPosition": 31,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 58,
+      "catalogId": "B092",
+      "sourceEditionId": "mobile-o-love",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: ST. MARGARET.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/6IO3rQkzuQKjGb5ctftHnh",
+      "playlistPosition": 127,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 59,
+      "catalogId": "B038",
+      "sourceEditionId": "tt-supplemental-o-perfect-love",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/14P2L2TVn3XLk9UZTAdFVz",
+      "playlistPosition": 41,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 60,
+      "catalogId": "B009",
+      "sourceEditionId": "remaining-openpsalm-o-worship-the-king",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Lyons.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/2n9OVWdOSZmyD6dKZDzduY",
+      "playlistPosition": 9,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 61,
+      "catalogId": "B040",
+      "sourceEditionId": "oh_o-for-a-thousand-tongues-azmon",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Azmon.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/4uN09y2poX1GwsgHC5RIuh",
+      "playlistPosition": 44,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 62,
+      "catalogId": "B303",
+      "sourceEditionId": "final-htg-oh-how-i-love-jesus",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/52lE9NWWn3N1riVHFT6vGV",
+      "playlistPosition": 467,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 63,
+      "catalogId": "B059",
+      "sourceEditionId": "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed setting is by Tullius C. O\u2019Kane (1877), whereas the earlier catalog describes Durham/McIntosh PROMISED LAND. The Emmanuel Quartet melody is unverified.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/4vyjTtkW2sGokYAc8BedLv",
+      "playlistPosition": 69,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 64,
+      "catalogId": "B286",
+      "sourceEditionId": "mobile-only-trust-him",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Selected source calls the Stockton tune MINERVA; earlier catalog calls it STOCKTON. Preserve the source label and do not treat a naming difference alone as proof of different melody.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3KbXFVFjJ1CkZSmglUHYJP",
+      "playlistPosition": 433,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 65,
+      "catalogId": "B113",
+      "sourceEditionId": "tt-supplemental-onward-christian-soldiers",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3ONU53zAFPsL3aOZCr56ir",
+      "playlistPosition": 150,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 66,
+      "catalogId": "B083",
+      "sourceEditionId": "our-great-savior-hyfrydol",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3lX7Gu6lxmHLaDBV4u04e9",
+      "playlistPosition": 115,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 67,
+      "catalogId": "B007",
+      "sourceEditionId": "oh_pass-me-not-o-gentle-savior-pass-me-not-o-gentle-savior",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3xLwitdrvYdfrLyryB89fK",
+      "playlistPosition": 7,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 68,
+      "catalogId": "B056",
+      "sourceEditionId": "aperio-wayfaring-stranger",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/2eshJ2zQab5Z6yYFBdoCVo",
+      "playlistPosition": 66,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 69,
+      "catalogId": "B130",
+      "sourceEditionId": "remaining-openpsalm-praise-him-praise-him",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/535XGfjpGPCMqSACLFhhLp",
+      "playlistPosition": 177,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 70,
+      "catalogId": "B034",
+      "sourceEditionId": "oh_praise-to-the-lord-the-almighty-lobe-den-herren",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1yaEJkc1US0XTOMsxnsHzy",
+      "playlistPosition": 35,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 71,
+      "catalogId": "B043",
+      "sourceEditionId": "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Praise My Soul.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/5TjVO6iFiv4H0dAo8cOrDI",
+      "playlistPosition": 47,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 72,
+      "catalogId": "B191",
+      "sourceEditionId": "tt-supplemental-rejoice-the-lord-is-king",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: Darwall.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/3unicmL7N0jbQBEJRaaNPm",
+      "playlistPosition": 267,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 73,
+      "catalogId": "B019",
+      "sourceEditionId": "oh_savior-like-a-shepherd-lead-us-bradbury",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0M9hkNdHnFgQGHQBRoVo62",
+      "playlistPosition": 19,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 74,
+      "catalogId": "B022",
+      "sourceEditionId": "ly_softly-and-tenderly-thompson",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/56zx52VJ3tR4TzdKoHJb0U",
+      "playlistPosition": 22,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 75,
+      "catalogId": "B209",
+      "sourceEditionId": "remaining-openpsalm-sound-the-battle-cry",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6VYoP5IUBcXwv0nKFJKsD0",
+      "playlistPosition": 301,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 76,
+      "catalogId": "B172",
+      "sourceEditionId": "mobile-spirit-of-god",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0tWcsyh87PEdTHlsixUcl3",
+      "playlistPosition": 236,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 77,
+      "catalogId": "B036",
+      "sourceEditionId": "tt-supplemental-sweet-hour-of-prayer",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/1k43j3q3q4U5sl7PVnofbo",
+      "playlistPosition": 39,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 78,
+      "catalogId": "B137",
+      "sourceEditionId": "oh_take-my-life-and-let-it-be-mozart",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed tune is MOZART, while the earlier catalog describes HENDON. Multiple traditional tunes exist and the recording melody is unverified.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/1Zs9hBTrFmmANk2qQ8OdHT",
+      "playlistPosition": 185,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 79,
+      "catalogId": "B173",
+      "sourceEditionId": "final-htg-take-time-to-be-holy",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/0APnpAzL87hnsuMH464xo4",
+      "playlistPosition": 237,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 80,
+      "catalogId": "B200",
+      "sourceEditionId": "remaining-openpsalm-tell-me-the-story-of-jesus",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3qeDrDO45B3Jx2QlkmsKoj",
+      "playlistPosition": 286,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 81,
+      "catalogId": "B102",
+      "sourceEditionId": "oh_the-churchs-one-foundation-aurelia",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/69CGXrJPJzTF4EUoO9SxC8",
+      "playlistPosition": 139,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 82,
+      "catalogId": "B236",
+      "sourceEditionId": "tt-supplemental-the-king-of-love-my-shepherd-is",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: St. Columba.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/6Gu5r38ZGkS5xnqbEEYh9w",
+      "playlistPosition": 345,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 83,
+      "catalogId": "B023",
+      "sourceEditionId": "oh_the-old-rugged-cross-old-rugged-cross",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/7sOnzexqMEnQrPu4G4NEkA",
+      "playlistPosition": 23,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 84,
+      "catalogId": "B313",
+      "sourceEditionId": "ly_sands-of-time-rutherford",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Selected tune is RUTHERFORD. The Already Not Yet recording may use a modern retune; melody has not been independently verified.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/2EsYmaVSDWfaYTMfCV8VgY",
+      "playlistPosition": 484,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 85,
+      "catalogId": "B078",
+      "sourceEditionId": "oh_my-hope-is-built-melita",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed tune is MELITA, although the earlier catalog describes Bradbury\u2019s SOLID ROCK. The Phillips, Craig & Dean recording has not been independently compared to MELITA; treat it as a likely different-tune recording, not an exact score example.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/3OYdTPsom81ka2fccjQM29",
+      "playlistPosition": 106,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 86,
+      "catalogId": "B016",
+      "sourceEditionId": "hc-fathers-world",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6tHwEfq4JpewxJbxXhuMZb",
+      "playlistPosition": 16,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 87,
+      "catalogId": "B171",
+      "sourceEditionId": "tt-supplemental-trusting-jesus",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/3MgpzkzQ0jaTU6uxmlI2kK",
+      "playlistPosition": 235,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 88,
+      "catalogId": "B145",
+      "sourceEditionId": "hc-turn-your-eyes",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Same hymn, but this recording may use a different tune. Selected score: LEMMEL.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/0g4LI6POtcLQLzrwPwWsHl",
+      "playlistPosition": 195,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 89,
+      "catalogId": "B305",
+      "sourceEditionId": "oh_we-gather-together-kremser",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/754cn5osPEAoZPKHjyrXRh",
+      "playlistPosition": 474,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 90,
+      "catalogId": "B193",
+      "sourceEditionId": "tt-supplemental-we-rest-on-thee",
+      "matchStatus": "exact",
+      "tuneComparison": "same_historical_tune_documented",
+      "qualification": "The recording organization explicitly credits Edith Cherry and FINLANDIA. This verifies the traditional work and tune, not the Fenne arrangement.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/2Qp39oqRt98VMeSlqYSayz",
+      "playlistPosition": 274,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": [
+        "https://20schemesequip.com/we-rest-on-thee-congregational/"
+      ]
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 91,
+      "catalogId": "B223",
+      "sourceEditionId": "mobile-well-work-till-jesus-comes",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6OPuDtYDueJc5AGdcZ1LGL",
+      "playlistPosition": 321,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 92,
+      "catalogId": "B014",
+      "sourceEditionId": "oh_what-a-friend-we-have-in-jesus-untitled",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4iFGj9LMN5xYuGeDcNifo9",
+      "playlistPosition": 14,
+      "currentPlaylistMembershipVerified": true,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 93,
+      "catalogId": "B155",
+      "sourceEditionId": "winkworth-whateer-gastorius",
+      "matchStatus": "different_tune",
+      "tuneComparison": "different_tune_documented",
+      "qualification": "The artist credits Keith Getty and Matt Merker for this Bob Kauflin recording. The installed score uses the historical Gastorius tune. Recording line repetitions and wording also differ.",
+      "linkLabel": "Listen on Spotify (different tune)",
+      "trackUrl": "https://open.spotify.com/track/4r5SjM8nGxsD4QAoP7eHvS",
+      "playlistPosition": 209,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": [
+        "https://sovereigngracemusic.com/music/songs/whateer-my-god-ordains-is-right/"
+      ]
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 94,
+      "catalogId": "B188",
+      "sourceEditionId": "oh_when-i-survey-the-wondrous-cross-duke-street",
+      "matchStatus": "probable",
+      "tuneComparison": "possible_different_tune",
+      "qualification": "Installed tune is DUKE STREET, while the earlier catalog recommended HAMBURG. The recording melody is unverified; do not infer a match from the title.",
+      "linkLabel": "Listen on Spotify (tune may differ)",
+      "trackUrl": "https://open.spotify.com/track/7KSTGYUeyrgYRtOXW7NbAF",
+      "playlistPosition": 258,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 95,
+      "catalogId": "B241",
+      "sourceEditionId": "oh_when-the-roll-is-called-up-yonder-when-the-roll-is-called-up-yonder",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/6oGd2wLqEArfXElKGRY2JN",
+      "playlistPosition": 354,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 96,
+      "catalogId": "B314",
+      "sourceEditionId": "mobile-we-have-an-anchor",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "This playlist track is explicitly a piano instrumental. The selected score supplies the historical hymn text; no vocal/arrangement identity is asserted.",
+      "linkLabel": "Listen on Spotify (piano)",
+      "trackUrl": "https://open.spotify.com/track/5DbxtUzM9hbb7abvmBQlsM",
+      "playlistPosition": 486,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    },
+    {
+      "bookId": "christian-hymns-contemporary",
+      "hymnNumber": 97,
+      "catalogId": "B128",
+      "sourceEditionId": "hc-wonderful-grace",
+      "matchStatus": "probable",
+      "tuneComparison": "not_verified",
+      "qualification": "Same hymn catalog match. Recording tune and arrangement have not been independently compared with this score.",
+      "linkLabel": "Listen on Spotify",
+      "trackUrl": "https://open.spotify.com/track/4H3ocadcOU7yvMzD1grNP4",
+      "playlistPosition": 173,
+      "currentPlaylistMembershipVerified": false,
+      "publicIdentitySources": []
+    }
+  ]
+}

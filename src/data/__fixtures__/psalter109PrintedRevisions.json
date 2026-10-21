@@ -1,0 +1,23 @@
+{
+  "preExposureFreezeSucceeded": true,
+  "initialSHA256": "10df416dac897e3cca367d047bb011185bafe0d976d98121292aa032ac5f686c",
+  "revisedSHA256": "ccd68b5aacea449e69c8777587467b61fa856e28ebe53310a45b2abbb91e7836",
+  "revisionUTC": "2026-10-09T07:01:08.491321+00:00",
+  "revisions": [
+    {
+      "voice": "B1",
+      "q": 27,
+      "before": "F3 MIDI53",
+      "after": "F#3 MIDI54",
+      "reason": "The written F3 staff position is subject to the one-sharp key signature; no natural cancellation. Initial independent ledger omitted the signature for these two bass-clef heads. Both source engravings and coordinator independently confirm canonical F#3."
+    },
+    {
+      "voice": "B2",
+      "q": 24,
+      "before": "F3 MIDI53",
+      "after": "F#3 MIDI54",
+      "reason": "The written F3 staff position is subject to the one-sharp key signature; no natural cancellation. Initial independent ledger omitted the signature for these two bass-clef heads. Both source engravings and coordinator independently confirm canonical F#3."
+    }
+  ],
+  "otherEventRevisions": []
+}

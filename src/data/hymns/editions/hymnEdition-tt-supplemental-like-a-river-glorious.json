@@ -1,0 +1,170 @@
+{
+  "sourceSha256": "8748b9577110c936168d589ff3308e197bffa8566bb102af859b9553cb3f3a84",
+  "metadata": {
+    "id": "hymn-tt-supplemental-like-a-river-glorious",
+    "title": "Like a River Glorious",
+    "composer": "“Wye Valley”; James Mountain, 1876.",
+    "tune": "Wye Valley",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "SOPRANO ALTO",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "bass",
+        "sourceName": "TENOR BASS",
+        "kind": "chordal",
+        "name": "Lower staff (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-like-a-river-glorious",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/L/Like_a_River_Glorious/Like_a_River_Glorious.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Frances R. Havergal, 1876.  MUSIC: “Wye Valley”; James Mountain, 1876.  Public Domain.",
+      "Like a River Glorious",
+      "*that is, to do all for us.",
+      "Thus saith the Lord, Behold, I will extend peace to her like a river. Isa. 66:12",
+      "Thou wilt keep him in perfect peace, whose mind is stayed on thee: because he trusteth in thee. 26:3; Php. 4:7"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Frances R. Havergal, 1876.  MUSIC: “Wye Valley”; James Mountain, 1876.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-like-a-river-glorious",
+      "title": "Like a River Glorious",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B135"
+        }
+      ],
+      "file": "abc/tt-supplemental-like-a-river-glorious.abc",
+      "sha256": "8748b9577110c936168d589ff3308e197bffa8566bb102af859b9553cb3f3a84",
+      "canonical_reference_in_archive": "musicxml_abc/Like_a_River_Glorious.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/L/Like_a_River_Glorious/Like_a_River_Glorious.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "inspection_status": "parsed_cached_web_text",
+          "method": "web_cached_page_then_actual_link_click",
+          "url": "https://library.timelesstruths.org/music/Like_a_River_Glorious/",
+          "snapshot_path": "sources/timelesstruths_supplemental/pages/Like_a_River_Glorious.web.txt",
+          "snapshot_sha256": "cdc6d6eef4671fc59f3c276b3e8c0cfdd224d076cb898a3dae39ab8cf21f3f37",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain L28:",
+              "preceding_context": [
+                "Peace",
+                "Report Error | << | >> L23: # Like a River Glorious",
+                "Frances R. Havergal , 1876"
+              ],
+              "following_context": [
+                "* * *",
+                "Subject: Peace L32:"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain L40:",
+              "preceding_context": [
+                "Scripture: Isaiah 66:12; 26:3; Philippians 4:7 L34:",
+                "Wye Valley [.xml ]",
+                "James Mountain , 1876"
+              ],
+              "following_context": [
+                "* * *",
+                "Key: F L44:"
+              ]
+            }
+          ],
+          "rights_links": [],
+          "xml_link_count": 1,
+          "inspected_at_utc": "2026-09-30T18:10:52.306Z",
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B135",
+      "title": "Like A River Glorious",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-like-a-river-glorious",
+      "abc_file": "abc/tt-supplemental-like-a-river-glorious.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B135",
+        "Song title": "Like A River Glorious",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/97646",
+        "Lyrics source": "https://library.timelesstruths.org/music/Like_a_River_Glorious/",
+        "Editable source": "",
+        "Tune and work identity": "WYE VALLEY; James Mountain; words Frances Ridley Havergal",
+        "Public distribution rights": "Opened Timeless Truths source explicitly labels both words and music Public Domain. Use this traditional score, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Like_a_River_Glorious/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional title/work candidate; no recording audio comparison performed.  Latest user permits a traditional PD tune even if different from recorded tune; use only historical text without added contemporary chorus.",
+        "Playlist positions": "183",
+        "Playlist artists": "Haven",
+        "Original track titles": "Like A River Glorious",
+        "Source review": "PDF score with lyrics\nPDF opened and parsed; recording tune not independently confirmed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

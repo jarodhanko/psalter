@@ -1,0 +1,212 @@
+{
+  "sourceSha256": "dd230ad877ac514e545ac6d831ff44319e84a4c7614abdf1c78d84b9f0ce41fa",
+  "metadata": {
+    "id": "hymn-tt-supplemental-sweet-hour-of-prayer",
+    "title": "Sweet Hour of Prayer",
+    "composer": "“Sweet Hour”; William B. Bradbury, pub.1861.",
+    "tune": "Sweet Hour",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-sweet-hour-of-prayer",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/S/Sweet_Hour_of_Prayer/Sweet_Hour_of_Prayer.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: William W. Walford, 1845.  MUSIC: “Sweet Hour”; William B. Bradbury, pub.1861.  Public Domain.",
+      "Sweet Hour of Prayer",
+      "Pray without ceasing. 1 Th. 5:17",
+      "The smoke of the incense, which came with the prayers of the saints, ascended up before God. Rev. 8:4"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: William W. Walford, 1845.  MUSIC: “Sweet Hour”; William B. Bradbury, pub.1861.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-sweet-hour-of-prayer",
+      "title": "Sweet Hour of Prayer",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H037"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B036"
+        }
+      ],
+      "file": "abc/tt-supplemental-sweet-hour-of-prayer.abc",
+      "sha256": "dd230ad877ac514e545ac6d831ff44319e84a4c7614abdf1c78d84b9f0ce41fa",
+      "canonical_reference_in_archive": "musicxml_abc/Sweet_Hour_of_Prayer.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/S/Sweet_Hour_of_Prayer/Sweet_Hour_of_Prayer.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "url": "https://library.timelesstruths.org/music/Sweet_Hour_of_Prayer/",
+          "html_path": "sources/timelesstruths_supplemental/pages/Sweet_Hour_of_Prayer.html",
+          "html_sha256": "7a1dfaab361c0b7f4a9dd0d133f2add3a46cb6f7bbcfa48c7121f60adcfc1c55",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "| >>",
+                "Sweet Hour of Prayer",
+                "William W. Walford, 1845"
+              ],
+              "following_context": [
+                "Subject:",
+                "Prayer"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "Scripture: 1 Thessalonians 5:17; Revelation 8:4",
+                "Sweet Hour [.xml]",
+                "William B. Bradbury, pub.1861"
+              ],
+              "following_context": [
+                "Key: D",
+                "Meter: 8.8.8.8 D"
+              ]
+            }
+          ],
+          "rights_links": [
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            },
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+          ],
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H037",
+      "title": "Sweet Hour of Prayer",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "tt-supplemental-sweet-hour-of-prayer",
+      "abc_file": "abc/tt-supplemental-sweet-hour-of-prayer.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H037",
+        "Hymn / version": "Sweet Hour of Prayer",
+        "Playlist track #": "41, 145",
+        "Music / score source": "https://library.timelesstruths.org/library/music/S/Sweet_Hour_of_Prayer/Sweet_Hour_of_Prayer.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Sweet_Hour_of_Prayer/",
+        "Editable notation / MIDI": "https://library.timelesstruths.org/music/Sweet_Hour_of_Prayer/",
+        "Available formats": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain text and music (US), as labeled by source",
+        "Rights source": "https://library.timelesstruths.org/music/Sweet_Hour_of_Prayer/",
+        "Text, tune and version notes": "William W. Walford 1845; SWEET HOUR, William B. Bradbury 1861\nPDF opened and parsed",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B036",
+      "title": "Sweet Hour of Prayer",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-sweet-hour-of-prayer",
+      "abc_file": "abc/tt-supplemental-sweet-hour-of-prayer.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B036",
+        "Song title": "Sweet Hour of Prayer",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/S/Sweet_Hour_of_Prayer/Sweet_Hour_of_Prayer.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Sweet_Hour_of_Prayer/",
+        "Editable source": "https://library.timelesstruths.org/music/Sweet_Hour_of_Prayer/",
+        "Tune and work identity": "William W. Walford 1845; SWEET HOUR, William B. Bradbury 1861\nPDF opened and parsed",
+        "Public distribution rights": "Public-domain text and music (US), as labeled by source",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Sweet_Hour_of_Prayer/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 367 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "39, 343, 367",
+        "Playlist artists": "The Emmanuel Quartet; Calvin Gilmore; Mary Barrett",
+        "Original track titles": "Sweet Hour of Prayer; Sweet Hour Of Prayer",
+        "Source review": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

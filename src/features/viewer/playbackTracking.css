@@ -1,0 +1,24 @@
+.playback-selectable-head { cursor: pointer; }
+.playback-sounding-head, .playback-start-head { fill: #bc1b25 !important; }
+.playback-next-head { stroke: #bc1b25 !important; stroke-width: 1.7px !important; paint-order: stroke fill; }
+.playback-selectable-head:focus-visible { outline: 2px solid #bc1b25; outline-offset: 4px; }
+.playback-start-marker { fill: #a0101a; font: bold 11px system-ui, sans-serif; pointer-events: none; }
+.playback-tracking-status { font-size: .875rem; margin: .5rem 0; }
+@media print { .playback-start-marker { display: none; } }
+
+.viewer-controls.viewer-controls--with-follow { grid-template-columns: minmax(3.5rem, 6rem) minmax(4rem, 15rem) auto 2.75rem; align-items: end; }
+.playback-follow-control { display: contents; }
+.viewer-controls--with-follow .settings-toggle { grid-column: 4; grid-row: 1; }
+.follow-toggle { min-height: 2.75rem; grid-column: 3; grid-row: 1; min-width: 4.5rem; padding: .4rem .45rem; border: 1px solid var(--line); border-radius: .4rem; color: var(--forest); background: var(--paper, #fffdf5); font: inherit; font-weight: 700; }
+.follow-toggle[aria-pressed="true"] { background: #e3ecdf; border-color: var(--forest); }
+.playback-follow-unavailable { grid-column: 1 / -1; color: var(--muted); font-size: .75rem; text-align: center; }
+.playback-follow-paused { grid-column: 1 / -1; display: flex; justify-content: center; align-items: center; gap: .45rem; white-space: nowrap; }
+.playback-follow-paused > span { color: var(--muted); font-size: .75rem; }
+.playback-follow-paused button { min-height: 2.75rem; padding: .3rem; font-size: .8rem; }
+@media print { .playback-follow-control { display: none !important; } }
+
+.playback-keyboard-help { margin-top: .4rem; }
+.playback-keyboard-help summary { cursor: pointer; }
+.playback-overlapping-notes { position: fixed; z-index: 30; bottom: 1rem; left: 1rem; right: 1rem; display: flex; flex-wrap: wrap; gap: .5rem; max-height: 45vh; overflow: auto; padding: .75rem; border: 1px solid currentColor; border-radius: .4rem; background: var(--paper, #f7f4eb); box-shadow: 0 2px 12px #0003; }
+.playback-overlapping-notes strong { flex-basis: 100%; }
+.playback-overlapping-notes button { min-height: 44px; max-width: 100%; text-align: left; }

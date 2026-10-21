@@ -1,0 +1,162 @@
+{
+  "sourceSha256": "6bc1a7d185d09769515f802f2e908db12d42e24da0db41286ffa67ae5bc91971",
+  "metadata": {
+    "id": "hymn-oh_i-sing-the-mighty-power-of-god-ellacombe",
+    "title": "I Sing the Mighty Power of God",
+    "composer": "Words: Isaac Watts, 1709. · Music: 'Ellacombe' from Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784. Setting: \"Amore Dei\", 1897.",
+    "tune": "Ellacombe",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_i-sing-the-mighty-power-of-god-ellacombe",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/I_Sing_the_Mighty_Power_Of_God/I_Sing_The_Mighty_Power_Of_God-Ellacombe.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Isaac Watts, 1709.",
+      "Music: 'Ellacombe' from Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784. Setting: \"Amore Dei\", 1897.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision.",
+      "Music and Lyrics source: Hymnal \"Amore Dei\" (published 1897)  Hymn 115.  ABC file contributed to the Open Hymnal by Tobin Strong, 09 Jan 2014."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Ellacombe' from Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784. Setting: \"Amore Dei\", 1897.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_i-sing-the-mighty-power-of-god-ellacombe",
+      "title": "I Sing the Mighty Power of God",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H069"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B065"
+        }
+      ],
+      "file": "abc/oh_i-sing-the-mighty-power-of-god-ellacombe.abc",
+      "sha256": "6bc1a7d185d09769515f802f2e908db12d42e24da0db41286ffa67ae5bc91971",
+      "canonical_reference_in_archive": "abc/oh_i-sing-the-mighty-power-of-god-ellacombe.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/I_Sing_the_Mighty_Power_Of_God/I_Sing_The_Mighty_Power_Of_God-Ellacombe.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Isaac Watts, 1709.",
+          "Music: 'Ellacombe' from Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784. Setting: \"Amore Dei\", 1897.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision.",
+          "Music and Lyrics source: Hymnal \"Amore Dei\" (published 1897)  Hymn 115.  ABC file contributed to the Open Hymnal by Tobin Strong, 09 Jan 2014."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Ellacombe' from Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784. Setting: \"Amore Dei\", 1897.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'Ellacombe' from Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784. Setting: \"Amore Dei\", 1897.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_i-sing-the-mighty-power-of-god-ellacombe.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H069",
+      "title": "I Sing the Mighty Power of God",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_i-sing-the-mighty-power-of-god-ellacombe",
+      "abc_file": "abc/oh_i-sing-the-mighty-power-of-god-ellacombe.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H069",
+        "Hymn / version": "I Sing the Mighty Power of God",
+        "Playlist track #": "81",
+        "Music / score source": "https://library.timelesstruths.org/library/music/I/I_Sing_the_Mighty_Power_of_God/I_Sing_the_Mighty_Power_of_God.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/I_Sing_the_Mighty_Power_of_God/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB-style grand-staff PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights source": "https://library.timelesstruths.org/music/I_Sing_the_Mighty_Power_of_God/",
+        "Text, tune and version notes": "Isaac Watts (1715) / ELLACOMBE (1784), arr./harm. W. H. Monk (1868)\nELLACOMBE selected; FOREST GREEN and other tunes exist. Haven recording tune not independently auditioned.\nPDF opened successfully",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "ELLACOMBE is an accepted PD setting of Watts’s hymn text, even if the recording uses FOREST GREEN or another tune. The source score was inspected and identified as PD, primarily on a US basis. Confirm the edition and territorial basis for the intended public distribution; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": [
+        "tt-i-sing-the-mighty-power-of-god"
+      ]
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B065",
+      "title": "I Sing the Mighty Power of God",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_i-sing-the-mighty-power-of-god-ellacombe",
+      "abc_file": "abc/oh_i-sing-the-mighty-power-of-god-ellacombe.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B065",
+        "Song title": "I Sing the Mighty Power of God",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/I/I_Sing_the_Mighty_Power_of_God/I_Sing_the_Mighty_Power_of_God.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/I_Sing_the_Mighty_Power_of_God/",
+        "Editable source": "",
+        "Tune and work identity": "Isaac Watts (1715) / ELLACOMBE (1784), arr./harm. W. H. Monk (1868)\nELLACOMBE selected; FOREST GREEN and other tunes exist. Haven recording tune not independently auditioned.",
+        "Public distribution rights": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/I_Sing_the_Mighty_Power_of_God/",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nELLACOMBE selected for the Watts hymn; FOREST GREEN and other recording tunes may differ.\nSame hymn/text retained. Public-domain alternate tune is permitted. Do not copy protected recording arrangements or added sections. Confirm target territories and edition reuse terms.",
+        "Playlist positions": "81, 249",
+        "Playlist artists": "The Haven Quartet; Christian Edition",
+        "Original track titles": "I Sing the Mighty Power of God; I Sing the Might Power",
+        "Source review": "SATB-style grand-staff PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": [
+        "tt-i-sing-the-mighty-power-of-god"
+      ]
+    }
+  ]
+}

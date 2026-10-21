@@ -1,0 +1,156 @@
+%abc-2.1
+X:1
+T:Near To The Heart Of God
+C:Cleland Boyd McAfee | Cleland Boyd McAfee, 1903
+S:HymnsToGod.org; original MUP and PDF retained
+M:4/4
+L:1/8
+Q:1/4=95
+N:Source MUP SHA-256 aafb869bc2b754006baf15086565c79255f328d8a9d8a2f66c9ffdb734ecd1ed
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+K:Db
+% SOURCE title bold (19) "" "Near To The Heart Of God" ""
+% SOURCE title (2) ""
+% SOURCE title (9) "" "\f(TI)But it is good for me to draw near unto God: I have made the Lord" ""
+% SOURCE title (9) "" "\f(TI)Jehovah my refuge, That I may tell of all thy works. - Ps. 73:28" ""
+% SOURCE title (11) ""
+% SOURCE title (11) "D\(flat) - 4 - MI" "" ""
+% SOURCE title (13) "Cleland Boyd McAfee" "" "Cleland Boyd McAfee, 1903"
+% SOURCE title (11) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // Mup 7.2 arkkra.com
+% SOURCE // The hymn produced by this source code is believed to be in the public 
+% SOURCE // domain in the United States of America.
+% SOURCE // This mup code is donated to the public domain.
+% SOURCE // Hymn Source:	World Wide Revival Songs Number Two
+% SOURCE //		nday School and
+% SOURCE //		Evangelistic Campaigns.
+% SOURCE //		James G.;Garth, Compiler
+% SOURCE //		Albert C. Fisher, Editor
+% SOURCE //		Publisher: Federation Publishing Company
+% SOURCE //		Siloam Springs, Arkansas
+% SOURCE //		Copyright: 1921
+% SOURCE //		Hymn No.: 191
+% SOURCE // Transcribed by: Ted Gatza, Jr. 08/04/2025
+% SOURCE // Revisions:
+% SOURCE // HymnsToGod.org
+% SOURCE //==== FOR 6X9 ======================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //define macros
+% SOURCE    //Lyrics
+% SOURCE      //Lyrics Between Staffs
+% SOURCE      //Lyrics Below Bass Staff    
+% SOURCE      //Text - Above Staff
+% SOURCE      //Fermatas
+% SOURCE      //Note Accents
+% SOURCE      //Repeats
+% SOURCE //=========================
+% SOURCE //set midi
+% SOURCE //=========================
+% SOURCE // Verse
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3
+% SOURCE //4
+% SOURCE //5a
+% SOURCE //5b
+% SOURCE //6
+% SOURCE //7
+% SOURCE //8
+% SOURCE //9
+% SOURCE //10
+% SOURCE //11
+% SOURCE //12
+% SOURCE //13
+% SOURCE //14
+% SOURCE //15
+% SOURCE //16
+% SOURCE //17
+% SOURCE //18
+% SOURCE //19
+V:11
+[FD]2 | [FD]3 [=EC] [FD]2 [F=B,]2 | [GC]3 [F=B,] [GC]4 | [EC]2 [EC] [EC] [AC]2 [GE]2 |
+w: 1.~There is a place of qui- et rest, Near to the heart of
+w: 2.~There is a place of com- fort sweet, Near to the heart of
+w: 3.~There is a place of full re- lease, Near to the heart of
+V:12
+x2 | x8 | x8 | x8 |
+V:21
+[A,D,]2 | [A,D,]3 [A,A,,] [A,D,]2 [A,=D,]2 | [A,E,]3 [A,=D,] [A,E,]4 | [A,A,,]2 [A,A,,] [A,A,,] [E,A,,]2 [A,A,,]2 |
+V:22
+x2 | x8 | x8 | x8 |
+V:11
+[FD]6 [|] [FD]2 | [FD]3 [=EC] [FD]2 [F=B,]2 | [GC]3 [F=B,] [GC]4 | [EC]2 [AC] [GC] [FD]2 [EC]2 |
+w: God, A place where sin can- not mo- lest, Near to the heart of
+w: God, A place where we our Sav- iour meet, Near to the heart of
+w: God, A place where all is joy and peace, Near to the heart of
+V:12
+x6 [|] x2 | x8 | x8 | x8 |
+V:21
+[A,D,]6 [|] [A,D,]2 | [A,D,]3 [A,A,,] [A,D,]2 [A,=D,]2 | [A,E,]3 [A,=D,] [A,E,]4 | [A,A,,]2 [A,A,,] [A,A,,] [A,A,,]2 [A,A,,]2 |
+V:22
+x6 [|] x2 | x8 | x8 | x8 |
+V:11
+[FD]6 ||
+w: God.
+w: God.
+w: God.
+V:12
+x6 ||
+V:21
+[A,D,]6 ||
+V:22
+x6 ||
+V:11
+D2 | [BD]3 [BD] [GD]2 B2 | [BG]4 [AF]4 | [AF]2 [GE] [FD] [GC]2 [AC]2 |
+w: O Je- sus, blest Re- deem- er, Sent from the heart of
+w: * * * * * * * * * * * *
+w: * * * * * * * * * * * *
+V:12
+D2 | x3 x x2 DG | x8 | x8 |
+V:21
+[F,D,]2 | [G,G,,]3 [G,G,,] [B,G,]2 [DG,]2 | [DD,]4 [DD,]4 | [CA,,]2 [CA,,] [A,A,,] [A,A,,]2 [A,A,,]2 |
+V:22
+x2 | x8 | x8 | x8 |
+V:11
+[FD]6 | D2 | [BD]3 [BD] [cD]2 [BD]2 | [AD]4 [FD]4 |
+w: God; Hold us, who wait be- fore Thee,
+w: * * * * * * * *
+w: * * * * * * * *
+V:12
+x6 | D2 | x8 | x8 |
+V:21
+[A,D,]6 | [F,D,]2 | G,3 G, A,2 G,2 | [F,D,]4 [A,D,]4 |
+V:22
+x6 | x2 | G,3 G, G,2 G,2 | x8 |
+V:11
+[EC]2 [FC] [GC] [FC]2 E2 | [DA,]6 |]
+w: Near to the heart of God.
+w: * * * * * *
+w: * * * * * *
+V:12
+x2 x x x2 CA, | x6 |]
+V:21
+[A,A,,]2 [F,A,,] [E,A,,] [A,A,,]2 [G,A,,]2 | [F,D,]6 |]
+V:22
+x8 | x6 |]

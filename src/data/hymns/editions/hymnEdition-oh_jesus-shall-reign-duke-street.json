@@ -1,0 +1,127 @@
+{
+  "sourceSha256": "702d4316ada7b82164ae4a69204749b3f7115737d57a905fd4024a92a99be9f4",
+  "metadata": {
+    "id": "hymn-oh_jesus-shall-reign-duke-street",
+    "title": "Jesus Shall Reign",
+    "composer": "Words: Isaac Watts, 1719. · Music: 'Duke Street' John Hatton, 1793.  Setting: \"Christian Hymns\", 1908.",
+    "tune": "Duke Street",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_jesus-shall-reign-duke-street",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Jesus_Shall_Reign/Jesus_Shall_Reign-Duke_Street.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Isaac Watts, 1719.",
+      "Music: 'Duke Street' John Hatton, 1793.  Setting: \"Christian Hymns\", 1908.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2011 Revision.",
+      "Music source: 'Christian Hymns' Hymnal, 1908 Hymn 145.  ABC file contributed to the Open Hymnal by Samuel Cantrell, 14 Jan 2011."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2011 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Duke Street' John Hatton, 1793.  Setting: \"Christian Hymns\", 1908.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_jesus-shall-reign-duke-street",
+      "title": "Jesus Shall Reign",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B261"
+        }
+      ],
+      "file": "abc/oh_jesus-shall-reign-duke-street.abc",
+      "sha256": "702d4316ada7b82164ae4a69204749b3f7115737d57a905fd4024a92a99be9f4",
+      "canonical_reference_in_archive": "abc/oh_jesus-shall-reign-duke-street.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Jesus_Shall_Reign/Jesus_Shall_Reign-Duke_Street.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Isaac Watts, 1719.",
+          "Music: 'Duke Street' John Hatton, 1793.  Setting: \"Christian Hymns\", 1908.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2011 Revision.",
+          "Music source: 'Christian Hymns' Hymnal, 1908 Hymn 145.  ABC file contributed to the Open Hymnal by Samuel Cantrell, 14 Jan 2011."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Duke Street' John Hatton, 1793.  Setting: \"Christian Hymns\", 1908.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_jesus-shall-reign-duke-street.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B261",
+      "title": "Jesus Shall Reign",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_jesus-shall-reign-duke-street",
+      "abc_file": "abc/oh_jesus-shall-reign-duke-street.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B261",
+        "Song title": "Jesus Shall Reign",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/J/Jesus_Shall_Reign/Jesus_Shall_Reign.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Jesus_Shall_Reign/",
+        "Editable source": "",
+        "Tune and work identity": "DUKE STREET — John Hatton (1793); Isaac Watts (1719)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Jesus_Shall_Reign/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nNorton Hall official chord chart explicitly credits Isaac Watts and John Hatton. Traditional same melody, alternate harmony. Identity evidence: https://static1.squarespace.com/static/54bfc960e4b0f8f3b48d7c6e/t/60abdf5506afef15c7f9d907/1621876566995/Jesus%2BShall%2BReign%2B%28C%29-%2BChord%2BChart.pdf Exact Spotify melody not auditioned; recording-specific arrangement is not cleared.",
+        "Playlist positions": "393",
+        "Playlist artists": "Norton Hall Band",
+        "Original track titles": "Jesus Shall Reign",
+        "Source review": "PDF staff notation and full lyrics\nSource page opened and PDF score text extracted; visual/audio comparison not completed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

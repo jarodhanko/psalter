@@ -1,0 +1,205 @@
+{
+  "sourceSha256": "9587ce06d7a7c8e948e721b041c75150fa800601446122662c2dcb40a4e45fe0",
+  "metadata": {
+    "id": "hymn-tt-lead-me-to-calvary",
+    "title": "Lead Me to Calvary",
+    "composer": "“Duncannon”; William J. Kirkpatrick, 1921.",
+    "tune": "Duncannon",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-lead-me-to-calvary",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/L/Lead_Me_to_Calvary/Lead_Me_to_Calvary.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Jennie E. Hussey, 1921.  MUSIC: “Duncannon”; William J. Kirkpatrick, 1921.  Public Domain.",
+      "Lead Me to Calvary",
+      "And when they were come to the place, which is called Calvary, there they crucified him. Lk. 23:33"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Not cleared for distribution by this acquisition; source labels and original decisions retained.",
+      "WORDS: Jennie E. Hussey, 1921.  MUSIC: “Duncannon”; William J. Kirkpatrick, 1921.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-lead-me-to-calvary",
+      "title": "Lead Me to Calvary",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H082"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B077"
+        }
+      ],
+      "file": "abc/tt-lead-me-to-calvary.abc",
+      "sha256": "9587ce06d7a7c8e948e721b041c75150fa800601446122662c2dcb40a4e45fe0",
+      "canonical_reference_in_archive": "musicxml_abc/Lead_Me_to_Calvary.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/L/Lead_Me_to_Calvary/Lead_Me_to_Calvary.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; source labels and original decisions retained.",
+        "page_evidence": [
+          {
+            "url": "https://library.timelesstruths.org/music/Lead_Me_to_Calvary/",
+            "direct_fetch_status": "failed",
+            "evidence_status": "parsed_cached_web_text",
+            "source_file_listed": null,
+            "rights_context": [
+              {
+                "text": "Jennie E. Hussey , 1921 copyright status is Public Domain * * *",
+                "preceding_context": [
+                  "Skip over navigation Bible Texts Music Welcome | About | Search | Help All | Select Hymns | Evening Light Songs | Echoes from Heaven | The Blue Book | Sing unto the Lord Lead Me to Calvary | Jennie E. Hussey",
+                  "Crucifixion",
+                  "# Lead Me to Calvary"
+                ],
+                "following_context": [
+                  "Subject: Crucifixion Scripture: Luke 23:33 Duncannon [.xml ] William J. Kirkpatrick , 1921 copyright status is Public Domain * * *",
+                  "Key: E♭ Meter: 8.6 .8.6.8.8.8.6"
+                ]
+              },
+              {
+                "text": "Subject: Crucifixion Scripture: Luke 23:33 Duncannon [.xml ] William J. Kirkpatrick , 1921 copyright status is Public Domain * * *",
+                "preceding_context": [
+                  "Crucifixion",
+                  "# Lead Me to Calvary",
+                  "Jennie E. Hussey , 1921 copyright status is Public Domain * * *"
+                ],
+                "following_context": [
+                  "Key: E♭ Meter: 8.6 .8.6.8.8.8.6",
+                  "* * *"
+                ]
+              }
+            ],
+            "rights_links": [],
+            "snapshot_path": "sources/timelesstruths/pages/Lead_Me_to_Calvary.web.txt",
+            "note": "Cached text shows XML link label, but exact XML href is not exposed in this snapshot."
+          }
+        ],
+        "evidence_warnings": [],
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H082",
+      "title": "Lead Me to Calvary",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "tt-lead-me-to-calvary",
+      "abc_file": "abc/tt-lead-me-to-calvary.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H082",
+        "Hymn / version": "Lead Me to Calvary",
+        "Playlist track #": "103",
+        "Music / score source": "https://library.timelesstruths.org/library/music/L/Lead_Me_to_Calvary/Lead_Me_to_Calvary.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Lead_Me_to_Calvary/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB-style grand-staff PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights source": "https://library.timelesstruths.org/music/Lead_Me_to_Calvary/",
+        "Text, tune and version notes": "Jennie E. Hussey (1921) / DUNCANNON, William J. Kirkpatrick (1921)\nPDF opened successfully",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B077",
+      "title": "Lead Me to Calvary",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-lead-me-to-calvary",
+      "abc_file": "abc/tt-lead-me-to-calvary.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B077",
+        "Song title": "Lead Me to Calvary",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/L/Lead_Me_to_Calvary/Lead_Me_to_Calvary.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Lead_Me_to_Calvary/",
+        "Editable source": "",
+        "Tune and work identity": "Jennie E. Hussey (1921) / DUNCANNON, William J. Kirkpatrick (1921)\nPDF opened successfully",
+        "Public distribution rights": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Lead_Me_to_Calvary/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "103",
+        "Playlist artists": "Don Moen",
+        "Original track titles": "Lead Me to Calvary",
+        "Source review": "SATB-style grand-staff PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

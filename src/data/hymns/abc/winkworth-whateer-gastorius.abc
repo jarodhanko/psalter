@@ -1,0 +1,56 @@
+X:1
+T:Whate'er My God Ordains Is Right
+T:WAS GOTT TUT / GASTORIUS
+C:Samuel Rodigast; translation Catherine Winkworth, The Chorale Book for England,1863
+C:Severus Gastorius, historical tune
+S:Music: Mobile Hymns PD-labelled Gastorius score; text: Winkworth1863 no.135
+Z:New verified historical-text underlay; source-reference instrumental ABC retained separately
+N:Three explicit melody subdivisions only: quarter37 into two eighths, halves45/53 into quarters. Pitches/order, harmonies and bar totals unchanged.
+N:Five original Winkworth1863 stanzas. Medicine is sung in two syllables; original around wording retained.
+N:This is a new rhythmic underlay edition, not a facsimile, modernGetty tune or exact recording arrangement.
+N:Source-specific US public-domain basis; retain attribution and territory caveats.
+M:4/4
+L:1/4
+%%score { ( 1 2 ) | ( 3 4 ) }
+%%staffsep 95
+V:1 clef=treble name="Soprano"
+V:2 clef=treble name="Alto"
+V:3 clef=bass name="Tenor"
+V:4 clef=bass name="Bass"
+K:F
+[V:1] C | F G A B | c3/ B/ A d | c B A (B/A/) | G2 F 
+w: 1.~What- e'er my God or- dains is right, Ho- ly His will a-_ bi- deth;
+w: 2.~What- e'er my God or- dains is right, He nev- er will de-_ ceive me;
+w: 3.~What- e'er my God or- dains is right, His lov- ing thought at-_ tends me;
+w: 4.~What- e'er my God or- dains is right, Though now this cup in_ drink- ing
+w: 5.~What- e'er my God or- dains is right, Here shall my stand be_ tak- en;
+[V:1] C | F G A B | c3/ B/ A d | c B A (B/A/) | G2 F 
+w: I will be still what- e'er He doth, And fol- low where He_ gui- deth.
+w: He leads me by the pro- per path, I know He will not_ leave me,
+w: No poi- son'd draught the cup can be That my Phy- si- cian_ sends me,
+w: May bit- ter seem to my faint heart, I take it all un-_ shrink- ing;
+w: Though sor- row, need, or death be mine, Yet am I not for-_ sak- en,
+[V:1] c | d d G G | c/c/ c F A | G F 
+w: He is my God, Though dark_ my road, He holds me
+w: And take con- tent What He_ hath sent; His hand can
+w: But med- icine due For God_ is true, And on that
+w: Tears pass a- way With dawn_ of day, Sweet com- fort
+w: My Fa- ther's care Is a- round me there, He holds me
+[V:1] E (F/E/) | D D C c | B A G A | G G F2 |]
+w: that I_ shall not fall, Where- fore to Him I leave it all.
+w: turn my_ griefs a- way, And pa- tient- ly I wait His day.
+w: change- less_ truth I build, And all my heart with hope is fill'd.
+w: yet shall_ fill my heart, And pain and sor- row shall de- part.
+w: that I_ shall not fall, And so to Him I leave it all.
+[V:2] C | D E F F | E G F F | F (D/E/) F F | (F E) C 
+[V:2] C | D E F F | E G F F | F (D/E/) F F | (F E) C 
+[V:2] F | F F E E | E E D C | C =B, 
+[V:2] C C | (C =B,) C F | F F E F | (F E) C2 |]
+[V:3] A, | A, C C B, | G, C C B, | A, B, C D | (C3/ B,/) A, 
+[V:3] A, | A, C C B, | G, C C B, | A, B, C D | (C3/ B,/) A, 
+[V:3] A, | B, G, G, G, | A, A, A, F, | E, F, 
+[V:3] G, (F,/G,/) | A, (G,/F,/) E, C | D C C C | (D C/B,/) A,2 |]
+[V:4] F, | D, C, F, D, | C, E, F, B,, | F, G, F, B,, | C,2 F, 
+[V:4] F, | D, C, F, D, | C, E, F, B,, | F, G, F, B,, | C,2 F, 
+[V:4] F, | B,, =B,, C, _B,, | A,, C, D, A,, | C, D, 
+[V:4] C, (A,,/G,,/) | F,, G,, C, A,, | B,, F, C,/B,,/ A,, | (B,, C,) F,2 |]

@@ -1,0 +1,81 @@
+% Source edition: tt-supplemental-onward-christian-soldiers
+% Source URL: https://library.timelesstruths.org/library/music/O/Onward_Christian_Soldiers/Onward_Christian_Soldiers.xml
+% Source SHA256: cbda1d37eb12217d59bba3210346088210258afbb03f96ded594d812ab266b19
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Onward_Christian_Soldiers.repairs.json
+% Catalog membership: book2:B113
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Sabine Baring-Gould, 1865.  MUSIC: “St. Gertrude”; Arthur S. Sullivan, 1871.  Public Domain.
+% Original credit-words: Onward, Christian Soldiers
+% Original credit-words: WORDS: Sabine Baring-Gould, 1865.  MUSIC: “St. Gertrude”; Arthur S. Sullivan, 1871.  Public Domain.
+% Original credit-words: Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; 
+% Original credit-words: for the battle is not yours, but God’s. 2 Chr. 20:15
+X:1
+T:Onward, Christian Soldiers
+Z:WORDS: Sabine Baring-Gould, 1865.  MUSIC: “St. Gertrude”; Arthur S. Sullivan, 1871.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+M:4/4
+K:Eb
+V:1 treble nm="Soprano" snm="S."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ [GB] [GB] [GB] [GB] | (B3/2 c/) [AB]2 | [DF] [DF] [CE] [DF] | [EG]4 | %4
+w: 1.~On- ward, Chris- tian|sol- * diers,|march- ing as to|war,|
+w: 2.~At the sign of|tri- * umph|Sa- tan’s host doth|flee;|
+w: 3.~Like a might- y|ar- * my|moves the church of|God;|
+w: 4.~Crowns and thrones may|per- * ish,|king- doms rise and|wane,|
+w: 5.~On- ward then, ye|peo- * ple,|join our hap- py|throng,|
+ E [EG] [EB] [Ee] | [Fe]2 [Fd]2 |  [Ec] [Ec] [EG] [E=A] | [DB]4 | %8
+w: With the cross of|Je- sus|go- ing on be-|fore.|
+w: On then, Chris- tian|sol- diers,|on to vic- to-|ry!|
+w: Broth- ers, we are|tread- ing|where the saints have|trod.|
+w: But the church of|Je- sus|con- stant will re-|main.|
+w: Blend with ours your|voic- es|in the tri- umph|song.|
+ [DF] [DF] [FB] [DF] | (([EG]3/2 [FA]/)) [EG]2 | [EB] [EB] [Ee] [EB] | [Ec]4 |  %12
+w: Christ, the roy- al|Mas- * ter,|leads a- gainst the|foe;|
+w: Hell’s foun- da- tions|quiv- * er|at the shout of|praise;|
+w: We are not di-|vid- * ed,|all one bod- y|we,|
+w: Gates of hell can|nev- * er|’gainst that church pre-|vail;|
+w: Glo- ry, laud, and|hon- * or|un- to Christ the|King,|
+ [Ec] [EB] [EA] [EB] | (c B) (A B) | [Ec] [EB] [FA] [EG] | [DF]4 || %16
+w: For- ward in- to|bat- * tle *|see His ban- ners|go!|
+w: Broth- ers, lift your|voic- * es, *|loud your an- thems|raise.|
+w: One in hope and|doc- * trine, *|one in char- i-|ty.|
+w: We have Christ’s own|prom- * ise, *|and that can- not|fail.|
+w: This through count- less|ag- * es *|men and an- gels|sing.|
+"^Refrain" [B,E] [B,E] [B,E] [B,E] | (E D/ C/) (D E) |  [B,F] [B,F] [B,F] (E/ F/) | [B,G]4 | %20
+w: ||march- ing as to *|war,|
+w: ||||
+w: On- ward, Chris- tian|sol- * * diers,_|_____||
+w: ||||
+w: ||||
+ [GB] [GB] [Ae] [Ad] | [Ge]2 [EB]2 | [EA] [EG] [DF]3/2 [B,E]/ | [B,E]4 |] %24
+w: With the cross of|Je- sus|go- ing on be-|fore.|
+w: ||||
+w: ||||
+w: ||||
+w: ||||
+V:2
+ x4 | A2 x2 | x4 | x4 | %4
+ E x x2 | x4 |  x4 | x4 | %8
+ x4 | x4 | x4 | x4 |  %12
+ x4 | E2 E2 | x4 | x4 || %16
+ x4 | B,2 B,2 |  x2 x B, | x4 | %20
+ x4 | x4 | x4 | x4 |] %24
+V:3
+ E, [E,G,] [E,B,] [E,E] | [F,E]2 [B,,D]2 | [A,B,] [A,B,] [G,B,] [F,B,] | [E,B,]4 | %4
+ [G,B,] [G,B,] [G,B,] [G,B,] | (A,3/2 B,/) [F,B,]2 |  [F,=A,] [F,A,] [F,B,] [F,C] | [B,,B,]4 | %8
+ [B,,B,] [B,,B,] [D,B,] [B,,B,] | [E,B,]2 [E,B,]2 | [E,G,] [E,G,] [G,B,] [E,G,] | [A,A,]4 |  %12
+ A, [E,G,] [C,A,] [E,G,] | ((A, [E,G,])) (([C,A,] [E,G,])) | [A,,A,] [A,,G,] [A,,F,] [A,,F,] | [B,,B,]4 || %16
+ [E,G,] [B,,G,] [E,G,] [B,,G,] | A,2 A,2 |  [D,A,] [B,,A,] [D,A,] [B,,A,] | [E,G,]4 | %20
+ [E,E] [E,E] [F,B,] [F,B,] | [G,B,]2 [G,,B,]2 | C3/2 B,/ [B,,A,]3/2 [E,G,]/ | [E,G,]4 |] %24
+V:4
+ E, x x2 | x4 | x4 | x4 | %4
+ x4 | F,2 x2 |  x4 | x4 | %8
+ x4 | x4 | x4 | x4 |  %12
+ A, x x2 | A, x x2 | x4 | x4 || %16
+ x4 | (F, B,,) (F, B,,) |  x4 | x4 | %20
+ x4 | x4 | A,, A,, x2 | x4 |] %24

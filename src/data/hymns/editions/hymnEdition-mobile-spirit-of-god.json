@@ -1,0 +1,158 @@
+{
+  "sourceSha256": "d56c3a3ffbf7a09fd10d0c8db01918ea98d807f5760e2e39fd5a000c5c95014f",
+  "metadata": {
+    "id": "hymn-mobile-spirit-of-god",
+    "title": "Spirit of God, Descend Upon My Heart",
+    "composer": "George Croly (1854); Frederick C. Atkinson (1870)",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "mobile-spirit-of-god",
+    "sourceUrls": [
+      "https://mobilehymns.org/PDF/Spirit_Of_God_Descend_Upon_My_Heart.pdf",
+      "https://mobilehymns.org/english/Spirit_Of_God_Descend_Upon_My_Heart.html",
+      "https://mobilehymns.org/copyright.html"
+    ],
+    "collection": "Mobile Hymns / MORECAMBE",
+    "credits": [
+      "George Croly (1854); Frederick C. Atkinson (1870)",
+      "Mobile Hymns, public-domain-labelled full score, retrieved 2026-09-30",
+      "Source-assisted manual SATB transcription; no new harmony or tempo"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Underlying text, translation, tune and selected edition must each be valid for intended territories. Catalog bases are primarily US public-domain; no worldwide clearance claimed.",
+      "Mobile Hymns; source-specific Public Domain declaration preserved. A fresh ABC transcription of the acquired full score.",
+      "Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "All five printed stanzas; no added tempo",
+      "All four source voices,163 heads, three slurs; source crossings preserved",
+      "All five printed stanzas and all four source voice streams retained; source key C and meter 4/4. Source voice crossings in systems 3 and 4 are retained; no new harmony, tempo, or recording-match claim.",
+      "All five printed stanzas and all four source voice streams retained; source key C and meter 4/4.",
+      "Source voice crossings in systems 3 and 4 are retained; no new harmony, tempo, or recording-match claim.",
+      "Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "mobile-spirit-of-god",
+      "title": "Spirit of God, Descend Upon My Heart",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B172"
+        }
+      ],
+      "file": "abc/mobile-spirit-of-god.abc",
+      "sha256": "d56c3a3ffbf7a09fd10d0c8db01918ea98d807f5760e2e39fd5a000c5c95014f",
+      "canonical_reference_in_archive": "manual_abc/mobile-spirit-of-god.abc",
+      "source_url": [
+        "https://mobilehymns.org/PDF/Spirit_Of_God_Descend_Upon_My_Heart.pdf",
+        "https://mobilehymns.org/english/Spirit_Of_God_Descend_Upon_My_Heart.html",
+        "https://mobilehymns.org/copyright.html"
+      ],
+      "collection": "Mobile Hymns / MORECAMBE",
+      "rights_and_attribution": {
+        "rights_and_identity_lines": [
+          "Copyright Handling",
+          "Words by George Croly (1780-1860), 1854",
+          "Tune: MORECAMBE by Frederick C. Atkinson (1841-1897), 1870",
+          "Key signature: C major (no sharps or flats)",
+          "Time signature: 4/4",
+          "Meter: 10.10.10.10.",
+          "Public Domain",
+          "Copyright Handling"
+        ],
+        "edition_rights_evidence": {
+          "source_policy_url": "https://mobilehymns.org/copyright.html",
+          "source_policy_snapshot": "sources/reopened_gaps/pages/Mobile_copyright.html",
+          "policy_summary": "Public access is not blanket clearance: the site distinguishes public-domain songs and copyrighted songs supplied under specific permissions. This exact song page and PDF explicitly label Public Domain.",
+          "specific_song_label": "Public Domain",
+          "basis_limits": "Retain as source-specific declaration, not independent worldwide rights clearance; harmony/transcription authorship not separately stated."
+        },
+        "territorial_caveat": "Underlying text, translation, tune and selected edition must each be valid for intended territories. Catalog bases are primarily US public-domain; no worldwide clearance claimed.",
+        "source_attribution": "Mobile Hymns; source-specific Public Domain declaration preserved. A fresh ABC transcription of the acquired full score."
+      },
+      "scope_and_edition_notes": [
+        "All five printed stanzas; no added tempo",
+        "All four source voices,163 heads, three slurs; source crossings preserved",
+        "All five printed stanzas and all four source voice streams retained; source key C and meter 4/4. Source voice crossings in systems 3 and 4 are retained; no new harmony, tempo, or recording-match claim."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-spirit-of-god-review.md",
+        "audit": "reports/independent-spirit-of-god-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B172",
+      "title": "Spirit of God, Descend Upon My Heart",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "mobile-spirit-of-god",
+      "abc_file": "abc/mobile-spirit-of-god.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B172",
+        "Song title": "Spirit of God, Descend Upon My Heart",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/S/Spirit_of_God_Descend_upon_My_Heart/Spirit_of_God_Descend_upon_My_Heart.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Spirit_of_God_Descend_upon_My_Heart/",
+        "Editable source": "",
+        "Tune and work identity": "MORECAMBE; Frederick C. Atkinson, 1870; George Croly, 1854",
+        "Public distribution rights": "Timeless Truths labels both text and tune Public Domain; source is an alternate traditional setting, not the modern recording arrangement. US public-domain candidate; confirm distribution territory.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Spirit_of_God_Descend_upon_My_Heart/",
+        "Remaining checks / version notes": "Candidate: traditional PD setting; recording arrangement differs\nTraditional hymn identified by title; exact recording not aurally compared. Confirm the recording uses this tune before inclusion. Under the updated scope, this same-hymn traditional setting may be retained even if the recording melody differs; recording-specific additions are excluded.",
+        "Playlist positions": "236",
+        "Playlist artists": "Melinda Hawley",
+        "Original track titles": "Spirit of God, Descend Upon My Heart",
+        "Source review": "PDF full vocal score with lyrics\nFull PD-labelled PDF opened and score contents inspected via text extraction; no aural recording comparison or visual engraving QA"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

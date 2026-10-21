@@ -1,0 +1,6 @@
+# Psalter 386 photo review — partial
+
+- Authorities: owner photo local source evidence (not distributed) (printed page 330) and same-edition clean score local source evidence (not distributed). The owner photo shows one HESPERUS setting by Henry Baker, Psalm 141, L.M., in F and 3/4, with stanzas 7–8 printed below the score. The clean score corroborates the three-system notation and underlay for stanzas 1–6.
+- Direct from print: the printed metadata and the text of stanzas 1–8; the complete numbered `W:` rows preserve the printed contractions, including `thro'` and `o'erthrown`. Stanzas 1–6 have direct printed underlay.
+- Inferred underlay: added `w:` rows for stanzas 7–8 by applying the same HESPERUS tune and 8.8.8.8 verse mapping used by the printed stanzas. The rows follow the existing 11 / 10 / 12 lyric-token divisions across the three systems; the final division includes the established extender after the fourth syllable of its last verse line. The last words land on the cadence (`see` and `all`). No notes, durations, or `W:` text were changed for this underlay addition.
+- A visual check across the three score systems found no concrete SATB pitch, rhythm, accidental, slur, or lyric defect. This is not an exhaustive independent event-by-event certification; audible/print QA remain open.

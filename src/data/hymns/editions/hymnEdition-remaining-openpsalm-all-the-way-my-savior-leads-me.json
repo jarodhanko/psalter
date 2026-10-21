@@ -1,0 +1,274 @@
+{
+  "sourceSha256": "7e8ca442609173539b65cdf5d283e2aabdae7e0c62606b8903df7efde99cdd53",
+  "metadata": {
+    "id": "hymn-remaining-openpsalm-all-the-way-my-savior-leads-me",
+    "title": "All the Way My Savior Leads Me",
+    "composer": "Robert Lowry",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-openpsalm-all-the-way-my-savior-leads-me",
+    "sourceUrls": [
+      "https://openpsalm.com/api/songs/56/export/musicxml"
+    ],
+    "collection": "OpenPsalm",
+    "credits": [
+      "Robert Lowry",
+      "Fanny J. Crosby",
+      "Lyrics: Fanny J. Crosby, 1875 (public domain)",
+      "Music: Robert Lowry, 1875 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "Creative Commons Attribution 4.0 International",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.",
+      "OpenPsalm",
+      "All the Way My Savior Leads Me"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "rights": [
+      "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+      "Lyrics: Fanny J. Crosby, 1875 (public domain)\nMusic: Robert Lowry, 1875 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "Lyrics: Fanny J. Crosby, 1875 (public domain)",
+      "Music: Robert Lowry, 1875 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license"
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added."
+    ],
+    "record": {
+      "source_id": "remaining-openpsalm-all-the-way-my-savior-leads-me",
+      "title": "All the Way My Savior Leads Me",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H008"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B006"
+        }
+      ],
+      "file": "abc/remaining-openpsalm-all-the-way-my-savior-leads-me.abc",
+      "sha256": "7e8ca442609173539b65cdf5d283e2aabdae7e0c62606b8903df7efde99cdd53",
+      "canonical_reference_in_archive": "musicxml_abc/OpenPsalm_All_the_Way_My_Savior_Leads_Me.abc",
+      "source_url": "https://openpsalm.com/api/songs/56/export/musicxml",
+      "collection": "OpenPsalm",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+        "structured_source_evidence": {
+          "@context": "https://schema.org",
+          "@id": "https://openpsalm.com/songs/56#composition",
+          "@type": "MusicComposition",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Time signature",
+              "value": "3/4"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tempo",
+              "value": 96
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verses",
+              "value": 3
+            }
+          ],
+          "composer": [
+            {
+              "@type": "Person",
+              "name": "Robert Lowry"
+            }
+          ],
+          "contributor": [
+            {
+              "@type": "Organization",
+              "name": "OpenPsalm"
+            }
+          ],
+          "copyrightNotice": "Lyrics: Fanny J. Crosby, 1875 (public domain)\nMusic: Robert Lowry, 1875 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+          "description": "All the Way My Savior Leads Me — 3 verses worship hymn. Browse, listen, and export as MusicXML, MIDI, LilyPond, or PDF.",
+          "encoding": [
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/56/export/musicxml",
+              "encodingFormat": "application/vnd.recordare.musicxml+xml",
+              "name": "All the Way My Savior Leads Me — MusicXML"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/56/export/midi",
+              "encodingFormat": "audio/midi",
+              "name": "All the Way My Savior Leads Me — MIDI"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/56/export/mp3",
+              "encodingFormat": "audio/mpeg",
+              "name": "All the Way My Savior Leads Me — MP3"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/56/export/lilypond",
+              "encodingFormat": "text/x-lilypond",
+              "name": "All the Way My Savior Leads Me — LilyPond"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/56/render/pdf",
+              "encodingFormat": "application/pdf",
+              "name": "All the Way My Savior Leads Me — PDF"
+            }
+          ],
+          "inLanguage": "en",
+          "isAccessibleForFree": true,
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "lyricist": [
+            {
+              "@type": "Person",
+              "name": "Fanny J. Crosby"
+            }
+          ],
+          "lyrics": {
+            "@type": "CreativeWork",
+            "inLanguage": "en",
+            "text": "Verse 1\nAll the way my Savior leads me; what have I to ask beside?\nCan I doubt his tender mercy, who through life has been my guide?\nHeav'nly peace, divinest comfort, here by faith in him to dwell!\nFor I know, whate'er befall me, Jesus doeth all things well;\nfor I know, whate'er befall me, Jesus doeth all things well.\n\nVerse 2\nAll the way my Savior leads me; cheers each winding path I tread,\ngives me grace for ev'ry trial, feeds me with the living bread.\nThough my weary steps may falter and my soul athirst may be,\ngushing from the rock before me, lo! A spring of joy I see;\ngushing from the rock before me, lo! A spring of joy I see.\n\nVerse 3\nAll the way my Savior leads me; O the fullness of his love!\nPerfect rest to me is promised in my Father's house above.\nWhen my spirit, clothed immortal, wings its flight to realms of day,\nthis my song through endless ages: Jesus led me all the way;\nthis my song through endless ages: Jesus led me all the way."
+          },
+          "mainEntityOfPage": {
+            "@id": "https://openpsalm.com/songs/56",
+            "@type": "WebPage"
+          },
+          "musicCompositionForm": "Hymn",
+          "musicalKey": "G",
+          "name": "All the Way My Savior Leads Me",
+          "publisher": {
+            "@type": "Organization",
+            "name": "OpenPsalm",
+            "url": "https://openpsalm.com"
+          },
+          "url": "https://openpsalm.com/songs/56"
+        }
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H008",
+      "title": "All the Way My Savior Leads Me",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "remaining-openpsalm-all-the-way-my-savior-leads-me",
+      "abc_file": "abc/remaining-openpsalm-all-the-way-my-savior-leads-me.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H008",
+        "Hymn / version": "All the Way My Savior Leads Me",
+        "Playlist track #": "8",
+        "Music / score source": "https://hymnary.org/media/fetch/105474",
+        "Lyrics / companion source": "https://hymnary.org/text/all_the_way_my_savior_leads_me",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain traditional edition (US)\nThe linked Cyber Hymnal PDF explicitly says Public Domain. This covers the traditional Lowry setting only.",
+        "Rights source": "https://hymnary.org/media/fetch/105474",
+        "Text, tune and version notes": "Fanny J. Crosby (1875) / ALL THE WAY, Robert Lowry (1875)\nOpen substitute uses Robert Lowry’s traditional tune. David Lyle Morris has recorded Rich Mullins’s newer tune; the exact Worship Box master is not confirmed. The Mullins setting is not cleared by this edition.",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Use the verified PD Crosby/Lowry setting. The Morris recording is associated with Rich Mullins’s newer tune; this is an intentionally different melody for the same Crosby hymn text. Do not copy protected Mullins musical material. The source score was inspected and identified as PD, primarily on a US basis. Confirm the edition and territorial basis for the intended public distribution; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B006",
+      "title": "All the Way My Savior Leads Me",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-openpsalm-all-the-way-my-savior-leads-me",
+      "abc_file": "abc/remaining-openpsalm-all-the-way-my-savior-leads-me.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B006",
+        "Song title": "All the Way My Savior Leads Me",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/105474",
+        "Lyrics source": "https://hymnary.org/text/all_the_way_my_savior_leads_me",
+        "Editable source": "",
+        "Tune and work identity": "Fanny J. Crosby (1875) / ALL THE WAY, Robert Lowry (1875)\nOpen substitute uses Robert Lowry’s traditional tune. David Lyle Morris has recorded Rich Mullins’s newer tune; the exact Worship Box master is not confirmed. The Mullins setting is not cleared by this edition.",
+        "Public distribution rights": "Public-domain traditional edition (US)\nThe linked Cyber Hymnal PDF explicitly says Public Domain. This covers the traditional Lowry setting only.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/105474",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nUse the traditional Robert Lowry setting of the Crosby hymn instead of the newer Mullins tune associated with Morris.\nSame hymn/text retained. Public-domain alternate tune is permitted. Do not copy protected recording arrangements or added sections. Confirm target territories and edition reuse terms.",
+        "Playlist positions": "6, 175",
+        "Playlist artists": "David Lyle Morris; Acapeldridge",
+        "Original track titles": "All The Way My Saviour Leads Me; All the Way My Savior Leads Me",
+        "Source review": "SATB hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

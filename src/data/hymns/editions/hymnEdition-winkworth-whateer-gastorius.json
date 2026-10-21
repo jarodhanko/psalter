@@ -1,0 +1,220 @@
+{
+  "sourceSha256": "da8bf230672af6db34349c5fd282032bc75b58200afda7a73d54b900d6ba74dc",
+  "metadata": {
+    "id": "hymn-winkworth-whateer-gastorius",
+    "title": "Whate'er My God Ordains Is Right",
+    "composer": "Samuel Rodigast; translation Catherine Winkworth, The Chorale Book for England,1863 · Severus Gastorius, historical tune",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "winkworth-whateer-gastorius",
+    "sourceUrls": [
+      "https://mobilehymns.org/PDF/What_God_Ordains_Is_Always_Good.pdf",
+      "https://www.ccel.org/ccel/w/winkworth/chorales/cache/chorales.pdf",
+      "https://mobilehymns.org/copyright.html"
+    ],
+    "collection": "Mobile Hymns Gastorius notation / Winkworth1863 text; new rhythmic underlay",
+    "credits": [
+      "Samuel Rodigast; translation Catherine Winkworth, The Chorale Book for England,1863",
+      "Severus Gastorius, historical tune",
+      "Music: Mobile Hymns PD-labelled Gastorius score; text: Winkworth1863 no.135",
+      "New verified historical-text underlay; source-reference instrumental ABC retained separately"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Severus Gastorius historical tune; exact Mobile score labels music public domain. Its1941translation is not reproduced.",
+      "Catherine Winkworth, The Chorale Book for England1863,no.135, five stanzas; independently checked against CCEL digital transcription, not a facsimile.",
+      "CCELmodernPDF noncommercial/unmodified-copy terms do not constitute a new license for its wrapper. Only underlying historical text used in this new engraving.",
+      "US source-based public-domain assertions; no worldwide or recording-specific clearance",
+      "Source-specific US public-domain basis; retain attribution and territory caveats."
+    ],
+    "territory": "US source-based public-domain assertions; no worldwide or recording-specific clearance",
+    "editionNotes": [
+      "Five complete Winkworth1863 stanzas,271 syllables; original TLH1941text excluded; noGetty/Merker tune or recordingmatch",
+      "Four source voices;231 pitch events after three repeated-pitch melody subdivisions;16 source slurs retained",
+      "Explicit new rhythmic underlay; three melody subdivisions only. Original228-head source-reference ABC is separately retained. No new tune pitch, harmony, total time or source slur; Medicine is sung in two syllables, original around wording kept.",
+      "Three explicit melody subdivisions only: quarter37 into two eighths, halves45/53 into quarters. Pitches/order, harmonies and bar totals unchanged.",
+      "Five original Winkworth1863 stanzas. Medicine is sung in two syllables; original around wording retained.",
+      "This is a new rhythmic underlay edition, not a facsimile, modernGetty tune or exact recording arrangement.",
+      "Source-specific US public-domain basis; retain attribution and territory caveats."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "1",
+      "C5",
+      "37",
+      "1/2",
+      "75/2",
+      "Original stanza5 'Is around me there' has five syllables in this phrase; all other stanzas use an extender on the repeated note.",
+      "D4",
+      "45",
+      "2",
+      "46",
+      "Winkworth's first closing line has eight syllables instead of sourceTLH seven.",
+      "G4",
+      "53",
+      "54",
+      "Winkworth's final line has eight syllables instead of sourceTLH seven."
+    ],
+    "record": {
+      "source_id": "winkworth-whateer-gastorius",
+      "title": "Whate'er My God Ordains Is Right",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B155"
+        }
+      ],
+      "file": "abc/winkworth-whateer-gastorius.abc",
+      "sha256": "da8bf230672af6db34349c5fd282032bc75b58200afda7a73d54b900d6ba74dc",
+      "canonical_reference_in_archive": "manual_abc/winkworth-whateer-gastorius.abc",
+      "source_url": [
+        "https://mobilehymns.org/PDF/What_God_Ordains_Is_Always_Good.pdf",
+        "https://www.ccel.org/ccel/w/winkworth/chorales/cache/chorales.pdf",
+        "https://mobilehymns.org/copyright.html"
+      ],
+      "collection": "Mobile Hymns Gastorius notation / Winkworth1863 text; new rhythmic underlay",
+      "rights_and_attribution": {
+        "music": "Severus Gastorius historical tune; exact Mobile score labels music public domain. Its1941translation is not reproduced.",
+        "text": "Catherine Winkworth, The Chorale Book for England1863,no.135, five stanzas; independently checked against CCEL digital transcription, not a facsimile.",
+        "wrapper": "CCELmodernPDF noncommercial/unmodified-copy terms do not constitute a new license for its wrapper. Only underlying historical text used in this new engraving.",
+        "territory": "US source-based public-domain assertions; no worldwide or recording-specific clearance"
+      },
+      "scope_and_edition_notes": [
+        "Five complete Winkworth1863 stanzas,271 syllables; original TLH1941text excluded; noGetty/Merker tune or recordingmatch",
+        "Four source voices;231 pitch events after three repeated-pitch melody subdivisions;16 source slurs retained",
+        "Explicit new rhythmic underlay; three melody subdivisions only. Original228-head source-reference ABC is separately retained. No new tune pitch, harmony, total time or source slur; Medicine is sung in two syllables, original around wording kept."
+      ],
+      "editorial_corrections": [
+        {
+          "voice": "1",
+          "pitch": "C5",
+          "before_onset_quarter": "37",
+          "before_duration_quarter": "1",
+          "after": [
+            {
+              "onset_quarter": "37",
+              "duration_quarter": "1/2",
+              "pitch": "C5"
+            },
+            {
+              "onset_quarter": "75/2",
+              "duration_quarter": "1/2",
+              "pitch": "C5"
+            }
+          ],
+          "reason": "Original stanza5 'Is around me there' has five syllables in this phrase; all other stanzas use an extender on the repeated note."
+        },
+        {
+          "voice": "1",
+          "pitch": "D4",
+          "before_onset_quarter": "45",
+          "before_duration_quarter": "2",
+          "after": [
+            {
+              "onset_quarter": "45",
+              "duration_quarter": "1",
+              "pitch": "D4"
+            },
+            {
+              "onset_quarter": "46",
+              "duration_quarter": "1",
+              "pitch": "D4"
+            }
+          ],
+          "reason": "Winkworth's first closing line has eight syllables instead of sourceTLH seven."
+        },
+        {
+          "voice": "1",
+          "pitch": "G4",
+          "before_onset_quarter": "53",
+          "before_duration_quarter": "2",
+          "after": [
+            {
+              "onset_quarter": "53",
+              "duration_quarter": "1",
+              "pitch": "G4"
+            },
+            {
+              "onset_quarter": "54",
+              "duration_quarter": "1",
+              "pitch": "G4"
+            }
+          ],
+          "reason": "Winkworth's final line has eight syllables instead of sourceTLH seven."
+        }
+      ],
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-gastorius-winkworth-review.md",
+        "audit": "reports/independent-gastorius-winkworth-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B155",
+      "title": "Whate'er My God Ordains Is Right - Live",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "winkworth-whateer-gastorius",
+      "abc_file": "abc/winkworth-whateer-gastorius.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B155",
+        "Song title": "Whate'er My God Ordains Is Right - Live",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/126689",
+        "Lyrics source": "https://hymnary.org/hymn/CYBER/7276",
+        "Editable source": "",
+        "Tune and work identity": "GASTORIUS / WAS GOTT TUT; Severus Gastorius, 1675; Rodigast/Winkworth text",
+        "Public distribution rights": "Cyber Hymnal source labels both Rodigast/Winkworth text and Gastorius tune Public Domain; opened one-page four-part music PDF itself states Public Domain.",
+        "Rights / identity evidence": "https://hymnary.org/hymn/CYBER/7276",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nClearly label traditional tune, different from Sovereign Grace Getty/Merker ©2018 tune. Same underlying Winkworth hymn. Use historical source stanzas 1, 2, 5, 6 to correspond to recording stanza selection; do not carry modern line repetitions/word updates from recording. PDF is MUSIC ONLY: place separate verified PD text alongside it or re-engrave lyric underlay before book inclusion.",
+        "Playlist positions": "209",
+        "Playlist artists": "Sovereign Grace Music; Bob Kauflin",
+        "Original track titles": "Whate'er My God Ordains Is Right - Live",
+        "Source review": "PDF full harmony score without lyric underlay; verified lyrics on source page\nPDF opened and parsed; same underlying traditional hymn/text; alternate tune permitted by latest user instruction"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

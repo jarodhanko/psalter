@@ -1,0 +1,192 @@
+{
+  "songs": [
+    {
+      "id": "psalter162",
+      "previousAbc": "T:God our Strength\nC:Tune: FOUNTAIN; Lowell Mason\nO:Psalm 62, C. M.\nM:4/4\nL:1/8\nK:C\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] CE | G3 A G2 c2 | c3 A G2 || CE | G3 G AG EC | D6 ||\nw:1.~My * soul in si- lence waits for God, My * Sav- iour He * has * proved;\nw:2.~For * God has spo- ken o'er and o'er, And * un- to me * has * shown,\n[V:T2] CE | E3 F E2 G2 | F3 F E2 || CE | E3 E FE CC | B,6 ||\n[V:B1] E,G, | C3 C C2 G,2 | A,3 C C2 || E,G, | C3 C C2 G,2 | G,6 ||\n[V:B2] C,2 | C,3 C, C,2 E,2 | F,3 F, C,2 || C,2 | C,3 C, C,2 C,E, | G,6 ||\n[V:T1] CE | G3 A G2 c2 | c3 A G2 || cd | e3 c d2 e2 | c6 ||\nw: He * on- ly is my rock and tow'r; I * nev- er shall be moved.\nw: That * sav- ing pow'r and last- ing strength Be- * long to Him a- lone.\n[V:T2] CE | E3 F E2 G2 | F3 F E2 || EF | G3 E F2 G2 | E6 ||\n[V:B1] E,G, | C3 C C2 G,2 | A,3 C C2 || C2 | C3 C B,2 G,2 | G,6 ||\n[V:B2] C,2 | C,3 C, C,2 E,2 | F,3 F, C,2 || C,2 | C,3 C, G,2 G,2 | C,6 ||\n[V:T1] cd | e3 c d2 e2 | c3 A c2 || A2 | G3 G AG EC | D6 ||\nw: My * hon- or is se- cure with God, My Sav- iour He * is * known;\nw: Yea, * lov- ing- kind- ness ev- er- more Be- longs to Thee, * O * Lord;\n[V:T2] EF | G3 E F2 G2 | A3 F A2 || F2 | E3 E FE CC | B,6 ||\n[V:B1] C2 | C3 C B,2 C2 | C3 C C2 || C2 | C3 C C2 G,2 | G,6 ||\n[V:B2] C2 | C3 C G,2 C,2 | F,3 F, F,2 || F,2 | C,3 C, C,2 C,E, | G,6 ||\n[V:T1] CE | G3 A G2 c2 | c3 A G2 || cd | e3 c d2 e2 | c6 |]\nw: My * ref- uge and my rock of strength Are * found in God a- lone.\nw: And * Thou ac- cord- ing to his work Dost * ev- 'ry man re- ward.\n[V:T2] CE | E3 F E2 G2 | F3 F E2 || EF | G3 E F2 G2 | E6 |]\n[V:B1] E,G, | C3 C C2 G,2 | A,3 C C2 || C2 | C3 C B,2 G,2 | G,6 |]\n[V:B2] C,2 | C,3 C, C,2 E,2 | F,3 F, C,2 || C,2 | C,3 C, G,2 G,2 | C,6 |]\nW:[Selected Stanzas]",
+      "previousAbcSHA256": "ca4be0fdaf040395551e67681aa7aa0a6036b834a02478a0e4db5d627f65e842",
+      "correctedAbcSHA256": "8e18a38b2c46d65019d0f3fe5690291cc322cfb6dd6f9dd5d288d751d6652ab1",
+      "fixtureSHA256": "d1cc8c076762b48f3232344d5b59d6cd34dc9b90a5e82dc1ff00910a1f87eba8",
+      "sourceLedgerSHA256": "ef16d8b34562c3ef779f8f3a06e3a1de6a9860c6675d93a42bb4948295b178dc",
+      "sourcePages": {
+        "rfpa": [
+          242
+        ],
+        "original1912Leaf": "0145",
+        "original1912Printed": 137
+      },
+      "sourceEvidenceHashes": {
+        "manual-source-ledger.initial.json": "fca1b71710fdca971e88a65547a8d1ee6ea8c1d76deb570ebae75f52da83ab97",
+        "manual-source-ledger.current.json": "ef16d8b34562c3ef779f8f3a06e3a1de6a9860c6675d93a42bb4948295b178dc",
+        "manual-ledger-freeze.json": "435a7259a2f066e562f1c2396174299bbd586e24502fd7ae082ceca095e8acbf",
+        "manual-ledger-revisions.json": "fc8ebe646ac3fd868d1c1499b521a055e227dc2d349c301dbd597e7cae8a57cc",
+        "source-manifest.json": "bbdd3aa7854a5a2d664ef7a6b6c75bb1adc3cd22387b0ad20ff63b37b6527179",
+        "harness-ledger.json": "d329ab3b781a1d3cc3f237e64a22afb9ac03b8f2b0351851330d2d0314e44f9e",
+        "printed-exact-underlay.json": "dc287c3aaa54439132cab43a5f6c70a728160e4b6fb28f422caee30f391246ee"
+      },
+      "corrections": [
+        {
+          "voice": "T2",
+          "q": 0,
+          "before": "CE",
+          "after": "C2",
+          "afterStart": 451,
+          "afterEnd": 453,
+          "previousStart": 451,
+          "previousEnd": 453
+        },
+        {
+          "voice": "T2",
+          "q": 8,
+          "before": "CE",
+          "after": "C2",
+          "afterStart": 480,
+          "afterEnd": 482,
+          "previousStart": 480,
+          "previousEnd": 482
+        },
+        {
+          "voice": "T2",
+          "q": 12,
+          "before": "CC",
+          "after": "C2",
+          "afterStart": 493,
+          "afterEnd": 495,
+          "previousStart": 493,
+          "previousEnd": 495
+        },
+        {
+          "voice": "T2",
+          "q": 16,
+          "before": "CE",
+          "after": "C2",
+          "afterStart": 855,
+          "afterEnd": 857,
+          "previousStart": 855,
+          "previousEnd": 857
+        },
+        {
+          "voice": "T2",
+          "q": 44,
+          "before": "CC",
+          "after": "C2",
+          "afterStart": 1301,
+          "afterEnd": 1303,
+          "previousStart": 1301,
+          "previousEnd": 1303
+        },
+        {
+          "voice": "T2",
+          "q": 48,
+          "before": "CE",
+          "after": "C2",
+          "afterStart": 1653,
+          "afterEnd": 1655,
+          "previousStart": 1653,
+          "previousEnd": 1655
+        }
+      ],
+      "qualification": "Six alto quarters only. Retain source-system separator typography, straight/curly apostrophes, stanza 1 q23 tow’r: versus canonical tow'r;, and reconstructed lovingkindness versus printed loving-kindness. Initial shared tenor/bass quarter misreading and all baseline failures remain in the evidence directory."
+    },
+    {
+      "id": "psalter163",
+      "previousAbc": "\nT:Satisfaction in God\nC:Tune: THE GREEN HILL; George C. Stebbins\nR:Psalm 63; C. M.\nM:6/8\nL:1/8\nK:Eb\n%%score (T1 T2)(B1 B2)\nV:T1 treble\nV:T2 treble\nV:B1 bass\nV:B2 bass\nV:T1\nG | G2 G A2 G | G2 F E2 || G | B2 B B2 A | G3-G2 || G | G2 G A2 G | G2 F E2 || G | B2 =A G2 A | B3-B2 || B | d2 c B2 A | G2 A B2 || B | c2 c B2 =A | B3-B2 || A | G2 A B2 e | e2 =A B2 || c | BA G G2 F | E3-E2 |]\nw:1.~O Lord, my God, most ear-nest-ly My heart would seek Thy face, * With-in Thy ho-ly house once more To see Thy glo-rious grace, * A-part from Thee I long and thirst, And nought can sat-is-fy; * I wan-der in a des-ert land Where all * the streams are dry. *\nw:2.~The lov-ing-kind-ness of my God Is more than life to me; * So I will bless Thee while I live And lift my prayer to Thee. * In Thee my soul is sat-is-fied, My dark-ness turns to light; * And joy-ful med-i-ta-tions fill The watch- * es of the night. *\nw:3.~My Sav-iour, 'neath Thy shel-t'ring wings My soul de-lights to dwell; * Still clos-er to Thy side I press, For near Thee all is well. * My soul shall con-quer ev-'ry foe, Up-hold-en by Thy hand; * Thy peo-ple shall re-joice in God, Thy saints * in glo-ry stand. *\nV:T2\nE | E2 E E2 E | D2 B, B,2 || E | E2 E D2 D | E3-E2 || E | E2 E E2 E | D2 D C2 || G | F2 F E2 E | D3-D2 || F | A2 G F2 E | E2 E E2 || E | E2 G F2 E | (D2 E F2) || D | E2 D E2 E | E2 E E2 || E | E2 E D2 B, | B,3-B,2 |]\nV:B1\nB, | B,2 B, C2 B, | B,2 A, G,2 || B, | G,2 G, F,2 B, | B,3-B,2 || B, | B,2 B, C2 B, | B,2 A, G,2 || C | D2 E D2 D | B,3-B,2 || D | F2 E D2 B, | B,2 F, G,2 || G, | G,2 C D2 C | (B,2 G, A,2) || B, | B,2 B, B,2 G, | ^F,2 F, G,2 || F, | G,C B, B,2 A, | G,3-G,2 |]\nV:B2\nE, | E,2 E, E,2 E, | B,,2 B,, E,2 || E, | B,,2 B,, B,,2 B,, | E,3-E,2 || E, | E,2 E, E,2 E, | B,,2 B,, C,2 || E, | F,2 F, F,2 F, | B,,3-B,,2 || B, | B,2 B, B,2 B,, | E,2 E, E,2 || C, | C,2 E, F,2 F, | B,,3-B,,2 || B,, | E,2 F, G,2 E, | _C,2 C, B,,2 || =A,, | B,,2 B,, B,,2 B,, | E,3-E,2 |]\nW:Copyright, 1906, by Geo. C. Stebbins. Renewal. Used by per.\n",
+      "previousAbcSHA256": "a5e265e7b261d6d2a12ff9758486763e657258e2b47e5778ac3afc6dafe8b5b0",
+      "correctedAbcSHA256": "3b23b758736294c3c9a635799c54dba7cbadac7ef5e3681b05ca5842f4459ea5",
+      "fixtureSHA256": "37f8a15e216e44712219a4a8ec9c9b2b77ea8f3375b896ffb7c045c14c2a9887",
+      "sourceLedgerSHA256": "d4c7db3453d83cf06dc0a8ff6559089f09e7473122d6d7d7aa5f5a55cdd5b0b9",
+      "sourcePages": {
+        "rfpa": [
+          243
+        ],
+        "original1912Leaf": [
+          "0146"
+        ],
+        "original1912Printed": [
+          138
+        ]
+      },
+      "sourceEvidenceHashes": {
+        "manual-source-ledger.initial.json": "ec8104c703cfd58dec04059e85e540dced868f0c9689fa306b16d0c3dbd48be6",
+        "manual-source-ledger.current.json": "d4c7db3453d83cf06dc0a8ff6559089f09e7473122d6d7d7aa5f5a55cdd5b0b9",
+        "manual-ledger-freeze.json": "9932122d6e4df50cd0b26587107937d7c721e783be6c74fe7c85fc6228258bdf",
+        "manual-ledger-revisions.json": "fd10ee8245ea05c3488ab7bfad11ea7df63b209975b731d50847d25210c402c5",
+        "source-manifest.json": "0f23c68cd0cbbdfd6b4bb26ffaaef58f9c312af14b897f91641b32c914d7a8a7",
+        "harness-ledger.json": "af1cd31c2d163f1a8337a31a484c17e9416f7a23b1a022115ef326024b70d575",
+        "printed-exact-underlay.json": "112c64c0fe6730d1b1a85c82e26b8182858c9fda586cd41cc2df16e2f17dcf76"
+      },
+      "corrections": [
+        {
+          "voice": "T2",
+          "q": 16.5,
+          "before": "D",
+          "after": "B,",
+          "afterStart": 1247,
+          "afterEnd": 1249,
+          "previousStart": 1247,
+          "previousEnd": 1248
+        },
+        {
+          "voice": "T2",
+          "q": 25.5,
+          "before": "G",
+          "after": "A",
+          "afterStart": 1288,
+          "afterEnd": 1289,
+          "previousStart": 1287,
+          "previousEnd": 1288
+        },
+        {
+          "voice": "T2",
+          "q": 26,
+          "before": "F2",
+          "after": "G2",
+          "afterStart": 1290,
+          "afterEnd": 1292,
+          "previousStart": 1289,
+          "previousEnd": 1291
+        },
+        {
+          "voice": "T2",
+          "q": 27,
+          "before": "E",
+          "after": "F",
+          "afterStart": 1293,
+          "afterEnd": 1294,
+          "previousStart": 1292,
+          "previousEnd": 1293
+        },
+        {
+          "voice": "B1",
+          "q": 20,
+          "before": "D2",
+          "after": "C2",
+          "afterStart": 1506,
+          "afterEnd": 1508,
+          "previousStart": 1505,
+          "previousEnd": 1507
+        },
+        {
+          "voice": "B1",
+          "q": 21,
+          "before": "D",
+          "after": "C",
+          "afterStart": 1509,
+          "afterEnd": 1510,
+          "previousStart": 1508,
+          "previousEnd": 1509
+        },
+        {
+          "voice": "B2",
+          "q": 30,
+          "before": "C,",
+          "after": "E,",
+          "afterStart": 1842,
+          "afterEnd": 1844,
+          "previousStart": 1841,
+          "previousEnd": 1843
+        }
+      ],
+      "qualification": "Seven pitch corrections only. Retain grace. versus grace, at stanza 1 q21.5, light, versus light; at stanza 2 q33.5, apostrophe typography and reconstructed lovingkindness versus printed loving-kindness. Five rejected manual pitch readings and baseline failures remain in evidence. Original 1912 E major is one semitone above RFPA E-flat major."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "sourceSha256": "119d5844d02ea44e268e7d610da0662b06a2b70604b5124dc403af61dc9f1922",
+  "metadata": {
+    "id": "hymn-tt-supplemental-my-redeemer",
+    "title": "My Redeemer",
+    "composer": "James McGranahan, 1877.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-my-redeemer",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/M/My_Redeemer/My_Redeemer.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Philip P. Bliss, 1876.  MUSIC: James McGranahan, 1877.  Public Domain.",
+      "My Redeemer",
+      "Christ hath redeemed us from the curse of the law, being made a curse for us. Gal. 3:13",
+      "In whom we have redemption through his blood, the forgiveness of sins, according to the riches of his grace. Eph. 1:7"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Philip P. Bliss, 1876.  MUSIC: James McGranahan, 1877.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-my-redeemer",
+      "title": "My Redeemer",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B268"
+        }
+      ],
+      "file": "abc/tt-supplemental-my-redeemer.abc",
+      "sha256": "119d5844d02ea44e268e7d610da0662b06a2b70604b5124dc403af61dc9f1922",
+      "canonical_reference_in_archive": "musicxml_abc/My_Redeemer.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/M/My_Redeemer/My_Redeemer.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "inspection_status": "parsed_cached_web_text",
+          "method": "web_cached_page_then_actual_link_click",
+          "url": "https://library.timelesstruths.org/music/My_Redeemer/",
+          "snapshot_path": "sources/timelesstruths_supplemental/pages/My_Redeemer.web.txt",
+          "snapshot_sha256": "11117fab8b5ceff12166045212131c7a5eda66ed0f8dcce6e6e2b50ac8f29cc8",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain L30:",
+              "preceding_context": [
+                "Jesus/Savior",
+                "Report Error | << | >> L25: # My Redeemer",
+                "Philip P. Bliss , 1876"
+              ],
+              "following_context": [
+                "* * *",
+                "Subjects: Jesus/Savior , Praise L34:"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain L42:",
+              "preceding_context": [
+                "Scripture: Galatians 3:13; Ephesians 1:7 L36:",
+                "My Redeemer [.xml ]",
+                "James McGranahan , 1877"
+              ],
+              "following_context": [
+                "* * *",
+                "Key: A♭ L46:"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain L61:",
+              "preceding_context": [
+                "play midi [.mid ]",
+                "Hyfrydol (4) [.xml ]",
+                "Rowland H. Prichard , 1830"
+              ],
+              "following_context": [
+                "* * *",
+                "Key: F L65:"
+              ]
+            }
+          ],
+          "rights_links": [],
+          "xml_link_count": 2,
+          "inspected_at_utc": "2026-09-30T18:10:49.636Z",
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B268",
+      "title": "I Will Sing of My Redeemer",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-my-redeemer",
+      "abc_file": "abc/tt-supplemental-my-redeemer.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B268",
+        "Song title": "I Will Sing of My Redeemer",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/118317",
+        "Lyrics source": "https://library.timelesstruths.org/music/My_Redeemer/",
+        "Editable source": "",
+        "Tune and work identity": "MY REDEEMER; James McGranahan, 1877; Philip P. Bliss text, 1876",
+        "Public distribution rights": "Full two-page Cyber Hymnal score explicitly labelled Public Domain, credits Bliss and McGranahan. Historical hymn only; not modern recording arrangements.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/118317",
+        "Remaining checks / version notes": "Candidate: traditional same-hymn tune alternative\nBoth recordings have same traditional hymn title. MY REDEEMER supplied; Fernando Ortega may use HYFRYDOL. Under updated scope traditional same-hymn alternate tune is allowed, but do not claim exact melody match.",
+        "Playlist positions": "404, 437",
+        "Playlist artists": "Fernando Ortega; Gospel Echoes Team; Gospel Echoes Crossroads Team; Gospel Echoes Harvest Team; Gospel Echoes New Life Team; Gospel Echoes Team Canada West; Mercy Road Team",
+        "Original track titles": "I Will Sing of My Redeemer; I Will Sing of My Redeemer - Live",
+        "Source review": "PDF full vocal score with lyrics\nFull two-page PDF opened; credits, music and lyrics inspected via extraction"
+      },
+      "available_reviewed_alternatives": [
+        "tt-supplemental-my-redeemer-2"
+      ]
+    }
+  ]
+}

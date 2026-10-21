@@ -1,0 +1,162 @@
+{
+  "sourceSha256": "3391922a5dd603e73180d780e3921bb08a92c4ecb85f5d8c07bd3958de537a86",
+  "metadata": {
+    "id": "hymn-oh_all-hail-the-power-of-jesus-name-coronation",
+    "title": "All Hail the Power of Jesus’ Name",
+    "composer": "Words: Edward Perronet, 1780.  Music: 'Coronation' Oliver Holden, 1793. · Setting: \"The Church Hymnal, Revised and Enlarged\" (Episcopal), 1896, alt.",
+    "tune": "Coronation",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_all-hail-the-power-of-jesus-name-coronation",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/All_Hail_The_Power_Of_Jesus_Name/All_Hail_The_Power_Of_Jesus_Name-Coronation.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Edward Perronet, 1780.  Music: 'Coronation' Oliver Holden, 1793.",
+      "Setting: \"The Church Hymnal, Revised and Enlarged\" (Episcopal), 1896, alt.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision.",
+      "Music source: The Church Hymnal, Revised and Enlarged (Episcopal), 1896 Hymn 450, alt in parts of the Tenor to match \"Hymnal of the Presbyterian Church\" 1867 Hymn 29."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Coronation' Oliver Holden, 1793.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_all-hail-the-power-of-jesus-name-coronation",
+      "title": "All Hail the Power of Jesus’ Name",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H070"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B066"
+        }
+      ],
+      "file": "abc/oh_all-hail-the-power-of-jesus-name-coronation.abc",
+      "sha256": "3391922a5dd603e73180d780e3921bb08a92c4ecb85f5d8c07bd3958de537a86",
+      "canonical_reference_in_archive": "abc/oh_all-hail-the-power-of-jesus-name-coronation.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/All_Hail_The_Power_Of_Jesus_Name/All_Hail_The_Power_Of_Jesus_Name-Coronation.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Edward Perronet, 1780.  Music: 'Coronation' Oliver Holden, 1793.",
+          "Setting: \"The Church Hymnal, Revised and Enlarged\" (Episcopal), 1896, alt.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision.",
+          "Music source: The Church Hymnal, Revised and Enlarged (Episcopal), 1896 Hymn 450, alt in parts of the Tenor to match \"Hymnal of the Presbyterian Church\" 1867 Hymn 29."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Coronation' Oliver Holden, 1793.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'Coronation' Oliver Holden, 1793.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_all-hail-the-power-of-jesus-name-coronation.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H070",
+      "title": "All Hail the Power of Jesus’ Name",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_all-hail-the-power-of-jesus-name-coronation",
+      "abc_file": "abc/oh_all-hail-the-power-of-jesus-name-coronation.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H070",
+        "Hymn / version": "All Hail the Power of Jesus’ Name",
+        "Playlist track #": "86",
+        "Music / score source": "https://library.timelesstruths.org/library/music/A/All_Hail_the_Power_of_Jesus_Name/All_Hail_the_Power_of_Jesus_Name.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/All_Hail_the_Power_of_Jesus_Name/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB-style grand-staff PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights source": "https://library.timelesstruths.org/music/All_Hail_the_Power_of_Jesus_Name/",
+        "Text, tune and version notes": "Edward Perronet (1780), altered John Rippon / CORONATION, Oliver Holden (1793)\nTune of Haven recording not established. Source also supplies DIADEM by James Ellor (1838); do not silently conflate tunes. Alternative verified linked PDF: https://library.timelesstruths.org/library/music/A/All_Hail_the_Power_of_Jesus_Name/All_Hail_the_Power_of_Jesus_Name_2.pdf\nPDF opened successfully",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "CORONATION is an accepted PD setting of Perronet/Rippon’s hymn text, even if the recording uses DIADEM. The source score was inspected and identified as PD, primarily on a US basis. Confirm the edition and territorial basis for the intended public distribution; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": [
+        "tt-all-hail-the-power-of-jesus-name"
+      ]
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B066",
+      "title": "All Hail the Power of Jesus’ Name",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_all-hail-the-power-of-jesus-name-coronation",
+      "abc_file": "abc/oh_all-hail-the-power-of-jesus-name-coronation.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B066",
+        "Song title": "All Hail the Power of Jesus’ Name",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/A/All_Hail_the_Power_of_Jesus_Name/All_Hail_the_Power_of_Jesus_Name.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/All_Hail_the_Power_of_Jesus_Name/",
+        "Editable source": "",
+        "Tune and work identity": "Edward Perronet (1780), altered John Rippon / CORONATION, Oliver Holden (1793)\nTune of Haven recording not established. Source also supplies DIADEM by James Ellor (1838); do not silently conflate tunes. Alternative verified linked PDF: https://library.timelesstruths.org/library/music/A/All_Hail_the_Power_of_Jesus_Name/All_Hail_the_Power_of_Jesus_Name_2.pdf",
+        "Public distribution rights": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/All_Hail_the_Power_of_Jesus_Name/",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nCORONATION selected for the Perronet/Rippon hymn. DIADEM is a different permitted traditional tune.\nSame hymn/text retained. Public-domain alternate tune is permitted. Do not copy protected recording arrangements or added sections. Confirm target territories and edition reuse terms.",
+        "Playlist positions": "86, 287",
+        "Playlist artists": "The Haven Quartet; The Booth Brothers",
+        "Original track titles": "All Hail the Power; All Hail the Power of Jesus' name",
+        "Source review": "SATB-style grand-staff PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": [
+        "tt-all-hail-the-power-of-jesus-name"
+      ]
+    }
+  ]
+}

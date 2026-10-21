@@ -1,0 +1,47 @@
+{
+  "built_utc": "2026-09-30T21:12:23.138741+00:00",
+  "task_status": "completed_available_candidates_with_one_rights_hold",
+  "coverage": {
+    "as_of_utc": "2026-09-30T21:09:07.933558+00:00",
+    "candidate_catalog_memberships": 150,
+    "candidate_unique_hymns": 98,
+    "candidate_unique_hymns_converted_and_source_event_checked": 97,
+    "candidate_unique_hymns_independently_reviewed": 97,
+    "edition_count_converted": 134,
+    "edition_count_source_event_checked": 133,
+    "edition_count_independently_reviewed": 133,
+    "per_book": {
+      "book1": {
+        "candidate_target": 52,
+        "candidate_converted_and_source_event_checked": 52,
+        "candidate_independently_reviewed": 52
+      },
+      "book2": {
+        "candidate_target": 98,
+        "candidate_converted_and_source_event_checked": 97,
+        "candidate_independently_reviewed": 97
+      }
+    },
+    "denominator_definition": "Original candidate rows only; held/excluded originals are separately tracked. Unique hymn groups use identical normalized titles plus explicit shared-source catalog memberships, never tune identity alone."
+  },
+  "selected_unique_editions": 97,
+  "selected_book_memberships": 149,
+  "selected_per_book": {
+    "book1": 52,
+    "book2": 97
+  },
+  "remaining_unique_candidate_gaps": 1,
+  "original_catalog_memberships": {
+    "book1": 111,
+    "book2": 318
+  },
+  "formats": "UTF-8 ABC with lyrics and stable catalog-ID JSON/CSV indexes; no project-specific adapter",
+  "rights_scope": "Source-specific U.S. public-domain assertions and CC-BY4.0 arrangements. Retain credits, licenses and territory caveats. No blanket worldwide publication clearance.",
+  "qa_limits": [
+    "Independent review combines source-content/event audits and visual source/proof overviews; it is not exhaustive human note-by-note proofreading of every edition.",
+    "ABCJS6.7.1 semantic parser checks are distinct from browser rendering. Holy dotted ties have scoped6.6.4 browser evidence.",
+    "The actual Psalter importer and full browser engraving have not been tested in this conversion task.",
+    "Source stanza counts, alternate tunes, omitted appended doxologies, literal/corrected typos and chord-layer choices are explicitly recorded."
+  ],
+  "collection_integrity_verified": true
+}

@@ -1,0 +1,275 @@
+{
+  "sourceSha256": "68305357e4ecb0c0886b7650dadfca8301ce2e454126040741c3b2663933ec69",
+  "metadata": {
+    "id": "hymn-remaining-openpsalm-o-worship-the-king",
+    "title": "O Worship the King",
+    "composer": "Johann Michael Haydn",
+    "tune": "Lyons",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-openpsalm-o-worship-the-king",
+    "sourceUrls": [
+      "https://openpsalm.com/api/songs/148/export/musicxml"
+    ],
+    "collection": "OpenPsalm",
+    "credits": [
+      "Johann Michael Haydn",
+      "Robert Grant",
+      "Lyrics: Robert Grant, 1833 (public domain)",
+      "Music: 'Lyons' by Johann Michael Haydn (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "Creative Commons Attribution 4.0 International",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.",
+      "OpenPsalm",
+      "O Worship the King"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "rights": [
+      "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+      "Lyrics: Robert Grant, 1833 (public domain)\nMusic: 'Lyons' by Johann Michael Haydn (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "Lyrics: Robert Grant, 1833 (public domain)",
+      "Music: 'Lyons' by Johann Michael Haydn (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license"
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added."
+    ],
+    "record": {
+      "source_id": "remaining-openpsalm-o-worship-the-king",
+      "title": "O Worship the King",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H011"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B009"
+        }
+      ],
+      "file": "abc/remaining-openpsalm-o-worship-the-king.abc",
+      "sha256": "68305357e4ecb0c0886b7650dadfca8301ce2e454126040741c3b2663933ec69",
+      "canonical_reference_in_archive": "musicxml_abc/OpenPsalm_O_Worship_the_King.abc",
+      "source_url": "https://openpsalm.com/api/songs/148/export/musicxml",
+      "collection": "OpenPsalm",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+        "structured_source_evidence": {
+          "@context": "https://schema.org",
+          "@id": "https://openpsalm.com/songs/148#composition",
+          "@type": "MusicComposition",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Time signature",
+              "value": "3/4"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tempo",
+              "value": 104
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verses",
+              "value": 5
+            }
+          ],
+          "composer": [
+            {
+              "@type": "Person",
+              "name": "Johann Michael Haydn"
+            }
+          ],
+          "contributor": [
+            {
+              "@type": "Organization",
+              "name": "OpenPsalm"
+            }
+          ],
+          "copyrightNotice": "Lyrics: Robert Grant, 1833 (public domain)\nMusic: 'Lyons' by Johann Michael Haydn (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+          "description": "O Worship the King — 5 verses worship hymn. Browse, listen, and export as MusicXML, MIDI, LilyPond, or PDF.",
+          "encoding": [
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/148/export/musicxml",
+              "encodingFormat": "application/vnd.recordare.musicxml+xml",
+              "name": "O Worship the King — MusicXML"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/148/export/midi",
+              "encodingFormat": "audio/midi",
+              "name": "O Worship the King — MIDI"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/148/export/mp3",
+              "encodingFormat": "audio/mpeg",
+              "name": "O Worship the King — MP3"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/148/export/lilypond",
+              "encodingFormat": "text/x-lilypond",
+              "name": "O Worship the King — LilyPond"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/148/render/pdf",
+              "encodingFormat": "application/pdf",
+              "name": "O Worship the King — PDF"
+            }
+          ],
+          "inLanguage": "en",
+          "isAccessibleForFree": true,
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "lyricist": [
+            {
+              "@type": "Person",
+              "name": "Robert Grant"
+            }
+          ],
+          "lyrics": {
+            "@type": "CreativeWork",
+            "inLanguage": "en",
+            "text": "Verse 1\nO worship the King,\nall glorious above,\nAnd gratefully sing\nhis wonderful love;\nOur Shield and Defender,\nthe Ancient of Days,\npavilioned in splendor\nand girded with praise.\n\nVerse 2\nO tell of His might\nand sing of His grace,\nWhose robe is the light,\nWhose canopy space.\nHis chariots of wrath the\ndeep thunderclouds form,\nAnd dark is His path on\nthe wings of the storm.\n\nVerse 3\nThy bountiful care,\nwhat tongue can recite?\nIt breathes in the air,\nit shines in the light;\nIt streams from the hills, it\ndescends to the plain,\nand sweetly distills in\nthe dew and the rain.\n\nVerse 4\nFrail children of dust,\nand feeble as frail,\nin Thee do we trust,\nnor find Thee to fail.\nThy mercies, how tender,\nhow firm to the end,\nour Maker, Defender,\nRedeemer, and Friend!\n\nVerse 5\nO measureless Might,\nunchangeable Love,\nwhom angels delight\nto worship above!\nThy ransomed creation,\nwith glory ablaze,\nIn true adoration\nshall sing to thy praise!"
+          },
+          "mainEntityOfPage": {
+            "@id": "https://openpsalm.com/songs/148",
+            "@type": "WebPage"
+          },
+          "musicCompositionForm": "Hymn",
+          "musicalKey": "G",
+          "name": "O Worship the King",
+          "publisher": {
+            "@type": "Organization",
+            "name": "OpenPsalm",
+            "url": "https://openpsalm.com"
+          },
+          "url": "https://openpsalm.com/songs/148"
+        }
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H011",
+      "title": "O Worship the King",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "remaining-openpsalm-o-worship-the-king",
+      "abc_file": "abc/remaining-openpsalm-o-worship-the-king.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H011",
+        "Hymn / version": "O Worship the King",
+        "Playlist track #": "11",
+        "Music / score source": "https://hymnary.org/media/fetch/140320",
+        "Lyrics / companion source": "https://hymnary.org/text/o_worship_the_king_all_glorious_above",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights source": "https://hymnary.org/media/fetch/140320",
+        "Text, tune and version notes": "Text: Robert Grant\nTune: LYONS; attributed Johann Michael Haydn; Gardiner 1815\nTraditional LYONS candidate. Another common tune is HANOVER; compare recording before choosing.",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "LYONS is an accepted PD setting of the Robert Grant hymn text, even if the recording uses HANOVER. Keep the named tune explicit. The source score was inspected and identified as PD, primarily on a US basis. Confirm the edition and territorial basis for the intended public distribution; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B009",
+      "title": "O Worship the King",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-openpsalm-o-worship-the-king",
+      "abc_file": "abc/remaining-openpsalm-o-worship-the-king.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B009",
+        "Song title": "O Worship the King",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/140320",
+        "Lyrics source": "https://hymnary.org/text/o_worship_the_king_all_glorious_above",
+        "Editable source": "",
+        "Tune and work identity": "Text: Robert Grant\nTune: LYONS; attributed Johann Michael Haydn; Gardiner 1815",
+        "Public distribution rights": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/140320",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nLYONS selected. Some recordings may use HANOVER; the traditional alternate tune is retained.\nSame hymn/text retained. Public-domain alternate tune is permitted. Do not copy protected recording arrangements or added sections. Confirm target territories and edition reuse terms.",
+        "Playlist positions": "9, 222, 250",
+        "Playlist artists": "The Haven Quartet; Hallal Music; Christian Edition",
+        "Original track titles": "O Worship the King",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

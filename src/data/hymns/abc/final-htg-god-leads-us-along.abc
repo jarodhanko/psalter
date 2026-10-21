@@ -1,0 +1,147 @@
+%abc-2.1
+X:1
+T:God Leads Us Along
+C:George A. Young | George A. Young, 1903, arr.
+S:HymnsToGod.org; original MUP and PDF retained
+M:6/8
+L:1/8
+Q:1/4=80
+N:Source MUP SHA-256 905aeb8c6d941b5a28e33e56bc65113f7ee4a55b17d2ca4db324a6acd1834196
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+N:Source is marked arr.; independent arrangement-history proof is outstanding
+K:Eb
+% SOURCE title bold (19) "" "God Leads Us Along" ""
+% SOURCE title (2)""
+% SOURCE title (11) "E \(flat) - 2 - DO" "\s(17)\f(TI)\:He\ leadeth\ me\ in\ pat\^hs\ of\ righteousness for\ his\ name's\ s\^ake\ -\ Ps.\ 23:3 \(space)" ""
+% SOURCE title (13) "George A. Young" "" "George A. Young, 1903, arr."
+% SOURCE title (11) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // Mup vs. 6.6 - http://www.arkkra.com
+% SOURCE // The hymn produced by this source code is believed to be  
+% SOURCE // in the public domain in the United States of America.
+% SOURCE //
+% SOURCE // This source code is donated to the public domain.
+% SOURCE // 
+% SOURCE // Hymn Source:	Gospel Voices of Praise
+% SOURCE //			Prepared withe especial reerence
+% SOURCE //			to the needs of the Sunday School
+% SOURCE //			it will also be found suitable
+% SOURCE //			for the prayer meeting and other
+% SOURCE //			religious gatherings.
+% SOURCE //			Compiled by: William B Olmstead,
+% SOURCE //			David S. Warner, Mary Coleman,
+% SOURCE //			Emma L. Hogue, William B. Rose
+% SOURCE //			Published by W. B. Rose
+% SOURCE //			1132 Wasington Boulevard
+% SOURCE //			Chicage, Illinois
+% SOURCE //			Copyright 1909
+% SOURCE //			Hymn no. 84
+% SOURCE // Transcribed by: Ted Gatza, Jr. 03/26/2019
+% SOURCE // HymnsToGod.org
+% SOURCE // ******************************************
+% SOURCE // ****************************************
+% SOURCE //define macros
+% SOURCE // Set midi
+% SOURCE // Enter music
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3
+% SOURCE //4
+% SOURCE //5
+% SOURCE //6
+% SOURCE //7
+% SOURCE //8
+% SOURCE //9
+% SOURCE //9
+% SOURCE //Chorus
+% SOURCE //1 1: 8e; 16eg; 8gb; 16; 4.ge+;  // Uncomment for original notes
+% SOURCE //1 2: 8e; 16s; 8; 16; 4.;  // Uncomment for original notes
+% SOURCE //2 1: 8eg; 16eb; 8ee+; 16; 4b<e+>; 8e+;  // Uncomment for original notes
+% SOURCE //2 2: 8s; 16; 8; 16; 4.e;  // Uncomment for original notes
+% SOURCE //10
+% SOURCE //11
+% SOURCE //12
+% SOURCE //13
+% SOURCE // 1 1: 8e; 16eg; 8gb; 16; 4ge+; 8gb;  // Uncomment for original notes
+% SOURCE // 1 2: 8e; 16s; 8; 16; 4; 8;   // Uncomment for original notes
+% SOURCE // 2: 8eg; 16eb; 8ee+; 16; 4eb; 8ee+;  // Uncomment for original notes
+% SOURCE //14
+% SOURCE //15
+% SOURCE //16
+V:11
+E | [GE]3/2 [GE]1/2 [GE] [GE]3/2 F1/2 [GE] | [BG]3/2 [BG]1/2 [BG] [GE]2 E | [FD]3/2 [FD]1/2 [FD] [FD] [EC] [FD] |
+w: 1.~In sha- dy green pas- tures, so rich and so sweet, God leads His dear chil- dren a-
+w: 2.~Some- times on the mount where the sun shines so bright, God leads His dear chil- dren a-
+w: 3.~Tho' sor- rows be- fall us and Sa- tan op- ose, God leads His dear chil- dren a-
+w: 4.~A- way from the mire, and a- way from the clay God leads His dear chil- dren a-
+V:12
+E | x3/2 x1/2 x x3/2 E1/2 x | x3/2 x1/2 x x2 E | x6 |
+V:21
+[G,E,] | [B,E,]3/2 [B,E,]1/2 [B,E,] [B,E,]3/2 [B,E,]1/2 [B,E,] | [EE,]3/2 [EE,]1/2 [EE,] [B,E,]2 [G,E,] | [B,B,,]3/2 [B,B,,]1/2 [B,B,,] [B,B,,] [G,C,] [B,B,,] |
+V:22
+x | x6 | x6 | x6 |
+V:11
+[G-E-]3 [GE]2 (E1/2 F1/2) | [GE]3/2 [GE]1/2 [GE] [GE]3/2 F1/2 [GE] | [BG]3/2 [BG]1/2 [BG] [GE]2 E | [FD]3/2 [FD]1/2 [FD] [FD] [GE] [FB,] |
+w: long, * Where the wa- ter's cool flow bathe the wea- ry one's feet, God leads His dear chil- dren a-
+w: long, * Some- times in the val- ley in the dark- est of night, God leads His dear chil- dren a-
+w: long. * Through * grace we can con- quer, de- feat all our foes, God leads His dear chil- dren a-
+w: long. * A- * way up in glo- ry, e- ter- ni- ty's day, God leads His dear chil- dren a-
+V:12
+x3 x2 E1/2- E1/2 | x3/2 x1/2 x x3/2 E1/2 x | x3/2 x1/2 x x2 E | x6 |
+V:21
+[B,-E,-]3 [B,E,]2 [(G,E,-]1/2 [A,)E,]1/2 | [B,E,]3/2 [B,E,]1/2 [B,E,] [B,E,]3/2 [B,E,]1/2 [B,E,] | [EE,]3/2 [EE,]1/2 [EE,] [B,E,]2 [G,E,] | [A,B,,]3/2 [A,B,,]1/2 [A,B,,] [A,B,,] [B,B,,] [A,B,,] |
+V:22
+x6 | x6 | x6 | x6 |
+V:11
+[E-B,-]3 [EB,]2 z ||
+w: long. *
+w: long. *
+w: long. *
+w: long. *
+V:12
+x6 ||
+V:21
+[G,-E,-]3 [G,E,]2 z ||
+V:22
+x6 ||
+V:11
+"^Chorus"E [GE]3/2 [BG]1/2 [BG] [eG]2 | [cA] [eA]3/2 [cA]1/2 [BG]3 | [BG] [BG]3/2 [BG]1/2 [cA]1/2[BG]3/2 [GE] | [GE] F [GE] [FD]3 |
+w: Some thro' the wa- ters, some thro' the flood, Some thro' the fire, * but all thro' the Blood;
+w: * * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * * *
+V:12
+E x3/2 x1/2 x x2 | x6 | x6 | x E x x3 |
+V:21
+[G,E,] [B,E,]3/2 [EE,]1/2 [EE,] (B, E) | [EA,] [CA,]3/2 [EA,]1/2 [EE,]3 | [EE,] [EE,]3/2 [EE,]1/2 [EE,]2 [B,E,] | [=A,C,] [A,C,] [A,F,] (B, _A,2) |
+V:22
+x x3/2 x1/2 x E,2 | x6 | x6 | x x x B,,3 |
+V:11
+E [GE]3/2 [BG]1/2 [BG] [eG]3/2 [BG]1/2 | [AC] [eA]3/2 [cA]1/2 [BG]3 | [BG] [cA]3/2 [BG]1/2 [BG]1/2 [GE]3/2 E | "^Ritard."[FD]3/2 [EB,]1/2 [FB,] [EB,]2 |]
+w: Some thro' great sor- row, but God gives a song, In the night sea- son And all the day long.
+w: * * * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * * * *
+V:12
+E x3/2 x1/2 x x3/2 x1/2 | x6 | x x3/2 x1/2 x1/2 x3/2 E | x4 x |]
+V:21
+[G,E,] [B,E,]3/2 [EE,]1/2 [EE,] [B,E,]3/2 [EE,]1/2 | [EA,] [CA,]3/2 [EA,]1/2 [EE,]3 | [EE,] [EE,]3/2 [EE,]1/2 [EE,]1/2 [B,E,]3/2 [G,E,] | [A,B,,]3/2 [G,B,,]1/2 [A,B,,] [G,E,]2 |]
+V:22
+x6 | x6 | x6 | x4 x |]

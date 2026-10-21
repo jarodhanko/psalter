@@ -1,0 +1,129 @@
+{
+  "sourceSha256": "3bd406aed1b103a5ab82c99b6894abbffe5fc6e0a3b540c0c750082a354bba92",
+  "metadata": {
+    "id": "hymn-oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn",
+    "title": "Glorious Things Of Thee Are Spoken",
+    "composer": "Words: John Newton, 1779, alt. · Music: 'Austria (Haydn)' or 'Austrian Hymn' Franz Joseph Haydn, 1797. · Setting: \"The Evangelical Hymnal with Tunes\", 1880.",
+    "tune": "Austria (Haydn)",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Glorious_Things_of_Thee_Are_Spoken/Glorious_Things_of_Thee_Are_Spoken-Austria_Haydn-Austrian_Hymn.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: John Newton, 1779, alt.",
+      "Music: 'Austria (Haydn)' or 'Austrian Hymn' Franz Joseph Haydn, 1797.",
+      "Setting: \"The Evangelical Hymnal with Tunes\", 1880.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision.",
+      "Music source: \"The Evangelical Hymnal with Tunes\", 1880 Hymn 527 page 463.  Lyrics: same source, alt.    ABC file contributed to the Open Hymnal by Tobin Strong, 10 Feb 2014."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Austria (Haydn)' or 'Austrian Hymn' Franz Joseph Haydn, 1797.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn",
+      "title": "Glorious Things Of Thee Are Spoken",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B124"
+        }
+      ],
+      "file": "abc/oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn.abc",
+      "sha256": "3bd406aed1b103a5ab82c99b6894abbffe5fc6e0a3b540c0c750082a354bba92",
+      "canonical_reference_in_archive": "abc/oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Glorious_Things_of_Thee_Are_Spoken/Glorious_Things_of_Thee_Are_Spoken-Austria_Haydn-Austrian_Hymn.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: John Newton, 1779, alt.",
+          "Music: 'Austria (Haydn)' or 'Austrian Hymn' Franz Joseph Haydn, 1797.",
+          "Setting: \"The Evangelical Hymnal with Tunes\", 1880.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2014 Revision.",
+          "Music source: \"The Evangelical Hymnal with Tunes\", 1880 Hymn 527 page 463.  Lyrics: same source, alt.    ABC file contributed to the Open Hymnal by Tobin Strong, 10 Feb 2014."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Austria (Haydn)' or 'Austrian Hymn' Franz Joseph Haydn, 1797.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B124",
+      "title": "Glorious Things Of Thee Are Spoken",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn",
+      "abc_file": "abc/oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B124",
+        "Song title": "Glorious Things Of Thee Are Spoken",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/G/Glorious_Things_of_Thee_Are_Spoken/Glorious_Things_of_Thee_Are_Spoken.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Glorious_Things_of_Thee_Are_Spoken/",
+        "Editable source": "",
+        "Tune and work identity": "AUSTRIAN HYMN / AUSTRIA; Franz Joseph Haydn, 1797; John Newton text, 1779",
+        "Public distribution rights": "Timeless Truths labels both text and tune Public Domain; source is an alternate traditional setting, not the modern recording arrangement. US public-domain candidate; confirm distribution territory.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/library/music/G/Glorious_Things_of_Thee_Are_Spoken/Glorious_Things_of_Thee_Are_Spoken.pdf",
+        "Remaining checks / version notes": "Candidate: traditional PD setting; recording arrangement differs\nAUSTRIA source found; ABBOTS LEIGH is a different and protected tune. Recording choice must be checked, not inferred from title. Under the updated scope, this same-hymn traditional setting may be retained even if the recording melody differs; recording-specific additions are excluded.",
+        "Playlist positions": "167",
+        "Playlist artists": "The Worship Team",
+        "Original track titles": "Glorious Things Of Thee Are Spoken",
+        "Source review": "PDF full vocal score with lyrics\nFull PD-labelled PDF opened and score contents inspected via text extraction; no aural recording comparison or visual engraving QA"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

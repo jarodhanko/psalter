@@ -1,0 +1,157 @@
+{
+  "sourceSha256": "2736e7020e77b0baa6cc1b4adaa5399a302918d48cd67f2b2b0ce79491bf3032",
+  "metadata": {
+    "id": "hymn-oh_savior-like-a-shepherd-lead-us-bradbury",
+    "title": "Savior, Like a Shepherd Lead Us",
+    "composer": "Words: attr. Dorothy Ann Thrupp, 1836. · Music and Setting: 'Bradbury' William B. Bradbury, 1859.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_savior-like-a-shepherd-lead-us-bradbury",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Savior_Like_A_Shepherd_Lead_Us/Savior_Like_A_Shepherd_Lead_Us-Bradbury.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: attr. Dorothy Ann Thrupp, 1836.",
+      "Music and Setting: 'Bradbury' William B. Bradbury, 1859.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision.",
+      "Music source: \"The Golden Chain and Shower\", 1866 Hymn 94.  Ed. Wm. Bradbury"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Bradbury' William B. Bradbury, 1859.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_savior-like-a-shepherd-lead-us-bradbury",
+      "title": "Savior, Like a Shepherd Lead Us",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H019"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B019"
+        }
+      ],
+      "file": "abc/oh_savior-like-a-shepherd-lead-us-bradbury.abc",
+      "sha256": "2736e7020e77b0baa6cc1b4adaa5399a302918d48cd67f2b2b0ce79491bf3032",
+      "canonical_reference_in_archive": "abc/oh_savior-like-a-shepherd-lead-us-bradbury.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Savior_Like_A_Shepherd_Lead_Us/Savior_Like_A_Shepherd_Lead_Us-Bradbury.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: attr. Dorothy Ann Thrupp, 1836.",
+          "Music and Setting: 'Bradbury' William B. Bradbury, 1859.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision.",
+          "Music source: \"The Golden Chain and Shower\", 1866 Hymn 94.  Ed. Wm. Bradbury"
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Bradbury' William B. Bradbury, 1859.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'Bradbury' William B. Bradbury, 1859.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_savior-like-a-shepherd-lead-us-bradbury.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H019",
+      "title": "Savior, Like a Shepherd Lead Us",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_savior-like-a-shepherd-lead-us-bradbury",
+      "abc_file": "abc/oh_savior-like-a-shepherd-lead-us-bradbury.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H019",
+        "Hymn / version": "Savior, Like a Shepherd Lead Us",
+        "Playlist track #": "19, 67",
+        "Music / score source": "https://hymnary.org/media/fetch/138200",
+        "Lyrics / companion source": "https://hymnary.org/text/savior_like_a_shepherd_lead_us",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights source": "https://hymnary.org/media/fetch/138200",
+        "Text, tune and version notes": "Text: Attributed Dorothy A. Thrupp; Hymns for the Young\nTune: BRADBURY; William B. Bradbury, 1859",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B019",
+      "title": "Savior, Like a Shepherd Lead Us",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_savior-like-a-shepherd-lead-us-bradbury",
+      "abc_file": "abc/oh_savior-like-a-shepherd-lead-us-bradbury.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B019",
+        "Song title": "Savior, Like a Shepherd Lead Us",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/138200",
+        "Lyrics source": "https://hymnary.org/text/savior_like_a_shepherd_lead_us",
+        "Editable source": "",
+        "Tune and work identity": "Text: Attributed Dorothy A. Thrupp; Hymns for the Young\nTune: BRADBURY; William B. Bradbury, 1859",
+        "Public distribution rights": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/138200",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 358 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "19, 65, 358",
+        "Playlist artists": "The Haven Quartet; Fernando Ortega; Marty J. Nystrom",
+        "Original track titles": "Saviour Like a Shepherd; Savior, Like A Shepherd Lead Us; Savior Like A Shepherd Lead Us",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "sources": [
+    "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+    "https://archive.org/details/psalterwithrespo00unit"
+  ],
+  "independence": "Complete fixture events and lyrics are transformed only from the retained source-reading ledgers. Those ledgers include disclosed post-canonical-exposure source rereads: 135 had 42 pitch-reading revisions,136 one alto reading,137 six pitch and text/qualification revisions. The baseline ABC is retained only for exact-delta and stale-witness controls, not as the independent musical oracle.",
+  "songs": [
+    {
+      "id": "psalter135",
+      "previousAbc": "T:The Vanity of Trust in Riches\nC:Tune: FISK; Calvin S. Harrington\nM:3/4\nL:1/4\nK:F\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] (c d) c | (A B) A | (G F) G | A3 || (c d) c | (A B) A | (G D) E | F3 |\nw:1.~Hear * this, all * ye peo- * ple, hear, Earth's * in-hab- * it-ants, * give ear;\nw:2.~Truth * with all * my heart * I seek, And * my mouth * shall wis- * dom speak;\nw:3.~Why * should I * to fear * give way When * I see * the e- * vil day,\nw:4.~They * that trust * in treas- * ured gold, Tho' * they boast * of wealth * un-told,\nw:5.~If * from death * one would * be free And * cor-rup- * tion nev- * er see,\n[V:T2] F2 F | F2 F | (E D) E | F3 || F2 F | F2 F | D2 C | C3 |\n[V:B1] (A, B,) A, | (C D) C | C2 C | C3 || (A, B,) A, | (C D) C | B,2 B, | A,3 |\n[V:B2] F,2 F, | F,2 F, | C,2 C, | F,3 || F,2 F, | F,2 F, | B,,2 C, | F,3 |\n[V:T1] (G c) B | (A f) e | (d c) =B | c3 || (c d) c | (A B) A | (G D) E | F3 |]\nw: All * of high * and low * de-gree, Rich * and poor, * give heed * to me.\nw: Heark- * en while * in lyr- * ic strain I * make hid- * den wis- * dom plain.\nw: When * with wick- * ed-ness * my foes Shall * sur-round * me and * op-pose?\nw: None * can bid * his broth- * er live, None * to God * a ran- * som give,\nw: Cost- * ly is * life's ran- * som price, Far * be-yond * all sac- * ri-fice.\n[V:T2] E2 G | (F A) G | (F E) F | E3 || F2 F | F2 F | D2 C | C3 |]\n[V:B1] G,2 C | (C D) ^C | (D E) D | (C2 _B,) || (A, B,) A, | (C D) C | B,2 B, | A,3 |]\n[V:B2] C,2 E, | (F, D,) E, | (F, G,) G, | C,3 || F,2 F, | F,2 F, | B,,2 C, | F,3 |]",
+      "previousAbcSHA256": "4b8eed688125977752e2905ab54984ad8ae1f24cc2597f054c8291a3cffeff79",
+      "correctedAbcSHA256": "5b85aced302060b8fb01e575f5653a3c69e369fceae901bbad247c035a44480f",
+      "fixtureSHA256": "2b177b6ad4452cd6f2a0a3bff5ef32da1cd09bc1e86f4eee5a643777feffc64f",
+      "corrections": [
+        {
+          "before": "a ran- * som give,",
+          "after": "a ran- * som give."
+        }
+      ],
+      "printedProse": {
+        "1": "Hear this, all ye people, hear, Earth's inhabitants, give ear; All of high and low degree, Rich and poor, give heed to me.",
+        "2": "Truth with all my heart I seek, And my mouth shall wisdom speak; Hearken while in lyric strain I make hidden wisdom plain.",
+        "3": "Why should I to fear give way When I see the evil day, When with wickedness my foes Shall surround me and oppose?",
+        "4": "They that trust in treasured gold, Tho' they boast of wealth untold, None can bid his brother live, None to God a ransom give.",
+        "5": "If from death one would be free And corruption never see, Costly is life's ransom price, Far beyond all sacrifice."
+      },
+      "provenance": [
+        {
+          "file": "source-evidence/psalter135/manual-source-ledger.initial.json",
+          "sha256": "66fed42bee635cbad7bff2f771b8df11053093e3eaa61775a648912f1ea57979"
+        },
+        {
+          "file": "source-evidence/psalter135/manual-source-ledger.revised.json",
+          "sha256": "22e1ebd7e99d5ea607edb8db4270fb154634a81aa4382ece8b66e610570dcea9"
+        },
+        {
+          "file": "source-evidence/psalter135/manual-ledger-freeze.json",
+          "sha256": "7dc52202a6f2158ab48c698d1960d42f4a459e4ad3d5b21eaab46c1393fc3623"
+        },
+        {
+          "file": "source-evidence/psalter135/ledger-revisions.json",
+          "sha256": "39b728d8a4126bad69288853103ecf51ddac943f04cb71c2864548b626646650"
+        },
+        {
+          "file": "source-evidence/psalter135/independent-second-reading.json",
+          "sha256": "36864746e1f939eef5b203d63d8ba49f33af1f3cbfdb906deb7ec16041b2605e"
+        },
+        {
+          "file": "source-evidence/psalter135/source-manifest.json",
+          "sha256": "d989b441b7b3fb517aef2e2786313de679da31938ed3e0a66a594e95965dc06f"
+        },
+        {
+          "file": "source-evidence/psalter135/harness-revisions.json",
+          "sha256": "b1e3eca5d08837173879d74ae3766affd27095838f06cca7fe6b4db4cf097221"
+        }
+      ],
+      "qualification": "Immutable pre-exposure initial ledger with disclosed coordinate-reading corrections independently confirmed; no app-derived pitches."
+    },
+    {
+      "id": "psalter135b",
+      "previousAbc": "T:The Vanity of Trust in Riches\nC:Tune: FERRIER; John B. Dykes\nM:4/4\nL:1/4\nK:D\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] F F F D | A B A2 || A B/2c/2 d c | B c/2B/2 A2 |\nw:1.~Hear this, all ye peo-ple, hear, Earth's in- * hab-it-ants, give * ear;\nw:2.~Truth with all my heart I seek, And my * mouth shall wis-dom * speak;\nw:3.~Why should I to fear give way When I * see the e-vil * day,\nw:4.~They that trust in treas-ured gold, Tho' they * boast of wealth un- * told,\nw:5.~If from death one would be free And cor- * rup-tion nev-er * see,\n[V:T2] F D D D | F D/2E/2 F2 || C D/2E/2 F E | D E/2D/2 C2 |\n[V:B1] D A, F, A, | D B,/2C/2 D2 || A, ^G, A, A, | ^G, G, A,2 |\n[V:B2] D, D, D, F, | D, G, D,2 || F, E, D, A,, | E, E, A,,2 |\n[V:T1] F F F D | A B/2c/2 d2 || d B A F | E F/2E/2 D2 |]\nw: All of high and low de- * gree, Rich and poor, give heed to * me.\nw: Heark-en while in lyr-ic * strain I make hid-den wis-dom * plain.\nw: When with wick-ed-ness my * foes Shall sur-round me and op- * pose?\nw: None can bid his broth-er * live, None to God a ran-som * give,\nw: Cost-ly is life's ran-som * price, Far be-yond all sac-ri- * fice.\n[V:T2] D D D D | F E F2 || B G F D | D C D2 |]\n[V:B1] A, A, A, A, | A, E D2 || D D D A, | A, G, F,2 |]\n[V:B2] D, A,, D, F, | D, C, B,,2 || G,, B,, D, F, | A, A,, D,2 |]",
+      "previousAbcSHA256": "272e8d7dfc6026223a0a2abba42d39d6f6e21e78db410a4c805627d6d8e0a797",
+      "correctedAbcSHA256": "70018e840143dcf5c6cef7046f93e641cd95a382ffa3110c166ebbfaddc198c5",
+      "fixtureSHA256": "2ff252ef738f61c7f072c1f2561474e9133e61b8ac43cb4b66d0b1d9017412bf",
+      "corrections": [
+        {
+          "before": "a ran-som * give,",
+          "after": "a ran-som * give."
+        }
+      ],
+      "printedProse": {
+        "1": "Hear this, all ye people, hear, Earth's inhabitants, give ear; All of high and low degree, Rich and poor, give heed to me.",
+        "2": "Truth with all my heart I seek, And my mouth shall wisdom speak; Hearken while in lyric strain I make hidden wisdom plain.",
+        "3": "Why should I to fear give way When I see the evil day, When with wickedness my foes Shall surround me and oppose?",
+        "4": "They that trust in treasured gold, Tho' they boast of wealth untold, None can bid his brother live, None to God a ransom give.",
+        "5": "If from death one would be free And corruption never see, Costly is life's ransom price, Far beyond all sacrifice."
+      },
+      "provenance": [
+        {
+          "file": "source-evidence/psalter135/manual-source-ledger.initial.json",
+          "sha256": "66fed42bee635cbad7bff2f771b8df11053093e3eaa61775a648912f1ea57979"
+        },
+        {
+          "file": "source-evidence/psalter135/manual-source-ledger.revised.json",
+          "sha256": "22e1ebd7e99d5ea607edb8db4270fb154634a81aa4382ece8b66e610570dcea9"
+        },
+        {
+          "file": "source-evidence/psalter135/manual-ledger-freeze.json",
+          "sha256": "7dc52202a6f2158ab48c698d1960d42f4a459e4ad3d5b21eaab46c1393fc3623"
+        },
+        {
+          "file": "source-evidence/psalter135/ledger-revisions.json",
+          "sha256": "39b728d8a4126bad69288853103ecf51ddac943f04cb71c2864548b626646650"
+        },
+        {
+          "file": "source-evidence/psalter135/independent-second-reading.json",
+          "sha256": "36864746e1f939eef5b203d63d8ba49f33af1f3cbfdb906deb7ec16041b2605e"
+        },
+        {
+          "file": "source-evidence/psalter135/source-manifest.json",
+          "sha256": "d989b441b7b3fb517aef2e2786313de679da31938ed3e0a66a594e95965dc06f"
+        },
+        {
+          "file": "source-evidence/psalter135/harness-revisions.json",
+          "sha256": "b1e3eca5d08837173879d74ae3766affd27095838f06cca7fe6b4db4cf097221"
+        }
+      ],
+      "qualification": "Immutable pre-exposure initial ledger with disclosed coordinate-reading corrections independently confirmed; no app-derived pitches."
+    },
+    {
+      "id": "psalter136",
+      "previousAbc": "T:The Issues of Life\nC:Tune: WATCHMAN; Lowell Mason\nM:6/8\nL:1/8\nK:D\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] D2 E F2 E | F2 G A3 || A2 F A2 B | A2 F E3 |\nw:1.~Dust to dust, the mor-tal dies, Both the fool-ish and the wise;\nw:2.~To their lands they give their name In the hope of last-ing fame,\nw:3.~O'er them soon shall rule the just, All their beau-ty turn to dust;\nw:4.~Though in life he wealth at-tained, Tho' the praise of men he gained,\n[V:T2] D2 D D2 D | D2 D D3 || D2 D D2 D | D2 D C3 |\n[V:B1] F,2 G, A,2 G, | A,2 E, F,3 || F,2 A, F,2 G, | F,2 A, A,3 |\n[V:B2] D,2 D, D,2 D, | D,2 D, D,3 || D,2 D, D,2 D, | D,2 F, A,3 |\n[V:T1] D2 E F2 E | F2 G A3 || d2 B A2 E | F2 E D3 |\nw: None for-ev-er can re-main, Each must leave his hoard-ed gain.\nw: But man's hon-or quick-ly flies, Like the low-ly beast he dies.\nw: God my wait-ing soul shall save, He will raise me from the grave.\nw: He shall join those gone be-fore, Where the light shall shine no more.\n[V:T2] D2 D D2 D | D2 D D3 || D2 D D2 D | D2 C D3 |\n[V:B1] F,2 G, A,2 G, | A,2 E, F,3 || A,2 G, A,2 B, | A,2 G, F,3 |\n[V:B2] D,2 D, D,2 D, | D,2 D, D,3 || F,2 G, F,2 G, | A,2 A,, D,3 |\n[V:T1] A2 F d2 B | A2 F d3 || A2 F d2 B | c2 B A3 |\nw: Yet with-in their heart they say That their hous-es are for aye,\nw: Tho' such fol-ly mark their way, Men ap-prove of what they say;\nw: Let no fear dis-turb your peace Tho' one's house and wealth in-crease;\nw: Crowned with hon-or tho' he be, High-ly gift-ed, strong and free,\n[V:T2] D2 D D2 D | D2 D D3 || D2 D F2 F | E2 D C3 |\n[V:B1] F,2 A, F,2 G, | F,2 A, F,3 || F,2 A, B,2 F, | A,2 ^G, A,3 |\n[V:B2] D,2 D, D,2 D, | D,2 D, D,3 || D,2 D, B,,2 D, | E,2 E, A,,3 |\n[V:T1] F2 E D2 E | F2 G A3 || d2 d e2 e | d3 c3 | d6 |]\nw: That their dwell-ing pla-ces grand Shall for gen-er-a-tions stand.\nw: Death their shep-herd, they the sheep He with-in his fold will keep.\nw: Death shall end his fleet-ing day, He shall car-ry naught a-way.\nw: If he be not tru-ly wise, Man is like the beast that dies.\n[V:T2] D2 C D2 D | D2 D D3 || A2 A G2 G | F3 E3 | F6 |]\n[V:B1] A,2 G, F,2 G, | A,2 A, A,3 || A,2 D B,2 B, | A,3 A,3 | A,6 |]\n[V:B2] D,2 D, D,2 D, | D,2 F, F,3 || F,2 F, G,2 G, | A,3 A,,3 | D,6 |]\nW:[Stanzas 6-13]",
+      "previousAbcSHA256": "9ecd60bba588174d30c670c59a92bf00616bfba2c274aa34d69f6bfea91196aa",
+      "correctedAbcSHA256": "2b05306798b7f8be3685413150f6811738bd800eca296e4c6835514044a20d37",
+      "fixtureSHA256": "c192d171690cc4069e52edcb4989b6fc563e1ee2d4cc1663c693daf2f5309a6c",
+      "corrections": [
+        {
+          "before": "D,2 F, F,3 ||",
+          "after": "D,2 E, F,3 ||"
+        }
+      ],
+      "printedProse": {
+        "1": "Dust to dust, the mortal dies, Both the foolish and the wise; None forever can remain, Each must leave his hoarded gain. Yet within their heart they say That their houses are for aye, That their dwelling places grand Shall for generations stand.",
+        "2": "To their lands they give their name In the hope of lasting fame, But man's honor quickly flies, Like the lowly beast he dies. Tho' such folly mark their way, Men approve of what they say; Death their shepherd, they the sheep He within his fold will keep.",
+        "3": "O'er them soon shall rule the just, All their beauty turn to dust; God my waiting soul shall save, He will raise me from the grave. Let no fear disturb your peace Tho' one's house and wealth increase; Death shall end his fleeting day, He shall carry naught away.",
+        "4": "Though in life he wealth attained, Tho' the praise of men he gained, He shall join those gone before, Where the light shall shine no more. Crowned with honor tho' he be, Highly gifted, strong and free, If he be not truly wise, Man is like the beast that dies."
+      },
+      "provenance": [
+        {
+          "file": "source-evidence/psalter136/manual-source-ledger.initial.json",
+          "sha256": "3ef4dce08305be9009cf8ab6637e07fdb65b2d1b27fdb16506dcdfcfa48326b2"
+        },
+        {
+          "file": "source-evidence/psalter136/manual-source-ledger.revised.json",
+          "sha256": "dd5b55808a96943182559c3908a5026c449ef2b1d6cd856153f9b1fd5c6da655"
+        },
+        {
+          "file": "source-evidence/psalter136/manual-ledger-freeze.json",
+          "sha256": "4721e3aba6ab47bad50b78b1d1794cf6b1e87d1d599b54658c258731a9e62263"
+        },
+        {
+          "file": "source-evidence/psalter136/ledger-revisions.json",
+          "sha256": "d9e4ce68a9a260d95cd529e35344892df87a120423d74d2dd1990c7c80c068ba"
+        },
+        {
+          "file": "source-evidence/psalter136/independent-second-reading.json",
+          "sha256": "538f7f01c250df994da32ed2c715ecfaffa9ea637752be5439c3e33eafcbbbf0"
+        },
+        {
+          "file": "source-evidence/psalter136/source-manifest.json",
+          "sha256": "d5a5ae520064a18213200d20d50bd10a0ce94d5def1123ad363a56e190a16dbd"
+        },
+        {
+          "file": "source-evidence/psalter136/harness-revisions.json",
+          "sha256": "fdcbbfebee4014c81ab5a8e8c50897ffa4360a2c13595f1eb81a448f7447dc4f"
+        }
+      ],
+      "qualification": "Independent pre-exposure ledger, single disclosed source-pixel alto revision."
+    },
+    {
+      "id": "psalter137",
+      "previousAbc": "T:Acceptable Worship\nC:Tune: ST. PETERSBURG; Arranged from Bortniansky\nM:3/4\nL:1/4\nK:C\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] G | E2 F | G2 c | (d c) B | c2 || G | (A c) A | G2 E | (G F) E | D2 |\nw:1.~The might-y God, Je-ho-*vah, speaks And calls * the earth from sea * to sea;\nw:2.~He calls a-loud to heav'n * and earth That He * may just-ly judge * His own;\nw:3.~Hear, O my peo-ple, I * will speak, A-gainst * thee I will tes-*ti-fy;\nw:4.~I will re-ceive from out * thy fold No of-*f'ring for My ho-*ly shrine;\nw: 5.~Be-hold, if I should hun-*gry grow, I would * not tell My need * to thee,\nw: 6.~Bring thou to God the gift * of thanks, And pay * thy vows to God * Most High;\n[V:T2] E | C2 D | E2 G | F2 F | E2 || G | (F A) F | E2 C | D2 C | B,2 |\n[V:B1] G, | (G, C) C | C2 C | (B, C) D | C2 || C | C2 C | C2 G, | G,2 G, | G,2 |\n[V:B2] C, | C,2 C, | C,2 E, | G,2 G, | C,2 || E, | F,2 F, | C,2 C, | B,,2 C, | G,,2 |\n[V:T1] G | E2 F | G2 c | (d c) B | c2 || G | (A c) A | G2 E | (G F) E | D2 |\nw: From beau-teous Zi-on God * shines forth, He comes * and will not si-*lent be;\nw: My cho-sen saints to-geth-*er bring Who sac-*ri-fice to Me * a-lone;\nw: Give ear to me, O Is-*ra-el, For God, * thy cov-enant God, * am I;\nw: The cat-tle on a thou-*sand hills And all * the for-est beasts * are Mine;\nw: For all the world it-self * is Mine, And all * its wealth be-longs * to Me;\nw: Call ye up-on My ho-*ly Name, In days * when sore dis-tress * is nigh;\n[V:T2] E | C2 D | E2 G | F2 F | E2 || G | (F A) F | E2 C | D2 C | B,2 |\n[V:B1] G, | (G, C) C | C2 C | (B, C) D | C2 || C | C2 C | C2 G, | G,2 G, | G,2 |\n[V:B2] C, | C,2 C, | C,2 E, | G,2 G, | C,2 || E, | F,2 F, | C,2 C, | B,,2 C, | G,,2 |\n[V:T1] G | B2 G | c2 G | (e d) c | (c B) || B | (c B) A | G2 F | E2 D | C2 |]\nw: De-vour-ing flame be-fore * Him goes, * And dark * the tem-pest round Him grows.\nw: The heav'ns His right-eous-ness * de-clare, * For God * Him-self as Judge is there.\nw: I do not spurn thy sac-*ri-fice, * Thy of-*f'rings are be-fore My eyes.\nw: Each moun-tain bird to Me * is known, * What-ev-*er roams the field I own.\nw: Why should I aught of thee * re- ceive, * My thirst * or hun-ger to re-lieve?\nw: De-liv-rance I will send * to thee, * And prais- * es thou shalt give to Me.\n[V:T2] G | F2 F | E2 E | (G F) E | (E D) || D/2 F/2 | (E G) F | E2 D | C2 B, | C2 |]\n[V:B1] G, | D2 B, | C2 C | (G, B,) C | G,2 || G, | G,2 A,/2B,/2 | (C _B,) A, | G,2 F, | E,2 |]\n[V:B2] G, | G,2 G, | G,2 G, | G,2 G, | G,2 || G, | C,2 C, | C,2 F, | G,2 G,, | C,2 |]\nW:5. Behold, if I should hungry grow,\nW:I would not tell My need to thee,\nW:For all the world itself is Mine,\nW:And all its wealth belongs to Me;\nW:Why should I aught of thee receive,\nW:My thirst or hunger to relieve?\nW:\nW:6. Bring thou to God the gift of thanks,\nW:And pay thy vows to God Most High;\nW:Call ye upon My holy Name\nW:In days when sore distress is nigh;\nW:Deliverance I will send to thee,\nW:And praises thou shalt give to Me.",
+      "previousAbcSHA256": "9110fff25c72bf3d594179128223aa5b95e4b98fad3dd2571e4d4adc33aadf80",
+      "correctedAbcSHA256": "eba300f3cdbdb1f8a5f6204f946f6aaf09b433e53a48a02c15b0f471d7941fc4",
+      "fixtureSHA256": "66c3869a464cbb8dfbc8185fd0ebfdbe87b1d92ecca0c5ce9859d40288d58371",
+      "corrections": [
+        {
+          "before": "ho-*ly Name, In days",
+          "after": "ho-*ly Name In days"
+        }
+      ],
+      "printedProse": {
+        "1": "The mighty God, Jehovah, speaks And calls the earth from sea to sea; From beauteous Zion God shines forth, He comes and will not silent be; Devouring flame before Him goes, And dark the tempest round Him grows.",
+        "2": "He calls aloud to heav'n and earth That He may justly judge His own; My chosen saints together bring Who sacrifice to Me alone; The heav'ns His righteousness declare, For God Himself as Judge is there.",
+        "3": "Hear, O my people, I will speak, Against thee I will testify; Give ear to me, O Israel, For God, thy covenant God, am I; I do not spurn thy sacrifice, Thy off'rings are before My eyes.",
+        "4": "I will receive from out thy fold No off'ring for My holy shrine; The cattle on a thousand hills And all the forest beasts are Mine; Each mountain bird to Me is known, Whatever roams the field I own.",
+        "5": "Behold, if I should hungry grow, I would not tell My need to thee, For all the world itself is Mine, And all its wealth belongs to Me; Why should I aught of thee receive, My thirst or hunger to relieve?",
+        "6": "Bring thou to God the gift of thanks, And pay thy vows to God Most High; Call ye upon My holy Name In days when sore distress is nigh; Deliverance I will send to thee, And praises thou shalt give to Me."
+      },
+      "provenance": [
+        {
+          "file": "source-evidence/psalter137/manual-source-ledger.initial.json",
+          "sha256": "1d2ca6c0b26a080841bac9166fe4aa6da32976f7c2ad024f3dcfe3cc153a7f37"
+        },
+        {
+          "file": "source-evidence/psalter137/manual-source-ledger.revised.json",
+          "sha256": "d449da4d18f5a400fb0f06f5da0caabae0c82053d831d303a856fb2d6b93cadc"
+        },
+        {
+          "file": "source-evidence/psalter137/manual-ledger-freeze.json",
+          "sha256": "931f176679650ad96dbc4ed0976f0e24eeee902461fa327d4dc1073b8e8086b9"
+        },
+        {
+          "file": "source-evidence/psalter137/ledger-revisions.json",
+          "sha256": "3afc893c05ca64343c0ae7f4eacf5b2248a7f2d87448e05b409ae257b00486ed"
+        },
+        {
+          "file": "source-evidence/psalter137/independent-second-reading.json",
+          "sha256": "d6c277221ab464d403d71c62089bb426ba3ffd275b0718ab105e236487677a8b"
+        },
+        {
+          "file": "source-evidence/psalter137/source-manifest.json",
+          "sha256": "fc4fba4e07f17a458116dbef9543d5bc4cf588018691b3281198e28c4e00e5dc"
+        },
+        {
+          "file": "source-evidence/psalter137/harness-revisions.json",
+          "sha256": "df294b74d71e1cbc56f013fd189b87e6e5e766e5faa50187dd2bed7588513b97"
+        },
+        {
+          "file": "source-evidence/psalter137/printed-exact-underlay.json",
+          "sha256": "0f63e1ca3a7014b3ee91180ded96a9b367fd9c2d8dcb012f09cae3db367c0d09"
+        },
+        {
+          "file": "source-evidence/psalter137/printed-prose-underlay.json",
+          "sha256": "cab1949a468b2c8e3880e12335db0d01caf39d19e21cd435def3775ab040d3b0"
+        }
+      ],
+      "qualification": "Stanzas 1–4 are literal RFPA underlay. Stanzas 5–6 are independently syllabified metrical inference from printed prose, not literal engraved note attachments."
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "sourceSha256": "7f8c893226207eac3cd983e0a776c083998f24760c86fd72a687a02abccb19b7",
+  "metadata": {
+    "id": "hymn-remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+    "title": "On Jordan's Stormy Banks I Stand",
+    "composer": "Tullius C. O'Kane",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+    "sourceUrls": [
+      "https://openpsalm.com/api/songs/334/export/musicxml"
+    ],
+    "collection": "OpenPsalm",
+    "credits": [
+      "Tullius C. O'Kane",
+      "Samuel Stennett",
+      "Lyrics: Samuel Stennett, 1787 (public domain)",
+      "Music: Tullius C. O'Kane, 1877 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "Creative Commons Attribution 4.0 International",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.",
+      "OpenPsalm",
+      "On Jordan's Stormy Banks I Stand"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "rights": [
+      "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+      "Lyrics: Samuel Stennett, 1787 (public domain)\nMusic: Tullius C. O'Kane, 1877 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "Lyrics: Samuel Stennett, 1787 (public domain)",
+      "Music: Tullius C. O'Kane, 1877 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license"
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added."
+    ],
+    "record": {
+      "source_id": "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+      "title": "On Jordan's Stormy Banks I Stand",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H064"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B059"
+        }
+      ],
+      "file": "abc/remaining-openpsalm-on-jordans-stormy-banks-i-stand.abc",
+      "sha256": "7f8c893226207eac3cd983e0a776c083998f24760c86fd72a687a02abccb19b7",
+      "canonical_reference_in_archive": "musicxml_abc/OpenPsalm_On_Jordans_Stormy_Banks_I_Stand.abc",
+      "source_url": "https://openpsalm.com/api/songs/334/export/musicxml",
+      "collection": "OpenPsalm",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+        "structured_source_evidence": {
+          "@context": "https://schema.org",
+          "@id": "https://openpsalm.com/songs/334#composition",
+          "@type": "MusicComposition",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Time signature",
+              "value": "4/4"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tempo",
+              "value": 100
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verses",
+              "value": 4
+            }
+          ],
+          "composer": [
+            {
+              "@type": "Person",
+              "name": "Tullius C. O'Kane"
+            }
+          ],
+          "contributor": [
+            {
+              "@type": "Organization",
+              "name": "OpenPsalm"
+            }
+          ],
+          "copyrightNotice": "Lyrics: Samuel Stennett, 1787 (public domain)\nMusic: Tullius C. O'Kane, 1877 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+          "description": "On Jordan's Stormy Banks I Stand — 4 verses worship hymn. Browse, listen, and export as MusicXML, MIDI, LilyPond, or PDF.",
+          "encoding": [
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/334/export/musicxml",
+              "encodingFormat": "application/vnd.recordare.musicxml+xml",
+              "name": "On Jordan's Stormy Banks I Stand — MusicXML"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/334/export/midi",
+              "encodingFormat": "audio/midi",
+              "name": "On Jordan's Stormy Banks I Stand — MIDI"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/334/export/mp3",
+              "encodingFormat": "audio/mpeg",
+              "name": "On Jordan's Stormy Banks I Stand — MP3"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/334/export/lilypond",
+              "encodingFormat": "text/x-lilypond",
+              "name": "On Jordan's Stormy Banks I Stand — LilyPond"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/334/render/pdf",
+              "encodingFormat": "application/pdf",
+              "name": "On Jordan's Stormy Banks I Stand — PDF"
+            }
+          ],
+          "inLanguage": "en",
+          "isAccessibleForFree": true,
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "lyricist": [
+            {
+              "@type": "Person",
+              "name": "Samuel Stennett"
+            }
+          ],
+          "lyrics": {
+            "@type": "CreativeWork",
+            "inLanguage": "en",
+            "text": "Verse 1\nOn Jordan's stormy banks I stand,\nAnd cast a wishful eye\nTo Canaan's fair and happy land,\nWhere my possessions lie.\n\nVerse 2\nO'er all those wide extended plains\nShines one eternal day;\nThere God, the Sun, forever reigns,\nAnd scatters night away.\n\nVerse 3\nWhen shall I reach that happy place,\nAnd be forever blest?\nWhen shall I see my Father's face,\nAnd in His bosom rest?\n\nVerse 4\nFilled with delight, my raptured soul\nWould here no longer stay;\nTho' Jordan's waves around me roll,\nFearless I'd launch away.\n\nChorus\nWe will rest in the fair and happy land,\nJust across on the evergreen shore,\nSing the song of Moses and the Lamb, by and by,\nAnd dwell with Jesus evermore."
+          },
+          "mainEntityOfPage": {
+            "@id": "https://openpsalm.com/songs/334",
+            "@type": "WebPage"
+          },
+          "musicCompositionForm": "Hymn",
+          "musicalKey": "G",
+          "name": "On Jordan's Stormy Banks I Stand",
+          "publisher": {
+            "@type": "Organization",
+            "name": "OpenPsalm",
+            "url": "https://openpsalm.com"
+          },
+          "url": "https://openpsalm.com/songs/334"
+        }
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H064",
+      "title": "On Jordan’s Stormy Banks I Stand",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+      "abc_file": "abc/remaining-openpsalm-on-jordans-stormy-banks-i-stand.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H064",
+        "Hymn / version": "On Jordan’s Stormy Banks I Stand",
+        "Playlist track #": "71",
+        "Music / score source": "https://library.timelesstruths.org/library/music/O/On_Jordans_Stormy_Banks_I_Stand/On_Jordans_Stormy_Banks_I_Stand.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/On_Jordans_Stormy_Banks_I_Stand/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB-style grand-staff PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights source": "https://library.timelesstruths.org/music/On_Jordans_Stormy_Banks_I_Stand/",
+        "Text, tune and version notes": "Samuel Stennett (1787) / PROMISED LAND, Miss M. Durham (1835), arr. R. M. McIntosh (1895)\nStandard PROMISED LAND setting; Emmanuel Quartet recording tune/arrangement not directly auditioned.\nPDF opened successfully",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "PROMISED LAND is an accepted PD setting of Stennett’s hymn text. The recording tune need not be identical under the revised preference. The source score was inspected and identified as PD, primarily on a US basis. Confirm the edition and territorial basis for the intended public distribution; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B059",
+      "title": "On Jordan’s Stormy Banks I Stand",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+      "abc_file": "abc/remaining-openpsalm-on-jordans-stormy-banks-i-stand.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B059",
+        "Song title": "On Jordan’s Stormy Banks I Stand",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/O/On_Jordans_Stormy_Banks_I_Stand/On_Jordans_Stormy_Banks_I_Stand.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/On_Jordans_Stormy_Banks_I_Stand/",
+        "Editable source": "",
+        "Tune and work identity": "Samuel Stennett (1787) / PROMISED LAND, Miss M. Durham (1835), arr. R. M. McIntosh (1895)\nStandard PROMISED LAND setting; Emmanuel Quartet recording tune/arrangement not directly auditioned.",
+        "Public distribution rights": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/On_Jordans_Stormy_Banks_I_Stand/",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nPROMISED LAND selected for the Stennett hymn; recording melody may differ.\nSame hymn/text retained. Public-domain alternate tune is permitted. Do not copy protected recording arrangements or added sections. Confirm target territories and edition reuse terms.",
+        "Playlist positions": "69",
+        "Playlist artists": "The Emmanuel Quartet",
+        "Original track titles": "On Jordan’s Stormy Banks",
+        "Source review": "SATB-style grand-staff PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

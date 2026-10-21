@@ -1,0 +1,102 @@
+.pwa-prompt {
+  position: fixed;
+  z-index: 20;
+  right: 1rem;
+  bottom: 1rem;
+  width: min(24rem, calc(100vw - 2rem));
+  max-height: calc(100dvh - 2rem);
+  overflow-y: auto;
+  padding: 1rem;
+  color: #f7f4eb;
+  background: #18352d;
+  border: 1px solid #d5b85b;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.75rem 2rem rgb(0 0 0 / 0.25);
+}
+
+.pwa-prompt p {
+  margin: 0;
+}
+
+.pwa-prompt-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+
+.pwa-prompt button {
+  min-height: 2.5rem;
+  padding: 0.4rem 0.75rem;
+  font: inherit;
+  font-weight: 700;
+  color: #18352d;
+  background: #f7f4eb;
+  border: 0;
+  border-radius: 0.25rem;
+  cursor: pointer;
+}
+
+.pwa-prompt button:disabled {
+  cursor: wait;
+  opacity: 0.75;
+}
+
+.pwa-prompt .pwa-prompt-dismiss {
+  color: #f7f4eb;
+  background: transparent;
+  border: 1px solid currentColor;
+}
+
+@media (max-width: 480px) {
+  .pwa-prompt {
+    right: 0.5rem;
+    bottom: 0.5rem;
+    width: calc(100vw - 1rem);
+    max-height: calc(100dvh - 1rem);
+  }
+
+  .pwa-prompt-actions > button {
+    flex: 1 1 8rem;
+  }
+}
+
+.app-version-footer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0.25rem 0.75rem;
+  padding: 0.5rem 1rem 1rem;
+  color: #52635a;
+  background: #eee9dc;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.app-version-footer button {
+  min-height: 2.75rem;
+  padding: 0.4rem 0.65rem;
+  color: #18352d;
+  background: transparent;
+  border: 1px solid #64706b;
+  border-radius: 0.35rem;
+  font: inherit;
+  font-weight: 700;
+}
+
+.app-version-footer p {
+  flex-basis: 100%;
+  margin: 0.25rem 0 0;
+  line-height: 1.5;
+}
+
+.pwa-prompt .pwa-update-help {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
+
+@media print {
+  .app-version-footer, .pwa-prompt { display: none !important; }
+}

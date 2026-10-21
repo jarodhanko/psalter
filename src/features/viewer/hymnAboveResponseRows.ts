@@ -1,0 +1,74 @@
+import abcjs from 'abcjs';
+
+// Frozen canonical HymnsToGod edition: SHA-256
+// 2845504b4668477eef4539e991a8e12d6bc266299d6130cbbc1cd3f267b1d570.
+// Bind before any voice, stanza, transpose, or display transformation.
+const sourceWitness = "%abc-2.1\nX:1\nT:Hallelujah! Praise Jehovah!\nC:Psalm 148, Arr. | William J. Kirkpatrick, 1899\nS:HymnsToGod.org; original MUP and PDF retained\nM:4/4\nL:1/8\nQ:1/4=110\nN:Source MUP SHA-256 7e7282aaccbcfb457123f086537a839b53c7f47c8b1bcb75476e43695353070d\nN:Source describes this hymn as believed public domain in the United States only\nN:MUP source code donated to public domain; no global-territory clearance implied\nN:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction\nN:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map\n%%score { (11 12) | (21 22) }\n%%staffsep 90\n%%vocalspace 12\n%%pagewidth 1200\n%%barsperstaff 4\n%%measurenb 0\n%%flatbeams 1\nV:11 clef=treble\n%%vocal below\nV:12 clef=treble\n%%vocal below\nV:21 clef=bass\n%%vocal above\nV:22 clef=bass\n%%vocal above\nK:G\n% SOURCE title bold (19) \"\" \"Hallelujah! Praise Jehovah!\" \"\"\n% SOURCE title (2) \"\"\n% SOURCE title (11) \"\" \"\\f(TI)Let them praise the name of Jehovah; For his name alone is exalted;\" \"\"\n% SOURCE title (11) \"\" \"\\f(TI)His glory is above the earth and the heavens. - Ps. 148:13\" \"\"\n% SOURCE title (11) \"\"\n% SOURCE title (11) \"G - 4 - SOL\" \"\" \"\"\n% SOURCE title (13) \"Psalm 148, Arr.\" \"\" \"William J. Kirkpatrick, 1899\"\n% SOURCE title (11) \"\" \"Public Domain\" \"HymnsToGod.org\"\n% SOURCE // !Mup 7.1 arkkra.com\n% SOURCE // The hymn produced by this source code is believed to be in the public \n% SOURCE // domain in the United States of America.\n% SOURCE // This source code is donated to the public domain.\n% SOURCE // Hymn Source: \n% SOURCE //\tThe New Century Hymnal\n% SOURCE //\tFor Church Services, Prayer Meetings,\n% SOURCE //\tYoung People’s Meetings, Sunday Schools\n% SOURCE //\tEdited By Will L. Thompson\n% SOURCE //\tPublished By Will L. Thompson & Co. East Liverpool, Ohio\n% SOURCE //\tCopyright,1904\n% SOURCE //\tHymn No.: 38\n% SOURCE // Transcribed by: Ted Gatza, Jr. 12/03/2024\n% SOURCE // Revisions:\n% SOURCE // HymnsToGod.org\n% SOURCE //==== FOR 6X9 ======================\n% SOURCE //=========================\n% SOURCE //=========================\n% SOURCE //=========================\n% SOURCE //define macros\n% SOURCE    //Lyrics\n% SOURCE      //Lyrics Between Staffs\n% SOURCE      //Lyrics Below Bass Staff    \n% SOURCE      //Text - Above Staff\n% SOURCE      //Fermatas\n% SOURCE      //Note Accents\n% SOURCE      //Repeats\n% SOURCE //=========================\n% SOURCE //set midi\n% SOURCE //=========================\n% SOURCE // Verse\n% SOURCE //1\n% SOURCE //2\n% SOURCE //3\n% SOURCE //3\n% SOURCE //4\n% SOURCE //5\n% SOURCE //5\n% SOURCE //6\n% SOURCE //7\n% SOURCE //7\n% SOURCE //8\n% SOURCE //9\n% SOURCE //9\n% SOURCE //10\n% SOURCE //11\n% SOURCE //11\n% SOURCE //12\n% SOURCE //13\n% SOURCE //13\n% SOURCE //14\n% SOURCE //15\n% SOURCE //15\n% SOURCE //16\n% SOURCE //17\n% SOURCE //18\n% SOURCE //19\n% SOURCE //20\n% SOURCE //20\n% SOURCE //21\n% SOURCE //22\n% SOURCE //23\n% SOURCE //24\n% SOURCE //24\n% SOURCE //25\n% SOURCE //26\n% SOURCE //27\n% SOURCE //28\n% SOURCE //29\n% SOURCE //30\n% SOURCE //31\n% SOURCE //32\nV:11\nD3/2 D1/2 | [GB,]2 [DB,]2 [GD]2 [AD]2 | (([BD]3 [AC] [GB,]2)) [|] [BD]3/2 [cD]1/2 | [dD]2 [dG]2 [cF]2 [BG]2 |\nw: 1.~Hal- le- lu- jah, praise Je- ho- * vah, From the heav- ens praise His\nw: 2.~Let them prais- es give Je- ho- * vah, They were made at His com-\nw: 3.~All ye fruit- ful trees and ced- * ars, All ye hills and moun- tains\nV:12\nD3/2 D1/2 | x8 | x6 [|] x2 | x8 |\nV:21\n%%vocal above\nD,3/2 D,1/2 | [D,G,,]2 [G,G,,]2 [G,B,,]2 [F,D,]2 | G,4 G,2 [|] G,3/2 A,1/2 | [B,G,]2 [DB,]2 [DA,]2 [DG,]2 |\nw: * * * * * * * * * * * * * *\nw: * * * * * * * * * * * * * *\nV:22\nD,3/2 D,1/2 | x8 | G,4 G,2 [|] G,3/2 G,1/2 | x8 |\nV:11\n[AF]6 [|] D3/2 D1/2 | [GB,]2 [DB,]2 [GD]2 [AD]2 | [(B(D]3 [C)A)] [GB,]2 [|] [BG]3/2 [BG]1/2 | [AF]2 [dF]2 [dE]2 [^cG]2 |\nw: name; Praise Je- ho- vah in the high- * est, All His an- gels praise pro-\nw: mand, Them for- ev- er He es- tab- * lished; His de- cree shall ev- er\nw: high, Creep- ing things, and beast and cat- * tle, Birds that in the heav- ens\nV:12\nx6 [|] D3/2 D1/2 | x8 | x6 [|] x2 | x8 |\nV:21\n%%vocal above\n[DD,]6 [|] D,3/2 D,1/2 | [D,G,,]2 [G,G,,]2 [G,B,,]2 [F,D,]2 | G,4 G,2 [|] [DG,]3/2 [DG,]1/2 | [DA,]2 A,2 [A,A,,]2 [A,A,,]2 |\nw: * * * * * * * * * * * * * * *\nw: * * * * * * * * * * * * * * *\nV:22\nx6 [|] D,3/2 D,1/2 | x8 | G,4 G,2 [|] x2 | x2 A,2 x2 x2 |\nV:11\n[dF]6 [|] d3/2 d1/2 | c2 B2 A2 G2 | (F3 E) D2 [|] [dB]3/2 [dB]1/2 | [cA]2 [BG]2 [AF]2 [GE]2 |\nw: claim. All His hosts, to- geth- er praise _ Him, Sun, and moon and stars on\nw: stand. From the earth, O praise Je- ho- * vah, All ye floods, ye dra- gons\nw: fly. Kings of earth, and all ye peo- * ple, Prin- ces great, earth's judg- es\nV:12\nx6 [|] d3/2 d1/2 | c2 B2 A2 G2 | (F3 E) D2 [|] x2 | x8 |\nV:21\n%%vocal above\n[A,D,]6 [|] D3/2 D1/2 | C2 B,2 A,2 G,2 | (F,3 E,) D,2 [|] D,3/2 D,1/2 | [DD,]2 [DD,]2 [CD,]2 B,^C |\nw: * * * * * * * * * * * * * * * * *\nw: * * * * * * * * * * * * * * * * *\nV:22\nx6 [|] D3/2 D1/2 | C2 B,2 A,2 G,2 | (F,3 E,) D,2 [|] D,3/2 D,1/2 | x2 x2 x2 E,2 |\nV:11\n[AF]6 [|] D3/2 D1/2 | [GD]2 [BG]2 [AF]2 [cA]2 | (B2 d2) [cG]2 [|] [eG]3/2 [eG]1/2 | [dG]3 [GD] [GD]2 [FD]2 |\nw: high; Praise Him, O ye heav'ns of heav- * ens, And ye floods a- bove the\nw: all; Fire, and hail, and snow, and va- * pors, Storm- y winds that hear His\nw: all; Praise His name, young men and maid- * ens, A- ged men, and child- ren\nV:12\nx6 [|] D3/2 D1/2 | x8 | G4 x2 [|] x2 | x8 |\nV:21\n%%vocal above\n[DD,]6 [|] D,3/2 D,1/2 | [B,G,,]2 [DG,,]2 [DD,]2 [DD,]2 | D4 [CE,]2 [|] [CC,]3/2 [CC,]1/2 | [B,D,]3 [B,D,] [A,D,]2 [CD,]2 |\nw: * * * * * * * * * * * * * * *\nw: * * * * * * * * * * * * * * *\nV:22\nx6 [|] D,3/2 D,1/2 | x8 | (G,2 =F,2) x2 [|] x2 | x8 |\nV:11\n[GD]6 ||\nw: sky.\nw: call.\nw: small.\nV:12\nx6 ||\nV:21\n%%vocal above\n[B,G,,]6 ||\nw: *\nw: *\nV:22\nx6 ||\nV:11\n\"^Chorus\"[BG]3/2 [cA]1/2 | [d-B-]4 [dB]3/2 [cA]1/2 [BG]3/2 [cA]1/2 | [dB]4 [BG]2 [|] [dG]3/2 [dG]1/2 | [eG]2 [dG]2 [cF]2 [BG]2 |\nw: Let them prais- * es give Je- ho- vah, For His name a- lone is\nw: * * * * * * * * * * * * * * *\nw: * * * * * * * * * * * * * * *\nV:12\nx2 | x8 | x6 [|] x2 | x8 |\nV:21\n%%vocal above\nz2 | [DG,]2 [DG,]2 [DG,]3/2 [DG,]1/2 [DG,]3/2 [DG,]1/2 | [DG,]4 [DG,]2 [|] [B,G,]3/2 [B,G,]1/2 | C2 [DB,]2 [DA,]2 [DG,]2 |\nw: * * * * * * * * * * * * * *\nw: Let them prais- es * * * * * * * * * *\nV:22\nx2 | x8 | x6 [|] x2 | C2 x2 x2 x2 |\nV:11\n[AF]6 [|] D3/2 D1/2 | [G-B,-]4 [GB,]3/2 [DB,]1/2 [GB,]3/2 [AC]1/2 | [BD]4 [GB,]2 [|] G3/2 A1/2 | [B-G-]4 [BG]3/2 [AD]1/2 [BG]3/2 [cA]1/2 |\nw: high, And His glo- * ry is ex- al- ted, And His glo- * ry is ex-\nw: * * * * * * * * * * * * * * * * *\nw: * * * * * * * * * * * * * * * * *\nV:12\nx6 [|] D3/2 D1/2 | x8 | x6 [|] G3/2 G1/2 | x8 |\nV:21\n%%vocal above\n[DD,]6 [|] z2 | !pp![D,G,,]2 [D,G,,]2 [D,G,,]3/2 [D,G,,]1/2 [D,G,,]3/2 [D,G,,]1/2 | [G,G,,]4 [G,G,,]2 [|] z2 | !p![DG,]2 [DG,]2 [DG,]3/2 [DG,]1/2 [DG,]3/2 [DG,]1/2 |\nw: * * * * * * * * * * * * * * *\nw: * And His glo- ry * * * * And His glo- ry * *\nV:22\nx6 [|] x2 | x8 | x6 [|] x2 | x8 |\nV:11\n[dB]4 [BG]2 [|] !ff!G3/2 G1/2 | [e-G-]4 [eG]3/2 [dG]1/2 [cG]3/2 [eG]1/2 | [dG]4 [BG]2 [|] [dG]3/2 [dG]1/2 | [dF]3 [cF] [BF]2 [AF]2 |\nw: alt- ed, And His glo- * ry is ex- alt- ed Far a- above the earth and\nw: * * * * * * * * * * * * * * * * *\nw: * * * * * * * * * * * * * * * * *\nV:12\nx6 [|] G3/2 G1/2 | x8 | x6 [|] x2 | x8 |\nV:21\n%%vocal above\n[DG,]4 [DG,]2 [|] z2 | [CC,]2 [CC,]2 [CC,]3/2 [CD,]1/2 [CE,]3/2 [CC,]1/2 | [B,G,]4 [DG,]2 [|] [B,G,]3/2 [B,G,]1/2 | [A,D,]3 [A,D,] [DD,]2 [CD,]2 |\nw: * * * * * * * * * * * * * * * *\nw: * * And His glo- ry * * * * * * * * * *\nV:22\nx6 [|] x2 | x8 | x6 [|] x2 | x8 |\nV:11\n[GD]6 |]\nw: sky.\nw: *\nw: *\nV:12\nx6 |]\nV:21\n%%vocal above\n[B,G,,]6 |]\nw: *\nw: *\nV:22\nx6 |]\n";
+
+export function hasHymnAboveResponseSource(songId: string | undefined, abc: string): boolean {
+  return songId === 'hymn-final-htg-hallelujah-praise-jehovah' &&
+    abc.replace(/\r\n/g, '\n') === sourceWitness;
+}
+
+/** Bind the complete imported edition before part, lyric, or key transforms. */
+// true retains Love Lifted Me's one leading row; 2 identifies Onward's two.
+export function hasHymnBelowResponseSource(songId: string | undefined, abc: string): boolean | 2 {
+  const onward = songId === 'hymn-tt-supplemental-onward-christian-soldiers';
+  if (onward ? abc.length !== 4125 : songId !== 'hymn-final-htg-love-lifted-me' || abc.length !== 5710) return false;
+  // Onward SHA-256: 36a7dbe747a567acfba0ef7f5ae7f00da02b518daef5e745182e20d99c0cd993.
+  // Canonical SHA-256: 24267d538beba5b948c516e30c603b07eb8698c43430524cf0d8f7cdcbb2c54b.
+  let hash = 14695981039346656037n;
+  for (let index = 0; index < abc.length; index += 1) {
+    hash = BigInt.asUintN(64, (hash ^ BigInt(abc.charCodeAt(index))) * 1099511628211n);
+  }
+  return onward ? hash === 0x99007266e7d90bdfn && 2 : hash === 0x3d852c0bb67dfb60n;
+}
+
+type LyricRow = NonNullable<abcjs.AbcElem['lyric']>[number];
+type SavedRow = { rows: LyricRow[]; index: number; original: LyricRow };
+const savedRows = new WeakMap<abcjs.TuneObject, SavedRow[]>();
+
+/** Source-bound response engraving only. ABCJS 6.7 measures "\nAnd\n" as one row,
+ * but draw/text.js inserts a leading NBSP when painting it as two rows. Supply
+ * those nonpainting rows before height measurement (two for Onward's third-row
+ * refrain, whose second blank is also preserved by lyricRows); retain the source rows,
+ * voice placement, timing, words, and every unused trailing stanza slot.
+ * Restore the original parsed lyric object immediately after engraving.
+ */
+export function prepareHymnResponseRows(tune: abcjs.TuneObject, recognizedAbove: boolean, recognizedBelow: boolean | 2 = false): void {
+  if ((!recognizedAbove && !recognizedBelow) || abcjs.signature !== 'abcjs-basic v6.7.0' || tune.warnings?.length || savedRows.has(tune)) return;
+  const saved: SavedRow[] = [];
+  for (const line of tune.lines) for (const staff of line.staff ?? []) {
+    for (const voice of staff.voices ?? []) for (const raw of voice) {
+      if (raw.el_type !== 'note') continue;
+      const event = raw as abcjs.VoiceItemNote & Pick<abcjs.AbcElem, 'lyric' | 'positioning'>;
+      const rows = event.lyric;
+      const onward = recognizedBelow === 2;
+      const leading = onward ? 2 : 1;
+      // Onward's third-row refrain retains 3–5 slots after stanza filtering.
+      // Its absent positioning means below in ABCJS; retain all trailing blanks.
+      // Keep the earlier above/below witnesses restricted to their two-row shape.
+      if (!((recognizedAbove && event.positioning?.vocalPosition === 'above') ||
+          (recognizedBelow === true && event.positioning?.vocalPosition === 'below') ||
+          (onward && (!event.positioning || event.positioning.vocalPosition === 'below'))) ||
+          !rows || (onward ? rows.length < 3 || rows.length > 5 : rows.length !== 2) ||
+          typeof rows[leading].syllable !== 'string' || !rows[leading].syllable.trim() ||
+          rows.some((row, index) => index !== leading && (row.syllable !== '' || row.divider !== ' '))) continue;
+      for (let index = 0; index < leading; index += 1) {
+        saved.push({ rows, index, original: rows[index] });
+        rows[index] = { ...rows[index], syllable: '\u00a0' };
+      }
+    }
+  }
+  if (saved.length) savedRows.set(tune, saved);
+}
+
+/** The SVG/relative lyric strings are already engraved; restore the parsed
+ * source rows so cached playback, click tracking, and downstream readers retain
+ * the exact original lyric arrays rather than the temporary measuring space.
+ */
+export function restoreHymnResponseRows(tune: abcjs.TuneObject | undefined): void {
+  if (!tune) return;
+  for (const { rows, index, original } of savedRows.get(tune) ?? []) rows[index] = original;
+  savedRows.delete(tune);
+}

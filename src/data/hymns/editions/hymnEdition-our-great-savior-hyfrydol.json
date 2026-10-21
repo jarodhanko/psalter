@@ -1,0 +1,179 @@
+{
+  "sourceSha256": "11b2cb0e0171cc7d5340d252ceacc9071b37ae1e9628910c7ae16a3176e38d75",
+  "metadata": {
+    "id": "hymn-our-great-savior-hyfrydol",
+    "title": "Our Great Savior (Jesus! What a Friend for Sinners)",
+    "composer": "Words: J. Wilbur Chapman, 1910 · Tune: Rowland H. Prichard, HYFRYDOL, 1830 · Harmony: The English Hymnal, 1906, as encoded by Open Hymnal",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "S1V2",
+        "sourceName": "Alto",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "chordal",
+        "name": "Lower staff (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "sourceName": "Bass",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "our-great-savior-hyfrydol",
+    "sourceUrls": [
+      "https://hymnary.org/text/jesus_what_a_friend_for_sinners?extended=true",
+      "https://hymnary.org/hymn/AGS21910/133",
+      "https://github.com/mzealey/openhymnal/blob/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Alleluia_Sing_To_Jesus/Alleluia_Sing_To_Jesus-Hyfrydol.abc"
+    ],
+    "collection": "Open Hymnal HYFRYDOL / verified Chapman text, new underlay",
+    "credits": [
+      "Words: J. Wilbur Chapman, 1910",
+      "Tune: Rowland H. Prichard, HYFRYDOL, 1830",
+      "Harmony: The English Hymnal, 1906, as encoded by Open Hymnal",
+      "Music: Open Hymnal Alleluia Sing To Jesus / HYFRYDOL; text: Hymnary text authority jesus_what_a_friend_for_sinners",
+      "New text-underlay edition using unchanged public-domain HYFRYDOL music"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Hymnary identifies Chapman text 1910, Copyright Public Domain, supplies five stanzas and refrain, and documents original pairing with HYFRYDOL.",
+      "Source Open Hymnal ABC explicitly identifies English Hymnal1906 setting and public domain.",
+      "J.Wilbur Chapman1910; RowlandH.Prichard HYFRYDOL1830; EnglishHymnal1906/OpenHymnal harmony; new verified text underlay",
+      "US source basis; no blanket worldwide clearance",
+      "New text-underlay edition using unchanged public-domain HYFRYDOL music",
+      "Five public-domain text stanzas, each with the common refrain. All four source music voices and doublings retained.",
+      "US public-domain source basis; no blanket worldwide publication clearance."
+    ],
+    "territory": "US source basis; no blanket worldwide clearance",
+    "editionNotes": [
+      "Five original text stanzas and common refrain,300 syllables; newly aligned to exact same traditional tune",
+      "Four original source voices with chordal doublings retained",
+      "New underlay onto unchanged Open Hymnal HYFRYDOL setting; source melody slur/skip slots used for continuation. Not an original Harkness arrangement facsimile.",
+      "This is not a facsimile of the Harkness 1910 harmonization or the Spotify recording.",
+      "Five public-domain text stanzas, each with the common refrain. All four source music voices and doublings retained.",
+      "US public-domain source basis; no blanket worldwide publication clearance."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "our-great-savior-hyfrydol",
+      "title": "Our Great Savior (Jesus! What a Friend for Sinners)",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H091"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B083"
+        }
+      ],
+      "file": "abc/our-great-savior-hyfrydol.abc",
+      "sha256": "11b2cb0e0171cc7d5340d252ceacc9071b37ae1e9628910c7ae16a3176e38d75",
+      "canonical_reference_in_archive": "manual_abc/our-great-savior-hyfrydol.abc",
+      "source_url": [
+        "https://hymnary.org/text/jesus_what_a_friend_for_sinners?extended=true",
+        "https://hymnary.org/hymn/AGS21910/133",
+        "https://github.com/mzealey/openhymnal/blob/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Alleluia_Sing_To_Jesus/Alleluia_Sing_To_Jesus-Hyfrydol.abc"
+      ],
+      "collection": "Open Hymnal HYFRYDOL / verified Chapman text, new underlay",
+      "rights_and_attribution": {
+        "text": "Hymnary identifies Chapman text 1910, Copyright Public Domain, supplies five stanzas and refrain, and documents original pairing with HYFRYDOL.",
+        "music": "Source Open Hymnal ABC explicitly identifies English Hymnal1906 setting and public domain.",
+        "attribution": "J.Wilbur Chapman1910; RowlandH.Prichard HYFRYDOL1830; EnglishHymnal1906/OpenHymnal harmony; new verified text underlay",
+        "territory": "US source basis; no blanket worldwide clearance"
+      },
+      "scope_and_edition_notes": [
+        "Five original text stanzas and common refrain,300 syllables; newly aligned to exact same traditional tune",
+        "Four original source voices with chordal doublings retained",
+        "New underlay onto unchanged Open Hymnal HYFRYDOL setting; source melody slur/skip slots used for continuation. Not an original Harkness arrangement facsimile."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "manual_reports/independent-our-great-savior-review.md",
+        "audit": "manual_reports/independent-our-great-savior-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H091",
+      "title": "Our Great Savior (Jesus! What a Friend for Sinners)",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "our-great-savior-hyfrydol",
+      "abc_file": "abc/our-great-savior-hyfrydol.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H091",
+        "Hymn / version": "Our Great Savior (Jesus! What a Friend for Sinners)",
+        "Playlist track #": "115",
+        "Music / score source": "https://library.timelesstruths.org/library/music/O/Our_Great_Savior/Our_Great_Savior.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Our_Great_Savior/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "PDF SATB with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use listed PD edition",
+        "Rights source": "https://library.timelesstruths.org/music/Our_Great_Savior/",
+        "Text, tune and version notes": "J. Wilbur Chapman 1910; HYFRYDOL Rowland H. Prichard 1830, Robert Harkness arrangement 1910",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B083",
+      "title": "Our Great Savior (Jesus! What a Friend for Sinners)",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "our-great-savior-hyfrydol",
+      "abc_file": "abc/our-great-savior-hyfrydol.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B083",
+        "Song title": "Our Great Savior (Jesus! What a Friend for Sinners)",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/O/Our_Great_Savior/Our_Great_Savior.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Our_Great_Savior/",
+        "Editable source": "",
+        "Tune and work identity": "J. Wilbur Chapman 1910; HYFRYDOL Rowland H. Prichard 1830, Robert Harkness arrangement 1910",
+        "Public distribution rights": "US public domain underlying text and tune; use listed PD edition",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Our_Great_Savior/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "115",
+        "Playlist artists": "The Haven Quartet",
+        "Original track titles": "Our Great Savior",
+        "Source review": "PDF SATB with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

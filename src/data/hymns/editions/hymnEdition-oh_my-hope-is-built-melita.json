@@ -1,0 +1,162 @@
+{
+  "sourceSha256": "4f40852fc6dc17f9fe04ac330890b80bfd80449ffb63a1d76d1568ab00dd6c9d",
+  "metadata": {
+    "id": "hymn-oh_my-hope-is-built-melita",
+    "title": "The Solid Rock (My Hope Is Built on Nothing Less)",
+    "composer": "Words: Edward Mote, circa 1834. · Music: 'Melita' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.",
+    "tune": "Melita",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_my-hope-is-built-melita",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/My_Hope_Is_Built/My_Hope_Is_Built-Melita.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Edward Mote, circa 1834.",
+      "Music: 'Melita' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2011 Revision.",
+      "Music source: Hymns Ancient and Modern, 1869 hymn 222.  Tune from Hymns Ancient and Modern, 1861.",
+      "%OHARRANGER unknown assumed Dykes, John Bacchus (1823-1876)",
+      "words found in \"The service of song for Baptist churches\", 1876 Hymn 1070"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2011 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Melita' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nAlternate tune MELITA, not familiar SOLID ROCK; same Edward Mote hymn.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_my-hope-is-built-melita",
+      "title": "The Solid Rock (My Hope Is Built on Nothing Less)",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H083"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B078"
+        }
+      ],
+      "file": "abc/oh_my-hope-is-built-melita.abc",
+      "sha256": "4f40852fc6dc17f9fe04ac330890b80bfd80449ffb63a1d76d1568ab00dd6c9d",
+      "canonical_reference_in_archive": "abc/oh_my-hope-is-built-melita.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/My_Hope_Is_Built/My_Hope_Is_Built-Melita.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Edward Mote, circa 1834.",
+          "Music: 'Melita' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2011 Revision.",
+          "Music source: Hymns Ancient and Modern, 1869 hymn 222.  Tune from Hymns Ancient and Modern, 1861.",
+          "%OHARRANGER unknown assumed Dykes, John Bacchus (1823-1876)",
+          "words found in \"The service of song for Baptist churches\", 1876 Hymn 1070"
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Melita' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nAlternate tune MELITA, not familiar SOLID ROCK; same Edward Mote hymn.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'Melita' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nAlternate tune MELITA, not familiar SOLID ROCK; same Edward Mote hymn.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_my-hope-is-built-melita.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H083",
+      "title": "The Solid Rock (My Hope Is Built on Nothing Less)",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_my-hope-is-built-melita",
+      "abc_file": "abc/oh_my-hope-is-built-melita.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H083",
+        "Hymn / version": "The Solid Rock (My Hope Is Built on Nothing Less)",
+        "Playlist track #": "106",
+        "Music / score source": "https://library.timelesstruths.org/library/music/T/The_Solid_Rock/The_Solid_Rock.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/The_Solid_Rock/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB-style grand-staff PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights source": "https://library.timelesstruths.org/music/The_Solid_Rock/",
+        "Text, tune and version notes": "Edward Mote (c.1834) / SOLID ROCK, William B. Bradbury (1863)\nStandard hymn suitable to represent track; Phillips Craig & Dean arrangement and any added material not transcribed.\nPDF opened successfully",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B078",
+      "title": "The Solid Rock (My Hope Is Built on Nothing Less)",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_my-hope-is-built-melita",
+      "abc_file": "abc/oh_my-hope-is-built-melita.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B078",
+        "Song title": "The Solid Rock (My Hope Is Built on Nothing Less)",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/T/The_Solid_Rock/The_Solid_Rock.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/The_Solid_Rock/",
+        "Editable source": "",
+        "Tune and work identity": "Edward Mote (c.1834) / SOLID ROCK, William B. Bradbury (1863)\nStandard hymn suitable to represent track; Phillips Craig & Dean arrangement and any added material not transcribed.",
+        "Public distribution rights": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/The_Solid_Rock/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 300 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "106, 300",
+        "Playlist artists": "Phillips, Craig & Dean; Guy Penrod",
+        "Original track titles": "On Christ the Solid Rock; The Solid Rock",
+        "Source review": "SATB-style grand-staff PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

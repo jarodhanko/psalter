@@ -1,0 +1,175 @@
+{
+  "sourceSha256": "f9238fa3efb59de38a0a543c35d9d4b8f5d38e07a03af0d5d2179fb66de59384",
+  "metadata": {
+    "id": "hymn-tt-supplemental-bringing-in-the-sheaves",
+    "title": "Bringing in the Sheaves",
+    "composer": "George A. Minor, 1880.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-bringing-in-the-sheaves",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/B/Bringing_in_the_Sheaves/Bringing_in_the_Sheaves.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Knowles Shaw, 1874.  MUSIC: George A. Minor, 1880.  Public Domain.",
+      "Bringing in the Sheaves",
+      "He that goeth forth and weepeth, bearing precious seed, ",
+      "shall doubtless come again with rejoicing, bringing his sheaves with him. Psa. 126:6"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Knowles Shaw, 1874.  MUSIC: George A. Minor, 1880.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-bringing-in-the-sheaves",
+      "title": "Bringing in the Sheaves",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B306"
+        }
+      ],
+      "file": "abc/tt-supplemental-bringing-in-the-sheaves.abc",
+      "sha256": "f9238fa3efb59de38a0a543c35d9d4b8f5d38e07a03af0d5d2179fb66de59384",
+      "canonical_reference_in_archive": "musicxml_abc/Bringing_in_the_Sheaves.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/B/Bringing_in_the_Sheaves/Bringing_in_the_Sheaves.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "url": "https://library.timelesstruths.org/music/Bringing_in_the_Sheaves/",
+          "html_path": "sources/timelesstruths_supplemental/pages/Bringing_in_the_Sheaves.html",
+          "html_sha256": "2983402e54517888ae2bea0f96318e90c154798133875b8f905fa93b063bb3c8",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "| >>",
+                "Bringing in the Sheaves",
+                "Knowles Shaw, 1874"
+              ],
+              "following_context": [
+                "Subject:",
+                "Sowing/Reaping"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "Scripture: Psalm 126:6",
+                "Bringing in the Sheaves [.xml]",
+                "George A. Minor, 1880"
+              ],
+              "following_context": [
+                "Key: C",
+                "Meter: 12.11.12.11.10.11.10.11"
+              ]
+            }
+          ],
+          "rights_links": [
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            },
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+          ],
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B306",
+      "title": "Bringing in the Sheaves",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-bringing-in-the-sheaves",
+      "abc_file": "abc/tt-supplemental-bringing-in-the-sheaves.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B306",
+        "Song title": "Bringing in the Sheaves",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/B/Bringing_in_the_Sheaves/Bringing_in_the_Sheaves.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Bringing_in_the_Sheaves/",
+        "Editable source": "",
+        "Tune and work identity": "BRINGING IN THE SHEAVES — George A. Minor (1880); Knowles Shaw (1874)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Bringing_in_the_Sheaves/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\n Exact Spotify melody not auditioned; recording-specific arrangement is not cleared.",
+        "Playlist positions": "475",
+        "Playlist artists": "The Christian Choristers",
+        "Original track titles": "Bringing in the Sheaves",
+        "Source review": "PDF staff notation and full lyrics\nSource page opened and PDF score text extracted; visual/audio comparison not completed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "psalter170",
+  "sourceLedgerSHA256": "1625f06ab6c9a60170e5a4dc2ee78222f4b04a8d1eff707233f4239797ec4d00",
+  "initialSourceLedgerSHA256": "31afc47662be3d4874b1f9d53493881cacaa0cfd97f70dc3d832c251037ed5f5",
+  "fixtureSHA256": "422336de603080f0a8ffc4fed70d0216049017fe80ad93715aae0f183de6713a",
+  "previousAbc": "\nT:A Celebration of Divine Grace\nC:Tune: MENDEBRAS; German Melody\nR:Psalm 65; 7s and 6s\nM:4/4\nL:1/8\nK:F\nN:Printed page 144\n%%score (T1 T2)(B1 B2)\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\nV:T1\nF3/2 G/2 | A3 A AG F3/2 G/2 | F2 C4 || FA | c2 c2 cB AB | A4 z2 || F3/2 G/2 | A3 A AG F3/2 G/2 | F2 C4 || FA | c2 c2 cB AB | A4 z2 || c2 | d3 d d2 d2 | c2 A4 || c2 | c2 BA B2 c2 | A6 || c2 | d3 d f2 d2 | c2 A4 || c2 | c2 Ac cB AG | F4 z2 |]\nw:1.~Praise * waits for Thee * in * Zi-on; All * men shall wor- * ship * there And * pay their vows * be- * fore Thee, O * God Who hear- * est * prayer. Our sins rise up a-gainst us, Pre-vail-ing * day by day, But Thou wilt show us mer-cy And take their * guilt * a- * way.\nw:2.~How * blest the man * Thou * call-est And * bring-est near * to * Thee, That * in Thy courts * for- * ev-er His * dwell-ing-place * may * be; He shall with-in Thy tem-ple Be sat-is- * fied with grace, And filled with all the good-ness Of Thy most * ho- * ly * place.\nw:3.~O * God of our * sal- * va-tion, Since * Thou dost love * the * right, Thou * wilt an an- * swer * send us In * won-drous deeds * of * might. In all earth's hab-i-ta-tions, On all the * bound-less sea, Man finds no sure re-li-ance, No peace, a- * part * from * Thee.\nV:T2\nC2 | C3 C C2 C2 | C2 C4 || CF | A2 A2 AG FG | F4 x2 || C2 | C3 C C2 C2 | C2 C4 || CF | A2 A2 AG FG | F4 x2 || F2 | F3 F F2 F2 | F2 F4 || F2 | A2 GF G2 E2 | F6 || F2 | F3 F F2 F2 | F2 C4 || F2 | F2 FA AG FE | F4 x2 |]\nV:B1\nA,3/2 B,/2 | C3 C CB, A,B, | A,2 A,4 || A,C | F2 C2 C2 C2 | C4 z2 || A,3/2 B,/2 | C3 C CB, A,B, | A,2 A,4 || A,C | F2 C2 C2 C2 | C4 z2 || A,2 | B,3 B, B,2 B,2 | A,2 C4 || A,2 | C2 C2 C2 C2 | C6 || A,2 | B,3 B, D2 B,2 | A,2 C4 || A,2 | A,2 C2 C2 CB, | A,4 z2 |]\nV:B2\nF,2 | F,3 F, C,2 C,2 | F,2 F,4 || F,2 | F,2 F,2 C,2 C,2 | F,4 x2 || F,2 | F,3 F, C,2 C,2 | F,2 F,4 || F,2 | F,2 F,2 C,2 C,2 | F,4 x2 || F,2 | B,,3 B,, B,,C, D,E, | F,2 F,4 || F,2 | C,2 C,2 C,2 C,2 | F,6 || F,2 | B,,3 B,, B,,2 D,2 | F,2 F,4 || F,2 | C,2 C,2 C,2 C,2 | F,4 x2 |]\n",
+  "previousAbcSHA256": "b2a38e7e82b0dfc6986914787b3025189c8ca0b6133dd417abc5aa3597521e9f",
+  "correctedAbcSHA256": "cf23dbaf301f54c4159ffb99e530b3104aa6e2b183305ad7a62079af082884ff",
+  "corrections": [
+    {
+      "voice": "T1",
+      "q": 4,
+      "before": "F3/2 G/2",
+      "after": "FG",
+      "afterStart": 234,
+      "afterEnd": 236
+    },
+    {
+      "voice": "T1",
+      "q": 20,
+      "before": "F3/2 G/2",
+      "after": "FG",
+      "afterStart": 295,
+      "afterEnd": 297
+    },
+    {
+      "voice": "B1",
+      "q": 54,
+      "before": "C4",
+      "after": "F,4",
+      "afterStart": 1712,
+      "afterEnd": 1715
+    }
+  ],
+  "sourceIdentity": {
+    "title": "A Celebration of Divine Grace",
+    "psalm": 65,
+    "tune": "MENDEBRAS",
+    "composer": "German Melody",
+    "poeticMeter": "7s and 6s",
+    "meter": "4/4",
+    "key": "F major",
+    "keySignature": [
+      "Bb"
+    ],
+    "clefs": [
+      "treble",
+      "bass"
+    ],
+    "rfpaPdfPage": 253,
+    "originalLeaf": 152,
+    "originalPrintedPage": 144,
+    "arrangements": 1,
+    "rfpaContinuation": false,
+    "originalContinuation": false
+  },
+  "sources": {
+    "RFPA": {
+      "url": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+      "pdfPage": 253,
+      "editionEvidence": "rfpa-edition-page3.png",
+      "sha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504"
+    },
+    "original1912": {
+      "url": "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0152.jp2",
+      "leaf": 152,
+      "printedPage": 144,
+      "editionEvidence": "original1912-copyright.png"
+    }
+  },
+  "corroborationSHA256": "6b0a3b11d78f610f84d32d9a0097bb24009315d6e848453bf28ddf19f50de562",
+  "finalAcceptanceSHA256": "b1ce7738af4f67aafdf22f7083972bb6827c6c422bb1a30111ea1ae52c4e18a9",
+  "qualifications": [
+    "At q15,31,63 alto and bass retain invisible quarter rests, including when the corresponding upper partner is absent.",
+    "Stanza 3 RFPA ha-bi remains canonical hab-i at q35/q36. Original stanza3 is prose and cannot corroborate syllable division.",
+    "Lower-only pronunciation and exact punctuation are not source-certified.",
+    "Printed dwelling-place remains dwellingplace in the derived transcript.",
+    "Original opening six segments use repeat signs; RFPA and canonical expand the repeated music.",
+    "Initial rejected treble-anchor readings and opening rhythm uncertainty remain in immutable external evidence."
+  ]
+}

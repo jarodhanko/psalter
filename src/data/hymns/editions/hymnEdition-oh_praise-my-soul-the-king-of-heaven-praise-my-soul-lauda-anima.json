@@ -1,0 +1,158 @@
+{
+  "sourceSha256": "a3ca47e0b47b6020106aff0b38c586f84aab931b6be0fab6d0c52277be14ca35",
+  "metadata": {
+    "id": "hymn-oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+    "title": "Praise, My Soul, the King of Heaven",
+    "composer": "Words: Henry F. Lyte, 1834. · Music: 'Praise My Soul' or 'Lauda Anima' or 'St. Paul' John Goss, 1869.  Setting: \"The Choral Hymnal\", 1888.",
+    "tune": "Praise My Soul",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Praise_My_Soul_The_King_Of_Heaven/Praise_My_Soul_The_King_Of_Heaven-Praise_My_Soul-Lauda_Anima.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Henry F. Lyte, 1834.",
+      "Music: 'Praise My Soul' or 'Lauda Anima' or 'St. Paul' John Goss, 1869.  Setting: \"The Choral Hymnal\", 1888.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision.",
+      "Music Source: \"The Plymouth Hymnal\", 1894 Hymn 219.  \"The Choral Hymnal\", 1888 page 54."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Praise My Soul' or 'Lauda Anima' or 'St. Paul' John Goss, 1869.  Setting: \"The Choral Hymnal\", 1888.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+      "title": "Praise, My Soul, the King of Heaven",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H045"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B043"
+        }
+      ],
+      "file": "abc/oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima.abc",
+      "sha256": "a3ca47e0b47b6020106aff0b38c586f84aab931b6be0fab6d0c52277be14ca35",
+      "canonical_reference_in_archive": "abc/oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Praise_My_Soul_The_King_Of_Heaven/Praise_My_Soul_The_King_Of_Heaven-Praise_My_Soul-Lauda_Anima.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Henry F. Lyte, 1834.",
+          "Music: 'Praise My Soul' or 'Lauda Anima' or 'St. Paul' John Goss, 1869.  Setting: \"The Choral Hymnal\", 1888.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision.",
+          "Music Source: \"The Plymouth Hymnal\", 1894 Hymn 219.  \"The Choral Hymnal\", 1888 page 54."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Praise My Soul' or 'Lauda Anima' or 'St. Paul' John Goss, 1869.  Setting: \"The Choral Hymnal\", 1888.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'Praise My Soul' or 'Lauda Anima' or 'St. Paul' John Goss, 1869.  Setting: \"The Choral Hymnal\", 1888.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H045",
+      "title": "Praise, My Soul, the King of Heaven",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+      "abc_file": "abc/oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H045",
+        "Hymn / version": "Praise, My Soul, the King of Heaven",
+        "Playlist track #": "50",
+        "Music / score source": "https://hymnary.org/media/fetch/101139",
+        "Lyrics / companion source": "https://hymnary.org/media/fetch/101139",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "PDF four-part hymn with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "public domain US; free personal/congregational score use stated",
+        "Rights source": "https://hymnary.org/media/fetch/101139",
+        "Text, tune and version notes": "Henry Francis Lyte 1834; LAUDA ANIMA, John Goss 1868\nPDF explicitly says hymn is public domain and score may be freely used for personal/congregational worship; credit Hymnary.org on reproduction. Uses Goss LAUDA ANIMA rather than Timeless Truths TRIUMPH. Check recording tune if exact melodic match matters.\nSource page or linked PDF opened in web research",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "LAUDA ANIMA is an accepted PD setting of Lyte’s hymn text. It may differ from the recording; do not substitute unrelated words. The source score was inspected and identified as PD, primarily on a US basis. Confirm the edition and territorial basis for the intended public distribution; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B043",
+      "title": "Praise, My Soul, the King of Heaven",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+      "abc_file": "abc/oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B043",
+        "Song title": "Praise, My Soul, the King of Heaven",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/101139",
+        "Lyrics source": "https://hymnary.org/media/fetch/101139",
+        "Editable source": "",
+        "Tune and work identity": "Henry Francis Lyte 1834; LAUDA ANIMA, John Goss 1868\nPDF explicitly says hymn is public domain and score may be freely used for personal/congregational worship; credit Hymnary.org on reproduction. Uses Goss LAUDA ANIMA rather than Timeless Truths TRIUMPH. Check recording tune if exact melodic match matters.",
+        "Public distribution rights": "public domain US; free personal/congregational score use stated",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/101139",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nLAUDA ANIMA by John Goss selected. A different traditional tune is permitted for this same hymn text.\nSame hymn/text retained. Public-domain alternate tune is permitted. Do not copy protected recording arrangements or added sections. Confirm target territories and edition reuse terms.",
+        "Playlist positions": "47",
+        "Playlist artists": "Graham Kendrick; Martin Smith",
+        "Original track titles": "Praise My Soul The King of Heaven",
+        "Source review": "PDF four-part hymn with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

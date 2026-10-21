@@ -1,0 +1,133 @@
+{
+  "sourceSha256": "4d8cc05324b97f735203f3fea6e73fa6af9ea3dd2f16b02f23a6b6b1e1ab9020",
+  "metadata": {
+    "id": "hymn-oh_immortal-invisible-god-only-wise-st-denio",
+    "title": "Immortal, Invisible, God Only Wise",
+    "composer": "Words: Walter Chalmers Smith, 1876. · Music: 'St. Denio' or 'Joanna' or 'Palestrina' · traditional Welsh found in \"Caniadau y Cyssegr\" by John Roberts, 1839. · Setting: \"Caniadau y Cyssegr a'r Teulu\", 1878, alt.",
+    "tune": "St. Denio",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_immortal-invisible-god-only-wise-st-denio",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Immortal_Invisible_God_Only_Wise/Immortal_Invisible_God_Only_Wise-St_Denio.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Walter Chalmers Smith, 1876.",
+      "Music: 'St. Denio' or 'Joanna' or 'Palestrina'",
+      "traditional Welsh found in \"Caniadau y Cyssegr\" by John Roberts, 1839.",
+      "Setting: \"Caniadau y Cyssegr a'r Teulu\", 1878, alt.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision.",
+      "Music source: Episcopal Hymnal, 1940, Hymn 301.  Also in English Hymnal, 1906 Hymn 407 (page missing in my copy).",
+      "Setting from \"Caniadau y Cyssegr a'r Teulu\", 1878 hymn 442, alt."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'St. Denio' or 'Joanna' or 'Palestrina'\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_immortal-invisible-god-only-wise-st-denio",
+      "title": "Immortal, Invisible, God Only Wise",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B210"
+        }
+      ],
+      "file": "abc/oh_immortal-invisible-god-only-wise-st-denio.abc",
+      "sha256": "4d8cc05324b97f735203f3fea6e73fa6af9ea3dd2f16b02f23a6b6b1e1ab9020",
+      "canonical_reference_in_archive": "abc/oh_immortal-invisible-god-only-wise-st-denio.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Immortal_Invisible_God_Only_Wise/Immortal_Invisible_God_Only_Wise-St_Denio.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Walter Chalmers Smith, 1876.",
+          "Music: 'St. Denio' or 'Joanna' or 'Palestrina'",
+          "traditional Welsh found in \"Caniadau y Cyssegr\" by John Roberts, 1839.",
+          "Setting: \"Caniadau y Cyssegr a'r Teulu\", 1878, alt.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision.",
+          "Music source: Episcopal Hymnal, 1940, Hymn 301.  Also in English Hymnal, 1906 Hymn 407 (page missing in my copy).",
+          "Setting from \"Caniadau y Cyssegr a'r Teulu\", 1878 hymn 442, alt."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'St. Denio' or 'Joanna' or 'Palestrina'\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_immortal-invisible-god-only-wise-st-denio.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B210",
+      "title": "Immortal, Invisible, God Only Wise",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_immortal-invisible-god-only-wise-st-denio",
+      "abc_file": "abc/oh_immortal-invisible-god-only-wise-st-denio.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B210",
+        "Song title": "Immortal, Invisible, God Only Wise",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/I/Immortal_Invisible_God_Only_Wise/Immortal_Invisible_God_Only_Wise.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Immortal_Invisible_God_Only_Wise/",
+        "Editable source": "",
+        "Tune and work identity": "ST DENIO / Welsh melody 1839; Walter C. Smith text 1876",
+        "Public distribution rights": "Timeless Truths explicitly labels text and tune Public Domain. Use historical base score, not the commercial recording arrangement. Territory should be checked before worldwide distribution.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Immortal_Invisible_God_Only_Wise/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional song identity strongly suggested by title; actual Spotify audio has not been compared. Use the historical hymn edition; an alternate traditional tune is permitted.",
+        "Playlist positions": "303",
+        "Playlist artists": "Jaron & Katherine Kamin",
+        "Original track titles": "Immortal, Invisible, God Only Wise",
+        "Source review": "PDF SATB score with lyrics\nPDF opened and notation/lyrics text inspected"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

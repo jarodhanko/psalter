@@ -1,0 +1,145 @@
+{
+  "sourceSha256": "89fd7b13cb3866918b38b8bdfe5ad4a3e31af3263fd382f9e12bb5c4ac32738d",
+  "metadata": {
+    "id": "hymn-mobile-only-trust-him",
+    "title": "Only Trust Him",
+    "composer": "John Hart Stockton (1813-1877); source dates text and tune 1874",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "mobile-only-trust-him",
+    "sourceUrls": [
+      "https://mobilehymns.org/PDF/Only_Trust_Him.pdf",
+      "https://mobilehymns.org/english/Only_Trust_Him.html",
+      "https://mobilehymns.org/copyright.html"
+    ],
+    "collection": "Mobile Hymns",
+    "credits": [
+      "John Hart Stockton (1813-1877); source dates text and tune 1874",
+      "Mobile Hymns, public-domain-labelled full score, retrieved 2026-09-30",
+      "Source-assisted manual SATB transcription; no new harmony or tempo"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Public Domain printed in exact PDF and individual source page",
+      "https://mobilehymns.org/copyright.html",
+      "Source assertion and primarily US catalog basis; no worldwide or recording-specific arrangement clearance claimed.",
+      "Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Four printed stanzas and common refrain; exact source underlay",
+      "Four source voice streams",
+      "Four printed stanzas and refrain; four source voice streams retained. Source names MINERVA and 1874; original catalog uses STOCKTON/1869 and Sankey refrain 1873. Labels are not silently reconciled. A shared treble G4 head in source system1 is sounded by soprano and alto; both voices retained.",
+      "Four printed stanzas and refrain; four source voice streams retained.",
+      "Source names MINERVA and 1874; original catalog uses STOCKTON/1869 and Sankey refrain 1873. Labels are not silently reconciled.",
+      "A shared treble G4 head in source system1 is sounded by soprano and alto; both voices retained.",
+      "Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "mobile-only-trust-him",
+      "title": "Only Trust Him",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B286"
+        }
+      ],
+      "file": "abc/mobile-only-trust-him.abc",
+      "sha256": "89fd7b13cb3866918b38b8bdfe5ad4a3e31af3263fd382f9e12bb5c4ac32738d",
+      "canonical_reference_in_archive": "manual_abc/mobile-only-trust-him.abc",
+      "source_url": [
+        "https://mobilehymns.org/PDF/Only_Trust_Him.pdf",
+        "https://mobilehymns.org/english/Only_Trust_Him.html",
+        "https://mobilehymns.org/copyright.html"
+      ],
+      "collection": "Mobile Hymns",
+      "rights_and_attribution": {
+        "source_label": "Public Domain printed in exact PDF and individual source page",
+        "policy_url": "https://mobilehymns.org/copyright.html",
+        "attribution_retained": true,
+        "territorial_caveat": "Source assertion and primarily US catalog basis; no worldwide or recording-specific arrangement clearance claimed."
+      },
+      "scope_and_edition_notes": [
+        "Four printed stanzas and common refrain; exact source underlay",
+        "Four source voice streams",
+        "Four printed stanzas and refrain; four source voice streams retained. Source names MINERVA and 1874; original catalog uses STOCKTON/1869 and Sankey refrain 1873. Labels are not silently reconciled. A shared treble G4 head in source system1 is sounded by soprano and alto; both voices retained."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-mobile-two-review.md",
+        "audit": "reports/independent-mobile-two-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B286",
+      "title": "Only Trust Him",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "mobile-only-trust-him",
+      "abc_file": "abc/mobile-only-trust-him.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B286",
+        "Song title": "Only Trust Him",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/O/Only_Trust_Him/Only_Trust_Him.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Only_Trust_Him/",
+        "Editable source": "",
+        "Tune and work identity": "STOCKTON — John H. Stockton (1869); text before 1873, refrain Ira Sankey (1873)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Only_Trust_Him/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\n Exact Spotify melody not auditioned; recording-specific arrangement is not cleared.",
+        "Playlist positions": "433",
+        "Playlist artists": "Alan Jackson",
+        "Original track titles": "Only Trust Him",
+        "Source review": "PDF staff notation and full lyrics\nSource page opened and PDF score text extracted; visual/audio comparison not completed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

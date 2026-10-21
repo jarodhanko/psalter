@@ -1,0 +1,6 @@
+# Psalter 167 photo review — PARTIAL
+
+- **Authority and boundary:** local source evidence (not distributed), printed p. 142, no. 167, “Harvest Thanksgiving,” Psalm 65, L. M., STIASTNY, arranged from Johann Stiastny. The photo contains the full two-system score and only four printed underlaid stanzas, then no. 168 begins below. `[Stanzas 7–10]` belongs to no. 167. The `Used by arrangement with Oliver Ditson Co.` footer is beneath no. 168's music and belongs to that adjacent setting, not no. 167.
+- **Lyrics and preservation:** Converted the four printed underlaid stanzas to soprano `w:` rows, retaining the photo's sung hyphenation. Parent review removed two stray `W:` verses previously attached to no. 167: their flood/sea text belongs to Psalm 66 no. 173 and is absent from this photo. Existing SATB note strings were preserved; no forced staff breaks were added.
+- **Structural parser check:** ABCJS reports 32 soprano note events and four `w:` stanzas, each with 32/32 lyric entries and zero unassigned events. The final assigned syllables are `seed;`, `grain.`, `ness.`, and `yields.` for stanzas 1–4 respectively. No parser warnings were reported.
+- **Still open:** Full SATB event comparison and fresh rendered visual QA remain open; assignment counts do not prove note-by-note fit. Status is PARTIAL.

@@ -1,0 +1,3 @@
+# The canonical byte stream must be identical across Windows and Unix checkouts.
+/src/psalter-abc.ts text eol=lf
+/src/psalter-abc/*.ts text eol=lf

@@ -1,0 +1,130 @@
+{
+  "sourceSha256": "d1d2052c36accafa36091203951ddf71e167797aacfbc570c686ed475332368c",
+  "metadata": {
+    "id": "hymn-cantorion-here-is-love",
+    "title": "Here Is Love",
+    "composer": "William Rees; stanzas3–4 attributed to William Williams; tr.William Edwards,1900 · Robert Lowry,1876",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Upper parts",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "bass",
+        "sourceName": "Lower parts",
+        "kind": "chordal",
+        "name": "Lower staff (2)"
+      }
+    ],
+    "voiceStructure": "chordal-staves"
+  },
+  "provenance": {
+    "sourceId": "cantorion-here-is-love",
+    "sourceUrls": [
+      "https://cantorion.org/music/4843/Here-is-Love",
+      "https://cantorion.org/download/4843/5fffbc9f47ae770d914db275af53b861/Here%20is%20Love.pdf"
+    ],
+    "collection": "Cantorion / Devra Dato-on",
+    "credits": [
+      "William Rees; stanzas3–4 attributed to William Williams; tr.William Edwards,1900",
+      "Robert Lowry,1876",
+      "Cantorion / Devra Dato-on, score4843",
+      "Transcription of the specific public-domain-labelled source PDF"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Historical creator and translation credits printed; source asserts public domain.",
+      "Specific PDF bears Public Domain mark and declares work free of known copyright restrictions; Cantorion page explicitly labels this upload Public domain.",
+      "US candidate; no worldwide guarantee. Additional stanza attribution is source assertion, not independent primary-publication verification.",
+      "Devra Dato-on / Cantorion; William Rees, William Williams (attributed), William Edwards, Robert Lowry.",
+      "Transcription of the specific public-domain-labelled source PDF",
+      "Source asserts public domain; no worldwide rights or recording arrangement clearance claimed."
+    ],
+    "territory": "US candidate; no worldwide guarantee. Additional stanza attribution is source assertion, not independent primary-publication verification.",
+    "editionNotes": [
+      "No actual browser engraving or app import tested. Source stanza3–4 historical attribution and territory limits remain.",
+      "Two chordal staff parts preserve all237 printed heads, including highBb3 shared unisons and final bass doubling; no speculative separate SATB allocation.",
+      "Four printed stanzas only; historical stanza3–4 attribution remains the source assertion.",
+      "Two chordal staff voices preserve all237 printed pitch heads, shared unisons and final bass doubling. No independent SATB split invented.",
+      "Source bass unisons on Bb3 in first two systems are retained as printed.",
+      "Source asserts public domain; no worldwide rights or recording arrangement clearance claimed."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "cantorion-here-is-love",
+      "title": "Here Is Love",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B226"
+        }
+      ],
+      "file": "abc/cantorion-here-is-love.abc",
+      "sha256": "d1d2052c36accafa36091203951ddf71e167797aacfbc570c686ed475332368c",
+      "canonical_reference_in_archive": "manual_abc/cantorion-here-is-love.abc",
+      "source_url": [
+        "https://cantorion.org/music/4843/Here-is-Love",
+        "https://cantorion.org/download/4843/5fffbc9f47ae770d914db275af53b861/Here%20is%20Love.pdf"
+      ],
+      "collection": "Cantorion / Devra Dato-on",
+      "rights_and_attribution": {
+        "underlying_work": "Historical creator and translation credits printed; source asserts public domain.",
+        "edition": "Specific PDF bears Public Domain mark and declares work free of known copyright restrictions; Cantorion page explicitly labels this upload Public domain.",
+        "territory": "US candidate; no worldwide guarantee. Additional stanza attribution is source assertion, not independent primary-publication verification.",
+        "attribution": "Devra Dato-on / Cantorion; William Rees, William Williams (attributed), William Edwards, Robert Lowry."
+      },
+      "scope_and_edition_notes": [
+        "No actual browser engraving or app import tested. Source stanza3–4 historical attribution and territory limits remain.",
+        "Two chordal staff parts preserve all237 printed heads, including highBb3 shared unisons and final bass doubling; no speculative separate SATB allocation."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-here-is-love-review.md",
+        "audit": "reports/independent-here-is-love-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B226",
+      "title": "Here Is Love (traditional Rees/Lowry hymn)",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "cantorion-here-is-love",
+      "abc_file": "abc/cantorion-here-is-love.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B226",
+        "Song title": "Here Is Love (traditional Rees/Lowry hymn)",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/111969",
+        "Lyrics source": "https://hymnary.org/media/fetch/111969",
+        "Editable source": "",
+        "Tune and work identity": "Robert Lowry, 1876; William Rees text; exact recording versions unresolved",
+        "Public distribution rights": "Opened Cyber Hymnal score via Hymnary explicitly Public Domain. Nathan Drake/Reawaken modern arrangement all rights reserved, free only in worship; non-worship distribution requires permission (https://www.reawakenhymns.com/copyright).",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/111969",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nVerified public-domain four-verse Rees text and traditional Lowry tune retained. Matthew Smith’s artist page confirms the four-verse text. Tune differences are permitted. Do not reproduce the protected modern recording arrangements, including Nathan Drake’s Reawaken edition.",
+        "Playlist positions": "327, 350, 481",
+        "Playlist artists": "The Mandate; Matthew Smith; Nathan Drake",
+        "Original track titles": "Here Is Love; Here Is Love - Single Edit; Here Is Love Vast As the Ocean",
+        "Source review": "Full PD score inspected. Traditional hymn retained; modern recording arrangement rights are separate."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

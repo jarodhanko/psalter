@@ -1,0 +1,123 @@
+% Source edition: remaining-openpsalm-great-is-thy-faithfulness
+% Source URL: https://openpsalm.com/api/songs/19/export/musicxml
+% Source SHA256: 548c0887441e5a82a9b57c970d198c802edd25d6d5b1d79c70a30c1efee586e2
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_OpenPsalm_Great_Is_Thy_Faithfulness.repairs.json
+% Catalog membership: book1:H018, book2:B018
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Source arrangement license: Creative Commons Attribution 4.0 International
+% License URL: https://creativecommons.org/licenses/by/4.0/
+% Changes: MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.
+% Original creator (composer): William M. Runyan
+% Original creator (lyricist): Thomas O. Chisholm
+% Original creator (arranger): OpenPsalm
+% Original rights: Lyrics: Thomas O. Chisholm, 1923 (public domain)
+% Original rights: Music: 'Faithfulness (Runyan)' by William M. Runyan, 1923 (public domain)
+% Original rights: Obtained from the Open Hymnal Project, 2025 (public domain)
+% Original rights: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+% Original credit-words: Great Is Thy Faithfulness
+% Original credit-words: Lyrics: Thomas O. Chisholm, 1923 (public domain)
+% Original credit-words: Music: 'Faithfulness (Runyan)' by William M. Runyan, 1923 (public domain)
+% Original credit-words: Obtained from the Open Hymnal Project, 2025 (public domain)
+% Original credit-words: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+X:1
+T:Great Is Thy Faithfulness
+C:William M. Runyan
+Z:Thomas O. Chisholm
+Z:Lyrics: Thomas O. Chisholm, 1923 (public domain)
+Z:Music: 'Faithfulness (Runyan)' by William M. Runyan, 1923 (public domain)
+Z:Obtained from the Open Hymnal Project, 2025 (public domain)
+Z:Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=100
+M:3/4
+K:Eb
+V:1 treble nm="Soprano & Alto"
+V:2 treble 
+V:3 bass nm="Tenor & Bass"
+V:4 bass 
+V:1
+ G G G | G3/2 F/ F | A A A | A G2 | %4
+w: 1.~Great is Thy|faith- ful- ness,|O God my|Fa- ther;|
+w: 2.~Sum- mer and|win- ter and|spring- time and|har- vest,|
+w: 3.~Par- don for|sin and a|peace that en-|du- reth|
+ c d c | B3/2 A/ G | F G =A | B3 | %8
+w: There is no|sha- dow of|turn- ing with|Thee;|
+w: Sun, moon and|stars in their|cour- ses a-|bove|
+w: Thine own dear|pres- ence to|cheer and to|guide;|
+ B c d | e3/2 d/ c | B A G | G F2 | %12
+w: Thou chan- gest|not, Thy com-|pas- sions, they|fail not;|
+w: Join with all|na- ture in|man- i- fold|wit- ness|
+w: Strength for to-|day and bright|hope for to-|mor- row,|
+ c d e | e3/2 B/ B | G G F | E3 || %16
+w: As Thou hast|been, Thou for-|ev- er will|be.|
+w: To Thy great|faith- ful- ness,|mer- cy and|love.|
+w: Bless- ings all|mine, with ten|thou- sand be-|side!|
+"^Refrain." B B F | A3/4 G/4 G2 | c c G | B3/4 A/4 A2 | %20
+w: Great is Thy|faith- ful- ness!|Great is Thy|faith- ful- ness!|
+w: ||||
+w: ||||
+ B c d | e B c | d e c | B3 | %24
+w: Mor- ning by|mor- ning new|mer- cies I|see.|
+w: ||||
+w: ||||
+ B c d | e3/2 d/ c | B A G | G F z | %28
+w: All I have|nee- ded Thy|hand hath pro-|vi- ded;|
+w: ||||
+w: ||||
+ c d e | e3/2 B/ !fermata!B | G A D | E3 | %32
+w: Great is Thy|faith- ful- ness,|Lord, un- to|me!|
+w: ||||
+w: ||||
+V:2
+ E E E | E3/2 E/ E | D E F | E E2 | %4
+ E E E | E3/2 D/ E | F =E _E | D3 | %8
+ A A A | G3/2 B/ A | G F E | E E2 | %12
+ ^F =F F | G3/2 G/ G | E D B, | B,3 || %16
+ D D D | E3/4 E/4 E2 | =E _E E | F3/4 F/4 F2 | %20
+ A A A | G G _G | F G E | D3 | %24
+ A A A | G3/2 B/ A | G F E | E E z | %28
+ ^F =F F | G3/2 G/ G | E D B, | B,3 | %32
+V:3
+ B, B, =B, | C3/2 C/ C | B, C D | C B,2 | %4
+w: 1.~Great is Thy|faith- ful- ness,|O God my|Fa- ther;|
+w: 2.~Sum- mer and|win- ter and|spring- time and|har- vest,|
+w: 3.~Par- don for|sin and a|peace that en-|du- reth|
+ A, B, A, | B,3/2 B,/ B, | =A, B, C | B,3 | %8
+w: There is no|sha- dow of|turn- ing with|Thee;|
+w: Sun, moon and|stars in their|cour- ses a-|bove|
+w: Thine own dear|pres- ence to|cheer and to|guide;|
+ D D B, | B,3/2 C/ D | E C B, | C C2 | %12
+w: Thou chan- gest|not, Thy com-|pas- sions, they|fail not;|
+w: Join with all|na- ture in|man- i- fold|wit- ness|
+w: Strength for to-|day and bright|hope for to-|mor- row,|
+ E D C | B,3/2 E/ E | C B, A, | G,3 || %16
+w: As Thou hast|been, Thou for-|ev- er will|be.|
+w: To Thy great|faith- ful- ness,|mer- cy and|love.|
+w: Bless- ings all|mine, with ten|thou- sand be-|side!|
+ F, F, B, | C3/4 B,/4 B,2 | B, G, C | _D3/4 C/4 C2 | %20
+w: Great is Thy|faith- ful- ness!|Great is Thy|faith- ful- ness!|
+w: ||||
+w: ||||
+ D D B, | B, B, B, | B, B, =A, | B,3 | %24
+w: Mor- ning by|mor- ning new|mer- cies I|see.|
+w: ||||
+w: ||||
+ D D B, | B,3/2 C/ D | E C B, | C C z | %28
+w: All I have|nee- ded Thy|hand hath pro-|vi- ded;|
+w: ||||
+w: ||||
+ E D C | B,3/2 E/ E | B, F, A, | G,3 | %32
+w: Great is Thy|faith- ful- ness,|Lord, un- to|me!|
+w: ||||
+w: ||||
+V:4
+ E, E, E, | A,,3/2 A,,/ A,, | B,, B,, B,, | E, E,2 | %4
+ A, A, A, | G,,3/2 F,,/ E, | C,, C,, F,, | B,,3 | %8
+ B, B, B, | E,3/2 E,/ E, | E, F, G, | A, A,2 | %12
+ =A, _A, A, | B,3/2 B,/ B, | B,, B,, B,, | E,3 || %16
+ B,, B,, B,, | E,3/4 E,/4 E,2 | C,, C,, C,, | F,,3/4 F,,/4 F,,2 | %20
+ B,, B,, B,, | E, E, E, | F, F, F, | B,,3 | %24
+ B, B, B, | E,3/2 E,/ E, | E, F, G, | A, A, z | %28
+ =A, _A, A, | B,3/2 B,/ !fermata!B, | B,, B,, B,, | E,3 | %32

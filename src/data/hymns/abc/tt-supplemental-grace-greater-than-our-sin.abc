@@ -1,0 +1,81 @@
+% Source edition: tt-supplemental-grace-greater-than-our-sin
+% Source URL: https://library.timelesstruths.org/library/music/G/Grace_Greater_than_Our_Sin/Grace_Greater_than_Our_Sin.xml
+% Source SHA256: bf0359f5dc8c0526e50336ec8451d054ec49369258d44e22b41351185c10e47e
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Grace_Greater_than_Our_Sin.repairs.json
+% Catalog membership: book2:B165
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Julia H. Johnston, pub.1910.  MUSIC: “Moody”; Daniel B. Towner, 1910.  Public Domain
+% Original credit-words: Grace Greater than Our Sin
+% Original credit-words: WORDS: Julia H. Johnston, pub.1910.  MUSIC: “Moody”; Daniel B. Towner, 1910.  Public Domain
+% Original credit-words: Where sin abounded, grace did much more abound: That as sin hath reigned unto death, 
+% Original credit-words: even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord. Rom. 5:20-21
+X:1
+T:Grace Greater than Our Sin
+Z:WORDS: Julia H. Johnston, pub.1910.  MUSIC: “Moody”; Daniel B. Towner, 1910.  Public Domain
+%%score [ 1 ( 2 3 ) ]
+L:1/4
+M:3/4
+K:G
+V:1 treble nm="Treble" snm="Tr."
+V:2 bass nm="Bass" snm="B."
+V:3 bass 
+V:1
+ [DG]3/2 [DF]/ [DG] | [FA] [EG] [DA] | [DB]2 [DA] | [DG]3 | %4
+w: 1.~Mar- vel- ous|grace of our|lov- ing|Lord,|
+w: 2.~Sin and de-|spair, like the|sea waves|cold,|
+w: 3.~Dark is the|stain that we|can- not|hide;|
+w: 4.~Mar- ve- lous,|in- fi- nite,|match- less|grace,|
+ [DF] [DF] [DG] | [FA]2 [DF] | [DG] [DG] [DA] | [GB]3 |  %8
+w: Grace that ex-|ceeds our|sin and our|guilt!|
+w: Threat- en the|soul with|in- fi- nite|loss;|
+w: What can we|do to|wash it a-|way?|
+w: Free- ly be-|stowed on|all who be-|lieve!|
+ [DG]3/2 [DF]/ [DG] | [FA] [EG] [DA] | [DB]2 [FA] | [EG]3 | %12
+w: Yon- der on|Cal- va- ry’s|mount out-|poured,|
+w: Grace that is|great- er, yes,|grace un-|told,|
+w: Look! There is|flow- ing a|crim- son|tide,|
+w: You that are|long- ing to|see His|face,|
+ [EA]3/2 [EA]/ [^GB] | [Ac] [^GB] [EA] | [DG]2 [DF] | [DG]3 ||  %16
+w: There where the|blood of the|Lamb was|spilled.|
+w: Points to the|re- fuge, the|might- y|cross.|
+w: Bright- er than|snow you may|be to-|day.|
+w: Will you this|mo- ment His|grace re-|ceive?|
+"^Refrain" [GB]3 | [DG]3 | [Gc]3 | [GB]3 | %20
+w: Grace,|grace,|God’s|grace,|
+w: ||||
+w: ||||
+w: ||||
+ [FA]3/2 [FA]/ [FA] | [FA] [FB] [DA] | [DG]2 [Gc] | [GB]3 |  %24
+w: Grace that will|par- don and|cleanse with-|in;|
+w: ||||
+w: ||||
+w: ||||
+ [GB]3 | [DG]3 | [Gc]3 | [GB]3 | %28
+w: Grace,|grace,|God’s|grace,|
+w: ||||
+w: ||||
+w: ||||
+ [EA]3/2 [EA]/ [^GB] | [Ac] [^GB] [EA] | [DG]2 [DF] | [DG]3 |] %32
+w: Grace that is|great- er than|all our|sin!|
+w: ||||
+w: ||||
+w: ||||
+V:2
+ [G,B,]3/2 [G,A,]/ [G,B,] | [D,C] [E,B,] [F,A,] | G,2 [D,C] | [G,B,]3 | %4
+ [D,A,] [D,A,] [D,B,] | [D,C]2 [D,A,] | [G,B,] [G,B,] [G,C] | [G,D]3 |  %8
+ [G,B,]3/2 [G,A,]/ [G,B,] | [D,C] [E,B,] [F,A,] | G,2 [D,C] | [E,B,]3 | %12
+ [C,C]3/2 [C,C]/ [B,,D] | [A,,E] [B,,D] [C,C] | [D,B,]2 [D,A,] | [G,B,]3 ||  %16
+ [G,D]3 | [G,B,]3 | [G,E]3 | [G,D]3 | %20
+ [D,C]3/2 [D,C]/ [D,C] | [D,C] [D,D] [D,C] | [G,B,]2 [G,E] | [G,D]3 |  %24
+ [G,D]3 | [G,B,]3 | [G,E]3 | [G,D]3 | %28
+ [C,C]3/2 [C,C]/ [B,,D] | [A,,E] [B,,D] [C,C] | [D,B,]2 [D,A,] | [G,B,]3 |] %32
+V:3
+ x3 | x3 | G,2 x | x3 | %4
+ x3 | x3 | x3 | x3 |  %8
+ x3 | x3 | G,2 x | x3 | %12
+ x3 | x3 | x3 | x3 ||  %16
+ x3 | x3 | x3 | x3 | %20
+ x3 | x3 | x3 | x3 |  %24
+ x3 | x3 | x3 | x3 | %28
+ x3 | x3 | x3 | x3 |] %32

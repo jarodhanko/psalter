@@ -1,0 +1,51 @@
+X:1
+T:The Sands of Time Are Sinking
+T:RUTHERFORD
+C:Text: Anne Ross Cousin, 1857
+C:Tune: Edward F. Rimbault, 1867
+S:Hymn Singer / Kenan Schaefkofer; source commit 4767dd24403f2d9c77f5c825595b6a6c8c2a6404
+Z:ABC conversion from source LilyPond with literal text retained
+N:Book2 B313. Source transposed F to E; four SATB voices and chord symbols retained.
+N:Editorial correction: verse2 bea-ty -> beau-ty, corroborated by original Trinity Hymnal text, OPC hymn_id713. Source reference preserves typo; gifteth retained.
+N:Typesetter dedicates edition to public domain to extent possible; retain source credits. Territory assessment required.
+M:2/2
+L:1/8
+Q:1/4=96
+%%score (S A) (T B)
+V:S clef=treble name="Soprano"
+V:A clef=treble name="Alto"
+V:T clef=bass name="Tenor"
+V:B clef=bass name="Bass"
+K:E
+[V:S] "E"G2 | "E"G2 G2 "B"F3 F | "C#m"E4 E2 E2 | "A"A3 A "E"G2 "A"A2 | "B"F6 
+w: 1.~The sands of time are sink- ing, the dawn of hea- ven breaks.
+w: 2.~The King there in his beau- ty with- out a veil is seen;
+w: 3.~O Christ, he is the foun- tain, the deep sweet well of love!
+w: 4.~The bride eyes not her gar- ment, but her dear bride- groom's face;
+[V:S] "B7"F2 | "E"B3 B "B7/F#"A2 A2 | "E"G4 "F#m/A"F2 F2 | "E"E2 E2 "B"(D E) (F D) | "E"E6 
+w: the sum- mer morn I've sighed for, the fair sweet morn_ a-_ wakes;
+w: it were a well- spent jour- ney, though sev'n deaths lay_ be-_ tween:
+w: The streams on earth I've tast- ed, more deep I'll drink_ a-_ bove:
+w: I will not gaze at glo- ry, but on my King_ of_ grace;
+[V:S] "E"E2 | "A"E3 E "Am"E2 F2 | "E"G4 G2 E2 | "A"E3 E "Am"E2 F2 | "E"G6 
+w: dark, dark hath been the mid- night, but day- spring is at hand,
+w: the Lamb with his fair ar- my doth on Mount Zi- on stand.
+w: there to an o- cean full- ness his mer- cy doth ex- pand,
+w: not at the crown he gift- eth, but on his pier- cèd hand:
+[V:S] "E"(G A) | "E"B2 B2 "A"c3 B | "E"B4 "B7/F#"A4 | "E"G2 G2 "B7"F3 E | "E"E6 |]
+w: and_ glo- ry, glo- ry dwell- eth in Em- man- uel's land.
+w: and_ glo- ry, glo- ry dwell- eth in Em- man- uel's land.
+w: and_ glo- ry, glo- ry dwell- eth in Em- man- uel's land.
+w: the_ Lamb is all the glo- ry of Em- man- uel's land.
+[V:A] E2 | E2 E2 D3 D | C4 C2 E2 | E3 E E2 E2 | D6 
+[V:A] D2 | E3 E D2 D2 | E4 C2 C2 | B,2 B,2 B,2 B,2 | B,6 
+[V:A] B,2 | C3 C E2 D2 | E4 E2 B,2 | C3 C E2 E2 | E6 
+[V:A] (E D) | E2 E2 E3 E | E4 D4 | E2 E2 D3 B, | B,6 |]
+[V:T] B,2 | B,2 B,2 A,3 A, | G,4 G,2 G,2 | C3 C B,2 C2 | B,6 
+[V:T] B,2 | B,3 B, B,2 B,2 | B,4 A,2 A,2 | G,2 G,2 (F, G,) (A, F,) | G,6 
+[V:T] G,2 | C3 C =C2 C2 | B,4 B,2 G,2 | C3 C =C2 C2 | B,6 
+[V:T] B,2 | B,2 B,2 A,3 B, | B,4 B,4 | B,2 B,2 A,3 G, | G,6 |]
+[V:B] E,2 | E,2 E,2 B,,3 B,, | C,4 C,2 C,2 | A,,3 A,, E,2 A,,2 | B,,6 
+[V:B] A,2 | G,3 G, F,2 F,2 | E,4 A,,2 A,,2 | B,,2 B,,2 B,,2 B,,2 | E,6 
+[V:B] E,2 | A,3 A, A,2 A,2 | E,4 E,2 E,2 | A,3 A, A,2 A,2 | E,6 
+[V:B] (E, F,) | G,2 G,2 A,3 G, | G,4 F,4 | E,2 E,2 B,,3 E, | E,6 |]

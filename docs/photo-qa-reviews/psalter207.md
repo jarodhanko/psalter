@@ -1,0 +1,7 @@
+# Psalter 207 photo-to-ABC lyric review — partial
+
+- Source boundary: annotated local source evidence (not distributed) (photo 168, printed p.174) contains systems 1–2; local source evidence (not distributed) (photo 169, printed p.175) contains system 3 and the final double bar before no.208. The four photographed stanzas are complete across the two pages. The `[Selected Stanzas]` footer on p.175 belongs to no.208, not no.207.
+- Heading: *Zion's Glory and Safety*, Psalm 76 8s and 7s, TEMPLE BORO, F. Pinder. No footer or copyright/rights statement belongs to no.207.
+- Converted the four photographed stanzas from `W:` prose to soprano `w:` rows aligned to the three printed systems; each system carries all four stanza rows. Wording and syllabification were checked against both annotated photos, including `Ev'ry`, `heav'n`, `Wrapt`, and `E'en`. SATB was preserved.
+- ABCJS `parseOnly`: zero warnings. Each of the three soprano systems has 15 note events; each stanza assigns all 15 events in each system (15/15 × 4 stanzas × 3 systems = 180/180; zero gaps). Attached final words are: system 1 `fill;`, `fray;`, `still;`, `own;`; system 2 `hill;`, `they;`, `will;`, `alone;`; system 3 `still.`, `day?`, `fulfill.`, `throne.`
+- Status remains PARTIAL: lyric underlay parses with complete event counts and final words, but this pass does not claim a fresh rendered-underlay comparison. The prior source/photo report independently approved the SATB transcription and render.

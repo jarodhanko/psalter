@@ -1,0 +1,127 @@
+{
+  "sourceSha256": "5075906b98323ea4cb0a457b11b0d93661381b4fabf8676589e44859396c0862",
+  "metadata": {
+    "id": "hymn-oh_we-gather-together-kremser",
+    "title": "We Gather Together to Ask the Lord's Blessing",
+    "composer": "Words: Anonymous circa 1597. Translated Theodore Baker, 1894. · Music: 'Kremser' Traditional Dutch circa 1597.  Setting: Eduard Kremser, 1877.",
+    "tune": "Kremser",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_we-gather-together-kremser",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/We_Gather_Together/We_Gather_Together-Kremser.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Anonymous circa 1597. Translated Theodore Baker, 1894.",
+      "Music: 'Kremser' Traditional Dutch circa 1597.  Setting: Eduard Kremser, 1877.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision.",
+      "Music source: 'The Hymnal of the Protestant Episcopal Church', 1940 Hymn 315."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Kremser' Traditional Dutch circa 1597.  Setting: Eduard Kremser, 1877.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_we-gather-together-kremser",
+      "title": "We Gather Together to Ask the Lord's Blessing",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B305"
+        }
+      ],
+      "file": "abc/oh_we-gather-together-kremser.abc",
+      "sha256": "5075906b98323ea4cb0a457b11b0d93661381b4fabf8676589e44859396c0862",
+      "canonical_reference_in_archive": "abc/oh_we-gather-together-kremser.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/We_Gather_Together/We_Gather_Together-Kremser.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Anonymous circa 1597. Translated Theodore Baker, 1894.",
+          "Music: 'Kremser' Traditional Dutch circa 1597.  Setting: Eduard Kremser, 1877.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision.",
+          "Music source: 'The Hymnal of the Protestant Episcopal Church', 1940 Hymn 315."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Kremser' Traditional Dutch circa 1597.  Setting: Eduard Kremser, 1877.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_we-gather-together-kremser.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B305",
+      "title": "We Gather Together to Ask the Lord's Blessing",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_we-gather-together-kremser",
+      "abc_file": "abc/oh_we-gather-together-kremser.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B305",
+        "Song title": "We Gather Together to Ask the Lord's Blessing",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/147504",
+        "Lyrics source": "https://hymnary.org/media/fetch/147504",
+        "Editable source": "",
+        "Tune and work identity": "KREMSER / traditional Dutch, Eduard Kremser harmony; Theodore Baker translation",
+        "Public distribution rights": "Hymnary PDF explicitly says hymn public domain; asks source credit on reproduction. Historic composition and translation. Credit Hymnary.org.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/147504",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nStandard title strongly indicates KREMSER; recording audio not checked.",
+        "Playlist positions": "474",
+        "Playlist artists": "Melinda Hawley",
+        "Original track titles": "We Gather Together to Ask the Lord's Blessing",
+        "Source review": "PDF SATB score+lyrics\nPDF opened and score+lyrics text inspected"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

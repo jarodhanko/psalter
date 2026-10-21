@@ -1,0 +1,88 @@
+% Source edition: remaining-openpsalm-all-people
+% Source URL: https://openpsalm.com/api/songs/10/export/musicxml
+% Source SHA256: 193742cadbf0ea33a54770c41c236dddaa0184fcb7db02a33b13f4cd264e41a9
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_OpenPsalm_All_People.repairs.json
+% Catalog membership: book1:H093, book2:B086
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Source arrangement license: Creative Commons Attribution 4.0 International
+% License URL: https://creativecommons.org/licenses/by/4.0/
+% Changes: MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.
+% Original creator (composer): Louis Bourgeois
+% Original creator (lyricist): William Kethe
+% Original creator (arranger): OpenPsalm
+% Original rights: Lyrics: William Kethe, 1561 (public domain)
+% Original rights: Music: 'Old Hundredth' by Louis Bourgeois, 1551 (public domain)
+% Original rights: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+% Original credit-words: All People That on Earth Do Dwell
+% Original credit-words: Lyrics: William Kethe, 1561 (public domain)
+% Original credit-words: Music: 'Old Hundredth' by Louis Bourgeois, 1551 (public domain)
+% Original credit-words: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+X:1
+T:All People That on Earth Do Dwell
+C:Louis Bourgeois
+Z:William Kethe
+Z:Lyrics: William Kethe, 1561 (public domain)
+Z:Music: 'Old Hundredth' by Louis Bourgeois, 1551 (public domain)
+Z:Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=112
+M:4/4
+K:G
+V:1 treble nm="Soprano & Alto"
+V:2 treble 
+V:3 bass nm="Tenor & Bass"
+V:4 bass 
+V:1
+ x2 G2 | G F E D | G2 A2 | B2 B2 | %4
+w: 1.~All|peo- ple that on|earth do|dwell, Sing|
+w: 2.~The|Lord ye Know is|God in-|deed, With-|
+w: 3.~O|en- ter then His|gates with|praise, Ap-|
+w: 4.~For|why? The Lord our|God is|good, His|
+ B B A G | c2 B2 | A2 G2 | A B A G | %8
+w: to the Lord with|cheer- ful|voice; Him|serve with fear, His|
+w: out our aid He|did us|make: We|are His flock, He|
+w: proach with joy His|courts un-|to: Praise,|laud, and bless His|
+w: mer- cy is for-|ev- er|sure: His|truth at all times|
+ E2 F2 | G2 d2 | B G A c | B2 A2 | %12
+w: praise forth|tell: Come|ye be- fore Him|and re-|
+w: doth us|feed, And|for His sheep He|doth us|
+w: name al-|ways, For|it is seem- ly|so to|
+w: firm- ly|stood, And|shall from age to|age en-|
+ G2 x2 | %13
+w: joice.|
+w: take.|
+w: do.|
+w: dure.|
+V:2
+ x2 D2 | D D B, B, | B,2 D2 | D2 D2 | %4
+ D G F G | G2 G2 | F2 G2 | F G F D | %8
+ E2 D2 | D2 D2 | D G F E/F/ | G2 F2 | %12
+ G2 x2 | %13
+V:3
+ x2 B,2 | B, A, G, F, | E,2 F,2 | G,2 G,2 | %4
+w: 1.~All|peo- ple that on|earth do|dwell, Sing|
+w: 2.~The|Lord ye Know is|God in-|deed, With-|
+w: 3.~O|en- ter then His|gates with|praise, Ap-|
+w: 4.~For|why? The Lord our|God is|good, His|
+ B, D D B, | E2 D2 | D2 B,2 | D D D D | %8
+w: to the Lord with|cheer- ful|voice; Him|serve with fear, His|
+w: out our aid He|did us|make: We|are His flock, He|
+w: proach with joy His|courts un-|to: Praise,|laud, and bless His|
+w: mer- cy is for-|ev- er|sure: His|truth at all times|
+ (C B,) A,2 | B,2 B,2 | G, B, D E | D2 (D C) | %12
+w: praise_ forth|tell: Come|ye be- fore Him|and re- *|
+w: doth_ us|feed, And|for His sheep He|doth us_|
+w: name_ al-|ways, For|it is seem- ly|so to_|
+w: firm- * ly|stood, And|shall from age to|age en- *|
+ B,2 x2 | %13
+w: joice.|
+w: take.|
+w: do.|
+w: dure.|
+V:4
+ x2 G,2 | G, D, E, B,, | E,2 D,2 | G,,2 G,2 | %4
+ G, G, D, E, | C,2 G,,2 | D,2 E,2 | D, G, D, B,, | %8
+ C,2 D,2 | G,,2 G,2 | G, E, D, A,, | (B,, C,) D,2 | %12
+ G,,2 x2 | %13

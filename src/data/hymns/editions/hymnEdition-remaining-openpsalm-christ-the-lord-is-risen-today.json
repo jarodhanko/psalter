@@ -1,0 +1,245 @@
+{
+  "sourceSha256": "fc98ee48e4232ab39e0ef05703d4934d2c5ad403c9a7053c431fd61344c30376",
+  "metadata": {
+    "id": "hymn-remaining-openpsalm-christ-the-lord-is-risen-today",
+    "title": "Christ the Lord Is Risen Today",
+    "composer": "Lyra Davidica",
+    "tune": "Easter Hymn",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-openpsalm-christ-the-lord-is-risen-today",
+    "sourceUrls": [
+      "https://openpsalm.com/api/songs/140/export/musicxml"
+    ],
+    "collection": "OpenPsalm",
+    "credits": [
+      "Lyra Davidica",
+      "Charles Wesley",
+      "Words: Charles Wesley, 1739 (public domain)",
+      "Music: 'Easter Hymn' from Lyra Davidica, 1708 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "Creative Commons Attribution 4.0 International",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.",
+      "OpenPsalm",
+      "Christ the Lord Is Risen Today"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "rights": [
+      "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+      "Words: Charles Wesley, 1739 (public domain)\nMusic: 'Easter Hymn' from Lyra Davidica, 1708 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "Words: Charles Wesley, 1739 (public domain)",
+      "Music: 'Easter Hymn' from Lyra Davidica, 1708 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license"
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added."
+    ],
+    "record": {
+      "source_id": "remaining-openpsalm-christ-the-lord-is-risen-today",
+      "title": "Christ the Lord Is Risen Today",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B242"
+        }
+      ],
+      "file": "abc/remaining-openpsalm-christ-the-lord-is-risen-today.abc",
+      "sha256": "fc98ee48e4232ab39e0ef05703d4934d2c5ad403c9a7053c431fd61344c30376",
+      "canonical_reference_in_archive": "musicxml_abc/OpenPsalm_Christ_the_Lord_Is_Risen_Today.abc",
+      "source_url": "https://openpsalm.com/api/songs/140/export/musicxml",
+      "collection": "OpenPsalm",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+        "structured_source_evidence": {
+          "@context": "https://schema.org",
+          "@id": "https://openpsalm.com/songs/140#composition",
+          "@type": "MusicComposition",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Time signature",
+              "value": "4/4"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tempo",
+              "value": 104
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verses",
+              "value": 5
+            }
+          ],
+          "composer": [
+            {
+              "@type": "Organization",
+              "name": "Lyra Davidica"
+            }
+          ],
+          "contributor": [
+            {
+              "@type": "Organization",
+              "name": "OpenPsalm"
+            }
+          ],
+          "copyrightNotice": "Words: Charles Wesley, 1739 (public domain)\nMusic: 'Easter Hymn' from Lyra Davidica, 1708 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+          "description": "Christ the Lord Is Risen Today — 5 verses worship hymn. Browse, listen, and export as MusicXML, MIDI, LilyPond, or PDF.",
+          "encoding": [
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/140/export/musicxml",
+              "encodingFormat": "application/vnd.recordare.musicxml+xml",
+              "name": "Christ the Lord Is Risen Today — MusicXML"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/140/export/midi",
+              "encodingFormat": "audio/midi",
+              "name": "Christ the Lord Is Risen Today — MIDI"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/140/export/mp3",
+              "encodingFormat": "audio/mpeg",
+              "name": "Christ the Lord Is Risen Today — MP3"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/140/export/lilypond",
+              "encodingFormat": "text/x-lilypond",
+              "name": "Christ the Lord Is Risen Today — LilyPond"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/140/render/pdf",
+              "encodingFormat": "application/pdf",
+              "name": "Christ the Lord Is Risen Today — PDF"
+            }
+          ],
+          "inLanguage": "en",
+          "isAccessibleForFree": true,
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "lyricist": [
+            {
+              "@type": "Person",
+              "name": "Charles Wesley"
+            }
+          ],
+          "lyrics": {
+            "@type": "CreativeWork",
+            "inLanguage": "en",
+            "text": "Verse 1\nChrist the Lord is ris'n today,\nAlleluia!\nSons of men and angels say:\nAlleluia!\nRaise your joys and triumphs high.\nAlleluia!\nSing, ye heav'ns, and earth reply:\nAlleluia!\n\nVerse 2\nLove's redeeming work is done.\nAlleluia!\nFought the fight, the battle won.\nAlleluia!\nDeath in vain forbids Him rise.\nAlleluia!\nChrist has opened paradise.\nAlleluia!\n\nVerse 3\nLives again, our glorious King.\nAlleluia!\nWhere, O death, is now thy sting?\nAlleluia!\nDying once, He all doth save.\nAlleluia!\nWhere thy victory, O grave?\nAlleluia!\n\nVerse 4\nSoar we now where Christ has led.\nAlleluia!\nFoll'wing our exalted Head.\nAlleluia!\nMade like Him, like Him we rise.\nAlleluia!\nOurs the cross, the grave, the skies.\nAlleluia!\n\nVerse 5\nHail, the Lord of earth and heav'n!\nAlleluia!\nPraise to Thee by both be giv'n;\nAlleluia!\nThee we greet triumphant now;\nAlleluia!\nHail, the Resurrection Thou!\nAlleluia!"
+          },
+          "mainEntityOfPage": {
+            "@id": "https://openpsalm.com/songs/140",
+            "@type": "WebPage"
+          },
+          "musicCompositionForm": "Hymn",
+          "musicalKey": "C",
+          "name": "Christ the Lord Is Risen Today",
+          "publisher": {
+            "@type": "Organization",
+            "name": "OpenPsalm",
+            "url": "https://openpsalm.com"
+          },
+          "url": "https://openpsalm.com/songs/140"
+        }
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B242",
+      "title": "Christ the Lord Is Risen Today (Arr. J. Rutter for Choir, Organ & Brass Ensemble)",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-openpsalm-christ-the-lord-is-risen-today",
+      "abc_file": "abc/remaining-openpsalm-christ-the-lord-is-risen-today.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B242",
+        "Song title": "Christ the Lord Is Risen Today (Arr. J. Rutter for Choir, Organ & Brass Ensemble)",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/C/Christ_the_Lord_Is_Risen_Today/Christ_the_Lord_Is_Risen_Today.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Christ_the_Lord_Is_Risen_Today/",
+        "Editable source": "",
+        "Tune and work identity": "EASTER HYMN / LYRA DAVIDICA, 1708; Charles Wesley, 1739",
+        "Public distribution rights": "Timeless Truths labels both text and tune Public Domain; source is an alternate traditional setting, not the modern recording arrangement. US public-domain candidate; confirm distribution territory.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/library/music/C/Christ_the_Lord_Is_Risen_Today/Christ_the_Lord_Is_Risen_Today.pdf",
+        "Remaining checks / version notes": "Candidate: verified traditional same-tune alternative\nJohn Rutter official catalogue explicitly identifies LYRA DAVIDICA and the Sing, ye Heavens recording: https://johnrutter.com/music/printed-music/catalogue/christ-the-lord-is-risen-today . Traditional same-song/tune arrangement okay; Rutter fanfare, orchestration and harmonization excluded.",
+        "Playlist positions": "356",
+        "Playlist artists": "Anonymous; The Cambridge Singers; John Scott; City of London Sinfonia; John Rutter",
+        "Original track titles": "Christ the Lord Is Risen Today (Arr. J. Rutter for Choir, Organ & Brass Ensemble)",
+        "Source review": "PDF full vocal score with lyrics\nFull PD-labelled one-page score opened; official arranger page identifies same tune/recording"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

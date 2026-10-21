@@ -1,0 +1,167 @@
+{
+  "sourceSha256": "0317892ac451e07a529a25222d18f2e6792933f7868e2bf37c019bc437826391",
+  "metadata": {
+    "id": "hymn-remaining-tt-children-of-the-heavenly-father",
+    "title": "Children of the Heavenly Father",
+    "composer": "“Tryggare Kan Ingen Vara”; Swedish melody; arr. by Oskar Ahnfelt.",
+    "tune": "Tryggare Kan Ingen Vara",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-tt-children-of-the-heavenly-father",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/C/Children_of_the_Heavenly_Father/Children_of_the_Heavenly_Father.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Karolina W. Sandell-Berg, pub.1858; tr. by Ernst W. Olson, pub.1925.  MUSIC: “Tryggare Kan Ingen Vara”; Swedish melody; arr. by Oskar Ahnfelt.  Public Domain.",
+      "Children of the Heavenly Father",
+      "Behold, what manner of love the Father hath bestowed upon us, that we should be called the sons of God. 1 Jn. 3:1",
+      "Your heavenly Father knoweth that ye have need of all these things. Mt. 6:25-34 He is able to keep. 2 Tim. 1:12"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source-specific assertions recorded; candidate status preserved; no independent worldwide clearance.",
+      "WORDS: Karolina W. Sandell-Berg, pub.1858; tr. by Ernst W. Olson, pub.1925.  MUSIC: “Tryggare Kan Ingen Vara”; Swedish melody; arr. by Oskar Ahnfelt.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "remaining-tt-children-of-the-heavenly-father",
+      "title": "Children of the Heavenly Father",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H021"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B021"
+        }
+      ],
+      "file": "abc/remaining-tt-children-of-the-heavenly-father.abc",
+      "sha256": "0317892ac451e07a529a25222d18f2e6792933f7868e2bf37c019bc437826391",
+      "canonical_reference_in_archive": "musicxml_abc/Children_of_the_Heavenly_Father.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/C/Children_of_the_Heavenly_Father/Children_of_the_Heavenly_Father.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions recorded; candidate status preserved; no independent worldwide clearance."
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H021",
+      "title": "Children of the Heavenly Father",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "remaining-tt-children-of-the-heavenly-father",
+      "abc_file": "abc/remaining-tt-children-of-the-heavenly-father.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H021",
+        "Hymn / version": "Children of the Heavenly Father",
+        "Playlist track #": "21",
+        "Music / score source": "https://hymnary.org/media/fetch/142345",
+        "Lyrics / companion source": "https://hymnary.org/text/children_of_the_heavenly_father",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights source": "https://hymnary.org/media/fetch/142345",
+        "Text, tune and version notes": "Text: Carolina Sandell-Berg; English Ernst W. Olson\nTune: TRYGGARE KAN INGEN VARA; traditional Swedish melody",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B021",
+      "title": "Children of the Heavenly Father",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-tt-children-of-the-heavenly-father",
+      "abc_file": "abc/remaining-tt-children-of-the-heavenly-father.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B021",
+        "Song title": "Children of the Heavenly Father",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/142345",
+        "Lyrics source": "https://hymnary.org/text/children_of_the_heavenly_father",
+        "Editable source": "",
+        "Tune and work identity": "Text: Carolina Sandell-Berg; English Ernst W. Olson\nTune: TRYGGARE KAN INGEN VARA; traditional Swedish melody",
+        "Public distribution rights": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/142345",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "21",
+        "Playlist artists": "Haven; Jeff Gunn",
+        "Original track titles": "Children of the Heavenly Father",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

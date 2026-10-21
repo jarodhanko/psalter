@@ -1,0 +1,243 @@
+{
+  "method": "Manually read RFPA native pixels and original1912 independently engraved leaf0068 before canonical/parser inspection. Head ownership caveat retained for the final lower-staff triad.",
+  "parts": {
+    "T1": [
+      "F4/2 E4/1 G4/1 G4/2 G4/2 F4/1 A4/1 A4/2 A4/2 G4/1 A4/1 Bb4/2 D5/2 C5/4",
+      "A4/1 C5/1 C5/1 Bb4/1 Bb4/2 G4/1 Bb4/1 Bb4/1 A4/1 A4/2 F4/1 A4/1 A4/1 G4/1 Bb4/2 E4/1 G4/1 F4/4"
+    ],
+    "T2": [
+      "C4/2 C4/1 E4/1 E4/2 C4/2 C4/1 F4/1 F4/2 F4/2 G4/1 F4/1 F4/2 F4/2 F4/4",
+      "F4/2 D#4/1 E4/1 E4/2 C4/2 D4/1 C4/1 C4/2 C4/2 D4/1 D4/1 D4/2 C4/2 C4/4"
+    ],
+    "B1": [
+      "A3/2 G3/1 C4/1 C4/2 Bb3/2 A3/1 C4/1 C4/2 C4/2 C4/1 C4/1 Bb3/2 Bb3/2 A3/4",
+      "C4/2 C4/1 C4/1 C4/2 G3/2 F3/1 F3/1 F3/2 F3/2 F3/1 F3/1 G3/2 Bb3/2 A3/4"
+    ],
+    "B2": [
+      "F3/2 C3/1 C3/1 C3/2 E3/2 F3/1 F3/1 F3/2 F3/2 E3/1 Eb3/1 D3/2 Bb2/2 F3/4",
+      "F3/2 F#3/1 G3/1 G3/2 E3/2 F3/1 F3/1 F3/2 A2/2 Bb2/1 Bb2/1 G2/2 C3/2 F2/4"
+    ]
+  },
+  "slurs": {
+    "T1": [
+      [
+        24,
+        25
+      ],
+      [
+        30,
+        31
+      ],
+      [
+        36,
+        37
+      ],
+      [
+        42,
+        43
+      ]
+    ],
+    "T2": [],
+    "B1": [],
+    "B2": []
+  },
+  "barlines": {
+    "printed_quarters": [
+      2,
+      8,
+      12,
+      14,
+      20,
+      24,
+      26,
+      32,
+      36,
+      38,
+      44,
+      48
+    ],
+    "heavy_single_at_quarters": [
+      12,
+      36
+    ],
+    "terminal": 48
+  },
+  "syllablesByOnset": {
+    "1": {
+      "0": "Be",
+      "2": "Thou",
+      "3": "my",
+      "4": "judge,",
+      "6": "O",
+      "8": "right-",
+      "9": "eous",
+      "10": "Lord,",
+      "12": "Try",
+      "14": "Thou",
+      "15": "my",
+      "16": "in-",
+      "18": "most",
+      "20": "heart;",
+      "24": "I",
+      "26": "walk",
+      "27": "with",
+      "28": "stead-",
+      "30": "fast",
+      "32": "trust",
+      "33": "in",
+      "34": "Thee,",
+      "36": "Nor",
+      "38": "from",
+      "39": "Thy",
+      "40": "ways",
+      "42": "de-",
+      "44": "part."
+    },
+    "2": {
+      "0": "O",
+      "2": "search",
+      "3": "me,",
+      "4": "Lord,",
+      "6": "and",
+      "8": "prove",
+      "9": "me",
+      "10": "now;",
+      "12": "Thy",
+      "14": "mer-",
+      "15": "cy",
+      "16": "I",
+      "18": "a-",
+      "20": "dore;",
+      "24": "I",
+      "26": "choose",
+      "27": "Thy",
+      "28": "truth",
+      "30": "to",
+      "32": "be",
+      "33": "my",
+      "34": "guide,",
+      "36": "And",
+      "38": "sin-",
+      "39": "ful",
+      "40": "ways",
+      "42": "ab-",
+      "44": "hor."
+    },
+    "3": {
+      "0": "My",
+      "2": "hands",
+      "3": "I",
+      "4": "wash",
+      "6": "in",
+      "8": "in-",
+      "9": "no-",
+      "10": "cence",
+      "12": "And",
+      "14": "seek",
+      "15": "Thy",
+      "16": "al-",
+      "18": "tar,",
+      "20": "Lord,",
+      "24": "That",
+      "26": "there",
+      "27": "I",
+      "28": "may",
+      "30": "with",
+      "32": "thank-",
+      "33": "ful",
+      "34": "voice",
+      "36": "Thy",
+      "38": "won-",
+      "39": "drous",
+      "40": "works",
+      "42": "re-",
+      "44": "cord."
+    },
+    "4": {
+      "0": "The",
+      "2": "hab-",
+      "3": "i-",
+      "4": "ta-",
+      "6": "tion",
+      "8": "of",
+      "9": "Thy",
+      "10": "house",
+      "12": "Is",
+      "14": "ev-",
+      "15": "er",
+      "16": "my",
+      "18": "de-",
+      "20": "light;",
+      "24": "The",
+      "26": "place",
+      "27": "where",
+      "28": "dwells",
+      "30": "Thy",
+      "32": "glo-",
+      "33": "ry,",
+      "34": "Lord,",
+      "36": "Is",
+      "38": "love-",
+      "39": "ly",
+      "40": "in",
+      "42": "my",
+      "44": "sight."
+    },
+    "5": {
+      "0": "Let",
+      "2": "not",
+      "3": "the",
+      "4": "judg-",
+      "6": "ment",
+      "8": "fall",
+      "9": "on",
+      "10": "me",
+      "12": "For",
+      "14": "e-",
+      "15": "vil",
+      "16": "men",
+      "18": "de-",
+      "20": "creed,",
+      "24": "For",
+      "26": "cru-",
+      "27": "el",
+      "28": "men",
+      "30": "and",
+      "32": "vi-",
+      "33": "o-",
+      "34": "lent,",
+      "36": "In-",
+      "38": "spired",
+      "39": "by",
+      "40": "bribes",
+      "42": "and",
+      "44": "greed."
+    }
+  },
+  "proseLyrics": {
+    "6": "But I in my integrity / Will humbly walk with Thee; / O my Redeemer and my Lord, / Be merciful to me.",
+    "7": "Redeemed by Thee, I stand secure / In peace and happiness; / And in the Church, among Thy saints, / Jehovah I will bless."
+  },
+  "unassignedPrintedHeads": [
+    {
+      "q": 44,
+      "duration": 4,
+      "pitch": "F3",
+      "midi": 53,
+      "cue": false,
+      "witnesses": "RFPA and original1912",
+      "reason": "Final bass-staff triad F2,F3,A3 has three full-size whole heads without stems. Ledger gives outer notes to bass/tenor but leaves middle F3 ownership unassigned pending source-aware comparison. This is not evidence it is absent from the printed chord."
+    }
+  ],
+  "qualifications": [
+    "RFPA has hollow printing holes in second-system quarter heads; original1912 corroborates quarter durations.",
+    "Final bass-staff middle F3 whole note cannot be uniquely assigned to tenor versus bass from the stemless print alone."
+  ],
+  "source": {
+    "rfpa": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+    "rfpaPage": 111,
+    "rfpaSha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504",
+    "independent": "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0068.jp2",
+    "printedPage": 62
+  }
+}

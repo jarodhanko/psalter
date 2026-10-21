@@ -1,0 +1,7 @@
+# Psalter 436 photo QA
+
+Source: user-provided album, `album-08.jpg`, printed page 392. The photo is stored only under ignored local source evidence (not distributed).
+
+The page prints “Praise to His Glorious Name,” Psalm 134, and a tune reference to Psalter 268. Its visible score has one sharp (G major), common time, four SATB voices, two systems, and three underlaid stanzas. The four voice melodies and harmonies match the no. 268 tune as printed in this photo, including the bass-staff register; this was checked against local staff lines rather than inferred from the printed tune reference. The independently reviewed ABC uses `B,` for the opening tenor B3 and `G,` for bass G3. A preliminary scratch draft had written those one octave too high; it was corrected before source integration.
+
+ABCJS parses with no warnings. An app-settings Edge render at 900px showed two clean, readable systems, three aligned stanza rows, and SATB note placement consistent with the photo. Score/photo and viewer-render status: **PASS for this page**. This is a local transcription/engraving verdict, not a copyright-release decision or corpus-wide independent photo-parity approval. No. 436 is integrated in the generated viewer catalog and included in the production release; see release evidence (private operational record omitted). Its rights status remains governed by the [rights audit](../rights-audit.md).

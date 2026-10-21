@@ -1,0 +1,59 @@
+% Source edition: tt-supplemental-rejoice-the-lord-is-king
+% Source URL: https://library.timelesstruths.org/library/music/R/Rejoice_the_Lord_Is_King/Rejoice_the_Lord_Is_King.xml
+% Source SHA256: 615991e9fea9d5c01274a39d3d8b4cb16de49ed129406d2dda44563e8ddf876e
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Rejoice_the_Lord_Is_King.repairs.json
+% Catalog membership: book2:B191
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Charles Wesley, pub.1744.  MUSIC: “Darwall’s 148th”; John Darwall, pub.1770.  Public Domain.
+% Original credit-words: Rejoice, the Lord Is King
+% Original credit-words: WORDS: Charles Wesley, pub.1744.  MUSIC: “Darwall’s 148th”; John Darwall, pub.1770.  Public Domain.
+% Original credit-words: Rejoice in the Lord alway: and again I say, Rejoice. Php. 4:4
+% Original credit-words: The Lord hath prepared his throne in the heavens; and his kingdom ruleth over all. Ps. 103:19
+X:1
+T:Rejoice, the Lord Is King
+Z:WORDS: Charles Wesley, pub.1744.  MUSIC: “Darwall’s 148th”; John Darwall, pub.1770.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+M:4/4
+K:D
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ D | [DF] D [EA] F | [Fd]3 [Fc] | [GB] [DA] [CG] [DF] | %4
+w: 1.~Re-|joice, the Lord is|King! Your|Lord and King a-|
+w: 2.~Je-|sus, the Sav- ior,|reigns, The|God of truth and|
+w: 3.~His|king- dom can- not|fail, He|rules o’er earth and|
+w: 4.~Re-|joice in glo- rious|hope! Je-|sus the Judge shall|
+ [CE]3 [CE] | [DF] D [FB] [FA] |  [E^G] E [Ee] [Fd] | c2 B2 | %8
+w: dore; Re-|joice, give thanks, and|sing, And tri- umph|ev- er-|
+w: love; When|He had purged our|stains He took His|seat a-|
+w: Heav’n, The|keys of death and|hell Are to our|Je- sus|
+w: come, And|take His ser- vants|up To their e-|ter- nal|
+ [CA]3 [DA] | [DB]2 [Gc]2 | [Fd]3 |  D | %12
+w: more; Lift|up your|heart,|lift|
+w: bove; Lift|up your|heart,|lift|
+w: giv’n; Lift|up your|heart,|lift|
+w: home; We|soon shall|hear|th’~arch-|
+ [A,E] [DF] G [FA] | [DB] [Fc] [Fd] [Ee] | [Fd]2 c2 | [Fd]3 |] %16
+w: up your voice; Re-|joice, a- gain I|say, re-|joice!|
+w: up your voice; Re-|joice, a- gain I|say, re-|joice!|
+w: up your voice; Re-|joice, a- gain I|say, re-|joice!|
+w: an- gel’s voice; The|trump of God shall|sound, re-|joice!|
+V:2
+ D | x D x F | x4 | x4 | %4
+ x4 | x D x2 |  x E x2 | E3 D | %8
+ x4 | x4 | x3 |  D | %12
+ x2 G x | x4 | x2 (E G) | x3 |] %16
+V:3
+ [D,F,] | [D,A,] [D,F,] [C,A,] [D,A,] | [B,D]3 [A,D] | [G,D] [F,A,] [E,A,] [D,A,] | %4
+ [A,,A,]3 [A,,A,] | [D,A,] [D,F,] [B,,D] [B,,D] |  [E,B,] [D,^G,] [C,A,] [D,A,] | [E,A,]2 [E,^G,]2 | %8
+ [A,,A,]3 [D,F,] | G,2 [E,G,]2 | [D,A,]3 |  [D,F,] | %12
+ [C,A,] [D,A,] [B,D] [A,D] | [G,B,] [F,^A,] B, [G,B,] | A,2 [A,,A,]2 | [D,A,]3 |] %16
+V:4
+ x | x4 | x4 | x4 | %4
+ x4 | x4 |  x4 | x4 | %8
+ x4 | G,2 x2 | x3 |  x | %12
+ x4 | x2 B, x | A,2 x2 | x3 |] %16

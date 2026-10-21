@@ -1,0 +1,9 @@
+# Psalter 422 later-stanza underlay review — 2026-09-28
+
+The authoritative owner photos are local source evidence (not distributed) (printed p. 370) and local source evidence (not distributed) (printed p. 371). The clean same-edition scan local source evidence (not distributed) agrees with the six melodic phrases and their text placement. The p. 370 photo prints stanza 1 and stanza 2 under all six phrases. Page 371 prints stanzas 3–8 as text only; it repeats the final musical phrase at the top before the selected-stanzas note and does not supply separate later-stanza music.
+
+Added T1 `w:` rows for stanzas 3–8 under each of the six corresponding melodic phrases. The phrase event counts in the ABC are 13, 13, 14, 13, 14, and 14. These rows align the printed later-stanza words to that phrase sequence using the same syllabic treatment as the printed stanzas 1–2. At phrase endings with tied notes, the final syllable is sustained across the tie; no extra word is assigned to the continuation note. The plain-chorale performance note does not change the lyric mapping. No instrumental-only notes occur in the T1 melody phrases.
+
+The complete printed wording and punctuation in `W:` were left unchanged, as were notes, durations, voices, the printed half measure 24, and metadata. `heav'n`, `pow'r`, `tow'r`, `Isr'el's`, `cov'nant`, and conventional word divisions such as `sov-reign` express sung syllable counts in `w:` only; they do not alter the printed text. The existing `W:` lines remain the stanza text record.
+
+This was a visual and event-slot review against the owner photos and clean scan. The local underlay worksheet could not run because this checkout's system Node is v12.18.4 and cannot parse the script's optional-chaining syntax. No tests, generation, audio comparison, or automated event-parity check was run.

@@ -1,0 +1,1349 @@
+{
+  "abcjs_version": "abcjs-basic v6.7.1",
+  "checked_memberships": 149,
+  "all_master_collection_semantics_equal": true,
+  "all_warning_free": true,
+  "checks": [
+    {
+      "book": "book1",
+      "catalog_id": "H001",
+      "source_id": "oh_be-still-my-soul-finlandia",
+      "collection_tune": 1,
+      "master_sha256": "b519a1af7693af77cf5a1fef61f1f2661583335433ab9fcac5d7ea8ac0fc5dbe",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H002",
+      "source_id": "final-htg-day-by-day",
+      "collection_tune": 2,
+      "master_sha256": "de04abc72946e58db46637b41c0a35be5d6f197da5aac95ef417ef1222d1f637",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H005",
+      "source_id": "oh_he-leadeth-me-he-leadeth-me",
+      "collection_tune": 3,
+      "master_sha256": "84b75a9b1e6233a3665eeb7fa904c4ba646bff70d268d0447d1d337a0a26a725",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H007",
+      "source_id": "oh_what-a-friend-we-have-in-jesus-untitled",
+      "collection_tune": 4,
+      "master_sha256": "89bd2b5f48c17bb06fe7dc30fe1a77315083e8a7a3b74d2e8494c37306799214",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H008",
+      "source_id": "remaining-openpsalm-all-the-way-my-savior-leads-me",
+      "collection_tune": 5,
+      "master_sha256": "7e8ca442609173539b65cdf5d283e2aabdae7e0c62606b8903df7efde99cdd53",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H009",
+      "source_id": "oh_pass-me-not-o-gentle-savior-pass-me-not-o-gentle-savior",
+      "collection_tune": 6,
+      "master_sha256": "06b30284d0fdc9712c72d8df78675da2c67246a21e918811932985df8cd8ada3",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H010",
+      "source_id": "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+      "collection_tune": 7,
+      "master_sha256": "7261e3c2590276c6ae9f686c042dca5bf4b2119e5a3ee02e5f2bb62c6bf97c6e",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H011",
+      "source_id": "remaining-openpsalm-o-worship-the-king",
+      "collection_tune": 8,
+      "master_sha256": "68305357e4ecb0c0886b7650dadfca8301ce2e454126040741c3b2663933ec69",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H013",
+      "source_id": "remaining-tt-he-hideth-my-soul",
+      "collection_tune": 9,
+      "master_sha256": "542e943f9f6896e5b31264d4113b6ff44b275d2b859aa2afb1a42e199691df77",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H014",
+      "source_id": "tt-my-jesus-i-love-thee",
+      "collection_tune": 10,
+      "master_sha256": "87ee161444d21c2e11ce447f302f6da4cffb5e16f878459c0d2e084d738302f6",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H015",
+      "source_id": "oh_a-mighty-fortress-is-our-god-ein-feste-burg-isorhythmic",
+      "collection_tune": 11,
+      "master_sha256": "ad1c619c0ec3ee053d04096af771fb9847675809b7f72bec6ea286e4bf1da8ab",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H016",
+      "source_id": "hc-fathers-world",
+      "collection_tune": 12,
+      "master_sha256": "c79b3cb628060693f9eef7e08e2f3db2a7ed9629dfc1b3e976d0a1f5e958dad6",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H018",
+      "source_id": "remaining-openpsalm-great-is-thy-faithfulness",
+      "collection_tune": 13,
+      "master_sha256": "b71d3009d7e5d52eb60fc0de619f9a7eb9d38ffcf1c4a50735402281f4d23268",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H019",
+      "source_id": "oh_savior-like-a-shepherd-lead-us-bradbury",
+      "collection_tune": 14,
+      "master_sha256": "2736e7020e77b0baa6cc1b4adaa5399a302918d48cd67f2b2b0ce79491bf3032",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H021",
+      "source_id": "remaining-tt-children-of-the-heavenly-father",
+      "collection_tune": 15,
+      "master_sha256": "0317892ac451e07a529a25222d18f2e6792933f7868e2bf37c019bc437826391",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H022",
+      "source_id": "ly_softly-and-tenderly-thompson",
+      "collection_tune": 16,
+      "master_sha256": "3ec2f53d1b6aa331bf42c3d6520ef1357dfbba69a8db73e9654d8a625c33ae1a",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H023",
+      "source_id": "oh_the-old-rugged-cross-old-rugged-cross",
+      "collection_tune": 17,
+      "master_sha256": "53c1aaada598728a03c35d8e546ec66bf157aee92d80eeaabe0ebda115eeee06",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H024",
+      "source_id": "oh_now-thank-we-all-our-god-nun-danket",
+      "collection_tune": 18,
+      "master_sha256": "394a7250f4497b4ae7dd88d7a06975fe1a8267c1eae05d89ffe769e68ff748c7",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H025",
+      "source_id": "oh_our-god-our-help-in-ages-past-st-anne",
+      "collection_tune": 19,
+      "master_sha256": "066907fbdc4a85567f1a50895109ab2975a18db5ef59caedcfd546bdfc1cf7ce",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H026",
+      "source_id": "aperio-battle-hymn",
+      "collection_tune": 20,
+      "master_sha256": "6c111a2701c7f6cf9e454fb7027a601d236c8c6325c3ec8b7c062f3265fc06fe",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H027",
+      "source_id": "oh_holy-holy-holy-nicaea",
+      "collection_tune": 21,
+      "master_sha256": "2f24671f4266261c21d57bf523c37652ea4be81e7478f9d6e034c4c62c560a96",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H029",
+      "source_id": "oh_be-thou-my-vision-slane",
+      "collection_tune": 22,
+      "master_sha256": "63b5bd2fe83d369f76036e05318b7f562d974906276ae2d001cdeb72a45642ea",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H030",
+      "source_id": "tt-nearer-still-nearer",
+      "collection_tune": 23,
+      "master_sha256": "fdb5827c3d400c339d997b2eb73da1438a7c0f7c0e49ea776de7281b0eb57aee",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H031",
+      "source_id": "oh_all-creatures-of-our-god-and-king-lasst-uns-erfreuen",
+      "collection_tune": 24,
+      "master_sha256": "cc0979466a1d1e13b0ba1a845b65ee003c156ef53e21aac5c8685a801d96c4fc",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H035",
+      "source_id": "oh_praise-to-the-lord-the-almighty-lobe-den-herren",
+      "collection_tune": 25,
+      "master_sha256": "7ef76f6fffb63713f00a71731d7347cfa0efe4216ad58ef6c518fd27608c50be",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H036",
+      "source_id": "tt-supplemental-i-love-to-tell-the-story",
+      "collection_tune": 26,
+      "master_sha256": "c129dcc020ecdf2794fac76b8f627e4827074cd831af0134f5f63918beb8922f",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H037",
+      "source_id": "tt-supplemental-sweet-hour-of-prayer",
+      "collection_tune": 27,
+      "master_sha256": "dd230ad877ac514e545ac6d831ff44319e84a4c7614abdf1c78d84b9f0ce41fa",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H040",
+      "source_id": "tt-supplemental-o-perfect-love",
+      "collection_tune": 28,
+      "master_sha256": "a65b60ab9c1d3641153df30040855a399368c22a7449524af001750b74303d9d",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H042",
+      "source_id": "oh_o-for-a-thousand-tongues-azmon",
+      "collection_tune": 29,
+      "master_sha256": "cb757f08245199d19cdeed78bcdb9a6a5f06d5969df309391768804a839e1de5",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H045",
+      "source_id": "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+      "collection_tune": 30,
+      "master_sha256": "a3ca47e0b47b6020106aff0b38c586f84aab931b6be0fab6d0c52277be14ca35",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H047",
+      "source_id": "tt-supplemental-count-your-blessings",
+      "collection_tune": 31,
+      "master_sha256": "dbcf559f94cd4e2818f1cbe9490038d086de9ec84adb9a684445f14d4c4dc06a",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H054",
+      "source_id": "oh_crown-him-with-many-crowns-diademata",
+      "collection_tune": 32,
+      "master_sha256": "43e139fe74896759ffd1517b2df55a0880d2885b3d44dea473e2e4a50fd06a60",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H057",
+      "source_id": "oh_amazing-grace-new-britain",
+      "collection_tune": 33,
+      "master_sha256": "9d108a45a1c98d91bbc09e711861d54c16d0be30758615ae5fd463d06201d558",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H061",
+      "source_id": "aperio-wayfaring-stranger",
+      "collection_tune": 34,
+      "master_sha256": "1bc409cc72ca798d278afacdd907a45f0e5a22abcfe655ae805a05c20a5504f8",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H064",
+      "source_id": "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+      "collection_tune": 35,
+      "master_sha256": "7f8c893226207eac3cd983e0a776c083998f24760c86fd72a687a02abccb19b7",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H065",
+      "source_id": "tt-lead-kindly-light",
+      "collection_tune": 36,
+      "master_sha256": "c974c091b47f8cd9b2ecceceb4452773eaa46e37cf38bc32af8a2d5af22e3120",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H069",
+      "source_id": "oh_i-sing-the-mighty-power-of-god-ellacombe",
+      "collection_tune": 37,
+      "master_sha256": "6bc1a7d185d09769515f802f2e908db12d42e24da0db41286ffa67ae5bc91971",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H070",
+      "source_id": "oh_all-hail-the-power-of-jesus-name-coronation",
+      "collection_tune": 38,
+      "master_sha256": "3391922a5dd603e73180d780e3921bb08a92c4ecb85f5d8c07bd3958de537a86",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H072",
+      "source_id": "tt-my-faith-has-found-a-resting-place",
+      "collection_tune": 39,
+      "master_sha256": "d08fdcf2605d3358af371d8263b6489870f8285635d09711958c7b24675eca70",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H074",
+      "source_id": "tt-supplemental-in-the-cross-of-christ-i-glory",
+      "collection_tune": 40,
+      "master_sha256": "0abe44ac995e15ef682136ea400ae61c61ae88448c3d86dc258e3b7eafe315a7",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H077",
+      "source_id": "remaining-openpsalm-i-will-sing-the-wondrous-story",
+      "collection_tune": 41,
+      "master_sha256": "fc387f305d77dd757c1cd77164808dab232d0b676741e71fb72a0c9f806b7757",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H082",
+      "source_id": "tt-lead-me-to-calvary",
+      "collection_tune": 42,
+      "master_sha256": "9587ce06d7a7c8e948e721b041c75150fa800601446122662c2dcb40a4e45fe0",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H083",
+      "source_id": "oh_my-hope-is-built-melita",
+      "collection_tune": 43,
+      "master_sha256": "4f40852fc6dc17f9fe04ac330890b80bfd80449ffb63a1d76d1568ab00dd6c9d",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H087",
+      "source_id": "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+      "collection_tune": 44,
+      "master_sha256": "28899207b08ada12aa8a8736706ff16d1c5abc7179a0f7310fbffa3ce94c8ea9",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H089",
+      "source_id": "oh_praise-god-from-whom-all-blessings-flow-old-100th",
+      "collection_tune": 45,
+      "master_sha256": "238399b4bb615f0981b5910a5e1d27e26c0167807c19097f757c1cbc09ec00fa",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H091",
+      "source_id": "our-great-savior-hyfrydol",
+      "collection_tune": 46,
+      "master_sha256": "11b2cb0e0171cc7d5340d252ceacc9071b37ae1e9628910c7ae16a3176e38d75",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H093",
+      "source_id": "remaining-openpsalm-all-people",
+      "collection_tune": 47,
+      "master_sha256": "c99974266e730aa121babe2c1c7dc8ef37db7d5d41da4029020001de094928ee",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H095",
+      "source_id": "mobile-does-jesus-care",
+      "collection_tune": 48,
+      "master_sha256": "bbd5cc424df94491327e279b6dd353021faa6bd9e8b53eb928bff0ec85d7ed63",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H099",
+      "source_id": "mobile-o-love",
+      "collection_tune": 49,
+      "master_sha256": "7ad0152c427c56883f51071ff82a7db237d40faf23286508845a348862bd6abd",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H107",
+      "source_id": "oh_the-churchs-one-foundation-aurelia",
+      "collection_tune": 50,
+      "master_sha256": "a21a7088d628d5b53ece7fcc6ccad0da44984c15b1541917deb4e2bc37ce2c38",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H110",
+      "source_id": "final-htg-take-time-to-be-holy",
+      "collection_tune": 51,
+      "master_sha256": "4b3614db39be489c94ae40d658897c102890736b6e5ee793af140453a0225085",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book1",
+      "catalog_id": "H111",
+      "source_id": "remaining-tt-god-be-with-you-till-we-meet-again",
+      "collection_tune": 52,
+      "master_sha256": "d303c04438eff72af0e51b1e62a8b83f9a559c7fac246ae9d7f0a35e967df030",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B015",
+      "source_id": "oh_a-mighty-fortress-is-our-god-ein-feste-burg-isorhythmic",
+      "collection_tune": 1,
+      "master_sha256": "ad1c619c0ec3ee053d04096af771fb9847675809b7f72bec6ea286e4bf1da8ab",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B029",
+      "source_id": "oh_all-creatures-of-our-god-and-king-lasst-uns-erfreuen",
+      "collection_tune": 2,
+      "master_sha256": "cc0979466a1d1e13b0ba1a845b65ee003c156ef53e21aac5c8685a801d96c4fc",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B066",
+      "source_id": "oh_all-hail-the-power-of-jesus-name-coronation",
+      "collection_tune": 3,
+      "master_sha256": "3391922a5dd603e73180d780e3921bb08a92c4ecb85f5d8c07bd3958de537a86",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B086",
+      "source_id": "remaining-openpsalm-all-people",
+      "collection_tune": 4,
+      "master_sha256": "c99974266e730aa121babe2c1c7dc8ef37db7d5d41da4029020001de094928ee",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B006",
+      "source_id": "remaining-openpsalm-all-the-way-my-savior-leads-me",
+      "collection_tune": 5,
+      "master_sha256": "7e8ca442609173539b65cdf5d283e2aabdae7e0c62606b8903df7efde99cdd53",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B052",
+      "source_id": "oh_amazing-grace-new-britain",
+      "collection_tune": 6,
+      "master_sha256": "9d108a45a1c98d91bbc09e711861d54c16d0be30758615ae5fd463d06201d558",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B001",
+      "source_id": "oh_be-still-my-soul-finlandia",
+      "collection_tune": 7,
+      "master_sha256": "b519a1af7693af77cf5a1fef61f1f2661583335433ab9fcac5d7ea8ac0fc5dbe",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B027",
+      "source_id": "oh_be-thou-my-vision-slane",
+      "collection_tune": 8,
+      "master_sha256": "63b5bd2fe83d369f76036e05318b7f562d974906276ae2d001cdeb72a45642ea",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B127",
+      "source_id": "oh_blessed-assurance-blessed-assurance-assurance",
+      "collection_tune": 9,
+      "master_sha256": "cff4ed719969ce105b87cf164c3449dab45db25f6f5dd6a6ee7aa387ac1645b5",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B306",
+      "source_id": "tt-supplemental-bringing-in-the-sheaves",
+      "collection_tune": 10,
+      "master_sha256": "f9238fa3efb59de38a0a543c35d9d4b8f5d38e07a03af0d5d2179fb66de59384",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B021",
+      "source_id": "remaining-tt-children-of-the-heavenly-father",
+      "collection_tune": 11,
+      "master_sha256": "0317892ac451e07a529a25222d18f2e6792933f7868e2bf37c019bc437826391",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B242",
+      "source_id": "remaining-openpsalm-christ-the-lord-is-risen-today",
+      "collection_tune": 12,
+      "master_sha256": "fc98ee48e4232ab39e0ef05703d4934d2c5ad403c9a7053c431fd61344c30376",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B160",
+      "source_id": "oh_come-thou-long-expected-jesus-jefferson",
+      "collection_tune": 13,
+      "master_sha256": "f029b43b8216f390952410219ab31f3bdd6da4c6b625f8250c946c2740730178",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B162",
+      "source_id": "mobile-complete-in-thee",
+      "collection_tune": 14,
+      "master_sha256": "a1533292ac7cc29c4440aed0e49a08e1d7aa430a0b539cad311cf1179fdb5495",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B046",
+      "source_id": "tt-supplemental-count-your-blessings",
+      "collection_tune": 15,
+      "master_sha256": "dbcf559f94cd4e2818f1cbe9490038d086de9ec84adb9a684445f14d4c4dc06a",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B050",
+      "source_id": "oh_crown-him-with-many-crowns-diademata",
+      "collection_tune": 16,
+      "master_sha256": "43e139fe74896759ffd1517b2df55a0880d2885b3d44dea473e2e4a50fd06a60",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B084",
+      "source_id": "final-htg-day-by-day",
+      "collection_tune": 17,
+      "master_sha256": "de04abc72946e58db46637b41c0a35be5d6f197da5aac95ef417ef1222d1f637",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B088",
+      "source_id": "mobile-does-jesus-care",
+      "collection_tune": 18,
+      "master_sha256": "bbd5cc424df94491327e279b6dd353021faa6bd9e8b53eb928bff0ec85d7ed63",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B082",
+      "source_id": "oh_praise-god-from-whom-all-blessings-flow-old-100th",
+      "collection_tune": 19,
+      "master_sha256": "238399b4bb615f0981b5910a5e1d27e26c0167807c19097f757c1cbc09ec00fa",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B150",
+      "source_id": "oh_for-the-beauty-of-the-earth-dix",
+      "collection_tune": 20,
+      "master_sha256": "08de3b4eb8b828636d3e5ef6fe31f8641ff282116e596cfb6836e311cd8c04f5",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B124",
+      "source_id": "oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn",
+      "collection_tune": 21,
+      "master_sha256": "3bd406aed1b103a5ab82c99b6894abbffe5fc6e0a3b540c0c750082a354bba92",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B115",
+      "source_id": "remaining-tt-god-be-with-you-till-we-meet-again",
+      "collection_tune": 22,
+      "master_sha256": "d303c04438eff72af0e51b1e62a8b83f9a559c7fac246ae9d7f0a35e967df030",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B166",
+      "source_id": "final-htg-god-leads-us-along",
+      "collection_tune": 23,
+      "master_sha256": "6affc0fd9540d9b6e8fb617c32d845c5c3a2ad7b11f532a9b68206180dbceb7b",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B165",
+      "source_id": "tt-supplemental-grace-greater-than-our-sin",
+      "collection_tune": 24,
+      "master_sha256": "0705bbc81e16d4d9b3d2d8ccecdf81f83f570adc8708215818ed4693ff6959a1",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B018",
+      "source_id": "remaining-openpsalm-great-is-thy-faithfulness",
+      "collection_tune": 25,
+      "master_sha256": "b71d3009d7e5d52eb60fc0de619f9a7eb9d38ffcf1c4a50735402281f4d23268",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B284",
+      "source_id": "final-htg-hallelujah-praise-jehovah",
+      "collection_tune": 26,
+      "master_sha256": "2845504b4668477eef4539e991a8e12d6bc266299d6130cbbc1cd3f267b1d570",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B011",
+      "source_id": "remaining-tt-he-hideth-my-soul",
+      "collection_tune": 27,
+      "master_sha256": "542e943f9f6896e5b31264d4113b6ff44b275d2b859aa2afb1a42e199691df77",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B151",
+      "source_id": "oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love",
+      "collection_tune": 28,
+      "master_sha256": "60bf29024e183ef281282789ab1ab17064140fa27d2c392ec595a74082a1197a",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B004",
+      "source_id": "oh_he-leadeth-me-he-leadeth-me",
+      "collection_tune": 29,
+      "master_sha256": "84b75a9b1e6233a3665eeb7fa904c4ba646bff70d268d0447d1d337a0a26a725",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B226",
+      "source_id": "cantorion-here-is-love",
+      "collection_tune": 30,
+      "master_sha256": "d1d2052c36accafa36091203951ddf71e167797aacfbc570c686ed475332368c",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B119",
+      "source_id": "final-tt-higher-ground",
+      "collection_tune": 31,
+      "master_sha256": "5578087fdb3f768d3b45109e1e42c8da70b6421477ac7d50432edda03959288c",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B025",
+      "source_id": "oh_holy-holy-holy-nicaea",
+      "collection_tune": 32,
+      "master_sha256": "2f24671f4266261c21d57bf523c37652ea4be81e7478f9d6e034c4c62c560a96",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B211",
+      "source_id": "final-htg-how-gentle-god-s-commands",
+      "collection_tune": 33,
+      "master_sha256": "2c3f6cb95006a221911207a2dd65f5fb089318b8416aa02839e92d6b72aebe6f",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B035",
+      "source_id": "tt-supplemental-i-love-to-tell-the-story",
+      "collection_tune": 34,
+      "master_sha256": "c129dcc020ecdf2794fac76b8f627e4827074cd831af0134f5f63918beb8922f",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B163",
+      "source_id": "final-htg-i-must-tell-jesus",
+      "collection_tune": 35,
+      "master_sha256": "17c44cc4a790dd46712f0f70f81ef25dfefa75f2ade73b855c286dec1ddb7faa",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B065",
+      "source_id": "oh_i-sing-the-mighty-power-of-god-ellacombe",
+      "collection_tune": 36,
+      "master_sha256": "6bc1a7d185d09769515f802f2e908db12d42e24da0db41286ffa67ae5bc91971",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B268",
+      "source_id": "tt-supplemental-my-redeemer",
+      "collection_tune": 37,
+      "master_sha256": "119d5844d02ea44e268e7d610da0662b06a2b70604b5124dc403af61dc9f1922",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B072",
+      "source_id": "remaining-openpsalm-i-will-sing-the-wondrous-story",
+      "collection_tune": 38,
+      "master_sha256": "fc387f305d77dd757c1cd77164808dab232d0b676741e71fb72a0c9f806b7757",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B210",
+      "source_id": "oh_immortal-invisible-god-only-wise-st-denio",
+      "collection_tune": 39,
+      "master_sha256": "4d8cc05324b97f735203f3fea6e73fa6af9ea3dd2f16b02f23a6b6b1e1ab9020",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B069",
+      "source_id": "tt-supplemental-in-the-cross-of-christ-i-glory",
+      "collection_tune": 40,
+      "master_sha256": "0abe44ac995e15ef682136ea400ae61c61ae88448c3d86dc258e3b7eafe315a7",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B008",
+      "source_id": "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+      "collection_tune": 41,
+      "master_sha256": "7261e3c2590276c6ae9f686c042dca5bf4b2119e5a3ee02e5f2bb62c6bf97c6e",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B122",
+      "source_id": "tt-supplemental-jesus-lover-of-my-soul",
+      "collection_tune": 42,
+      "master_sha256": "dc3155484dcd4d2c660b6894fd373979a518f0081aa76a39b6492b21c74d9f65",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B261",
+      "source_id": "oh_jesus-shall-reign-duke-street",
+      "collection_tune": 43,
+      "master_sha256": "702d4316ada7b82164ae4a69204749b3f7115737d57a905fd4024a92a99be9f4",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B077",
+      "source_id": "tt-lead-me-to-calvary",
+      "collection_tune": 44,
+      "master_sha256": "9587ce06d7a7c8e948e721b041c75150fa800601446122662c2dcb40a4e45fe0",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B061",
+      "source_id": "tt-lead-kindly-light",
+      "collection_tune": 45,
+      "master_sha256": "c974c091b47f8cd9b2ecceceb4452773eaa46e37cf38bc32af8a2d5af22e3120",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B135",
+      "source_id": "tt-supplemental-like-a-river-glorious",
+      "collection_tune": 46,
+      "master_sha256": "8748b9577110c936168d589ff3308e197bffa8566bb102af859b9553cb3f3a84",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B304",
+      "source_id": "final-htg-love-lifted-me",
+      "collection_tune": 47,
+      "master_sha256": "24267d538beba5b948c516e30c603b07eb8698c43430524cf0d8f7cdcbb2c54b",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B094",
+      "source_id": "oh_christ-arose-christ-arose",
+      "collection_tune": 48,
+      "master_sha256": "2a94b4a81f5d4764ad6849f7a9b28126c5d258d3e8891f0911597810b359430c",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B024",
+      "source_id": "aperio-battle-hymn",
+      "collection_tune": 49,
+      "master_sha256": "6c111a2701c7f6cf9e454fb7027a601d236c8c6325c3ec8b7c062f3265fc06fe",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B159",
+      "source_id": "oh_more-love-to-thee-more-love-to-thee",
+      "collection_tune": 50,
+      "master_sha256": "f34e8f6b7904c51aa59031879f7f50b7b81fa8af1aa95a83f92ef7320c3a8942",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B067",
+      "source_id": "tt-my-faith-has-found-a-resting-place",
+      "collection_tune": 51,
+      "master_sha256": "d08fdcf2605d3358af371d8263b6489870f8285635d09711958c7b24675eca70",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B012",
+      "source_id": "tt-my-jesus-i-love-thee",
+      "collection_tune": 52,
+      "master_sha256": "87ee161444d21c2e11ce447f302f6da4cffb5e16f878459c0d2e084d738302f6",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B080",
+      "source_id": "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+      "collection_tune": 53,
+      "master_sha256": "28899207b08ada12aa8a8736706ff16d1c5abc7179a0f7310fbffa3ce94c8ea9",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B120",
+      "source_id": "final-htg-near-to-the-heart-of-god",
+      "collection_tune": 54,
+      "master_sha256": "ce031bce15626ff19767ac86d70ff05ff0ada24ae361739efc83277105a14d4a",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B028",
+      "source_id": "tt-nearer-still-nearer",
+      "collection_tune": 55,
+      "master_sha256": "fdb5827c3d400c339d997b2eb73da1438a7c0f7c0e49ea776de7281b0eb57aee",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B060",
+      "source_id": "oh_now-thank-we-all-our-god-nun-danket",
+      "collection_tune": 56,
+      "master_sha256": "394a7250f4497b4ae7dd88d7a06975fe1a8267c1eae05d89ffe769e68ff748c7",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B031",
+      "source_id": "oh_our-god-our-help-in-ages-past-st-anne",
+      "collection_tune": 57,
+      "master_sha256": "066907fbdc4a85567f1a50895109ab2975a18db5ef59caedcfd546bdfc1cf7ce",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B092",
+      "source_id": "mobile-o-love",
+      "collection_tune": 58,
+      "master_sha256": "7ad0152c427c56883f51071ff82a7db237d40faf23286508845a348862bd6abd",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B038",
+      "source_id": "tt-supplemental-o-perfect-love",
+      "collection_tune": 59,
+      "master_sha256": "a65b60ab9c1d3641153df30040855a399368c22a7449524af001750b74303d9d",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B009",
+      "source_id": "remaining-openpsalm-o-worship-the-king",
+      "collection_tune": 60,
+      "master_sha256": "68305357e4ecb0c0886b7650dadfca8301ce2e454126040741c3b2663933ec69",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B040",
+      "source_id": "oh_o-for-a-thousand-tongues-azmon",
+      "collection_tune": 61,
+      "master_sha256": "cb757f08245199d19cdeed78bcdb9a6a5f06d5969df309391768804a839e1de5",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B303",
+      "source_id": "final-htg-oh-how-i-love-jesus",
+      "collection_tune": 62,
+      "master_sha256": "63836ac04c09952a78f1b9c12ccc688f80196fafa1038593225292183eb9b2bb",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B059",
+      "source_id": "remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+      "collection_tune": 63,
+      "master_sha256": "7f8c893226207eac3cd983e0a776c083998f24760c86fd72a687a02abccb19b7",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B286",
+      "source_id": "mobile-only-trust-him",
+      "collection_tune": 64,
+      "master_sha256": "89fd7b13cb3866918b38b8bdfe5ad4a3e31af3263fd382f9e12bb5c4ac32738d",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B113",
+      "source_id": "tt-supplemental-onward-christian-soldiers",
+      "collection_tune": 65,
+      "master_sha256": "36a7dbe747a567acfba0ef7f5ae7f00da02b518daef5e745182e20d99c0cd993",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B083",
+      "source_id": "our-great-savior-hyfrydol",
+      "collection_tune": 66,
+      "master_sha256": "11b2cb0e0171cc7d5340d252ceacc9071b37ae1e9628910c7ae16a3176e38d75",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B007",
+      "source_id": "oh_pass-me-not-o-gentle-savior-pass-me-not-o-gentle-savior",
+      "collection_tune": 67,
+      "master_sha256": "06b30284d0fdc9712c72d8df78675da2c67246a21e918811932985df8cd8ada3",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B056",
+      "source_id": "aperio-wayfaring-stranger",
+      "collection_tune": 68,
+      "master_sha256": "1bc409cc72ca798d278afacdd907a45f0e5a22abcfe655ae805a05c20a5504f8",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B130",
+      "source_id": "remaining-openpsalm-praise-him-praise-him",
+      "collection_tune": 69,
+      "master_sha256": "eddbc510ce7f3ac5f5ec8f49528c2cd23e56811064bed28b34aad70ae16d3201",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B034",
+      "source_id": "oh_praise-to-the-lord-the-almighty-lobe-den-herren",
+      "collection_tune": 70,
+      "master_sha256": "7ef76f6fffb63713f00a71731d7347cfa0efe4216ad58ef6c518fd27608c50be",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B043",
+      "source_id": "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+      "collection_tune": 71,
+      "master_sha256": "a3ca47e0b47b6020106aff0b38c586f84aab931b6be0fab6d0c52277be14ca35",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B191",
+      "source_id": "tt-supplemental-rejoice-the-lord-is-king",
+      "collection_tune": 72,
+      "master_sha256": "0a93eeb6c3d3a5100e77b11c2b9cd6bef14ea36ac92223f6f9d851cebc57d1e6",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B019",
+      "source_id": "oh_savior-like-a-shepherd-lead-us-bradbury",
+      "collection_tune": 73,
+      "master_sha256": "2736e7020e77b0baa6cc1b4adaa5399a302918d48cd67f2b2b0ce79491bf3032",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B022",
+      "source_id": "ly_softly-and-tenderly-thompson",
+      "collection_tune": 74,
+      "master_sha256": "3ec2f53d1b6aa331bf42c3d6520ef1357dfbba69a8db73e9654d8a625c33ae1a",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B209",
+      "source_id": "remaining-openpsalm-sound-the-battle-cry",
+      "collection_tune": 75,
+      "master_sha256": "81df7676a0eaf1a92b9593daeed12833427205f1676828a4c8c74ba5e8b948f0",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B172",
+      "source_id": "mobile-spirit-of-god",
+      "collection_tune": 76,
+      "master_sha256": "d56c3a3ffbf7a09fd10d0c8db01918ea98d807f5760e2e39fd5a000c5c95014f",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B036",
+      "source_id": "tt-supplemental-sweet-hour-of-prayer",
+      "collection_tune": 77,
+      "master_sha256": "dd230ad877ac514e545ac6d831ff44319e84a4c7614abdf1c78d84b9f0ce41fa",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B137",
+      "source_id": "oh_take-my-life-and-let-it-be-mozart",
+      "collection_tune": 78,
+      "master_sha256": "51fa4b304529ed8cf538c8adbaf3c74d95ff08d9a75becfc32046fa2ce68e253",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B173",
+      "source_id": "final-htg-take-time-to-be-holy",
+      "collection_tune": 79,
+      "master_sha256": "4b3614db39be489c94ae40d658897c102890736b6e5ee793af140453a0225085",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B200",
+      "source_id": "remaining-openpsalm-tell-me-the-story-of-jesus",
+      "collection_tune": 80,
+      "master_sha256": "723ce7f57dde2271ca78f635eda5dc53df22d3699c93b4b5ee0d56a4b2e89ff3",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B102",
+      "source_id": "oh_the-churchs-one-foundation-aurelia",
+      "collection_tune": 81,
+      "master_sha256": "a21a7088d628d5b53ece7fcc6ccad0da44984c15b1541917deb4e2bc37ce2c38",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B236",
+      "source_id": "tt-supplemental-the-king-of-love-my-shepherd-is",
+      "collection_tune": 82,
+      "master_sha256": "cd6ba23c9c23cbf080c7e6ad3d02e7266bddf8a6f80b673e42896da08663a6fe",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B023",
+      "source_id": "oh_the-old-rugged-cross-old-rugged-cross",
+      "collection_tune": 83,
+      "master_sha256": "53c1aaada598728a03c35d8e546ec66bf157aee92d80eeaabe0ebda115eeee06",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B313",
+      "source_id": "ly_sands-of-time-rutherford",
+      "collection_tune": 84,
+      "master_sha256": "6d61697fefa5f51ca3b728179798713324d98f5d0bc91f47fc0f0c536846357b",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B078",
+      "source_id": "oh_my-hope-is-built-melita",
+      "collection_tune": 85,
+      "master_sha256": "4f40852fc6dc17f9fe04ac330890b80bfd80449ffb63a1d76d1568ab00dd6c9d",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B016",
+      "source_id": "hc-fathers-world",
+      "collection_tune": 86,
+      "master_sha256": "c79b3cb628060693f9eef7e08e2f3db2a7ed9629dfc1b3e976d0a1f5e958dad6",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B171",
+      "source_id": "tt-supplemental-trusting-jesus",
+      "collection_tune": 87,
+      "master_sha256": "378cf26f2a750ddae93b2494c2dee3d550a2f5c9c147bb30046e2f5ed4c12555",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B145",
+      "source_id": "hc-turn-your-eyes",
+      "collection_tune": 88,
+      "master_sha256": "4af53ab4df1782eab78a55f5b5a250721768b80ba7628d14f44d78c33d365a4d",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B305",
+      "source_id": "oh_we-gather-together-kremser",
+      "collection_tune": 89,
+      "master_sha256": "5075906b98323ea4cb0a457b11b0d93661381b4fabf8676589e44859396c0862",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B193",
+      "source_id": "tt-supplemental-we-rest-on-thee",
+      "collection_tune": 90,
+      "master_sha256": "871efa80e8dcd1e1a5526067cf12e1572dbda1bbe6b0645e2aacc35dd60d2ece",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B223",
+      "source_id": "mobile-well-work-till-jesus-comes",
+      "collection_tune": 91,
+      "master_sha256": "6ed762520aa0e9b027d7fb229d1b85d19e19e9be5878351001a254f5ba826cfc",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B014",
+      "source_id": "oh_what-a-friend-we-have-in-jesus-untitled",
+      "collection_tune": 92,
+      "master_sha256": "89bd2b5f48c17bb06fe7dc30fe1a77315083e8a7a3b74d2e8494c37306799214",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B155",
+      "source_id": "winkworth-whateer-gastorius",
+      "collection_tune": 93,
+      "master_sha256": "da8bf230672af6db34349c5fd282032bc75b58200afda7a73d54b900d6ba74dc",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B188",
+      "source_id": "oh_when-i-survey-the-wondrous-cross-duke-street",
+      "collection_tune": 94,
+      "master_sha256": "aec225fb7306a45a7d5097b91c0d53d5526f9e187c4816558b9528fc098b2518",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B241",
+      "source_id": "oh_when-the-roll-is-called-up-yonder-when-the-roll-is-called-up-yonder",
+      "collection_tune": 95,
+      "master_sha256": "c6729bc14681e4f91c59dd74924cad69fa4e44e26e2b9af436d85ac8dc2e25a9",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B314",
+      "source_id": "mobile-we-have-an-anchor",
+      "collection_tune": 96,
+      "master_sha256": "be31cf6c33a99b8ed6c745cb1b4905f1de97fd1dea90e95dfd5fd401195ab98f",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B128",
+      "source_id": "hc-wonderful-grace",
+      "collection_tune": 97,
+      "master_sha256": "ba05b33a13ec7487a7db0ea06a7fbbff65c0aba3960267ec4d0d359729cd4b4e",
+      "single_vs_collection_semantics_equal": true,
+      "warnings": []
+    }
+  ]
+}

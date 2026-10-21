@@ -1,0 +1,101 @@
+% EDITORIAL REVIEW: Source uses legacy lyric-extend tags without explicit endpoints. Refrain-boundary line-length interpretation is flagged in the visual-review report.
+% Source edition: remaining-openpsalm-tell-me-the-story-of-jesus
+% Source URL: https://openpsalm.com/api/songs/232/export/musicxml
+% Source SHA256: ac83f6a5ea9ab9471825230504a3603093e01ba5424b9133ba3bf25b00bbac90
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_OpenPsalm_Tell_Me_the_Story_of_Jesus.repairs.json
+% Catalog membership: book2:B200
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Source arrangement license: Creative Commons Attribution 4.0 International
+% License URL: https://creativecommons.org/licenses/by/4.0/
+% Changes: MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.
+% Original creator (composer): John R. Sweney
+% Original creator (lyricist): Fanny Crosby
+% Original creator (arranger): OpenPsalm
+% Original rights: Lyrics: Fanny Crosby, 1880 (public domain)
+% Original rights: Music: John R. Sweney, 1880 (public domain)
+% Original rights: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+% Original credit-words: Tell Me the Story of Jesus
+% Original credit-words: Lyrics: Fanny Crosby, 1880 (public domain)
+% Original credit-words: Music: John R. Sweney, 1880 (public domain)
+% Original credit-words: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+X:1
+T:Tell Me the Story of Jesus
+C:John R. Sweney
+Z:Fanny Crosby
+Z:Lyrics: Fanny Crosby, 1880 (public domain)
+Z:Music: John R. Sweney, 1880 (public domain)
+Z:Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+%%score ( 1 2 ) ( 3 4 )
+L:1/16
+Q:1/4=96
+M:4/4
+K:Eb
+V:1 treble nm="Soprano & Alto"
+V:2 treble 
+V:3 bass nm="Tenor & Bass"
+V:4 bass 
+V:1
+ G4 G3 F E4 G3 A | B8 G8 | B4 F3 G A4 G3 F | G16 | %4
+w: 1.~Tell me the sto- ry of|Je- sus,|Write on my heart ev- ery|word.|
+w: 2.~Fast- ing a- lone in the|des- ert,|Tell of the days that are|past.|
+w: 3.~Tell of the cross where they|nailed Him,|Writh- ing in an- guish and|pain.|
+ G4 G3 G A4 B3 c | B8 G8 | B4 F3 G A4 G3 F | E16 | %8
+w: Tell me the sto- ry most|pre- cious,|Sweet- est that ev- er was|heard.|
+w: How for our sins He was|tempt- ed,|Yet was tri- um- phant at|last.|
+w: Tell of the grave where they|laid Him,|Tell how He liv- eth a-|gain.|
+ c4 c3 c e4 d3 c | c8 B8 | B4 c3 B A4 B3 A | G16 | %12
+w: Tell how the an- gels in|chor- us,|Sang as they wel- comed His|birth.|
+w: Tell of the years of His|la- bor,|Tell of the sor- row He|bore.|
+w: Love in that sto- ry so|ten- der,|Clear- er than ev- er I|see.|
+ c4 c3 c e4 d3 c | c8 B8 | B4 F3 d d2c2 B3 =A | (B8 A8) || %16
+w: “Glo- ry to God in the|high- est!|Peace and good ti- * dings to|earth.”_|
+w: He was des- pised and af-|flict- ed,|Home- less, re- ject- * ed and|poor._|
+w: Stay, let me weep while you|whis- per,|Love paid the ran- * som for|me._|
+"^Refrain." G4 G3 F E4 G3 A | B8 G8 | B4 F3 G A4 G3 F | G16 | %20
+w: Tell me the sto- ry of|Je- sus,|Write on my heart ev- ery|word.|
+w: ______||||
+w: ______||||
+ G4 G3 G A4 B3 c | B8 G8 | B4 F3 G A4 G3 F | !fermata!E16 | %24
+w: Tell me the sto- ry most|pre- cious,|Sweet- est that ev- er was|heard.|
+w: ||||
+w: ||||
+V:2
+ E4 E3 E E4 E3 F | G8 E8 | F4 D3 E F4 E3 D | E16 | %4
+ E4 E3 E E4 E3 E | E8 E8 | F4 D3 E F4 E3 D | E16 | %8
+ E4 E3 E E4 E3 A | A8 G8 | F4 A3 G F4 D3 F | E16 | %12
+ E4 E3 E E4 E3 A | A8 G8 | F4 D3 F F2E2 D3 E | (D8 F8) || %16
+ E4 E3 E E4 E3 F | G8 E8 | F4 D3 E F4 E3 D | E16 | %20
+ E4 E3 E E4 E3 E | E8 E8 | F4 D3 E F4 E3 D | E16 | %24
+V:3
+ B,4 B,3 A, G,4 B,3 B, | E8 B,8 | D4 B,3 B, B,4 B,3 B, | B,16 | %4
+w: 1.~Tell me the sto- ry of|Je- sus,|Write on my heart ev- ery|word.|
+w: 2.~Fast- ing a- lone in the|des- ert,|Tell of the days that are|past.|
+w: 3.~Tell of the cross where they|nailed Him,|Writh- ing in an- guish and|pain.|
+ B,4 B,3 B, A,4 G,3 A, | G,8 B,8 | D4 B,3 B, B,4 B,3 A, | G,16 | %8
+w: Tell me the sto- ry most|pre- cious,|Sweet- est that ev- er was|heard.|
+w: How for our sins He was|tempt- ed,|Yet was tri- um- phant at|last.|
+w: Tell of the grave where they|laid Him,|Tell how He liv- eth a-|gain.|
+ A,4 A,3 A, C4 C3 E | E8 E8 | D4 D3 B, B,4 B,3 B, | B,16 | %12
+w: Tell how the an- gels in|chor- us,|Sang as they wel- comed His|birth.|
+w: Tell of the years of His|la- bor,|Tell of the sor- row He|bore.|
+w: Love in that sto- ry so|ten- der,|Clear- er than ev- er I|see.|
+ A,4 A,3 A, C4 C3 E | E8 E8 | D4 B,3 B, B,2=A,2 B,3 C | B,16 || %16
+w: “Glo- ry to God in the|high- est!|Peace and good ti- * dings to|earth.”|
+w: He was des- pised and af-|flict- ed,|Home- less, re- ject- * ed and|poor.|
+w: Stay, let me weep while you|whis- per,|Love paid the ran- * som for|me.|
+ B,4 B,3 A, G,4 B,3 B, | E8 B,8 | D4 B,3 B, B,4 B,3 B, | B,16 | %20
+w: Tell me the sto- ry of|Je- sus,|Write on my heart ev- ery|word.|
+w: ||||
+w: ||||
+ B,4 B,3 B, A,4 G,3 A, | G,8 B,8 | D4 B,3 B, B,4 B,3 A, | G,16 | %24
+w: Tell me the sto- ry most|pre- cious,|Sweet- est that ev- er was|heard.|
+w: ||||
+w: ||||
+V:4
+ E,4 E,3 E, E,4 E,3 E, | E,8 E,8 | B,,4 B,,3 B,, B,,4 B,,3 B,, | E,16 | %4
+ E,4 _D,3 D, C,4 B,,3 A,, | E,8 E,8 | B,,4 B,,3 B,, B,,4 B,,3 B,, | E,16 | %8
+ A,4 A,3 A, A,4 A,3 A, | E,8 E,8 | B,,4 B,,3 B,, B,,4 B,,3 B,, | E,16 | %12
+ A,4 A,3 A, A,4 A,3 A, | E,8 E,8 | F,4 F,3 F, F,4 F,3 F, | B,,16 || %16
+ E,4 E,3 E, E,4 E,3 E, | E,8 E,8 | B,,4 B,,3 B,, B,,4 B,,3 B,, | E,16 | %20
+ E,4 _D,3 D, C,4 B,,3 A,, | E,8 E,8 | B,,4 B,,3 B,, B,,4 B,,3 B,, | !fermata!E,16 | %24

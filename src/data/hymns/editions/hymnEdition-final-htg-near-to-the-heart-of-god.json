@@ -1,0 +1,144 @@
+{
+  "sourceSha256": "ce031bce15626ff19767ac86d70ff05ff0ada24ae361739efc83277105a14d4a",
+  "metadata": {
+    "id": "hymn-final-htg-near-to-the-heart-of-god",
+    "title": "Near To The Heart Of God",
+    "composer": "Cleland Boyd McAfee | Cleland Boyd McAfee, 1903",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "final-htg-near-to-the-heart-of-god",
+    "sourceUrls": [
+      "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/N-Hymns/Near-To-The-Heart-Of-God/Near-To-The-Heart-Of-God-6x9.mup",
+      "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/N-Hymns/Near-To-The-Heart-Of-God/Near-To-The-Heart-Of-God-6x9.pdf"
+    ],
+    "collection": "HymnsToGod.org; original MUP and PDF retained",
+    "credits": [
+      "Cleland Boyd McAfee | Cleland Boyd McAfee, 1903",
+      "HymnsToGod.org; original MUP and PDF retained"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source labels hymn Public Domain - USA; not worldwide clearance.",
+      "MUP header expressly donates its source code to the public domain; PDF bears Public Domain footer. This is a music transcription declaration, not merely a repository software license.",
+      "US candidate; other territories require independent clearance.",
+      "Retain Theodore (Ted) Gatza Jr., HymnsToGod.org and historical creators.",
+      "Source describes this hymn as believed public domain in the United States only",
+      "MUP source code donated to public domain; no global-territory clearance implied"
+    ],
+    "territory": "US candidate; other territories require independent clearance.",
+    "editionNotes": [
+      "Independent reviewer sign-off not performed.",
+      "No worldwide-territory clearance; underlying work and edition remain US-scoped candidates.",
+      "Source identified as World Wide Revival Songs Number Two; no modern text credited.",
+      "Source MUP SHA-256 aafb869bc2b754006baf15086565c79255f328d8a9d8a2f66c9ffdb734ecd1ed",
+      "Source describes this hymn as believed public domain in the United States only",
+      "MUP source code donated to public domain; no global-territory clearance implied",
+      "Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction",
+      "All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map"
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "final-htg-near-to-the-heart-of-god",
+      "title": "Near To The Heart Of God",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B120"
+        }
+      ],
+      "file": "abc/final-htg-near-to-the-heart-of-god.abc",
+      "sha256": "ce031bce15626ff19767ac86d70ff05ff0ada24ae361739efc83277105a14d4a",
+      "canonical_reference_in_archive": "mup_abc/HTG_Near-To-The-Heart-Of-God-6x9.abc",
+      "source_url": [
+        "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/N-Hymns/Near-To-The-Heart-Of-God/Near-To-The-Heart-Of-God-6x9.mup",
+        "https://www.hymnstogod.org/Hymn-Files/Public-Domain-Hymns/N-Hymns/Near-To-The-Heart-Of-God/Near-To-The-Heart-Of-God-6x9.pdf"
+      ],
+      "collection": "",
+      "rights_and_attribution": {
+        "underlying_work": "Source labels hymn Public Domain - USA; not worldwide clearance.",
+        "edition": "MUP header expressly donates its source code to the public domain; PDF bears Public Domain footer. This is a music transcription declaration, not merely a repository software license.",
+        "territory": "US candidate; other territories require independent clearance.",
+        "attribution": "Retain Theodore (Ted) Gatza Jr., HymnsToGod.org and historical creators.",
+        "evidence_page": "https://www.hymnstogod.org/Hymns-PD/N-Hymns/Near-To-The-Heart-Of-God.html",
+        "evidence_snapshot": "sources/final_candidate_gaps/pages/Near_To_The_Heart_Of_God.html"
+      },
+      "scope_and_edition_notes": [
+        "Independent reviewer sign-off not performed.",
+        "No worldwide-territory clearance; underlying work and edition remain US-scoped candidates.",
+        "Source identified as World Wide Revival Songs Number Two; no modern text credited."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-mup-review.md",
+        "audit": "reports/independent-mup-review.json",
+        "scope": "Independent of original MUP conversion worker: code/mapping inspection, source hashes, official compiler comparisons rerun, all11 complete source/canonical paired visual overviews, actualABCJS event tests. Not full human note-by-note proofreading or browser engraving."
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B120",
+      "title": "Near To The Heart Of God",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "final-htg-near-to-the-heart-of-god",
+      "abc_file": "abc/final-htg-near-to-the-heart-of-god.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B120",
+        "Song title": "Near To The Heart Of God",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/N/Near_to_the_Heart_of_God/Near_to_the_Heart_of_God.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Near_to_the_Heart_of_God/",
+        "Editable source": "",
+        "Tune and work identity": "MCAFEE; Cleland B. McAfee, 1903",
+        "Public distribution rights": "Timeless Truths labels both text and tune Public Domain; source is an alternate traditional setting, not the modern recording arrangement. US public-domain candidate; confirm distribution territory.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Near_to_the_Heart_of_God/",
+        "Remaining checks / version notes": "Candidate: traditional PD setting; recording arrangement differs\nTraditional hymn identified by title; exact recording not aurally compared. Confirm the recording uses this tune before inclusion. Under the updated scope, this same-hymn traditional setting may be retained even if the recording melody differs; recording-specific additions are excluded.",
+        "Playlist positions": "162",
+        "Playlist artists": "Bluegrass Brethren",
+        "Original track titles": "Near To The Heart Of God",
+        "Source review": "PDF full vocal score with lyrics\nFull PD-labelled PDF opened and score contents inspected via text extraction; no aural recording comparison or visual engraving QA"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

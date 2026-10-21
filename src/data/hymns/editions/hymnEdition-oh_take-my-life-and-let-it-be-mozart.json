@@ -1,0 +1,129 @@
+{
+  "sourceSha256": "51fa4b304529ed8cf538c8adbaf3c74d95ff08d9a75becfc32046fa2ce68e253",
+  "metadata": {
+    "id": "hymn-oh_take-my-life-and-let-it-be-mozart",
+    "title": "Take My Life And Let It Be",
+    "composer": "Words: Frances R. Havergal, 1874.  Music: 'Mozart' Wolfgang Amadeus Mozart (1756-1791). · Setting: composite found in \"Hymnal and Liturgies of the Moravian Church\", 1920.",
+    "tune": "Mozart",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_take-my-life-and-let-it-be-mozart",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Take_My_Life_And_Let_It_Be/Take_My_Life_And_Let_It_Be-Mozart.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Frances R. Havergal, 1874.  Music: 'Mozart' Wolfgang Amadeus Mozart (1756-1791).",
+      "Setting: composite found in \"Hymnal and Liturgies of the Moravian Church\", 1920.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision.",
+      "Music source: Hymnal and Liturgies of the Moravian Church, 1920 Hymn 471.",
+      "setting very similar to \"The Coronation Hymnal\", American Baptist Publication Society, 1894 Hymn 182."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Mozart' Wolfgang Amadeus Mozart (1756-1791).\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nAlternate tune MOZART, not catalog HENDON.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_take-my-life-and-let-it-be-mozart",
+      "title": "Take My Life And Let It Be",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B137"
+        }
+      ],
+      "file": "abc/oh_take-my-life-and-let-it-be-mozart.abc",
+      "sha256": "51fa4b304529ed8cf538c8adbaf3c74d95ff08d9a75becfc32046fa2ce68e253",
+      "canonical_reference_in_archive": "abc/oh_take-my-life-and-let-it-be-mozart.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Take_My_Life_And_Let_It_Be/Take_My_Life_And_Let_It_Be-Mozart.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Frances R. Havergal, 1874.  Music: 'Mozart' Wolfgang Amadeus Mozart (1756-1791).",
+          "Setting: composite found in \"Hymnal and Liturgies of the Moravian Church\", 1920.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision.",
+          "Music source: Hymnal and Liturgies of the Moravian Church, 1920 Hymn 471.",
+          "setting very similar to \"The Coronation Hymnal\", American Baptist Publication Society, 1894 Hymn 182."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Mozart' Wolfgang Amadeus Mozart (1756-1791).\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nAlternate tune MOZART, not catalog HENDON.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_take-my-life-and-let-it-be-mozart.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B137",
+      "title": "Take My Life And Let It Be",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_take-my-life-and-let-it-be-mozart",
+      "abc_file": "abc/oh_take-my-life-and-let-it-be-mozart.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B137",
+        "Song title": "Take My Life And Let It Be",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/T/Take_My_Life_and_Let_It_Be/Take_My_Life_and_Let_It_Be.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Take_My_Life_and_Let_It_Be/",
+        "Editable source": "",
+        "Tune and work identity": "HENDON / Henri A.C. Malan, 1827; Lowell Mason harmony 1841; Frances R. Havergal text 1874",
+        "Public distribution rights": "Timeless Truths explicitly labels text and tune Public Domain. Use historical base score, not the commercial recording arrangement. Territory should be checked before worldwide distribution.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Take_My_Life_and_Let_It_Be/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nMultiple common tunes including HENDON and HOLLINGSIDE/PATMOS; two recording melodies not established. Hold rather than substitute HENDON blindly.",
+        "Playlist positions": "185, 228",
+        "Playlist artists": "Hymns You Love to Sing Performers; Phillip Sandifer",
+        "Original track titles": "Take My Life And Let It Be; Take My Life and Let It Be",
+        "Source review": "PDF SATB score with lyrics\nPDF opened and notation/lyrics text inspected"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "songs": [
+    {
+      "id": "psalter123",
+      "previousAbc": "T:An Importunate Prayer\nC:Tune: MAGNUS; John B. Herbert\nM:6/8\nL:1/8\nQ:\"Slowly\"\nK:Eb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] E | G G G F E G | B B c B2 || G | F F G\nw: If we have for-got-ten the Name of our God, Or un-to an\nw: We all the day long for Thy sake are con-sumed, De-feat-ed and\nw: O why art Thou hid-ing the light of Thy face, For-get-ting our\n[V:T2] E | E E E B, B, E | G G A G2 || E | D D E\n[V:B1] G, | B, B, B, A, G, B, | E E E E2 || B, | B, B, B,\n[V:B2] E, | E, E, E, E, E, E, | E, E, E, E,2 || E, | B,, B,, B,,\n[V:T1] A d c | c B =A B2 || _A | G G G F E G |\nw: i-dol our hands spread a-broad, Shall not the Al-might-y un-\nw: help-less, to death we are doomed; Then why dost Thou tar-ry? Je-\nw: bur-den of grief and dis-grace? Our soul is bowed down, yea, we\n[V:T2] F B A | A G ^F G2 || =F | E E E B, B, E |\n[V:B1] B, B, D | E E E E2 || B, | B, B, B, A, G, B, |\n[V:B2] B,, B,, B,, | E, E, E, E,2 || E, | E, E, E, E, E, E, |\n[V:T1] B B c d2 || d | e d c B F d | c G =A !fermata!B3 ||\nw: cov-er this sin? He knows all our hearts and the se-crets with-in.\nw: ho-vah, a-wake, Nor spurn us for-ev-er; a-rise for our sake.\nw: cleave to the dust; Rise, help, and re-deem us, Thy mer-cy we trust.\n[V:T2] G G G F2 || A | G G G F D F | E E E (D2 !invertedfermata!_A) ||\n[V:B1] E B, B, B,2 || B, | B, B, C D B, B, | =A, B, C (B,2 !invertedfermata!D) ||\n[V:B2] E, E, E, B,,2 || B,, | E, E, E, F, F, F, | F, F, F, !invertedfermata!B,,3 ||\n[V:T1] \"^CHORUS\"!accent!B3 !accent!G F E | !accent!F3 E2 || B | c3-c d e | B3-B3 ||\nw: Rise, help, and re-deem us, Thy mer- * cy we trust; *\n[V:T2] G3 E B, B, | B,3 B,2 || G | A3 A2 A | G3-G3 ||\nw: * * * * * * Thy mer-cy we trust; *\n[V:B1] E3 B, A, G, | A,3 G,2 || E | E3-E D C | E3-E3 ||\n[V:B2] E,3 E, E, E, | B,,3 E,2 || E, | A,3 A,2 A, | E,3-E,3 ||\n[V:T1] !accent!e3 !accent!f e c | !accent!B3 !fermata!e2 || F | G3 FE F | E3-E3 |]\nw: Rise, help, and re-deem us, Thy mer-cy * we trust. *\n[V:T2] B3 A A A | G3 F2 || E | E3 DC B, | B,3-B,3 |]\n[V:B1] _D3 C C E | E3 !fermata!=A,2 || A, | B,3 A,2 A, | G,3-G,3 |]\n[V:B2] G,3 A, A, A, | E,3 C,2 || C, | B,,3 B,,2 B,, | E,3-E,3 |]\nW:[Stanzas 10-12]",
+      "previousAbcSHA256": "a4fcda21e352a114bc0490c2350dfb90d4217bbd45e6614191b4aee1ac5e1f5c",
+      "correctedAbcSHA256": "4621387d2073fbe52af12888813035d82eda72e8342a3260972a53f0838becfa",
+      "fixtureSHA256": "5c81b7e566798eca1a7c6e86818990ba7c26de6837bccd877ca3e4c92a1ab721",
+      "corrections": [
+        {
+          "before": "E3-E3 |]",
+          "after": "E3-E2 |]"
+        },
+        {
+          "before": "B,3-B,3 |]",
+          "after": "B,3-B,2 |]"
+        },
+        {
+          "before": "G,3-G,3 |]",
+          "after": "G,3-G,2 |]"
+        },
+        {
+          "before": "E,3-E,3 |]",
+          "after": "E,3-E,2 |]"
+        }
+      ],
+      "sourceLedgerSHA256": "6883d42358c8b98d9ee960b82da96b11ae621b89b2f64a79a4eeef8fd9475baa",
+      "frozenInitialLedgerSHA256": "ab15111c8facbbc4eb70ac8866061fcf29913ff0f882a062271c3c971b964b10",
+      "printedProse": {
+        "1": "If we have forgotten the Name of our God, Or unto an idol our hands spread abroad, Shall not the Almighty uncover this sin? He knows all our hearts and the secrets within.",
+        "2": "We all the day long for Thy sake are consumed, Defeated and helpless, to death we are doomed; Then why dost Thou tarry? Jehovah, awake, Nor spurn us forever; arise for our sake.",
+        "3": "O why art Thou hiding the light of Thy face, Forgetting our burden of grief and disgrace? Our soul is bowed down, yea, we cleave to the dust; Rise, help, and redeem us, Thy mercy we trust.",
+        "chorus": "Rise, help, and redeem us, Thy mercy we trust; Rise, help, and redeem us, Thy mercy we trust."
+      },
+      "printedCoordinates": [
+        {
+          "voice": "T1",
+          "printedCell": 22,
+          "event": 70,
+          "q": 47,
+          "duration": 1,
+          "midi": 63
+        },
+        {
+          "voice": "T2",
+          "printedCell": 22,
+          "event": 70,
+          "q": 47,
+          "duration": 1,
+          "midi": 58
+        },
+        {
+          "voice": "B1",
+          "printedCell": 22,
+          "event": 70,
+          "q": 47,
+          "duration": 1,
+          "midi": 55
+        },
+        {
+          "voice": "B2",
+          "printedCell": 22,
+          "event": 68,
+          "q": 47,
+          "duration": 1,
+          "midi": 51
+        }
+      ],
+      "sourcePages": {
+        "matchingRFPA": [
+          183,
+          184
+        ],
+        "original1912Leaf": "0111"
+      }
+    },
+    {
+      "id": "psalter124",
+      "previousAbc": "T:The Royal Majesty of Christ\nC:Tune: MORNINGTON; Earl of Mornington\nM:2/2\nL:1/4\nK:Eb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] B2 B A | G2 F2 | !fermata!E2 || (e3/2 d/2) | c2 (B c) |\nw: 1.~My heart doth o-ver-flow, A * good-ly *\nw: 2.~Su-preme-ly fair Thou art, Thy * lips with *\nw: 3.~Now gird Thee with Thy sword, O * strong and *\nw: 4.~Tri-um-phant-ly ride forth, For * meek-ness, *\nw: 5.~Thy strength shall o-ver-come All * those that *\n[V:T2] E2 E F | E2 D2 | E2 || E2 | E2 E2 |\n[V:B1] G,2 B, C | B,2 (B, A,) | G,2 || B,2 | A,2 E2 |\n[V:B2] E,2 G, A, | B,2 B,,2 | !invertedfermata!E,2 || G,2 | A,2 (G, A,) |\n[V:T1] B2 A2 | G2 || A2 A A | (A2 G) A | B2 c2 |\nw: theme is mine; My ea-ger tongue * with joy-ful\nw: grace o'er-flow; His rich-est bless- * ings ev-er-\nw: might-y One, In splen-did maj- * es-ty ar-\nw: truth, and right; Thy arm shall gain * the vic-to-\nw: hate the King, And un-der Thy * do-min-ion\n[V:T2] E2 D2 | E2 || E2 E F | E3 D | E2 E2 |\n[V:B1] B,2 B,2 | B,2 || C2 C B, | B,3 B, | E2 C2 |\n[V:B2] G,2 F,2 | E,2 || A,,2 C, D, | E,3 F, | G,2 A,2 |\n[V:T1] F3 || A | G2 (F E) | E2 D2 | E2 |]\nw: song Doth praise the * King Di-vine.\nw: more Doth God on * Thee be-stow.\nw: rayed, More glo-rious * than the sun.\nw: ry In won-drous * deeds of might.\nw: strong The na-tions * Thou shalt bring.\n[V:T2] D3 || F | E2 C2 | B,2 B,2 | B,2 |]\n[V:B1] B,3 || B, | B,2 A,2 | G,2 (F, G,/2A,/2) | G,2 |]\n[V:B2] B,3 || D, | E,2 A,,2 | B,,2 B,,2 | E,2 |]\nW:6 Thy royal throne, O God,\nW:For evermore shall stand;\nW:Eternal truth and justice wield\nW:The sceptre in Thy hand.\nW:\nW:7 Since Thou art sinless found,\nW:The Lord, Thy God confessed,\nW:Anointeth Thee with perfect joy,\nW:Thou art supremely blest.\nW:\nW:8 Thy garments breathe of myrrh\nW:And spices sweet and rare;\nW:Glad strains of heavenly music ring\nW:Throughout Thy palace fair.\nW:\nW:9 Amid Thy glorious train\nW:King's daughters waiting stand,\nW:And fairest gems bedeck Thy bride,\nW:The queen at Thy right hand.",
+      "previousAbcSHA256": "a6b6eca9112835ed4f140bbd69c6cab1bb587a9d21c12fab40239e3d23f009ea",
+      "correctedAbcSHA256": "8bf3f48015d699ce5432326854996992f67ff530f6e1144101f95ee019f28dbd",
+      "fixtureSHA256": "86a31ea40f20c6176ee9816afce0631415f1364726decf0a54e01d1d31086cd3",
+      "corrections": [
+        {
+          "before": "w: 4.~Tri-um-phant-ly ride forth, For * meek-ness, *",
+          "after": "w: 4.~Tri-um-phant-ly ride forth For * meek-ness, *"
+        }
+      ],
+      "sourceLedgerSHA256": "ca9488e4b682bd1aef4ab083eb2cb635e973682bd5e142e9382cb4a386971001",
+      "frozenInitialLedgerSHA256": "ca9488e4b682bd1aef4ab083eb2cb635e973682bd5e142e9382cb4a386971001",
+      "printedProse": {
+        "1": "My heart doth overflow, A goodly theme is mine; My eager tongue with joyful song Doth praise the King Divine.",
+        "2": "Supremely fair Thou art, Thy lips with grace o'erflow; His richest blessings evermore Doth God on Thee bestow.",
+        "3": "Now gird Thee with Thy sword, O strong and mighty One, In splendid majesty arrayed, More glorious than the sun.",
+        "4": "Triumphantly ride forth For meekness, truth, and right; Thy arm shall gain the victory In wondrous deeds of might.",
+        "5": "Thy strength shall overcome All those that hate the King, And under Thy dominion strong The nations Thou shalt bring.",
+        "6": "Thy royal throne, O God, For evermore shall stand; Eternal truth and justice wield The sceptre in Thy hand.",
+        "7": "Since Thou art sinless found, The Lord, Thy God confessed, Anointeth Thee with perfect joy, Thou art supremely blest.",
+        "8": "Thy garments breathe of myrrh And spices sweet and rare; Glad strains of heavenly music ring Throughout Thy palace fair.",
+        "9": "Amid Thy glorious train Kings' daughters waiting stand, And fairest gems bedeck Thy bride, The queen at Thy right hand."
+      },
+      "printedCoordinates": [
+        {
+          "stanza": 4,
+          "q": 8,
+          "syllable": "forth",
+          "printedCell": 3
+        }
+      ],
+      "sourcePages": {
+        "matchingRFPA": [
+          185,
+          186
+        ],
+        "original1912Leaf": "0112"
+      }
+    },
+    {
+      "id": "psalter125",
+      "previousAbc": "T:The Church the Bride of Christ\nC:Tune: GERAR; Lowell Mason\nM:3/4\nL:1/4\nK:F\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] F A F | c2 E | F2 || A | (A G) c |\nw: 1.~O Roy-al Bride, give heed, And to * my\nw: 2.~Thy beau-ty and thy grace Shall then * de-\nw: 3.~To thee, since thou art His, Great hon- * or\nw: 4.~En-throned in roy-al state, All glo- * rious\nw: 5.~And they that hon-or thee Shall in * thy\n[V:T2] F A F | E2 C | C2 || F | (F E) G |\n[V:B1] F, A, F, | G,2 B, | A,2 || C | C2 E |\n[V:B2] F, A, F, | C,2 C, | F,2 || F, | C,2 C, |\n[V:T1] (c =B) d | c2 || c | (c3/4B/4 A) A | (B3/4c/4 d) B | (B3/4A/4 G) G |\nw: words * at-tend; For Christ * * the King * * for-sake * * the\nw: light * the King; He on- * * ly is * * thy right- * * ful\nw: shall * be shown; The rich * * shall bring * * their gifts * * to\nw: thou * shalt dwell, With gar- * * ments fair, * * in-wrought * * with\nw: train * at-tend; And to * * the pal- * * ace of * * the\n[V:T2] G2 F | E2 || A | (A3/4G/4 F) F | (G3/4A/4 B) G | (G3/4F/4 E) E |\n[V:B1] (E D) =B, | C2 || C | (C3/4B,/4 A,) A, | (B,3/4C/4 D) B, | (B,3/4A,/4 G,) G, |\n[V:B2] G,2 G, | C,2 || A, | (A,3/4G,/4 F,) F, | (G,3/4A,/4 B,) G, | (G,3/4F,/4 E,) E, |\n[V:T1] (A3/4B/4 c) || c | (f c) A | (A F) G | F3 |]\nw: world, * * And ev- * 'ry for- * mer friend.\nw: Lord, * * To Him * thy wor- * ship bring.\nw: thee, * * Thy glo- * ry they * shall own.\nw: gold, * * The Church * He lov- * eth well.\nw: King, * * Shall joy- * ful-ly * as-cend.\n[V:T2] (F3/4G/4 A) || F | (A F) F | (F C) C | C3 |]\n[V:B1] (A,3/4B,/4 C) || A, | (C A,) C | (C A,) B, | A,3 |]\n[V:B2] (F,3/4G,/4 A,) || F, | F,2 F, | C,2 C, | F,3 |]\nW:6 O King of royal race,\nW:Thy sons of heavenly birth\nW:Thou wilt endow with kingly gifts\nW:As princes in the earth.\nW:\nW:7 Thy Name shall be proclaimed\nW:Through all succeeding days,\nW:And all the nations of the earth\nW:Shall give Thee endless praise.\nW:\nW:[Stanzas 10-16]",
+      "previousAbcSHA256": "c49d9ad5dbc85a910ba740b28b8f3599c9dc682b5e940ca51420ef93d2028c85",
+      "correctedAbcSHA256": "1e60567f8c7a0ad97d6928f4db91d01cd9adfc40da2cd6dd4c7a3434d3aed030",
+      "fixtureSHA256": "1289349f7a74cc7a1bf56d4b78843e4bc2544b7b0f45b59853c44d00fc8bb2ef",
+      "corrections": [
+        {
+          "before": "w: world, * * And ev- * 'ry for- * mer friend.",
+          "after": "w: world * * And ev- * 'ry for- * mer friend."
+        },
+        {
+          "before": "w: King, * * Shall joy- * ful-ly * as-cend.",
+          "after": "w: King * * Shall joy- * ful-ly * as-cend."
+        }
+      ],
+      "sourceLedgerSHA256": "5c7bb9c2d7ab76f961813434a9b2a6c1dcb45170a97ba64420a057bb6d8c9534",
+      "frozenInitialLedgerSHA256": "5c7bb9c2d7ab76f961813434a9b2a6c1dcb45170a97ba64420a057bb6d8c9534",
+      "printedProse": {
+        "1": "O Royal Bride, give heed, And to my words attend; For Christ the King forsake the world And ev'ry former friend.",
+        "2": "Thy beauty and thy grace Shall then delight the King; He only is thy rightful Lord, To Him thy worship bring.",
+        "3": "To thee, since thou art His, Great honor shall be shown; The rich shall bring their gifts to thee, Thy glory they shall own.",
+        "4": "Enthroned in royal state, All glorious thou shalt dwell, With garments fair, inwrought with gold, The Church He loveth well.",
+        "5": "And they that honor thee Shall in thy train attend; And to the palace of the King Shall joyfully ascend.",
+        "6": "O King of royal race, Thy sons of heavenly birth Thou wilt endow with kingly gifts As princes in the earth.",
+        "7": "Thy Name shall be proclaimed Through all succeeding days, And all the nations of the earth Shall give Thee endless praise."
+      },
+      "printedCoordinates": [
+        {
+          "stanza": 1,
+          "q": 27,
+          "syllable": "world",
+          "printedCell": 12
+        },
+        {
+          "stanza": 5,
+          "q": 27,
+          "syllable": "King",
+          "printedCell": 12
+        }
+      ],
+      "sourcePages": {
+        "matchingRFPA": [
+          187,
+          188
+        ],
+        "original1912Leaf": "0113"
+      }
+    }
+  ]
+}

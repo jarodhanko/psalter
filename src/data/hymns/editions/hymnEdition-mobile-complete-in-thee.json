@@ -1,0 +1,143 @@
+{
+  "sourceSha256": "a1533292ac7cc29c4440aed0e49a08e1d7aa430a0b539cad311cf1179fdb5495",
+  "metadata": {
+    "id": "hymn-mobile-complete-in-thee",
+    "title": "Complete in Thee",
+    "composer": "Aaron R. Wolfe; refrain James M. Gray · Talmage J. Bittikofer, 1921",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "mobile-complete-in-thee",
+    "sourceUrls": [
+      "https://www.mobilehymns.org/PDF/Complete_In_Thee_Bittikofer.pdf",
+      "https://www.mobilehymns.org/english/Complete_In_Thee_Bittikofer.html",
+      "https://mobilehymns.org/copyright.html"
+    ],
+    "collection": "Mobile Hymns / BITTIKOFER",
+    "credits": [
+      "Aaron R. Wolfe; refrain James M. Gray",
+      "Talmage J. Bittikofer, 1921",
+      "Mobile Hymns public-domain-labelled score, downloaded 2026-09-30",
+      "Source-assisted transcription preserving four source voices, four verses and common refrain"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Public Domain on exact PDF and individual source page",
+      "Aaron R.Wolfe; refrain James M.Gray; Talmage J.Bittikofer,1921",
+      "US source basis. Bittikofer died1986; no blanket worldwide clearance."
+    ],
+    "territory": "US source basis. Bittikofer died1986; no blanket worldwide clearance.",
+    "editionNotes": [
+      "All four printed stanzas and common refrain,160 lyric syllables; no tempo invented",
+      "All four source SATB voices,256 heads",
+      "Historical Bittikofer1921 same-hymn setting, not modern Nyce arrangement. Common refrain reflowed onto a separate music line; music and underlay unchanged.",
+      "Historical Bittikofer tune, not the modern Nyce setting. US-PD source basis; non-US rights review required.",
+      "Common refrain placed after four verse rows; source displays its beginning inline on verse2 row for space.",
+      "No added tempo or arrangement."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "mobile-complete-in-thee",
+      "title": "Complete in Thee",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B162"
+        }
+      ],
+      "file": "abc/mobile-complete-in-thee.abc",
+      "sha256": "a1533292ac7cc29c4440aed0e49a08e1d7aa430a0b539cad311cf1179fdb5495",
+      "canonical_reference_in_archive": "manual_abc/mobile-complete-in-thee.abc",
+      "source_url": [
+        "https://www.mobilehymns.org/PDF/Complete_In_Thee_Bittikofer.pdf",
+        "https://www.mobilehymns.org/english/Complete_In_Thee_Bittikofer.html",
+        "https://mobilehymns.org/copyright.html"
+      ],
+      "collection": "Mobile Hymns / BITTIKOFER",
+      "rights_and_attribution": {
+        "source_label": "Public Domain on exact PDF and individual source page",
+        "attribution": "Aaron R.Wolfe; refrain James M.Gray; Talmage J.Bittikofer,1921",
+        "territory": "US source basis. Bittikofer died1986; no blanket worldwide clearance."
+      },
+      "scope_and_edition_notes": [
+        "All four printed stanzas and common refrain,160 lyric syllables; no tempo invented",
+        "All four source SATB voices,256 heads",
+        "Historical Bittikofer1921 same-hymn setting, not modern Nyce arrangement. Common refrain reflowed onto a separate music line; music and underlay unchanged."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-complete-in-thee-review.md",
+        "audit": "reports/independent-complete-in-thee-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B162",
+      "title": "Complete in Thee",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "mobile-complete-in-thee",
+      "abc_file": "abc/mobile-complete-in-thee.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B162",
+        "Song title": "Complete in Thee",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/126626",
+        "Lyrics source": "https://hymnary.org/hymn/WASH1957/191",
+        "Editable source": "",
+        "Tune and work identity": "COMPLETE IN THEE — Talmage J. Bittikofer (1921); Aaron R. Wolfe verses and James M. Gray refrain",
+        "Public distribution rights": "Hymnary WASH1957 #191 explicitly records text and tune copyright 1921 by T. J. Bittikofer, now Public Domain. Actual tune PDF says Public Domain and credits Bittikofer 1921. US-PD basis; territory review still appropriate.",
+        "Rights / identity evidence": "https://hymnary.org/hymn/WASH1957/191",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nSAME HYMN / DIFFERENT TUNE: use traditional Bittikofer 1921 setting instead of protected Ben Nyce setting heard in Ben Everson recording. Preserves Wolfe verses and Gray refrain, with historical wording variants. The music PDF has no lyric underlay; pair/engrave using linked full lyrics. Do not use modern protected recording arrangement. Do not mistake Cyber Hymnal HESPERUS setting (without Gray refrain) for this setting.",
+        "Playlist positions": "221",
+        "Playlist artists": "Benjamin Everson",
+        "Original track titles": "Complete in Thee",
+        "Source review": "One-page PDF staff notation (no lyric underlay) + full matching lyrics/refrain in HTML; assembly needed\nActual one-page PDF opened and notation/title/date/PD text inspected via extraction; full lyric/refrain source and its PD notes opened. Combined score with underlaid lyrics not yet assembled."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

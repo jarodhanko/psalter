@@ -1,0 +1,61 @@
+X:1
+T:Battle Hymn of the Republic
+T:Mine Eyes Have Seen the Glory
+C:American folk song / William Steffe; words by Julia Ward Howe
+S:Music: CCEH tune 000510, Battle Hymn, four-part score
+S:Text: The Public Domain Song Anthology (Berger/Israels, 2020), printed p.38 / PDF p.58
+Z:Composite edition: CCEH music with the previously retained first stanza and refrain
+N:Four editorial SATB tracks separate the upper and lower notes of each source staff; the source does not name SATB parts.
+N:Music preserves CCEH's B-flat key, untied pickup, sustained cadences and three-beat final bar. No anthology chord layer is retained.
+N:CCEH supplies no lyrics. Every prior lyric field and its pitched-event underlay is retained; no additional stanzas are introduced.
+N:CCEH declares the music and files public domain; the historical harmonizer and printed edition are unidentified. No blanket worldwide clearance is claimed.
+N:Retained anthology text: underlying US public-domain assertion; new anthology contributions CC0 1.0.
+M:4/4
+L:1/16
+Q:1/4=120
+%%score { ( 1 2 ) | ( 3 4 ) }
+V:1 clef=treble name="Soprano" stem=up
+V:2 clef=treble name="Alto" stem=down
+V:3 clef=bass name="Tenor" stem=up
+V:4 clef=bass name="Bass" stem=down
+K:Bb
+[V:1] "^Verse"F3 F | F3 F F3 E D3 F B3 c | d3 d d3 c B4 B3 A |
+w: Mine_ | eyes have seen the glor-y of the | com-ing of the Lord; He is |
+[V:2] D3 D | D3 D D3 C B,3 D F3 F | F3 F F3 E D4 F3 F |
+[V:3] B,3 B, | B,3 B, B,3 F, F,3 B, B,3 A, | B,3 B, B,3 A, B,4 B,3 B, |
+[V:4] B,,3 B,, | B,,3 B,, B,,3 B,, B,,3 B,, D,3 F, | B,3 B, F,3 F, B,,4 D,3 D, |
+[V:1] G3 G G3 A B3 A B3 G | F3 G F3 D F4 F3 F |
+w: tramp-ling out the vin-tage where the | grapes of wrath are stored; He hath |
+[V:2] E3 E E3 F G3 F G3 E | D3 E D3 B, D4 D3 D |
+[V:3] B,3 B, B,3 B, E3 E E3 B, | B,3 B, B,3 F, B,4 B,3 B, |
+[V:4] E,3 E, E,3 E, E,3 E, E,3 E, | B,,3 B,, B,,3 B,, B,,4 B,,3 B,, |
+[V:1] F3 F F3 E D3 F B3 c | d3 d d3 c B4 B4 |
+w: loosed the fate-ful light-ning of His | ter-ri-ble swift sword, His |
+[V:2] D3 D D3 C B,3 D F3 F | F3 F F3 E D4 F4 |
+[V:3] B,3 B, B,3 F, F,3 B, B,3 A, | B,3 B, B,3 A, B,4 B,4 |
+[V:4] B,,3 B,, B,,3 B,, B,,3 B,, D,3 F, | B,3 B, F,3 F, B,,4 D,4 |
+[V:1] c4 c4 B4 A4 | B16 |
+w: truth is march-ing | on. |
+[V:2] G4 G4 F4 E4 | D16 |
+[V:3] B,4 E4 D4 C4 | B,16 |
+[V:4] E,4 E,4 F,4 F,4 | B,,16 |
+[V:1] "^Chorus"F6 E2 D3 F B3 c | d8 B8 |
+w: Glor-y! glor-y! Hal-le-lu-jah! |
+[V:2] D6 C2 B,3 D F3 F | F8 F8 |
+[V:3] B,6 F,2 F,3 B, B,3 A, | B,8 B,8 |
+[V:4] B,,6 B,,2 B,,3 B,, D,3 F, | B,8 D,8 |
+[V:1] G6 A2 B3 A B3 G | F8 D8 |
+w: Glor-y! glor-y! Hal-le-lu-jah! |
+[V:2] E6 F2 G3 F G3 E | D8 B,8 |
+[V:3] B,6 B,2 B,3 B, B,3 B, | B,8 F,8 |
+[V:4] E,6 E,2 E,3 E, E,3 E, | B,,8 B,,8 |
+[V:1] F6 E2 D3 F B3 c | d8 B4 B4 |
+w: Glor-y! glor-y! Hal-le-lu-jah! His |
+[V:2] D6 C2 B,3 D F3 F | F8 F4 F4 |
+[V:3] B,6 F,2 F,3 B, B,3 A, | B,8 B,4 B,4 |
+[V:4] B,,6 B,,2 B,,3 B,, D,3 F, | B,8 D,4 D,4 |
+[V:1] c4 c4 B4 A4 | B12 |]
+w: truth is march-ing | on! |
+[V:2] G4 G4 F4 E4 | D12 |]
+[V:3] B,4 E4 D4 C4 | B,12 |]
+[V:4] E,4 E,4 F,4 F,4 | B,,12 |]

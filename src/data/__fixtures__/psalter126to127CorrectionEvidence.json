@@ -1,0 +1,121 @@
+{
+  "songs": [
+    {
+      "id": "psalter126",
+      "previousAbc": "\nT:God a Very Present Help\nC:Tune: MATERNA; Samuel A. Ward\nR:Psalm 46; C. M.\nM:4/4\nL:1/8\nK:C\nN:Printed page 108\n%%score (T1 T2)(B1 B2)\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\nV:T1\nG2 G3 E E2 | G2 G3 D D2 | E2 F2 G2 A2 | B2 G6 | G2 G3 E E2 | G2 G3 D D2 | d2 ^c2 d2 e2 | A2 d6 | G2 e3 e d2 | c2 c3 B B2 | c2 d2 B2 A2 | G2 c6 | c2 c3 A A2 | c2 c3 G G2 | G2 A2 c2 G2 | d2 c6 |]\nw:1.~God is our ref-uge and our strength, Our ev-er-pres-ent aid, And, there-fore, though the earth re-move, We will not be a-fraid; Though hills a-midst the seas be cast, Though foam-ing wa-ters roar; Yea, though the might-y bil-lows shake The moun-tains on the shore.\nw:2.~A riv-er flows whose streams make glad The cit-y of our God, The ho-ly place where-in the Lord Most High has His a-bode; Since God is in the midst of her, Un-moved her walls shall stand; For God will be her ear-ly help, When troub-le is at hand.\nw:3.~The na-tions raged, the king-doms moved, But when His voice was heard; The troub-led earth was stilled to peace Be-fore His might-y word; The Lord of Hosts is on our side, Our safe-ty to se-cure; The God of Ja-cob is for us A ref-uge strong and sure.\nw:4.~O come, be-hold what won-drous works Je-ho-vah's hand has wrought; Come, see what des-o-la-tion great He on the earth has brought; To ut-most ends of all the earth He caus-es war to cease; The wea-pons of the strong de-stroyed, He makes a-bid-ing peace.\nw:5.~Be still and know that I am God, O'er all ex-alt-ed high; The sub-ject na-tions of the earth My Name shall mag-ni-fy; The Lord of Hosts is on our side, Our safe-ty to se-cure; The God of Ja-cob is for us A ref-uge strong and sure.\nV:T2\nE2 E3 C C2 | E2 D3 B, B,2 | B,2 D2 D2 F2 | F2 (E4 F2) | D2 E3 C C2 | E2 D3 D D2 | G2 G2 G2 ^F2 | A2 (G2 ^F2 =F2) | G2 G3 G G2 | E2 F3 G G2 | G2 G2 G2 F2 | F2 (E4 F2) | G2 F3 F F2 | F2 E3 E E2 | G2 A2 c2 G2 | F2 E6 |]\nV:B1\nC2 C3 G, G,2 | C2 B,3 G, G,2 | G,2 B,2 B,2 D2 | D2 (C2 ^A,2 B,2) | B,2 C3 G, G,2 | B,2 B,3 B, B,2 | B,2 B,2 B,2 C2 | C2 (B,2 C2 D2) | G,2 C3 C C2 | C2 D3 D D2 | C2 B,2 B,2 C2 | D2 (C2 G,2 A,2) | _B,2 A,3 A, A,2 | A,2 G,3 C C2 | G,2 A,2 C2 G,2 | B,2 C6 |]\nV:B2\nC,2 C,3 C, C,2 | G,,2 D,3 D, D,2 | G,,2 D,2 D,2 G,,2 | G,,2 (C,2 ^C,2 D,2) | G,,2 C,3 C, C,2 | A,,2 D,3 D, D,2 | D,2 D,2 D,2 D,2 | ^F,2 (G,2 A,2 B,2) | G,2 G,3 E, E,2 | G,2 G,3 D, D,2 | E,2 F,2 G,2 A,2 | B,2 (C2 C,4) | C,2 F,3 F, F,2 | D,2 G,3 G, G,2 | G,2 A,2 C2 G,2 | G,,2 C,6 |]\n",
+      "previousAbcSHA256": "db82a5f4b15e28be22147e950650007d7d5eb4ea4fffc7b94f1e506834a4c941",
+      "correctedAbcSHA256": "c69f04c155605e2c5d50fd2fb7bbdd295e7f3ec9c13ab8fcf2754c084170916c",
+      "fixtureSHA256": "d0a5f83dc09ef69f6ef68b1c955953beb2ec49b27fe0f867c903864ad2391035",
+      "manualLedgerSHA256": "67b27d4417cf5837af918cceb70532fb35550ce11834c5c414ddf823c605e080",
+      "initialManualLedgerSHA256": "67b27d4417cf5837af918cceb70532fb35550ce11834c5c414ddf823c605e080",
+      "printedProse": {
+        "1": "God is our refuge and our strength, Our ever present aid, And, therefore, though the earth remove, We will not be afraid; Though hills amidst the seas be cast, Though foaming waters roar, Yea, though the mighty billows shake The mountains on the shore.",
+        "2": "A river flows whose streams make glad The city of our God, The holy place wherein the Lord Most High has His abode; Since God is in the midst of her, Unmoved her walls shall stand, For God will be her early help, When trouble is at hand.",
+        "3": "The nations raged, the kingdoms moved, But when His voice was heard The troubled earth was stilled to peace Before His mighty word. The Lord of Hosts is on our side, Our safety to secure; The God of Jacob is for us A refuge strong and sure.",
+        "4": "O come, behold what wondrous works Jehovah's hand has wrought; Come, see what desolation great He on the earth has brought. To utmost ends of all the earth He causes war to cease; The weapons of the strong destroyed, He makes abiding peace.",
+        "5": "Be still and know that I am God, O'er all exalted high; The subject nations of the earth My Name shall magnify. The Lord of Hosts is on our side, Our safety to secure; The God of Jacob is for us A refuge strong and sure."
+      },
+      "corrections": [
+        {
+          "reason": "Tenor q20 B3 to A3",
+          "before": "B,2 B,3 B, B,2",
+          "after": "A,2 B,3 B, B,2"
+        },
+        {
+          "reason": "T1 printed pickup and bars",
+          "before": "G2 G3 E E2 | G2 G3 D D2 | E2 F2 G2 A2 | B2 G6 | G2 G3 E E2 | G2 G3 D D2 | d2 ^c2 d2 e2 | A2 d6 | G2 e3 e d2 | c2 c3 B B2 | c2 d2 B2 A2 | G2 c6 | c2 c3 A A2 | c2 c3 G G2 | G2 A2 c2 G2 | d2 c6 |]",
+          "after": "G2 | G3 E E2 G2 | G3 D D2 || E2 | F2 G2 A2 B2 | G6 || G2 | G3 E E2 G2 | G3 D D2 || d2 | ^c2 d2 e2 A2 | d6 || G2 | e3 e d2 c2 | c3 B B2 || c2 | d2 B2 A2 G2 | c6 || c2 | c3 A A2 c2 | c3 G G2 || G2 | A2 c2 G2 d2 | c6 |]"
+        },
+        {
+          "reason": "T2 printed pickup and bars",
+          "before": "E2 E3 C C2 | E2 D3 B, B,2 | B,2 D2 D2 F2 | F2 (E4 F2) | D2 E3 C C2 | E2 D3 D D2 | G2 G2 G2 ^F2 | A2 (G2 ^F2 =F2) | G2 G3 G G2 | E2 F3 G G2 | G2 G2 G2 F2 | F2 (E4 F2) | G2 F3 F F2 | F2 E3 E E2 | G2 A2 c2 G2 | F2 E6 |]",
+          "after": "E2 | E3 C C2 E2 | D3 B, B,2 || B,2 | D2 D2 F2 F2 | (E4 F2) || D2 | E3 C C2 E2 | D3 D D2 || G2 | G2 G2 ^F2 A2 | (G2 ^F2 =F2) || G2 | G3 G G2 E2 | F3 G G2 || G2 | G2 G2 F2 F2 | (E4 F2) || G2 | F3 F F2 F2 | E3 E E2 || G2 | A2 c2 G2 F2 | E6 |]"
+        },
+        {
+          "reason": "B1 printed pickup and bars",
+          "before": "C2 C3 G, G,2 | C2 B,3 G, G,2 | G,2 B,2 B,2 D2 | D2 (C2 ^A,2 B,2) | B,2 C3 G, G,2 | A,2 B,3 B, B,2 | B,2 B,2 B,2 C2 | C2 (B,2 C2 D2) | G,2 C3 C C2 | C2 D3 D D2 | C2 B,2 B,2 C2 | D2 (C2 G,2 A,2) | _B,2 A,3 A, A,2 | A,2 G,3 C C2 | G,2 A,2 C2 G,2 | B,2 C6 |]",
+          "after": "C2 | C3 G, G,2 C2 | B,3 G, G,2 || G,2 | B,2 B,2 D2 D2 | (C2 ^A,2 B,2) || B,2 | C3 G, G,2 A,2 | B,3 B, B,2 || B,2 | B,2 B,2 C2 C2 | (B,2 C2 D2) || G,2 | C3 C C2 C2 | D3 D D2 || C2 | B,2 B,2 C2 D2 | (C2 G,2 A,2) || _B,2 | A,3 A, A,2 A,2 | G,3 C C2 || G,2 | A,2 C2 G,2 B,2 | C6 |]"
+        },
+        {
+          "reason": "B2 printed pickup and bars",
+          "before": "C,2 C,3 C, C,2 | G,,2 D,3 D, D,2 | G,,2 D,2 D,2 G,,2 | G,,2 (C,2 ^C,2 D,2) | G,,2 C,3 C, C,2 | A,,2 D,3 D, D,2 | D,2 D,2 D,2 D,2 | ^F,2 (G,2 A,2 B,2) | G,2 G,3 E, E,2 | G,2 G,3 D, D,2 | E,2 F,2 G,2 A,2 | B,2 (C2 C,4) | C,2 F,3 F, F,2 | D,2 G,3 G, G,2 | G,2 A,2 C2 G,2 | G,,2 C,6 |]",
+          "after": "C,2 | C,3 C, C,2 G,,2 | D,3 D, D,2 || G,,2 | D,2 D,2 G,,2 G,,2 | (C,2 ^C,2 D,2) || G,,2 | C,3 C, C,2 A,,2 | D,3 D, D,2 || D,2 | D,2 D,2 D,2 ^F,2 | (G,2 A,2 B,2) || G,2 | G,3 E, E,2 G,2 | G,3 D, D,2 || E,2 | F,2 G,2 A,2 B,2 | (C2 C,4) || C,2 | F,3 F, F,2 D,2 | G,3 G, G,2 || G,2 | A,2 C2 G,2 G,,2 | C,6 |]"
+        },
+        {
+          "reason": "Printed word or punctuation",
+          "before": "ev-er-pres-ent",
+          "after": "ev-er pres-ent"
+        },
+        {
+          "reason": "Printed word or punctuation",
+          "before": "wa-ters roar;",
+          "after": "wa-ters roar,"
+        },
+        {
+          "reason": "Printed word or punctuation",
+          "before": "walls shall stand;",
+          "after": "walls shall stand,"
+        },
+        {
+          "reason": "Printed word or punctuation",
+          "before": "His voice was heard;",
+          "after": "His voice was heard"
+        },
+        {
+          "reason": "Printed word or punctuation",
+          "before": "His might-y word;",
+          "after": "His might-y word."
+        },
+        {
+          "reason": "Printed word or punctuation",
+          "before": "the earth has brought;",
+          "after": "the earth has brought."
+        },
+        {
+          "reason": "Printed word or punctuation",
+          "before": "Name shall mag-ni-fy;",
+          "after": "Name shall mag-ni-fy."
+        },
+        {
+          "reason": "Printed word or punctuation",
+          "before": "The wea-pons",
+          "after": "The weap-ons"
+        }
+      ],
+      "provenance": {
+        "source": "RFPA Psalter PDF 189–190; original 1912 leaf 0114",
+        "independentSecondReadingSHA256": "5adbc032355b20c94791bc139000da3f10959f89b0794714746c908d3c386a2a"
+      }
+    },
+    {
+      "id": "psalter127",
+      "previousAbc": "T:The Protective Power of God\nC:Tune: WALTHAM; J. Baptiste Calkin\nM:4/4\nL:1/4\nK:Eb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] E | G3/2 ^F/2 G G | A3/2 G/2 A || =A | B e\nw:1.~God will our strength and ref-uge prove, In all dis-\nw:2.~Our trust in God shall still a-bide Tho' hills be\nw:3.~A riv-er flows, whose liv-ing streams Make glad the\nw:4.~God has in her His dwell-ing made, And she shall\nw:5.~The kings and na-tions raged in pride; He spake, the\nw:6.~Come, see the works of God dis-played, The won-ders\n[V:T2] E | E3/2 E/2 E _D | =D3/2 D/2 D || E | E G\n[V:B1] G, | B,3/2 B,/2 B, B, | B,3/2 B,/2 B, || C | B, B,\n[V:B2] E, | E, B,, E, =E, | F, B,, F, || ^F, | G, B,,\n[V:T1] d c | c3/2 B/2 B || B | B3/2 A/2 G A |\nw: tress a pres-ent aid, And though the trem-bling\nw: shak-en from their seat, And though the o-cean's\nw: cit-y of our God, The ho-ly place where\nw: nev-er-more be moved; Her God shall ear-ly\nw: earth did melt a-way; The Lord of Hosts is\nw: of His might-y hand, What des-o-la-tions\n[V:T2] G E | F3/2 F/2 F || E | E3/2 E/2 E B, |\n[V:B1] B, E | D3/2 D/2 D || E | C3/2 C/2 B, E, |\n[V:B2] E, G, | A,3/2 A,/2 A, || G, | A,3/2 A,/2 E, E, |\n[V:T1] G3/2 F/2 E || F | G A B c | D3/2 F/2 E |]\nw: earth re-move, We will not fear nor be dis-mayed.\nw: swell-ing tide A-gainst the trem-bling moun-tains beat.\nw: glo-ry beams, Where God Most High has His a-bode.\nw: give her aid, Her con-stant help-er He has proved.\nw: on our side, Our fa-thers' God, our strength and stay.\nw: He has made, What ru-in spread through all the land.\n[V:T2] =B,3/2 B,/2 C || E | E E E E | D3/2 D/2 E |]\n[V:B1] G,3/2 G,/2 G, || [F,A,] | B, C B, F, | F,3/2 A,/2 G, |]\n[V:B2] D,3/2 D,/2 C, || F,, | B,, A,, G,, A,, | B,,3/2 B,,/2 E, |]\nW:7 Through all the peopled earth He makes\nW:The dreadful scourge of war to cease,\nW:The implements of battle breaks,\nW:And makes the nations dwell in peace.\nW:\nW:8 Be still, ye nations, bow in fear,\nW:And know that I alone am God;\nW:To us the Lord of Hosts is near,\nW:Our fathers' God is our abode.",
+      "previousAbcSHA256": "81e1d551d1f5d5f3a8f742504234035b04748990bdd3602b3d79f233a2e2e09c",
+      "correctedAbcSHA256": "94fba93a24e191bf7fe1ca27fb63858797c4030afd1d1cf73912c3f0bfe6a284",
+      "fixtureSHA256": "4f14c0b5374b62714d90c81e1a6fb8aa97299f26ef5bad15d5fc81e0fda20dc2",
+      "manualLedgerSHA256": "cf24d409d6aa4b645e29cc399d4c2d07cad6ab57e0dc3c14780d5f6f2733884c",
+      "initialManualLedgerSHA256": "326248a3bac0a05bdc266da4bc8519100d5318bc670e4f66321a301271e6e947",
+      "printedProse": {
+        "1": "God will our strength and refuge prove, In all distress a present aid, And, though the trembling earth remove, We will not fear nor be dismayed.",
+        "2": "Our trust in God shall still abide Tho' hills be shaken from their seat, And though the ocean's swelling tide Against the trembling mountains beat.",
+        "3": "A river flows, whose living streams Make glad the city of our God, The holy place where glory beams, Where God Most High has His abode.",
+        "4": "God has in her His dwelling made, And she shall nevermore be moved; Her God shall early give her aid, Her constant helper He has proved.",
+        "5": "The kings and nations raged in pride; He spake, the earth did melt away; The Lord of Hosts is on our side, Our fathers' God, our strength and stay.",
+        "6": "Come, see the works of God displayed, The wonders of His mighty hand, What desolations He has made, What ruin spread through all the land.",
+        "7": "Through all the peopled earth He makes The dreadful scourge of war to cease, The implements of battle breaks, And makes the nations dwell in peace.",
+        "8": "Be still, ye nations, bow in fear, And know that I alone am God; To us the Lord of Hosts is near, Our fathers' God is our abode."
+      },
+      "corrections": [
+        {
+          "reason": "Stanza 1 q16 comma",
+          "before": "w: tress a pres-ent aid, And though the trem-bling",
+          "after": "w: tress a pres-ent aid, And, though the trem-bling"
+        }
+      ],
+      "provenance": {
+        "source": "RFPA Psalter PDF 191–192; original 1912 leaf 0115",
+        "independentSecondReadingSHA256": "72a66ca9b23ddbe4065c53f642d630b46c816ca2df9185181b3c34fdc819f5d6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "sourceSha256": "7261e3c2590276c6ae9f686c042dca5bf4b2119e5a3ee02e5f2bb62c6bf97c6e",
+  "metadata": {
+    "id": "hymn-oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+    "title": "It Is Well with My Soul",
+    "composer": "Words: Horatio G. Spafford, 1873.  Music and Setting: 'It Is Well' or 'Ville Du Havre' Philip P. Bliss, 1876.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/It_Is_Well_With_My_Soul/It_Is_Well_With_My_Soul-It_Is_Well-Ville_Du_Havre.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Horatio G. Spafford, 1873.  Music and Setting: 'It Is Well' or 'Ville Du Havre' Philip P. Bliss, 1876.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2010 Revision.",
+      "Music source: The Evangelical Hymnal, 1921 Hymn 208."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2010 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'It Is Well' or 'Ville Du Havre' Philip P. Bliss, 1876.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+      "Note that this hymn is sometimes published without the refrain"
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+      "title": "It Is Well with My Soul",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H010"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B008"
+        }
+      ],
+      "file": "abc/oh_it-is-well-with-my-soul-it-is-well-ville-du-havre.abc",
+      "sha256": "7261e3c2590276c6ae9f686c042dca5bf4b2119e5a3ee02e5f2bb62c6bf97c6e",
+      "canonical_reference_in_archive": "abc/oh_it-is-well-with-my-soul-it-is-well-ville-du-havre.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/It_Is_Well_With_My_Soul/It_Is_Well_With_My_Soul-It_Is_Well-Ville_Du_Havre.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Horatio G. Spafford, 1873.  Music and Setting: 'It Is Well' or 'Ville Du Havre' Philip P. Bliss, 1876.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2010 Revision.",
+          "Music source: The Evangelical Hymnal, 1921 Hymn 208."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'It Is Well' or 'Ville Du Havre' Philip P. Bliss, 1876.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'It Is Well' or 'Ville Du Havre' Philip P. Bliss, 1876.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_it-is-well-with-my-soul-it-is-well-ville-du-havre.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H010",
+      "title": "It Is Well with My Soul",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+      "abc_file": "abc/oh_it-is-well-with-my-soul-it-is-well-ville-du-havre.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H010",
+        "Hymn / version": "It Is Well with My Soul",
+        "Playlist track #": "10, 60, 107, 110",
+        "Music / score source": "https://hymnary.org/media/fetch/114309",
+        "Lyrics / companion source": "https://hymnary.org/media/fetch/114309",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nOpened Cyber Hymnal PDF says Public Domain.",
+        "Rights source": "https://hymnary.org/media/fetch/114309",
+        "Text, tune and version notes": "Text: Horatio G. Spafford, 1873\nTune: VILLE DU HAVRE; Philip P. Bliss, 1876\nTrack 60 is Brandon Heath’s It Is Well (Oh My Soul) adaptation. Recommended open edition uses the traditional Bliss melody and omits the modern added chorus.\nAppears within medley track 110. Use the individual song edition rather than copying the medley arrangement.",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared. Traditional standalone tracks 10/107 only; medley 110 is skipped, and track 60’s modern Oh My Soul additions remain excluded."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B008",
+      "title": "It Is Well with My Soul",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+      "abc_file": "abc/oh_it-is-well-with-my-soul-it-is-well-ville-du-havre.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B008",
+        "Song title": "It Is Well with My Soul",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/114309",
+        "Lyrics source": "https://hymnary.org/media/fetch/114309",
+        "Editable source": "",
+        "Tune and work identity": "Text: Horatio G. Spafford, 1873\nTune: VILLE DU HAVRE; Philip P. Bliss, 1876",
+        "Public distribution rights": "Public-domain source edition (US)\nOpened Cyber Hymnal PDF says Public Domain.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/114309",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 257, 338, 489 were grouped by title. Confirm the same hymn/text and check for added sections.\nOriginal hymn only. Recording adaptations at playlist positions 58 contain added material and remain excluded in the track audit.",
+        "Playlist positions": "8, 58, 107, 257, 338, 489",
+        "Playlist artists": "Anthem Lights; Brandon Heath; Stuart Townend; Joseph Habedank; Redeemed Quartet; Mark Schultz",
+        "Original track titles": "It Is Well With My Soul; It Is Well (Oh My Soul); It Is Well; It Is Well with My Soul",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+% Source edition: tt-lead-kindly-light
+% Source URL: https://library.timelesstruths.org/library/music/L/Lead_Kindly_Light/Lead_Kindly_Light.xml
+% Source SHA256: 519b2792d3d886f3b2f2dd6a917a5614a20649caa2f7df8dd59ff848ba0c3f8c
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Lead_Kindly_Light.repairs.json
+% Catalog membership: book1:H065, book2:B061
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: John H. Newman, 1833.  MUSIC: “Lux Benigna”; John B. Dykes, 1865.  Public Domain.
+% Original rights: *garish: showy, glaring; moor: wasteland; fen: marsh; crag: rugged rock; torrent: rushing stream
+% Original credit-words: Lead, Kindly Light
+% Original credit-words: WORDS: John H. Newman, 1833.  MUSIC: “Lux Benigna”; John B. Dykes, 1865.  Public Domain.
+% Original credit-words: *garish: showy, glaring; moor: wasteland; fen: marsh; crag: rugged rock; torrent: rushing stream
+% Original credit-words: The Lord went before them... to lead them the way; and... to give them light. Ex. 13:21; Psa. 43:3
+% Original credit-words: I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life. Jn. 8:12
+X:1
+T:Lead, Kindly Light
+Z:WORDS: John H. Newman, 1833.  MUSIC: “Lux Benigna”; John B. Dykes, 1865.  Public Domain.
+Z:*garish: showy, glaring; moor: wasteland; fen: marsh; crag: rugged rock; torrent: rushing stream
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+M:3/2
+K:Ab
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ E [EA] [EB] | [Ec]3/2 [Cc]/ [DB] [EA] [EF] [DA] | (([DF]2 [EE]4)) | [EA]2 [EG]2 A2 | %4
+w: 1.~Lead, kind- ly|Light, a- mid th’~en- circ- ling|gloom, *|Lead Thou me|
+w: 2.~I was not|ev- er thus, nor prayed that|Thou *|Shouldst lead me|
+w: 3.~So long Thy|pow’r has blest me, sure it|still *|Wilt lead me|
+ [DB]3 |  E [EA] [EB] | [Ec]3/2 [Cc]/ [DB] [EA] [EF] [DA] | (([DF]2 [CE]4)) | %8
+w: on;|The night is|dark, and I am far from|home, *|
+w: on;|I loved to|choose and see my path, but|now *|
+w: on,|O’er moor and|fen, o’er crag and tor- rent,|till *|
+ [CE]2 [EA]3 [EG] | (G2 A4) |  [EB]2 [=DB]2 [EB]2 | [FB]4 [EB]2 | %12
+w: Lead Thou me|on; *|Keep Thou my|feet; I|
+w: Lead Thou me|on; *|I loved the|\*gar- ish|
+w: The night is|gone, *|And with the|morn those|
+ [EB] [Ec] (B A) (G F) | E6 |  [Cc]2 [DB]2 A2 | [FA]3 [FA] [EG] [DF] | %16
+w: do not ask * to *|see|The dis- tant|scene; one step e-|
+w: day, and spite * of *|fears,|Pride ruled my|will; re- mem- ber|
+w: an- gel fac- * es *|smile,|Which I have|loved long since, and|
+ (([CE]2 [EA]3)) [DG] | (([DG]2 !fermata![CA])) |] %18
+w: nough * for|me. *|
+w: not * past|years. *|
+w: lost * a-|while. *|
+V:2
+ E x x | x6 | x6 | x2 x2 (E C) | %4
+ x3 |  E x x | x6 | x6 | %8
+ x6 | E6 |  x6 | x6 | %12
+ x2 =D2 D2 | (E2 C2 D2) |  x2 x2 (E =E) | x6 | %16
+ x6 | x3 |] %18
+V:3
+ [A,C] [A,C] [A,D] | [A,C]3/2 [A,,A,]/ [B,,A,] [C,A,] [D,A,] [F,A,] | (A,2 C2 D2) | [CE]2 [B,D]2 (C A,) | %4
+ (A,2 G,) |  [E,D] [F,D] [G,D] | [A,C]3/2 [A,,A,]/ [B,,A,] [C,A,] [D,A,] [F,A,] | A,6 | %8
+ [E,A,]2 [E,C]3 [E,B,] | (([E,D]2 [A,C]4)) |  [G,B,]2 [F,A,]2 (G, C) | (B,2 A,2) [E,G,]2 | %12
+ [B,,G,] [B,,G,] [B,,A,]2 [B,,A,]2 | (G,2 A,2 B,2) |  [A,,A,]2 (F, G,) [C,A,]2 | [D,A,]3 [D,F,] [D,G,] [D,A,] | %16
+ (A,2 C3) [E,B,] | (([E,B,]2 !fermata![A,,A,])) |] %18
+V:4
+ x3 | x6 | (A,4 B,2) | x2 x2 A,2 | %4
+ E,3 |  x3 | x6 | (A,2 A,,2 C,2) | %8
+ x6 | x6 |  x2 x2 E,2 | =D,4 x2 | %12
+ x6 | E,6 |  x2 B,,2 x2 | x6 | %16
+ E,4- E, x | x3 |] %18

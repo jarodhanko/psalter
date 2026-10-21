@@ -1,0 +1,158 @@
+{
+  "sourceSha256": "89bd2b5f48c17bb06fe7dc30fe1a77315083e8a7a3b74d2e8494c37306799214",
+  "metadata": {
+    "id": "hymn-oh_what-a-friend-we-have-in-jesus-untitled",
+    "title": "What a Friend We Have in Jesus",
+    "composer": "Words: Joseph M. Scriven, 1855. · Music: 'untitled' Charles C. Converse, 1868.  Setting: \"Book of hymns and tunes\", 1874.",
+    "tune": "untitled",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_what-a-friend-we-have-in-jesus-untitled",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/What_A_Friend_We_Have_In_Jesus/What_A_Friend_We_Have_In_Jesus-untitled.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Joseph M. Scriven, 1855.",
+      "Music: 'untitled' Charles C. Converse, 1868.  Setting: \"Book of hymns and tunes\", 1874.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision.",
+      "Music source: \"Book of hymns and tunes\", 1874 (Presbyterian USA) Hymn 369"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'untitled' Charles C. Converse, 1868.  Setting: \"Book of hymns and tunes\", 1874.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_what-a-friend-we-have-in-jesus-untitled",
+      "title": "What a Friend We Have in Jesus",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H007"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B014"
+        }
+      ],
+      "file": "abc/oh_what-a-friend-we-have-in-jesus-untitled.abc",
+      "sha256": "89bd2b5f48c17bb06fe7dc30fe1a77315083e8a7a3b74d2e8494c37306799214",
+      "canonical_reference_in_archive": "abc/oh_what-a-friend-we-have-in-jesus-untitled.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/What_A_Friend_We_Have_In_Jesus/What_A_Friend_We_Have_In_Jesus-untitled.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Joseph M. Scriven, 1855.",
+          "Music: 'untitled' Charles C. Converse, 1868.  Setting: \"Book of hymns and tunes\", 1874.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision.",
+          "Music source: \"Book of hymns and tunes\", 1874 (Presbyterian USA) Hymn 369"
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'untitled' Charles C. Converse, 1868.  Setting: \"Book of hymns and tunes\", 1874.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'untitled' Charles C. Converse, 1868.  Setting: \"Book of hymns and tunes\", 1874.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_what-a-friend-we-have-in-jesus-untitled.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H007",
+      "title": "What a Friend We Have in Jesus",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_what-a-friend-we-have-in-jesus-untitled",
+      "abc_file": "abc/oh_what-a-friend-we-have-in-jesus-untitled.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H007",
+        "Hymn / version": "What a Friend We Have in Jesus",
+        "Playlist track #": "7, 73, 121",
+        "Music / score source": "https://hymnary.org/media/fetch/144065",
+        "Lyrics / companion source": "https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights source": "https://hymnary.org/media/fetch/144065",
+        "Text, tune and version notes": "Text: Joseph M. Scriven\nTune: CONVERSE; Charles C. Converse\nShort recording title normalized; lyric listing confirms Scriven hymn. Lavik arrangement not matched; source score has three verses.",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B014",
+      "title": "What a Friend We Have in Jesus",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_what-a-friend-we-have-in-jesus-untitled",
+      "abc_file": "abc/oh_what-a-friend-we-have-in-jesus-untitled.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B014",
+        "Song title": "What a Friend We Have in Jesus",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/144065",
+        "Lyrics source": "https://hymnary.org/text/what_a_friend_we_have_in_jesus_all_our_s",
+        "Editable source": "",
+        "Tune and work identity": "Text: Joseph M. Scriven\nTune: CONVERSE; Charles C. Converse",
+        "Public distribution rights": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/144065",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 409, 431 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "14, 73, 121, 409, 431",
+        "Playlist artists": "Jadon Lavik; Guy Penrod; Chris Else; The Sing Team; Ghost Ship",
+        "Original track titles": "What A Friend; What A Friend We Have In Jesus; What a Friend We Have in Jesus",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

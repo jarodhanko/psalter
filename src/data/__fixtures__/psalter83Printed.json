@@ -1,0 +1,1495 @@
+{
+  "source": "RFPA PDF page131 SHA2563653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504; original1912 psalterwithrespo00unit leaf0079 printed73. Initial ledger entered before canonical exposure; subsequent six upper-note reading corrections documented in evidence. Bass q32 F3 independently confirmed by integrator.",
+  "qualification": "Two F3 heads at q60.5/61 are small in both witnesses but currently stored as ordinary B1 chords. This test accounts for their pitches without certifying their displayed size or solo ownership. Redundant tenor flats q36/44 remain typography qualifications.",
+  "events": [
+    {
+      "voice": "T1",
+      "q": 0,
+      "duration": 1.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 1.0,
+      "duration": 1.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 2.0,
+      "duration": 1.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 3.0,
+      "duration": 1.5,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 4.5,
+      "duration": 0.5,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 5.0,
+      "duration": 2.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 7.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 8.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 9.0,
+      "duration": 1.5,
+      "midi": 70
+    },
+    {
+      "voice": "T1",
+      "q": 10.5,
+      "duration": 0.5,
+      "midi": 70
+    },
+    {
+      "voice": "T1",
+      "q": 11.0,
+      "duration": 1.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 12.0,
+      "duration": 1.0,
+      "midi": 70
+    },
+    {
+      "voice": "T1",
+      "q": 13.0,
+      "duration": 3.0,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 16.0,
+      "duration": 1.0,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 17.0,
+      "duration": 1.5,
+      "midi": 72
+    },
+    {
+      "voice": "T1",
+      "q": 18.5,
+      "duration": 0.5,
+      "midi": 72
+    },
+    {
+      "voice": "T1",
+      "q": 19.0,
+      "duration": 1.0,
+      "midi": 70
+    },
+    {
+      "voice": "T1",
+      "q": 20.0,
+      "duration": 1.0,
+      "midi": 70
+    },
+    {
+      "voice": "T1",
+      "q": 21.0,
+      "duration": 2.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 23.0,
+      "duration": 1.0,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 24.0,
+      "duration": 1.0,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 25.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 26.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 27.0,
+      "duration": 0.5,
+      "midi": 64
+    },
+    {
+      "voice": "T1",
+      "q": 27.5,
+      "duration": 0.5,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 28.0,
+      "duration": 0.5,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 28.5,
+      "duration": 0.5,
+      "midi": 64
+    },
+    {
+      "voice": "T1",
+      "q": 29.0,
+      "duration": 3.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 32.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 33.0,
+      "duration": 1.5,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 34.5,
+      "duration": 0.5,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 35.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 36.0,
+      "duration": 1.0,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 37.0,
+      "duration": 2.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 39.0,
+      "duration": 1.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 40.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 41.0,
+      "duration": 1.5,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 42.5,
+      "duration": 0.5,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 43.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 44.0,
+      "duration": 1.0,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 45.0,
+      "duration": 3.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 48.0,
+      "duration": 0.5,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 48.5,
+      "duration": 0.5,
+      "midi": 70
+    },
+    {
+      "voice": "T1",
+      "q": 49.0,
+      "duration": 1.0,
+      "midi": 72
+    },
+    {
+      "voice": "T1",
+      "q": 50.0,
+      "duration": 1.0,
+      "midi": 72
+    },
+    {
+      "voice": "T1",
+      "q": 51.0,
+      "duration": 1.5,
+      "midi": 74
+    },
+    {
+      "voice": "T1",
+      "q": 52.5,
+      "duration": 0.5,
+      "midi": 72
+    },
+    {
+      "voice": "T1",
+      "q": 53.0,
+      "duration": 2.0,
+      "midi": 72
+    },
+    {
+      "voice": "T1",
+      "q": 55.0,
+      "duration": 1.0,
+      "midi": 70
+    },
+    {
+      "voice": "T1",
+      "q": 56.0,
+      "duration": 1.0,
+      "midi": 70
+    },
+    {
+      "voice": "T1",
+      "q": 57.0,
+      "duration": 1.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 58.0,
+      "duration": 1.0,
+      "midi": 69
+    },
+    {
+      "voice": "T1",
+      "q": 59.0,
+      "duration": 1.5,
+      "midi": 67
+    },
+    {
+      "voice": "T1",
+      "q": 60.5,
+      "duration": 0.5,
+      "midi": 65
+    },
+    {
+      "voice": "T1",
+      "q": 61.0,
+      "duration": 3.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 1.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 2.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 3.0,
+      "duration": 1.5,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 4.5,
+      "duration": 0.5,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 5.0,
+      "duration": 2.0,
+      "midi": 62
+    },
+    {
+      "voice": "T2",
+      "q": 7.0,
+      "duration": 1.0,
+      "midi": 62
+    },
+    {
+      "voice": "T2",
+      "q": 8.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 9.0,
+      "duration": 1.5,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 10.5,
+      "duration": 0.5,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 11.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 12.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 13.0,
+      "duration": 3.0,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 16.0,
+      "duration": 1.0,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 17.0,
+      "duration": 1.5,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 18.5,
+      "duration": 0.5,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 19.0,
+      "duration": 1.0,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 20.0,
+      "duration": 1.0,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 21.0,
+      "duration": 2.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 23.0,
+      "duration": 1.0,
+      "midi": 62
+    },
+    {
+      "voice": "T2",
+      "q": 24.0,
+      "duration": 1.0,
+      "midi": 62
+    },
+    {
+      "voice": "T2",
+      "q": 25.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "T2",
+      "q": 26.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "T2",
+      "q": 27.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "T2",
+      "q": 28.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "T2",
+      "q": 29.0,
+      "duration": 3.0,
+      "midi": 60
+    },
+    {
+      "voice": "T2",
+      "q": 32.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "T2",
+      "q": 33.0,
+      "duration": 1.5,
+      "midi": 62
+    },
+    {
+      "voice": "T2",
+      "q": 34.5,
+      "duration": 0.5,
+      "midi": 62
+    },
+    {
+      "voice": "T2",
+      "q": 35.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 36.0,
+      "duration": 1.0,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 37.0,
+      "duration": 2.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 39.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 40.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "T2",
+      "q": 41.0,
+      "duration": 1.5,
+      "midi": 62
+    },
+    {
+      "voice": "T2",
+      "q": 42.5,
+      "duration": 0.5,
+      "midi": 62
+    },
+    {
+      "voice": "T2",
+      "q": 43.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 44.0,
+      "duration": 1.0,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 45.0,
+      "duration": 3.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 48.0,
+      "duration": 0.5,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 48.5,
+      "duration": 0.5,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 49.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 50.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 51.0,
+      "duration": 1.5,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 52.5,
+      "duration": 0.5,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 53.0,
+      "duration": 2.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 55.0,
+      "duration": 1.0,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 56.0,
+      "duration": 1.0,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 57.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 58.0,
+      "duration": 1.0,
+      "midi": 65
+    },
+    {
+      "voice": "T2",
+      "q": 59.0,
+      "duration": 1.5,
+      "midi": 64
+    },
+    {
+      "voice": "T2",
+      "q": 60.5,
+      "duration": 0.5,
+      "midi": 60
+    },
+    {
+      "voice": "T2",
+      "q": 61.0,
+      "duration": 3.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 1.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 2.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 3.0,
+      "duration": 1.5,
+      "midi": 58
+    },
+    {
+      "voice": "B1",
+      "q": 4.5,
+      "duration": 0.5,
+      "midi": 58
+    },
+    {
+      "voice": "B1",
+      "q": 5.0,
+      "duration": 2.0,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 7.0,
+      "duration": 1.0,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 8.0,
+      "duration": 1.0,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 9.0,
+      "duration": 1.5,
+      "midi": 62
+    },
+    {
+      "voice": "B1",
+      "q": 10.5,
+      "duration": 0.5,
+      "midi": 62
+    },
+    {
+      "voice": "B1",
+      "q": 11.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 12.0,
+      "duration": 1.0,
+      "midi": 62
+    },
+    {
+      "voice": "B1",
+      "q": 13.0,
+      "duration": 3.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 16.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 17.0,
+      "duration": 1.5,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 18.5,
+      "duration": 0.5,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 19.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 20.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 21.0,
+      "duration": 2.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 23.0,
+      "duration": 1.0,
+      "midi": 58
+    },
+    {
+      "voice": "B1",
+      "q": 24.0,
+      "duration": 1.0,
+      "midi": 58
+    },
+    {
+      "voice": "B1",
+      "q": 25.0,
+      "duration": 1.0,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 26.0,
+      "duration": 1.0,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 27.0,
+      "duration": 0.5,
+      "midi": 55
+    },
+    {
+      "voice": "B1",
+      "q": 27.5,
+      "duration": 0.5,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 28.0,
+      "duration": 0.5,
+      "midi": 58
+    },
+    {
+      "voice": "B1",
+      "q": 28.5,
+      "duration": 0.5,
+      "midi": 55
+    },
+    {
+      "voice": "B1",
+      "q": 29.0,
+      "duration": 3.0,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 32.0,
+      "duration": 1.0,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 33.0,
+      "duration": 1.5,
+      "midi": 62
+    },
+    {
+      "voice": "B1",
+      "q": 34.5,
+      "duration": 0.5,
+      "midi": 62
+    },
+    {
+      "voice": "B1",
+      "q": 35.0,
+      "duration": 1.0,
+      "midi": 61
+    },
+    {
+      "voice": "B1",
+      "q": 36.0,
+      "duration": 1.0,
+      "midi": 61
+    },
+    {
+      "voice": "B1",
+      "q": 37.0,
+      "duration": 2.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 39.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 40.0,
+      "duration": 1.0,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 41.0,
+      "duration": 1.5,
+      "midi": 62
+    },
+    {
+      "voice": "B1",
+      "q": 42.5,
+      "duration": 0.5,
+      "midi": 62
+    },
+    {
+      "voice": "B1",
+      "q": 43.0,
+      "duration": 1.0,
+      "midi": 61
+    },
+    {
+      "voice": "B1",
+      "q": 44.0,
+      "duration": 1.0,
+      "midi": 61
+    },
+    {
+      "voice": "B1",
+      "q": 45.0,
+      "duration": 3.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 48.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 49.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 50.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 51.0,
+      "duration": 1.5,
+      "midi": 58
+    },
+    {
+      "voice": "B1",
+      "q": 52.5,
+      "duration": 0.5,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 53.0,
+      "duration": 2.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 55.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 56.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 57.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 58.0,
+      "duration": 1.0,
+      "midi": 60
+    },
+    {
+      "voice": "B1",
+      "q": 59.0,
+      "duration": 1.5,
+      "midi": 58
+    },
+    {
+      "voice": "B1",
+      "q": 60.5,
+      "duration": 0.5,
+      "midi": 57
+    },
+    {
+      "voice": "B1",
+      "q": 61.0,
+      "duration": 3.0,
+      "midi": 57
+    },
+    {
+      "voice": "B2",
+      "q": 0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 1.0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 2.0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 3.0,
+      "duration": 1.5,
+      "midi": 48
+    },
+    {
+      "voice": "B2",
+      "q": 4.5,
+      "duration": 0.5,
+      "midi": 48
+    },
+    {
+      "voice": "B2",
+      "q": 5.0,
+      "duration": 2.0,
+      "midi": 50
+    },
+    {
+      "voice": "B2",
+      "q": 7.0,
+      "duration": 1.0,
+      "midi": 50
+    },
+    {
+      "voice": "B2",
+      "q": 8.0,
+      "duration": 1.0,
+      "midi": 50
+    },
+    {
+      "voice": "B2",
+      "q": 9.0,
+      "duration": 1.5,
+      "midi": 46
+    },
+    {
+      "voice": "B2",
+      "q": 10.5,
+      "duration": 0.5,
+      "midi": 46
+    },
+    {
+      "voice": "B2",
+      "q": 11.0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 12.0,
+      "duration": 1.0,
+      "midi": 46
+    },
+    {
+      "voice": "B2",
+      "q": 13.0,
+      "duration": 3.0,
+      "midi": 48
+    },
+    {
+      "voice": "B2",
+      "q": 16.0,
+      "duration": 1.0,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 17.0,
+      "duration": 1.5,
+      "midi": 57
+    },
+    {
+      "voice": "B2",
+      "q": 18.5,
+      "duration": 0.5,
+      "midi": 57
+    },
+    {
+      "voice": "B2",
+      "q": 19.0,
+      "duration": 1.0,
+      "midi": 55
+    },
+    {
+      "voice": "B2",
+      "q": 20.0,
+      "duration": 1.0,
+      "midi": 55
+    },
+    {
+      "voice": "B2",
+      "q": 21.0,
+      "duration": 2.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 23.0,
+      "duration": 1.0,
+      "midi": 46
+    },
+    {
+      "voice": "B2",
+      "q": 24.0,
+      "duration": 1.0,
+      "midi": 46
+    },
+    {
+      "voice": "B2",
+      "q": 25.0,
+      "duration": 1.0,
+      "midi": 48
+    },
+    {
+      "voice": "B2",
+      "q": 26.0,
+      "duration": 1.0,
+      "midi": 48
+    },
+    {
+      "voice": "B2",
+      "q": 27.0,
+      "duration": 1.0,
+      "midi": 48
+    },
+    {
+      "voice": "B2",
+      "q": 28.0,
+      "duration": 1.0,
+      "midi": 48
+    },
+    {
+      "voice": "B2",
+      "q": 29.0,
+      "duration": 3.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 32.0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 33.0,
+      "duration": 1.5,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 34.5,
+      "duration": 0.5,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 35.0,
+      "duration": 1.0,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 36.0,
+      "duration": 1.0,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 37.0,
+      "duration": 2.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 39.0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 40.0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 41.0,
+      "duration": 1.5,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 42.5,
+      "duration": 0.5,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 43.0,
+      "duration": 1.0,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 44.0,
+      "duration": 1.0,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 45.0,
+      "duration": 3.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 48.0,
+      "duration": 0.5,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 48.5,
+      "duration": 0.5,
+      "midi": 55
+    },
+    {
+      "voice": "B2",
+      "q": 49.0,
+      "duration": 1.0,
+      "midi": 57
+    },
+    {
+      "voice": "B2",
+      "q": 50.0,
+      "duration": 1.0,
+      "midi": 57
+    },
+    {
+      "voice": "B2",
+      "q": 51.0,
+      "duration": 1.5,
+      "midi": 58
+    },
+    {
+      "voice": "B2",
+      "q": 52.5,
+      "duration": 0.5,
+      "midi": 57
+    },
+    {
+      "voice": "B2",
+      "q": 53.0,
+      "duration": 2.0,
+      "midi": 57
+    },
+    {
+      "voice": "B2",
+      "q": 55.0,
+      "duration": 1.0,
+      "midi": 55
+    },
+    {
+      "voice": "B2",
+      "q": 56.0,
+      "duration": 1.0,
+      "midi": 55
+    },
+    {
+      "voice": "B2",
+      "q": 57.0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 58.0,
+      "duration": 1.0,
+      "midi": 53
+    },
+    {
+      "voice": "B2",
+      "q": 59.0,
+      "duration": 1.5,
+      "midi": 48
+    },
+    {
+      "voice": "B2",
+      "q": 60.5,
+      "duration": 0.5,
+      "midi": 41
+    },
+    {
+      "voice": "B2",
+      "q": 61.0,
+      "duration": 3.0,
+      "midi": 41
+    }
+  ],
+  "bars": [
+    1,
+    5,
+    8,
+    9,
+    13,
+    16,
+    17,
+    21,
+    24,
+    25,
+    29,
+    32,
+    33,
+    37,
+    40,
+    41,
+    45,
+    48,
+    49,
+    53,
+    56,
+    57,
+    61,
+    64
+  ],
+  "syllablesByOnset": {
+    "1": {
+      "0": "How",
+      "1": "blest",
+      "2": "is",
+      "3": "he",
+      "4.5": "whose",
+      "5": "tres-",
+      "7": "pass",
+      "8": "Hath",
+      "9": "free-",
+      "10.5": "ly",
+      "11": "been",
+      "12": "for-",
+      "13": "giv\u2019n,",
+      "16": "Whose",
+      "17": "sin",
+      "18.5": "is",
+      "19": "whol-",
+      "20": "ly",
+      "21": "cov-",
+      "23": "ered",
+      "24": "Be-",
+      "25": "fore",
+      "26": "the",
+      "27": "sight",
+      "27.5": "*",
+      "28": "of",
+      "28.5": "*",
+      "29": "heav\u2019n.",
+      "32": "Blest",
+      "33": "he",
+      "34.5": "to",
+      "35": "whom",
+      "36": "Je-",
+      "37": "ho-",
+      "39": "vah",
+      "40": "Im-",
+      "41": "put-",
+      "42.5": "eth",
+      "43": "not",
+      "44": "his",
+      "45": "sin,",
+      "48": "Who",
+      "48.5": "*",
+      "49": "hath",
+      "50": "a",
+      "51": "guile-",
+      "52.5": "less",
+      "53": "spir-",
+      "55": "it,",
+      "56": "Whose",
+      "57": "heart",
+      "58": "is",
+      "59": "true",
+      "60.5": "with-",
+      "61": "in."
+    },
+    "2": {
+      "0": "While",
+      "1": "I",
+      "2": "kept",
+      "3": "guilt-",
+      "4.5": "y",
+      "5": "si-",
+      "7": "lence",
+      "8": "My",
+      "9": "strength",
+      "10.5": "was",
+      "11": "spent",
+      "12": "with",
+      "13": "grief,",
+      "16": "Thy",
+      "17": "hand",
+      "18.5": "was",
+      "19": "heav-",
+      "20": "y",
+      "21": "on",
+      "23": "me,",
+      "24": "My",
+      "25": "soul",
+      "26": "found",
+      "27": "no",
+      "27.5": "*",
+      "28": "re-",
+      "28.5": "*",
+      "29": "lief;",
+      "32": "But",
+      "33": "when",
+      "34.5": "I",
+      "35": "owned",
+      "36": "my",
+      "37": "tres-",
+      "39": "pass,",
+      "40": "My",
+      "41": "sin",
+      "42.5": "hid",
+      "43": "not",
+      "44": "from",
+      "45": "Thee,",
+      "48": "When",
+      "48.5": "*",
+      "49": "I",
+      "50": "con-",
+      "51": "fessed",
+      "52.5": "trans-",
+      "53": "gres-",
+      "55": "sion,",
+      "56": "Then",
+      "57": "Thou",
+      "58": "for-",
+      "59": "gav-",
+      "60.5": "est",
+      "61": "me."
+    },
+    "3": {
+      "0": "So",
+      "1": "let",
+      "2": "the",
+      "3": "god-",
+      "4.5": "ly",
+      "5": "seek",
+      "7": "Thee",
+      "8": "In",
+      "9": "times",
+      "10.5": "when",
+      "11": "Thou",
+      "12": "art",
+      "13": "near;",
+      "16": "No",
+      "17": "whelm-",
+      "18.5": "ing",
+      "19": "floods",
+      "20": "shall",
+      "21": "reach",
+      "23": "them,",
+      "24": "Nor",
+      "25": "cause",
+      "26": "their",
+      "27": "hearts",
+      "27.5": "*",
+      "28": "to",
+      "28.5": "*",
+      "29": "fear.",
+      "32": "In",
+      "33": "Thee,",
+      "34.5": "O",
+      "35": "Lord,",
+      "36": "I",
+      "37": "hide",
+      "39": "me,",
+      "40": "Thou",
+      "41": "sav-",
+      "42.5": "est",
+      "43": "me",
+      "44": "from",
+      "45": "ill,",
+      "48": "And",
+      "48.5": "*",
+      "49": "songs",
+      "50": "of",
+      "51": "Thy",
+      "52.5": "sal-",
+      "53": "va-",
+      "55": "tion",
+      "56": "My",
+      "57": "heart",
+      "58": "with",
+      "59": "rap-",
+      "60.5": "ture",
+      "61": "thrill."
+    }
+  }
+}

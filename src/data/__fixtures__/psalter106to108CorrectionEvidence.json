@@ -1,0 +1,430 @@
+{
+  "songs": [
+    {
+      "number": 106,
+      "previousAbc": "T:Chastened Submission\nC:Tune: DULCE DOMUM; Robert S. Ambrose\nM:4/4\nL:1/4\nK:Eb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] B B/ B/ B B | B4 | c c/ c/ B G | F4 |\nw: 1.~What wait I for but Thee? My hope is in Thy Name;\nw: 2.~I suf-fered si-lent-ly, Be-cause Thy will is best;\nw: 3.~When sin Thou dost re-pay And chas-ten and re-strain,\nw: 4.~O Lord, re-gard my fears, And an-swer my re-quest;\nw: 5.~I am a stran-ger here, De-pend-ent on Thy grace,\nw: 6.~O spare me and re-store My fail-ing strength, I pray;\n[V:T2] G F/ E/ F D | E4 | E E/ F/ G E | D4 |\n[V:B1] B, A,/ G,/ A, F, | G,4 | A, A,/ A,/ G, B, | B,4 |\n[V:B2] E, E,/ E,/ B,, B,, | E,4 | A,, C,/ D,/ E, G, | B,4 |\n[V:T1] G G/ G/ A =A | B e e | d/c/ | B E/F/ G F | E4 |]\nw: From all my sins de-liv-er me, Nor * put my * soul to shame.\nw: Re-move Thy heav-y stroke from me, For * I am * sore dis-tressed.\nw: Man's beau-ty quick-ly fades a-way; Yea, * hu-man * life is vain.\nw: Turn not in si-lence from my tears, But * give the * mourn-er rest.\nw: A pil-grim, as my fa-thers were, With * no a- * bid-ing place.\nw: Ere I go hence and be no more, The * hand of * judg-ment stay.\n[V:T2] E E/ E/ F ^F | G G A | E | E E/F/ E D | E4 |]\n[V:B1] B, E/ E/ D C | B, _D C | B,/A,/ | G, G,/=A,/ B, _A, | G,4 |]\n[V:B2] E, E,/ E,/ E, E, | E, E, A,, | A,, | B,, C, B,, B,, | E,4 |]\nW:[Stanzas 7–12]",
+      "before": "[V:T2] E E/ E/ F ^F | G G A | E | E E/F/ E D | E4 |]",
+      "after": "[V:T2] E E/ E/ F ^F | G G A | E | E E E D | E4 |]",
+      "previousAbcSHA256": "654e1a1336f5bbb6cf63a0308e7105671e36266a84e3d326c7d5dd39101ee554",
+      "correctedAbcSHA256": "ec1e585bae395e959f1ee821bc1b3631e4f1df81e9670b383f07ccecfaa4ecb7",
+      "ledgerSHA256": "140065de3b273802d33c0ffc86b522ea876442affe62f9b078f5a91b3886b9e0",
+      "events": 108,
+      "previousSelection": [],
+      "currentSelection": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "prose": {
+        "1": "What wait I for but Thee? My hope is in Thy Name; From all my sins deliver me, Nor put my soul to shame.",
+        "2": "I suffered silently, Because Thy will is best; Remove Thy heavy stroke from me, For I am sore distressed.",
+        "3": "When sin Thou dost repay And chasten and restrain, Man's beauty quickly fades away; Yea, human life is vain.",
+        "4": "O Lord, regard my fears, And answer my request; Turn not in silence from my tears, But give the mourner rest.",
+        "5": "I am a stranger here, Dependent on Thy grace, A pilgrim, as my fathers were, With no abiding place.",
+        "6": "O spare me and restore My failing strength, I pray; Ere I go hence and be no more, The hand of judgment stay."
+      },
+      "provenance": {
+        "canonicalFile": "src/psalter-abc/psalter106.ts",
+        "canonicalSha256": "4d2dd4e95f38d720afbb9eca1ca9e7d2a95598cff4a901c735309062d40e767b",
+        "canonicalSnapshotEqualsCurrent": true,
+        "catalogArrangements": [
+          {
+            "id": "psalter106",
+            "number": 106,
+            "variant": "",
+            "title": "Chastened Submission",
+            "tune": "DULCE DOMUM",
+            "composer": "Robert S. Ambrose",
+            "psalmNumber": 39,
+            "voices": [
+              {
+                "id": "T1",
+                "clef": "treble"
+              },
+              {
+                "id": "T2",
+                "clef": "treble"
+              },
+              {
+                "id": "B1",
+                "clef": "bass"
+              },
+              {
+                "id": "B2",
+                "clef": "bass"
+              }
+            ]
+          }
+        ],
+        "rfpa": {
+          "url": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+          "localFile": "RFPA The Psalter PDF",
+          "sha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504",
+          "musicPageOneBased": 159,
+          "boundaries": "Complete106 on p159; adjacent viewed pages158 and160 contain105/107. All6 stanzas engraved, no musical continuation."
+        },
+        "original1912": {
+          "urls": [
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0096.jp2",
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0097.jp2"
+          ],
+          "printedPages": [
+            90,
+            91
+          ],
+          "pixelDimensions": [
+            2156,
+            3202
+          ],
+          "boundaries": "106 follows complete105 on p90. All106 music and stanza1 there; stanzas2–6 continue as prose at top of p91, before107. No alternate tune."
+        },
+        "lineage": "Distinct engravings. Both show same2-system E-flat-major4/4 SATB tune. Actual native RFPA scan and original1912 pixels viewed; enlargements add no source resolution.",
+        "sourceImageSHA256": {
+          "original1912-leaf0096.jp2": "3bdf9dc35fd914fecb7d2645be8c6f4a1cfb1aea70819b0f6ee7d35786b26cbc",
+          "original1912-leaf0097.jp2": "c1568d4e793dba14648fdcc2d598f54a95beaa470059bcae3813edb3beae7908",
+          "rfpa-native-0.jpeg": "5e13d96c7e134e90f5d089a86234dcf182c82c6a19b05cb60be2354cb75f3d49",
+          "rfpa-native-1.jpeg": "54ae7dd12bff02b1d6683e03162e6211b350d14ae135212c3f0bf3c62e6821ba"
+        },
+        "preExposureFreeze": {
+          "createdUTC": "2026-10-09T06:46:15.147315+00:00",
+          "ledgerSHA256": "140065de3b273802d33c0ffc86b522ea876442affe62f9b078f5a91b3886b9e0",
+          "canonicalExposed": false,
+          "events": 108,
+          "voices": {
+            "T1": 28,
+            "T2": 26,
+            "B1": 28,
+            "B2": 26
+          }
+        },
+        "canonicalFirstExposureUTC": "2026-10-09T06:46:22Z",
+        "manualRevisions": {
+          "preExposureFreezeSucceeded": true,
+          "initialSHA256": "140065de3b273802d33c0ffc86b522ea876442affe62f9b078f5a91b3886b9e0",
+          "postExposureRevisions": []
+        },
+        "supplementalHeadInventory": {
+          "ledgerEventsUnchanged": true,
+          "sharedPhysicalHeads": [
+            {
+              "q": 25,
+              "pitch": "Eb4",
+              "voices": [
+                "T1",
+                "T2"
+              ],
+              "durations": [
+                0.5,
+                1
+              ],
+              "source": "Both viewed engravings and independent coordinator second reading."
+            }
+          ],
+          "overlappingSeparateWholeHeads": [
+            {
+              "q": 12,
+              "pitch": "Bb3",
+              "voices": [
+                "B1",
+                "B2"
+              ]
+            },
+            {
+              "q": 28,
+              "pitch": "Eb4",
+              "voices": [
+                "T1",
+                "T2"
+              ]
+            }
+          ],
+          "physicalHeads": 107,
+          "voiceEvents": 108,
+          "qualification": "The frozen ledger physicalSharedHeads field was empty and incomplete; this supplemental inventory records the shared q25 head without changing any frozen pitch, duration, onset, mark, barline, or underlay expectation."
+        },
+        "independentSecondReading": {
+          "summary": "Independent inspection of both fullsystem crops confirms Alto q25 is E-flat4 quarter: shared bottom-line head with soprano at 'my', separate downstem unflagged, while soprano upstem beams to F4 eighth. The following F4 head has no lower-voice head or stem. Canonical Alto E/F/ is therefore a confirmed two-eighths-for-quarter defect."
+        }
+      },
+      "independentReview": {
+        "summary": "Independent inspection of both fullsystem crops confirms Alto q25 is E-flat4 quarter: shared bottom-line head with soprano at 'my', separate downstem unflagged, while soprano upstem beams to F4 eighth. The following F4 head has no lower-voice head or stem. Canonical Alto E/F/ is therefore a confirmed two-eighths-for-quarter defect."
+      }
+    },
+    {
+      "number": 107,
+      "previousAbc": "T:A Mourner's Entreaties\nC:Tune: GREENWOOD; Joseph E. Sweetser\nM:3/4\nL:1/4\nK:Ab\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] c B A | E2 F | E3 || G F G |\nw: 1.~My end, Lord, make me know, My days, how\nw: 2.~To Thy e-ter-nal thought My days are\nw: 3.~O Lord, re-gard my fears, And an-swer\nw: 4.~I am a stran-ger here, De-pend-ent\n[V:T2] E D C | C2 D | C3 || D D D |\n[V:B1] A, A, A, | A,2 A, | A,3 || B, A, B, |\n[V:B2] A,, A,, A,, | A,,2 A,, | A,,3 || E, E, E, |\n[V:T1] A2 c | e3 || B A B | c2 c | c2 c |\nw: soon they fail; And to my thought-ful spir-it\nw: but a span; To Thee my years ap-pear as\nw: my re-quest; Turn not in si-lence from my\nw: on Thy grace, A pil-grim, as my fa-thers\n[V:T2] C2 E | F3 || E E E | E2 =E | F2 _G |\n[V:B1] C2 A, | B,3 || D C G, | A,2 B, | A,2 A, |\n[V:B2] A,2 A, | E,3 || E, E, E, | A,2 G, | F,2 E, |\n[V:T1] d2 || f | (f e) c | c2 B | A3 |]\nw: show How weak * I am and frail.\nw: nought, A breath * at best is man.\nw: tears, But give * the mourn-er rest.\nw: were, With no * a-bid-ing place.\n[V:T2] F2 || A | A2 E | E2 E | E3 |]\n[V:B1] A,2 || B, | C2 A, | (A, E) D | C3 |]\n[V:B2] D,2 || =D, | E,2 E, | E,2 E, | A,,3 |]\nW:[Selected Stanzas]",
+      "before": "[V:T2] C2 E | F3 ||",
+      "after": "[V:T2] C2 E | G3 ||",
+      "previousAbcSHA256": "44fc986ad2761f0dffcea0c204574b90762b095e2819fd43f6d9294ee34fcef6",
+      "correctedAbcSHA256": "97a3182c60e6d462db5cff02fb61acfe73c2f0c42ac156ace69529d47cd0ed48",
+      "ledgerSHA256": "98829422e018faeae7468acc41e6152f2f2f02e50883a589e387175c60f7d012",
+      "events": 106,
+      "previousSelection": [],
+      "currentSelection": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "prose": {
+        "1": "My end, Lord, make me know, My days, how soon they fail; And to my thoughtful spirit show How weak I am and frail.",
+        "2": "To Thy eternal thought My days are but a span; To Thee my years appear as nought, A breath at best is man.",
+        "3": "O Lord, regard my fears, And answer my request; Turn not in silence from my tears, But give the mourner rest.",
+        "4": "I am a stranger here, Dependent on Thy grace, A pilgrim, as my fathers were, With no abiding place."
+      },
+      "provenance": {
+        "canonicalFile": "src/psalter-abc/psalter107.ts",
+        "canonicalSha256": "b5faa32f0f00afc0b3501025a57c966be951d857bc5aa512c17201069e52acef",
+        "canonicalSnapshotEqualsCurrent": true,
+        "catalogArrangements": [
+          {
+            "id": "psalter107",
+            "number": 107,
+            "variant": "",
+            "title": "A Mourner's Entreaties",
+            "tune": "GREENWOOD",
+            "composer": "Joseph E. Sweetser",
+            "psalmNumber": 39,
+            "voices": [
+              {
+                "id": "T1",
+                "clef": "treble"
+              },
+              {
+                "id": "T2",
+                "clef": "treble"
+              },
+              {
+                "id": "B1",
+                "clef": "bass"
+              },
+              {
+                "id": "B2",
+                "clef": "bass"
+              }
+            ]
+          }
+        ],
+        "rfpa": {
+          "url": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+          "localFile": "RFPA The Psalter PDF",
+          "sha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504",
+          "musicPageOneBased": 160,
+          "boundaries": "Complete107 on160. Viewed adjacent159/161 contain106/108. Four engraved stanzas; no107 continuation or alternate."
+        },
+        "original1912": {
+          "urls": [
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0097.jp2"
+          ],
+          "printedPages": [
+            91
+          ],
+          "pixelDimensions": [
+            2156,
+            3202
+          ],
+          "boundaries": "107 complete onp91 after106 prose. Music and stanza1 followed by prose2-4. No107 alternate.",
+          "materialization": "An existing copy of the original 1912 leaf 0097 JP2/PNG was used; its source identity is recorded by the accompanying URL and digest."
+        },
+        "lineage": "Distinct RFPA and original1912 engravings, actual native pixels viewed. RFPA three systems; original1912 two systems. Enlargements add no resolution. Musical authority is the source pixels, not OCR/parser output.",
+        "sourceImageSHA256": {
+          "original1912-leaf0097.jp2": "c1568d4e793dba14648fdcc2d598f54a95beaa470059bcae3813edb3beae7908",
+          "rfpa-native-0.jpeg": "55c410faefcdd75b9cca567c92515003f9c5fe08d0f4d8e38d4b1c3ba6bff701",
+          "rfpa-native-1.jpeg": "2cbe217be7dd7220effa67f732a0e2258787c1d89fdf04b341bc08ed0a2e28ef",
+          "rfpa-native-2.jpeg": "c09b37b7e6a2ac3657e5d25def5c02e5477d57dd22c3ade74f4aa920d1638679"
+        },
+        "preExposureFreeze": {
+          "createdUTC": "2026-10-09T06:47:01.555911+00:00",
+          "ledgerSHA256": "a6b37b9bd1ba39de06673e5659ed96dde40db100de49c6d7eff05ae2d143b77a",
+          "canonicalExposed": false,
+          "events": 106,
+          "voices": {
+            "T1": 27,
+            "T2": 26,
+            "B1": 27,
+            "B2": 26
+          }
+        },
+        "canonicalFirstExposureUTC": "2026-10-09T06:47:01Z",
+        "manualRevisions": {
+          "preExposureFreezeSucceeded": true,
+          "initialSHA256": "a6b37b9bd1ba39de06673e5659ed96dde40db100de49c6d7eff05ae2d143b77a",
+          "revisedSHA256": "98829422e018faeae7468acc41e6152f2f2f02e50883a589e387175c60f7d012",
+          "revisionUTC": "2026-10-09T06:49:31.424773+00:00",
+          "preExposureDraftCorrection": "Before canonical exposure, corrected five alto D4 heads to Db4 by A-flat signature. Prior draft preserved. Successful final pre-exposure freeze then occurred06:47:01.555911Z.",
+          "revisions": [
+            {
+              "voice": "B1",
+              "q": [
+                18,
+                19
+              ],
+              "before": [
+                "Eb4 MIDI63",
+                "Db4 MIDI61"
+              ],
+              "after": [
+                "Db4 MIDI61",
+                "C4 MIDI60"
+              ],
+              "reason": "Canonical comparison prompted pixel reread. Both editions and coordinator independent review show space above bass first upper ledger then ledger center. Canonical correct; manual ledger corrected.",
+              "crops": [
+                "rfpa-alto6-tenor7.png",
+                "original1912-tenor7.png"
+              ]
+            }
+          ],
+          "postExposureOtherChanges": []
+        },
+        "independentSecondReading": {
+          "summary": "Independent pixel review confirms Alto 'fail' q15 is G4 dotted half on the second treble line from bottom in both editions, not F4 space. That is a canonical pitch defect. Tenor 'And to' q18/q19 is D-flat4 then C4: first head in space above the first upper bass ledger, second centered on ledger. Support disclosed ledger revision to Db4/C4, canonical correct there."
+        }
+      },
+      "independentReview": {
+        "summary": "Independent pixel review confirms Alto 'fail' q15 is G4 dotted half on the second treble line from bottom in both editions, not F4 space. That is a canonical pitch defect. Tenor 'And to' q18/q19 is D-flat4 then C4: first head in space above the first upper bass ledger, second centered on ledger. Support disclosed ledger revision to Db4/C4, canonical correct there."
+      }
+    },
+    {
+      "number": 108,
+      "previousAbc": "T:A Recital of Gracious Experience\nC:Tune: ELIZABETHTOWN; George Kingsley\nM:3/4\nL:1/4\nK:Eb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] G G/ G/ G/ G/ | (B G) E | F2 || F | E3/2 E/ E/ F/ | G2 |\nw: 1.~I wait-ed for the Lord * my God, Yea, pa-tient-ly drew near,\nw: 2.~He took me from de-struc- * tion's pit, From out the mir-y clay;\nw: 3.~A new and joy-ful song * of praise My thank-ful heart He taught,\nw: 4.~And man-y who be-hold * how good The Lord has been to me\nw: 5.~O tru-ly bless-ed is * the man That on the Lord re-lies,\nw:6.~O Lord my God, how man- * i-fold The works which Thou hast wrought,\nw:7.~Thy works and thoughts most won- * der-ful, If I of them would speak,\n[V:T2] E E/ E/ E/ E/ | (G E) E | D2 || D | C3/2 C/ C/ D/ | E2 |\n[V:B1] B, B,/ B,/ B,/ B,/ | B,2 B, | B,2 || B, | G,3/2 G,/ G,/ B,/ | B,2 |\n[V:B2] E, E,/ E,/ E,/ E,/ | E,2 E, | B,,2 || B,, | C,3/2 C,/ C,/ B,,/ | E,2 |\n[V:T1] F | G/ A/ B G | e2 c | B2 || G | B/ G/ E F | E3 |]\nw: And He at length in-clined to me, My plead-ing cry to hear.\nw: He set my feet up-on a rock, And stead-fast made my way.\nw: A song of glo-ry to our God For all that He has wrought.\nw: Shall learn to fear, and in His Name Their trust hence-forth shall be.\nw: Re-spect-ing not the proud, nor such As turn a-side to lies.\nw:6.~Oft-times Thou hast be-stowed on us Thy care and gra-cious thought.\nw:7.~Can-not be num-bered, and in vain To set them forth I seek.\n[V:T2] D | E/ F/ G E | E2 A | G2 || E | G/ E/ B, B, | B,3 |]\n[V:B1] B, | B,/ B,/ B, B, | B,2 E | E2 || B, | E/ B,/ G, A, | G,3 |]\n[V:B2] B,, | E,/ E,/ E, E, | G,2 A, | E,2 || E, | E,/ E,/ E, B,, | E,3 |]\nW:6. O Lord my God, how manifold\nW:The works which Thou hast wrought,\nW:Ofttimes Thou hast bestowed on us\nW:Thy care and gracious thought.\nW:\nW:7. Thy works and thoughts most wonderful,\nW:If I of them would speak,\nW:Cannot be numbered, and in vain\nW:To set them forth I seek.",
+      "before": "[V:B1] B, B,/ B,/ B,/ B,/ | B,2 B, | B,2 ||",
+      "after": "[V:B1] B, B,/ B,/ B,/ B,/ | B,2 G, | B,2 ||",
+      "previousAbcSHA256": "35ef6a1a9ee79cf67d26abd5f9014405729facb46d106f0f52e70af1bd5745c2",
+      "correctedAbcSHA256": "cafdb8023ccf9414fd83d984094fddb28c743c4fce74529d04cfb01aa2790edf",
+      "ledgerSHA256": "bd276f5946745d2474deb46a349f233481e332160b7d092f4385c8d270982fda",
+      "events": 114,
+      "previousSelection": [
+        6,
+        7
+      ],
+      "currentSelection": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "prose": {
+        "1": "I waited for the Lord my God, Yea, patiently drew near, And He at length inclined to me, My pleading cry to hear.",
+        "2": "He took me from destruction's pit, From out the miry clay; He set my feet upon a rock, And steadfast made my way.",
+        "3": "A new and joyful song of praise My thankful heart He taught, A song of glory to our God For all that He has wrought.",
+        "4": "And many who behold how good The Lord has been to me Shall learn to fear, and in His Name Their trust henceforth shall be.",
+        "5": "O truly blessed is the man That on the Lord relies, Respecting not the proud, nor such As turn aside to lies.",
+        "6": "O Lord my God, how manifold The works which Thou hast wrought, Ofttimes Thou hast bestowed on us Thy care and gracious thought.",
+        "7": "Thy works and thoughts most wonderful, If I of them would speak, Cannot be numbered, and in vain To set them forth I seek."
+      },
+      "provenance": {
+        "canonicalFile": "src/psalter-abc/psalter108.ts",
+        "canonicalSha256": "cceda38985f4dc98a6f3d57dcbe1cf2e9e5c1d17a9fa9de10f7ef67376951c1d",
+        "canonicalSnapshotEqualsCurrent": true,
+        "catalogArrangements": [
+          {
+            "id": "psalter108",
+            "number": 108,
+            "variant": "",
+            "title": "A Recital of Gracious Experience",
+            "tune": "ELIZABETHTOWN",
+            "composer": "George Kingsley",
+            "psalmNumber": 40,
+            "voices": [
+              {
+                "id": "T1",
+                "clef": "treble"
+              },
+              {
+                "id": "T2",
+                "clef": "treble"
+              },
+              {
+                "id": "B1",
+                "clef": "bass"
+              },
+              {
+                "id": "B2",
+                "clef": "bass"
+              }
+            ]
+          }
+        ],
+        "rfpa": {
+          "url": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+          "localFile": "RFPA The Psalter PDF",
+          "sha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504",
+          "musicPageOneBased": 161,
+          "boundaries": "Complete108 on p161. Viewed adjacent160 and162 contain107 and109. All7 stanzas present; no continuation or alternate tune."
+        },
+        "original1912": {
+          "url": "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0098.jp2",
+          "printedPages": [
+            92
+          ],
+          "pixelDimensions": [
+            2156,
+            3202
+          ],
+          "boundaries": "Complete108 at top of p92 before109. Prior leaf0097 p91 ends107. Stanza1 engraved and2–7 prose. No continuation or alternate108."
+        },
+        "lineage": "Distinct engravings, both Ebmajor3/4 ELIZABETHTOWN SATB. Actual PDF native scan and original1912 pixels viewed, not OCR. Enlargements add no resolution.",
+        "sourceImageSHA256": {
+          "original1912-leaf0098.jp2": "d8e27d3a93d845231ff89b4eb3b97a5532d1c9a780b6ef0c06a14c8de8149a78",
+          "rfpa-page161-native-0.jpeg": "f81180854e6e7d5fba92383c75fad1bd6ad16fd46791ae2e40ba204506868af6",
+          "rfpa-page161-native-1.jpeg": "4ce806dd7068361bb7a40bd254af15f72a3ee6758428a0a1208eb64e619638b8"
+        },
+        "preExposureFreeze": {
+          "createdUTC": "2026-10-09T06:52:49.519799+00:00",
+          "ledgerSHA256": "be9ffb31bc43004a8f3604c1f39801bbfcd6d0ecbf6fcfa142c08c62711aa83f",
+          "canonicalExposed": false,
+          "events": 114,
+          "voices": {
+            "T1": 29,
+            "T2": 29,
+            "B1": 28,
+            "B2": 28
+          }
+        },
+        "canonicalFirstExposureUTC": "2026-10-09T06:52:57Z",
+        "manualRevisions": {
+          "revisionUTC": "2026-10-09T06:56:10.638132+00:00",
+          "initialSHA256": "be9ffb31bc43004a8f3604c1f39801bbfcd6d0ecbf6fcfa142c08c62711aa83f",
+          "revisedSHA256": "bd276f5946745d2474deb46a349f233481e332160b7d092f4385c8d270982fda",
+          "preExposureFreezeSucceeded": true,
+          "revisions": [
+            {
+              "scope": "stanza2 final punctuation",
+              "before": "way;",
+              "after": "way.",
+              "reason": "Tight actual-source crops show a period in both editions. RFPA next-row wrought ascender was misread as comma below. Canonical punctuation is correct. No note/duration/mark revision.",
+              "crops": [
+                "rfpa-stanza2-way.png",
+                "original1912-stanza2-way.png"
+              ]
+            }
+          ],
+          "musicalRevisions": []
+        },
+        "independentSecondReading": {
+          "music": {
+            "summary": "Independent tight-crop reading confirms upper quarter at q5 is G3, in bass top space between A3 top line and F3 fourth line, in both editions. It is below the preceding Bb3 half, not another Bb3. The source supports G, in place of canonical B,."
+          },
+          "punctuation": {
+            "summary": "Both tight crops plainly show a period after stanza2 'way.' RFPA extra dark shape below belongs to next row's 'h' in wrought, not a semicolon tail. Original also clearly period. The ledger punctuation revision is documented separately from the initial reading."
+          }
+        }
+      },
+      "independentReview": {
+        "music": {
+          "summary": "Independent tight-crop reading confirms upper quarter at q5 is G3, in bass top space between A3 top line and F3 fourth line, in both editions. It is below the preceding Bb3 half, not another Bb3. The source supports G, in place of canonical B,."
+        },
+        "punctuation": {
+          "summary": "Both tight crops plainly show a period after stanza2 'way.' RFPA extra dark shape below belongs to next row's 'h' in wrought, not a semicolon tail. Original also clearly period. The ledger punctuation revision is documented separately from the initial reading."
+        }
+      }
+    }
+  ],
+  "publicEvidenceNote": "Musical review findings summarized for public distribution; internal coordination and private repository identifiers omitted. Original source and musical ledger identities are retained."
+}

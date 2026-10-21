@@ -1,0 +1,220 @@
+{
+  "sourceSha256": "cd460169b67dc0706a7e228e20cbfc58d6920e7148af286464ee26fb7baac9cb",
+  "metadata": {
+    "id": "hymn-aperio-battle-hymn",
+    "title": "Mine Eyes Have Seen the Glory (Battle Hymn of the Republic)",
+    "composer": "American folk song / William Steffe; words by Julia Ward Howe",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "aperio-battle-hymn",
+    "sourceUrls": [
+      "https://www.ccel.org/cceh/0005/x000510.htm",
+      "https://www.ccel.org/cceh/0005/000510a.pdf",
+      "https://www.ccel.org/cceh/0005/000510a.nwc",
+      "https://www.ccel.org/cceh/cceh_cpr.htm",
+      "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Public_Domain_Song_Anthology_with_Modern_and_Traditional_Harmonization.pdf#page=58",
+      "https://aperio.press/news/2020-03-17-public-domain-song-anthology/"
+    ],
+    "collection": "CCEH tune 000510 (music); The Public Domain Song Anthology, printed p.38 / PDF p.58 (retained text)",
+    "credits": [
+      "American folk song / William Steffe; words by Julia Ward Howe",
+      "Music: CCEH tune 000510, Battle Hymn, four-part score",
+      "Text: The Public Domain Song Anthology (Berger/Israels, 2020), printed p.38 / PDF p.58",
+      "Composite edition: CCEH music with the previously retained first stanza and refrain"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/publicdomain/zero/1.0/"
+    ],
+    "rights": [
+      "CCEH labels this music Public domain and identifies an American folk song / William Steffe, 1852. Specific historical harmonizer and printed source edition are unidentified.",
+      "CCEH explicitly permits copying, modifying, distributing, publishing and performing its score files. The music declaration is archive evidence, not independent arrangement-history proof.",
+      "Only the previously retained first stanza and refrain from the Berger/Israels anthology are used. The anthology asserts US public-domain underlying works and dedicates its new contributions under CC0 1.0.",
+      "CCEH warns that copyright rules vary by country. No blanket worldwide clearance or recording-specific arrangement clearance is claimed. Retained text uses the prior anthology US assertion and CC0 waiver to the extent legally possible.",
+      "Music: CCEH tune 000510, American folk song / William Steffe; harmonizer unidentified. Words: Julia Ward Howe, retained from David Berger and Chuck Israels (2020), The Public Domain Song Anthology, Aperio Press, https://doi.org/10.32881/book2.",
+      "CCEH declares the music and files public domain; the historical harmonizer and printed edition are unidentified. No blanket worldwide clearance is claimed.",
+      "Retained anthology text: underlying US public-domain assertion; new anthology contributions CC0 1.0."
+    ],
+    "territory": "CCEH warns that copyright rules vary by country. No blanket worldwide clearance or recording-specific arrangement clearance is claimed. Retained text uses the prior anthology US assertion and CC0 waiver to the extent legally possible.",
+    "editionNotes": [
+      "Stable hymn/source ID and both book memberships are preserved; only this selected edition is replaced.",
+      "Four selectable editorial SATB tracks preserve the upper/lower note members of the two CCEH staves, including six shared lower-staff unisons; the source itself does not name SATB voices.",
+      "CCEH music has no lyrics. Existing first stanza/refrain words and all 81 pitched-event lyric labels are retained verbatim from the previous anthology edition; no new stanzas are added.",
+      "Compared with the prior G-major melody: B-flat key (+3 semitones), untied pickup, whole-note verse cadence, half-note first two refrain cadences, and final dotted half without a trailing quarter rest. All 81 written melody pitches otherwise match after transposition.",
+      "The incompatible anthology chord layer is removed. Music and text have separate source attributions.",
+      "CCEH public-domain assertion is retained with unidentified-harmonizer and territory caveats.",
+      "The prior melody-only edition is identified by source SHA-256 6c111a2701c7f6cf9e454fb7027a601d236c8c6325c3ec8b7c062f3265fc06fe.",
+      "Four editorial SATB tracks separate the upper and lower notes of each source staff; the source does not name SATB parts.",
+      "Music preserves CCEH's B-flat key, untied pickup, sustained cadences and three-beat final bar. No anthology chord layer is retained.",
+      "CCEH supplies no lyrics. Every prior lyric field and its pitched-event underlay is retained; no additional stanzas are introduced.",
+      "CCEH declares the music and files public domain; the historical harmonizer and printed edition are unidentified. No blanket worldwide clearance is claimed.",
+      "Retained anthology text: underlying US public-domain assertion; new anthology contributions CC0 1.0."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "2026-10-08",
+      "Replaced melody-only anthology music with the faithful CCEH full harmony, preserving the previously selected words and underlay.",
+      "6c111a2701c7f6cf9e454fb7027a601d236c8c6325c3ec8b7c062f3265fc06fe",
+      "Editorial upper/lower split, without added notes or harmony.",
+      "All prior w: fields unchanged; the first Mine spans two untied source notes."
+    ],
+    "record": {
+      "source_id": "aperio-battle-hymn",
+      "title": "Mine Eyes Have Seen the Glory (Battle Hymn of the Republic)",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H026"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B024"
+        }
+      ],
+      "file": "abc/aperio-battle-hymn.abc",
+      "sha256": "cd460169b67dc0706a7e228e20cbfc58d6920e7148af286464ee26fb7baac9cb",
+      "canonical_reference_in_archive": "src/data/hymns/abc/aperio-battle-hymn.abc (CCEH composite replacement, 2026-10-08)",
+      "source_url": [
+        "https://www.ccel.org/cceh/0005/x000510.htm",
+        "https://www.ccel.org/cceh/0005/000510a.pdf",
+        "https://www.ccel.org/cceh/0005/000510a.nwc",
+        "https://www.ccel.org/cceh/cceh_cpr.htm",
+        "https://upload.wikimedia.org/wikipedia/commons/c/cc/The_Public_Domain_Song_Anthology_with_Modern_and_Traditional_Harmonization.pdf#page=58",
+        "https://aperio.press/news/2020-03-17-public-domain-song-anthology/"
+      ],
+      "collection": "CCEH tune 000510 (music); The Public Domain Song Anthology, printed p.38 / PDF p.58 (retained text)",
+      "rights_and_attribution": {
+        "underlying_work": "CCEH labels this music Public domain and identifies an American folk song / William Steffe, 1852. Specific historical harmonizer and printed source edition are unidentified.",
+        "edition": "CCEH explicitly permits copying, modifying, distributing, publishing and performing its score files. The music declaration is archive evidence, not independent arrangement-history proof.",
+        "text": "Only the previously retained first stanza and refrain from the Berger/Israels anthology are used. The anthology asserts US public-domain underlying works and dedicates its new contributions under CC0 1.0.",
+        "territory": "CCEH warns that copyright rules vary by country. No blanket worldwide clearance or recording-specific arrangement clearance is claimed. Retained text uses the prior anthology US assertion and CC0 waiver to the extent legally possible.",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "attribution": "Music: CCEH tune 000510, American folk song / William Steffe; harmonizer unidentified. Words: Julia Ward Howe, retained from David Berger and Chuck Israels (2020), The Public Domain Song Anthology, Aperio Press, https://doi.org/10.32881/book2.",
+        "evidence_music": "https://www.ccel.org/cceh/cceh_cpr.htm",
+        "evidence_text_pdf_page": 4,
+        "structured_source_evidence": {
+          "musicPdfSha256": "cf56f9667a724a21a5fbfe2371cade54336aa8ae6f1b70e72131bf686d0fb6d1",
+          "musicNwcSha256": "3d2d5591ae6c8cc55bbb5ae62bc331188c6720d201c79bdab3c3620eb0267952",
+          "musicNwcVersion": "1.70",
+          "originalStaves": 2,
+          "logicalNoteMembers": 324,
+          "distinctStaffPitchHeads": 318,
+          "extraction": "Bounded music21 9.9.1 reader; all 7794 expanded bytes consumed; actual PDF pixels independently reviewed."
+        }
+      },
+      "scope_and_edition_notes": [
+        "Stable hymn/source ID and both book memberships are preserved; only this selected edition is replaced.",
+        "Four selectable editorial SATB tracks preserve the upper/lower note members of the two CCEH staves, including six shared lower-staff unisons; the source itself does not name SATB voices.",
+        "CCEH music has no lyrics. Existing first stanza/refrain words and all 81 pitched-event lyric labels are retained verbatim from the previous anthology edition; no new stanzas are added.",
+        "Compared with the prior G-major melody: B-flat key (+3 semitones), untied pickup, whole-note verse cadence, half-note first two refrain cadences, and final dotted half without a trailing quarter rest. All 81 written melody pitches otherwise match after transposition.",
+        "The incompatible anthology chord layer is removed. Music and text have separate source attributions.",
+        "CCEH public-domain assertion is retained with unidentified-harmonizer and territory caveats.",
+        "The prior melody-only edition is identified by source SHA-256 6c111a2701c7f6cf9e454fb7027a601d236c8c6325c3ec8b7c062f3265fc06fe."
+      ],
+      "editorial_corrections": {
+        "date": "2026-10-08",
+        "change": "Replaced melody-only anthology music with the faithful CCEH full harmony, preserving the previously selected words and underlay.",
+        "prior_source_sha256": "6c111a2701c7f6cf9e454fb7027a601d236c8c6325c3ec8b7c062f3265fc06fe",
+        "source_staff_split": "Editorial upper/lower split, without added notes or harmony.",
+        "retained_text": "All prior w: fields unchanged; the first Mine spans two untied source notes."
+      },
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.0",
+        "actual_abcjs_browser_render": "Pending isolated candidate browser qualification.",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "docs/battle-hymn-source-replacement.md",
+        "scope": "CCEH music source and explicit retained-text composite; source-independent review and app qualification recorded in the release evidence."
+      },
+      "engine_note": "Standard four-voice ABCJS edition; original two-staff grouping and source rhythms retained. No per-hymn rendering adapter."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H026",
+      "title": "Mine Eyes Have Seen the Glory (Battle Hymn of the Republic)",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "aperio-battle-hymn",
+      "abc_file": "abc/aperio-battle-hymn.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H026",
+        "Hymn / version": "Mine Eyes Have Seen the Glory (Battle Hymn of the Republic)",
+        "Playlist track #": "26",
+        "Music / score source": "https://hymnary.org/media/fetch/147483",
+        "Lyrics / companion source": "https://hymnary.org/text/mine_eyes_have_seen_the_glory",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights source": "https://hymnary.org/media/fetch/147483",
+        "Text, tune and version notes": "Text: Julia Ward Howe\nTune: BATTLE HYMN; American folk song\nTraditional text/tune; verify recording verse variants (notably die/live to make men free).",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B024",
+      "title": "Mine Eyes Have Seen the Glory (Battle Hymn of the Republic)",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "aperio-battle-hymn",
+      "abc_file": "abc/aperio-battle-hymn.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B024",
+        "Song title": "Mine Eyes Have Seen the Glory (Battle Hymn of the Republic)",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/147483",
+        "Lyrics source": "https://hymnary.org/text/mine_eyes_have_seen_the_glory",
+        "Editable source": "",
+        "Tune and work identity": "Text: Julia Ward Howe\nTune: BATTLE HYMN; American folk song",
+        "Public distribution rights": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/147483",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 402 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "24, 402",
+        "Playlist artists": "The Worship Team; 4ordained",
+        "Original track titles": "Mine Eyes have Seen the Glory; Battle Hymn of the Republic",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

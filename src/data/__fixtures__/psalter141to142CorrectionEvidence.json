@@ -1,0 +1,70 @@
+{
+  "independence": "Printed ledgers are the independent oracle. Previous ABC is included only for exact-change and negative controls. Source-reading revisions and holds are explicitly disclosed.",
+  "songs": [
+    {
+      "id": "psalter141",
+      "previousAbc": "T:Gracious Renewal and Testimony\nC:Tune: GETHSEMANE; John B. Dykes\nM:4/4\nL:1/8\nQ:\"Slowly\"\nK:Eb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] G2 G2 G3 F | E2 E2 D4 || EG B2 c2 B2 | B2 E2 (G2 F2) |\nw:1.~Gra-cious God, my heart re-new, Make * my spir-it right and true; *\nw:2.~Sin-ners then shall learn from me And * re-turn, O God, to Thee; *\nw:3.~Not the for-mal sac-ri-fice Hath * ac-cept-ance in Thy eyes; *\nw:4.~Pros-per Zi-on in Thy grace And * her bro-ken walls re-place; *\n[V:T2] E2 _D2 C3 C | B,2 =A,2 B,4 || G,2 E2 E2 E2 | ED E2 (E2 D2) |\n[V:B1] B,2 B,2 A,3 A, | G,2 F,2 F,4 || E,2 G,2 A,2 G,2 | A,2 B,C B,4 |\n[V:B2] E,2 E,2 A,,3 A,, | B,,2 C,2 B,,4 || C,2 B,,2 A,,C, E,2 | F,2 G,A, B,,4 |\n[V:T1] F2 F2 A3 A | E2 E2 G4 || G2 G2 F2 B2 | B2 =A2 (B2 _A2) |\nw: Cast me not a-way from Thee, Let Thy Spir-it dwell in me; *\nw: Sav-iour, all my guilt re-move, And my tongue shall sing Thy love; *\nw: Bro-ken hearts are in Thy sight More than sac-ri-fi-cial rite; *\nw: Then our right-eous sac-ri-fice Shall de-light Thy ho-ly eyes; *\n[V:T2] D2 F2 F3 F | C2 E2 E4 || E2 E2 E2 D2 | G2 FE EDCD |\n[V:B1] D2 _D2 C3 C | C2 _C2 B,4 || B,2 B,2 =A,3 B, | C2 C2 B,4 |\n[V:B2] B,2 B,2 F,3 G, | A,2 A,2 E,4 || E,2 C,2 F,3 G, | E,2 F,C, B,,4 |\n[V:T1] G2 G2 G3 F | E2 E2 D4 || EG B2 EA c2 | E2 G3/2F/2 E4 |]\nw: Thy sal-va-tion's joy im-part, Stead- * fast make * my will-ing * heart.\nw: Touch my si-lent lips, O Lord, And * my mouth * shall praise ac- * cord.\nw: Con-trite spir-it, plead-ing cries, Thou, * O God, * wilt not de- * spise.\nw: Free-will of-f'rings, glad-ly made, On * Thy al- * tar shall be * laid.\n[V:T2] E2 _D2 C3 C | B,2 =A,2 B,4 || B,3 _D C2 C2 | G,B, D2 E4 |]\n[V:B1] B,2 B,2 A,3 A, | G,2 F,E, F,4 || E,2 E,2 E,3 F, | G,2 A,2 G,4 |]\n[V:B2] E,2 E,2 A,,3 A,, | B,,2 C,2 (B,,2 _A,,2) || G,,2 G,,2 A,,3 =A,, | B,,2 B,,2 E,4 |]\nW:[Stanzas 5-8]",
+      "previousAbcSHA256": "845a02e45faa3ef071d125212d37348f5280f98d987c6005fb02d1752a4ec6e7",
+      "correctedAbcSHA256": "2214410438aec43551de0a136b7d07e5581861dc3ba89a326b1652dabf6f91ae",
+      "fixtureSHA256": "09e7fb78950e0bc4394c4da40003782f57f80e870f82e74f30cd9d2c7d16e8b3",
+      "corrections": [
+        {
+          "before": "=A,3 B,",
+          "after": "=A,2 B,2"
+        }
+      ],
+      "printedProse": {
+        "1": "Gracious God, my heart renew, Make my spirit right and true; Cast me not away from Thee, Let Thy Spirit dwell in me; Thy salvation's joy impart, Steadfast make my willing heart.",
+        "2": "Sinners then shall learn from me And return, O God, to Thee; Saviour, all my guilt remove, And my tongue shall sing Thy love; Touch my silent lips, O Lord, And my mouth shall praise accord.",
+        "3": "Not the formal sacrifice Hath acceptance in Thy eyes; Broken hearts are in Thy sight More than sacrificial rite; Contrite spirit, pleading cries, Thou, O God, wilt not despise.",
+        "4": "Prosper Zion in Thy grace And her broken walls replace; Then our righteous sacrifice Shall delight Thy holy eyes; Freewill off'rings, gladly made, On Thy altar shall be laid."
+      },
+      "sourceLedgerFile": "manual-source-ledger.initial.json",
+      "sourceLedgerSHA256": "5f88e8ed929a6b44aa96d4ae51f0a749cfe449e622e6864716bb2eaad95b56b6",
+      "sourceFreeze": {
+        "frozenAt": "2026-10-09T10:45:57.640878+00:00",
+        "canonicalExposure": false,
+        "ledgerSha256": "5f88e8ed929a6b44aa96d4ae51f0a749cfe449e622e6864716bb2eaad95b56b6",
+        "underlaySha256": "cfba7000a104b50fb5ea51ea1f15e33de86ed8fac2ef529b0d3df3bb3965972e",
+        "revisionHistorySha256": "765003055996f2ecdec5b975a99a322ab7bbcc3d2b2de6767a99946f75a9c92d",
+        "method": "Both editions visually read with separate written-pitch arrays before source/parser exposure. Edition transposition is preserved, not used to conceal written-pitch differences. Every event has duration, onset, marks, accidentals, underlay and source bar coordinates."
+      },
+      "qualification": "141 bass bar8 q29 F3 quarter is provisional printed assignment; extra low ink remains held. Operational baseline F3/C3 eighths preserved separately, not asserted as print parity. Reduced underlay uses tied display fragments with documented earlier syllables."
+    },
+    {
+      "id": "psalter142",
+      "previousAbc": "T:A Penitent's Plea\nC:Tune: REFUGE; Joseph P. Holbrook\nO:Psalm 51, 7s\nM:3/4\nL:1/8\nK:D\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n%%stafftopmargin 10\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] F3/2 F/2 | F3 D G3/2 F/2 | (F2 D2) || (3DE F | G3 B A3/2 G/2 | F4 |\nw:1.~God be mer-ci-ful to me, * On * Thy grace I rest my plea;\nw:2.~I am e-vil, born in sin; * Thou * de-sir-est truth with-in.\nw:3.~Gra-cious God, my heart re-new, * Make * my spir-it right and true;\nw:4.~Sin-ners then shall learn from me * And * re-turn, O God, to Thee;\n[V:T2] x2 | x6 | x4 || x2 | x6 | x4 |\n[V:B1] A,3/2 A,/2 | A,3 F, B,3/2 A,/2 | (A,2 F,2) || (3F,G, A, | B,3 D C3/2 B,/2 | A,4 |\n[V:B2] x2 | x6 | x4 || x2 | x6 | x4 |\n[V:T1] D3/2 D/2 | E2- (3E^DE (3E=DE | (F2 D2) || D3/2 D/2 | E2- (3E^DE (3EGF | D4 |\nw: Plen-teous in * * com-pas * sion Thou, * Blot out my * * trans-gres * sions now;\nw: Thou a-lone * * my Sav- * iour art, * Teach Thy wis- * * dom to * my heart;\nw: Cast me not * * a-way * from Thee, * Let Thy Spir- * * it dwell * in me;\nw: Sav-iour, all * * my guilt * re-move, * And my tongue * * shall sing * Thy love;\n[V:T2] x2 | x6 | x4 || x2 | x6 | x4 |\n[V:B1] F,3/2 F,/2 | G,2- (3G,F,G, (3G,F,G, | (A,2 F,2) || F,3/2 F,/2 | G,2- (3G,F,G, (3G,B,A, | F,4 |\n[V:B2] x2 | x6 | x4 || x2 | x6 | x4 |\n[V:T1] A3/2 A/2 | f3 e (3edB | (A2 F2) || d3/2 B/2 | A3 F E3/2 F/2 | H G4 |\nw: Wash me, make me pure * with-in, * Cleanse, O cleanse me from my sin,\nw: Make me pure, Thy grace * be-stow, * Wash me whit-er than the snow,\nw: Thy sal-va-tion's joy * im-part, * Stead-fast make my will-ing heart,\nw: Touch my si-lent lips, * O Lord, * And my mouth shall praise ac-cord,\n[V:T2] F3/2 F/2 | A3 G (3:2:2G2 G | (F2 D2) || F3/2 G/2 | F3 D C3/2 D/2 | E4 |\n[V:B1] A,3/2 A,/2 | D3 C (3:2:2B,2 D | (D2 A,2) || A,3/2 B,/2 | D3 A, A,3/2 D/2 | H C4 |\n[V:B2] D,3/2 D,/2 | D,3 D, (3:2:2G,2 G,, | D,4 || D,3/2 D,/2 | D,3 D, A,,3/2 A,,/2 | A,,4 |\n[V:T1] F3/2 A/2 | f3 e (3edB | (A2 F2) || d3/2 B/2 | A3 D F3/2 E/2 | D4 |]\nw: Wash me, make me pure * with-in, * Cleanse, O cleanse me from my sin.\nw: Make me pure, Thy grace * be-stow, * Wash me whit-er than the snow.\nw: Thy sal-va-tion's joy * im-part, * Stead-fast make my will-ing heart.\nw: Touch my si-lent lips, * O Lord, * And my mouth shall praise ac-cord.\n[V:T2] D3/2 F/2 | A3 G (3:2:2G2 G | (F2 D2) || F3/2 G/2 | F3 D D3/2 C/2 | D4 |]\n[V:B1] A,3/2 A,/2 | D3 C (3:2:2B,2 D | (D2 A,2) || A,3/2 B,/2 | D3 F, A,3/2 G,/2 | F,4 |]\n[V:B2] D,3/2 D,/2 | D,3 D, (3:2:2G,2 G,, | D,4 || D,3/2 D,/2 | D,3 D, A,,3/2 A,,/2 | D,4 |]\nW:[Selected Stanzas]",
+      "previousAbcSHA256": "dfdb912067bb4387169289318450a2a8bdbb3c0eb74523d20dcbe865990317d4",
+      "correctedAbcSHA256": "9aec95a5c6dffb08a4736e14b1655031d8fa0a1f770383a02ea5d5bd4ee18965",
+      "fixtureSHA256": "80e9b8541060b23d993f71247d20205d07d95c85732171668f6e3b821c6fe883",
+      "corrections": [
+        {
+          "before": "(3E=DE",
+          "after": "(3EDE"
+        },
+        {
+          "before": "com-pas * sion",
+          "after": "com-pas- * sion"
+        },
+        {
+          "before": "trans-gres * sions",
+          "after": "trans-gres- * sions"
+        }
+      ],
+      "printedProse": {
+        "1": "God be merciful to me, On Thy grace I rest my plea; Plenteous in compassion Thou, Blot out my transgressions now; Wash me, make me pure within, Cleanse, O cleanse me from my sin, Wash me, make me pure within, Cleanse, O cleanse me from my sin.",
+        "2": "I am evil, born in sin; Thou desirest truth within. Thou alone my Saviour art, Teach Thy wisdom to my heart; Make me pure, Thy grace bestow, Wash me whiter than the snow, Make me pure, Thy grace bestow, Wash me whiter than the snow.",
+        "3": "Gracious God, my heart renew, Make my spirit right and true; Cast me not away from Thee, Let Thy Spirit dwell in me; Thy salvation's joy impart, Steadfast make my willing heart, Thy salvation's joy impart, Steadfast make my willing heart.",
+        "4": "Sinners then shall learn from me And return, O God, to Thee; Saviour, all my guilt remove, And my tongue shall sing Thy love; Touch my silent lips, O Lord, And my mouth shall praise accord, Touch my silent lips, O Lord, And my mouth shall praise accord."
+      },
+      "sourceLedgerFile": "manual-source-ledger.revised.json",
+      "sourceLedgerSHA256": "adf8aaab50d28a0c2b5754aa9f1708bcfe0de3ed63d21eb61275a603c514b216",
+      "sourceFreeze": {
+        "frozenAt": "2026-10-09T11:05:34.032945+00:00",
+        "sha256": "adf8aaab50d28a0c2b5754aa9f1708bcfe0de3ed63d21eb61275a603c514b216",
+        "initialUnchanged": true
+      },
+      "qualification": "Initial ledger frozen before exposure; subsequent D-sharp scope revision and S/T-only opening mapping disclosed. A/B spacers q0–24 preserve existing arrangement interpretation; no new ownership claim. Exact rational source timing retained."
+    }
+  ]
+}

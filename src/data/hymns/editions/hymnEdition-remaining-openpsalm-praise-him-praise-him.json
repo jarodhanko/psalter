@@ -1,0 +1,247 @@
+{
+  "sourceSha256": "eddbc510ce7f3ac5f5ec8f49528c2cd23e56811064bed28b34aad70ae16d3201",
+  "metadata": {
+    "id": "hymn-remaining-openpsalm-praise-him-praise-him",
+    "title": "Praise Him! Praise Him!",
+    "composer": "Chester G. Allen",
+    "tune": "Joyful Song",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-openpsalm-praise-him-praise-him",
+    "sourceUrls": [
+      "https://openpsalm.com/api/songs/295/export/musicxml"
+    ],
+    "collection": "OpenPsalm",
+    "credits": [
+      "Chester G. Allen",
+      "Fanny J. Crosby",
+      "Lyrics: Fanny J. Crosby, 1869 (public domain)",
+      "Music: 'Joyful Song' by Chester G. Allen, 1869 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "Creative Commons Attribution 4.0 International",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.",
+      "OpenPsalm",
+      "Praise Him! Praise Him!"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "rights": [
+      "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+      "Lyrics: Fanny J. Crosby, 1869 (public domain)\nMusic: 'Joyful Song' by Chester G. Allen, 1869 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "Lyrics: Fanny J. Crosby, 1869 (public domain)",
+      "Music: 'Joyful Song' by Chester G. Allen, 1869 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license"
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "EDITORIAL FLAG: legacy empty MusicXML extend tags lack explicit endpoints; Verovio shows unused verse-row lines continuing under the common refrain while ABC ends them sooner. Exact lyric cells and required within-measure continuations pass; endpoint interpretation still requires editorial selection.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added."
+    ],
+    "record": {
+      "source_id": "remaining-openpsalm-praise-him-praise-him",
+      "title": "Praise Him! Praise Him!",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B130"
+        }
+      ],
+      "file": "abc/remaining-openpsalm-praise-him-praise-him.abc",
+      "sha256": "eddbc510ce7f3ac5f5ec8f49528c2cd23e56811064bed28b34aad70ae16d3201",
+      "canonical_reference_in_archive": "musicxml_abc/OpenPsalm_Praise_Him_Praise_Him.abc",
+      "source_url": "https://openpsalm.com/api/songs/295/export/musicxml",
+      "collection": "OpenPsalm",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+        "structured_source_evidence": {
+          "@context": "https://schema.org",
+          "@id": "https://openpsalm.com/songs/295#composition",
+          "@type": "MusicComposition",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Time signature",
+              "value": "6/8"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tempo",
+              "value": 122
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verses",
+              "value": 3
+            }
+          ],
+          "composer": [
+            {
+              "@type": "Person",
+              "name": "Chester G. Allen"
+            }
+          ],
+          "contributor": [
+            {
+              "@type": "Organization",
+              "name": "OpenPsalm"
+            }
+          ],
+          "copyrightNotice": "Lyrics: Fanny J. Crosby, 1869 (public domain)\nMusic: 'Joyful Song' by Chester G. Allen, 1869 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+          "description": "Praise Him! Praise Him! — 3 verses worship hymn. Browse, listen, and export as MusicXML, MIDI, LilyPond, or PDF.",
+          "encoding": [
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/295/export/musicxml",
+              "encodingFormat": "application/vnd.recordare.musicxml+xml",
+              "name": "Praise Him! Praise Him! — MusicXML"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/295/export/midi",
+              "encodingFormat": "audio/midi",
+              "name": "Praise Him! Praise Him! — MIDI"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/295/export/mp3",
+              "encodingFormat": "audio/mpeg",
+              "name": "Praise Him! Praise Him! — MP3"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/295/export/lilypond",
+              "encodingFormat": "text/x-lilypond",
+              "name": "Praise Him! Praise Him! — LilyPond"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/295/render/pdf",
+              "encodingFormat": "application/pdf",
+              "name": "Praise Him! Praise Him! — PDF"
+            }
+          ],
+          "inLanguage": "en",
+          "isAccessibleForFree": true,
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "lyricist": [
+            {
+              "@type": "Person",
+              "name": "Fanny J. Crosby"
+            }
+          ],
+          "lyrics": {
+            "@type": "CreativeWork",
+            "inLanguage": "en",
+            "text": "Verse 1\nPraise Him! Praise Him! Jesus, our blessed Redeemer,\nSing, O earth, His wonderful love proclaim.\nHail Him! hail Him! highest archangels in glory;\nStrength and honor give to His holy name!\nLike a shepherd, Jesus will guard His children,\nIn His arms He carries them all day long:\n\nVerse 2\nPraise Him! Praise Him! Jesus, our blessed Redeemer,\nFor our sins He suffered, and bled, and died;\nHe our rock, our hope of eternal salvation,\nHail Him, hail Him, Jesus the Crucified.\nLoving Savior, meekly enduring sorrow,\nCrowned with thorns that cruelly pierced His brow;\n\nVerse 3\nPraise Him! Praise Him! Jesus, our blessed Redeemer,\nHeav’nly portals loud with hosannas ring,\nJesus, Savior, reigneth forever and ever.\nCrown Him! Crown Him— Prophet, and Priest, and King!\nDeath is vanquished! Tell it with joy, ye faithful.\nWhere is now thy victory, boasting grave?\n\nChorus\nPraise Him! Praise Him! Tell of His excelent greatness;\nPraise Him, praise Him ever in joyful song."
+          },
+          "mainEntityOfPage": {
+            "@id": "https://openpsalm.com/songs/295",
+            "@type": "WebPage"
+          },
+          "musicCompositionForm": "Hymn",
+          "musicalKey": "Ab",
+          "name": "Praise Him! Praise Him!",
+          "publisher": {
+            "@type": "Organization",
+            "name": "OpenPsalm",
+            "url": "https://openpsalm.com"
+          },
+          "url": "https://openpsalm.com/songs/295"
+        }
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "EDITORIAL FLAG: legacy empty MusicXML extend tags lack explicit endpoints; Verovio shows unused verse-row lines continuing under the common refrain while ABC ends them sooner. Exact lyric cells and required within-measure continuations pass; endpoint interpretation still requires editorial selection.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B130",
+      "title": "Praise Him! Praise Him!",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-openpsalm-praise-him-praise-him",
+      "abc_file": "abc/remaining-openpsalm-praise-him-praise-him.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B130",
+        "Song title": "Praise Him! Praise Him!",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/P/Praise_Him_Praise_Him/Praise_Him_Praise_Him.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Praise_Him_Praise_Him/",
+        "Editable source": "",
+        "Tune and work identity": "JOYFUL SONG — Chester G. Allen (1869); Fanny Crosby (1869)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Praise_Him_Praise_Him/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nCrosby album context supports classic identity; Norton Hall recording still needs tune confirmation. Exact Spotify melody not auditioned; recording-specific arrangement is not cleared.",
+        "Playlist positions": "177, 476",
+        "Playlist artists": "Ernie Haase & Signature Sound; Norton Hall Band",
+        "Original track titles": "Praise Him! Praise Him!",
+        "Source review": "PDF staff notation and full lyrics\nSource page opened and PDF score text extracted; visual/audio comparison not completed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

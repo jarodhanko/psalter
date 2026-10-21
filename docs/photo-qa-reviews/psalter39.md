@@ -1,0 +1,5 @@
+# Psalter 39 source-photo review — partial
+
+- Authority: annotated `20260829_110915.jpg` (printed p. 38, opening system) and `20260829_110921.jpg` (printed p. 39, continuation and ending). The first image also contains the end of Psalter 38; that material is outside this review.
+- Confirmed: heading “The Witness of Nature to God,” OLENA / John B. Herbert, Psalm 19, G major (two-sharp signature), 6/4, and the page-break continuation. The visible opening treble pickup and first phrase were spot-checked against the pencilled pitch labels; no discrepancy was established. ABCJS report render local source evidence (not distributed) was generated from a working copy of the current ABC block with a historical local-only comparison tool (not distributed); only the visible SATB labels and stanza display were inspected, not every rendered event.
+- Not yet confirmed: every pitch, octave, duration, accidental, tie/hold, bar boundary, and lyric syllable in all four voices across both pages; full setting boundary against adjacent material; detailed comparison of the complete render. No musical correction is claimed. This is not final photo approval.

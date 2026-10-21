@@ -1,0 +1,7 @@
+# Psalter 181 photo QA (partial)
+
+- Sources: local source evidence (not distributed) (annotated photo 146), printed page 152, and local source evidence (not distributed) (annotated photo 147), printed page 153. No.181 begins in the lower portion of p.152 and its continuation is the upper setting on p.153.
+- Boundary/text: “God Our Deliverer,” Psalm 68 L.M., WARF by George Kingsley. Four stanzas are underlaid across the two systems and are now represented by soprano `w:` rows split at the photographed system boundary. The final-word check confirms “bears,” “seas,” “abode,” “race,” “grave,” “foe,” “throng,” and “Lord” all attach to notes; lyric extenders fill remaining slots where the printed text is shorter than the note count. The printed `[Stanzas 13–16]` marker is preserved in `N:`.
+- Rights/footer: no.181 has no visible copyright footer on either page. The copyright notice at the bottom of p.152 belongs to no.180; the p.153 footer belongs to no.182. Neither was attributed to no.181.
+- Structural check: `inspect45-lyrics.mjs psalter181` reports 34 soprano note events, four stanzas, 34 lyric assignments per stanza, no unassigned events, and no parser warnings. SATB source notes were not changed; no forced `$` breaks were added.
+- Status: PARTIAL. Photo-grounded underlay and parser final-word attachment are checked. Full pitch/rhythm/accidental/SATB audit and rendered-score visual QA remain open.

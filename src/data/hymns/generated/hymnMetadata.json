@@ -1,0 +1,3235 @@
+{
+  "aperio-battle-hymn": {
+    "id": "hymn-aperio-battle-hymn",
+    "title": "Mine Eyes Have Seen the Glory (Battle Hymn of the Republic)",
+    "composer": "American folk song / William Steffe; words by Julia Ward Howe",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "aperio-wayfaring-stranger": {
+    "id": "hymn-aperio-wayfaring-stranger",
+    "title": "Poor Wayfaring Stranger",
+    "composer": "American traditional; arr. Kenan Schaefkofer, 2021",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "cantorion-here-is-love": {
+    "id": "hymn-cantorion-here-is-love",
+    "title": "Here Is Love",
+    "composer": "William Rees; stanzas3–4 attributed to William Williams; tr.William Edwards,1900 · Robert Lowry,1876",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Upper parts",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "bass",
+        "sourceName": "Lower parts",
+        "kind": "chordal",
+        "name": "Lower staff (2)"
+      }
+    ],
+    "voiceStructure": "chordal-staves"
+  },
+  "final-htg-day-by-day": {
+    "id": "hymn-final-htg-day-by-day",
+    "title": "Day by Day",
+    "composer": "Karolina W. Sandell-Berg, 1865; trans. by Andrew L. Skog | Oskar Ahnfelt, 1872",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-htg-god-leads-us-along": {
+    "id": "hymn-final-htg-god-leads-us-along",
+    "title": "God Leads Us Along",
+    "composer": "George A. Young | George A. Young, 1903, arr.",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-htg-hallelujah-praise-jehovah": {
+    "id": "hymn-final-htg-hallelujah-praise-jehovah",
+    "title": "Hallelujah! Praise Jehovah!",
+    "composer": "Psalm 148, Arr. | William J. Kirkpatrick, 1899",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-htg-how-gentle-god-s-commands": {
+    "id": "hymn-final-htg-how-gentle-god-s-commands",
+    "title": "How Gentle God's Commands",
+    "composer": "Phillip Doddridge, 1702 - 1751 | H.G. Nagali, 1773 - 1836;  arr. Lowell Mason",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-htg-i-must-tell-jesus": {
+    "id": "hymn-final-htg-i-must-tell-jesus",
+    "title": "I Must Tell Jesus",
+    "composer": "Elisha A. Hoffman | Elisha A. Hoffman, 1893",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "supplemental",
+        "name": "Lower supplemental layer (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-htg-love-lifted-me": {
+    "id": "hymn-final-htg-love-lifted-me",
+    "title": "Love Lifted Me",
+    "composer": "James Rowe | Howard E. Smith, 1912",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-htg-near-to-the-heart-of-god": {
+    "id": "hymn-final-htg-near-to-the-heart-of-god",
+    "title": "Near To The Heart Of God",
+    "composer": "Cleland Boyd McAfee | Cleland Boyd McAfee, 1903",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-htg-oh-how-i-love-jesus": {
+    "id": "hymn-final-htg-oh-how-i-love-jesus",
+    "title": "Oh, How I Love Jesus",
+    "composer": "Frederick Whitfield | Anonymous",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-htg-take-time-to-be-holy": {
+    "id": "hymn-final-htg-take-time-to-be-holy",
+    "title": "Take Time To Be Holy",
+    "composer": "William D. Longstaff | George C. Stebbins, 1890",
+    "voices": [
+      {
+        "id": "11",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (11)"
+      },
+      {
+        "id": "12",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (12)"
+      },
+      {
+        "id": "21",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (21)"
+      },
+      {
+        "id": "22",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (22)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "final-tt-higher-ground": {
+    "id": "hymn-final-tt-higher-ground",
+    "title": "Higher Ground",
+    "composer": "Charles H. Gabriel, 1902.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "SOPRANO ALTO",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "TENOR BASS",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "hc-fathers-world": {
+    "id": "hymn-hc-fathers-world",
+    "title": "This is My Father's World",
+    "composer": "\"TERRA BEATA,\" Franklin L. Sheppard, 1915",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Piano",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "hc-turn-your-eyes": {
+    "id": "hymn-hc-turn-your-eyes",
+    "title": "Turn Your Eyes Upon Jesus",
+    "composer": "Helen Howarth Lemmel, 1922",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Piano",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "hc-wonderful-grace": {
+    "id": "hymn-hc-wonderful-grace",
+    "title": "Wonderful Grace of Jesus",
+    "composer": "Haldor Lillenas · , 1918",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Piano",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      },
+      {
+        "id": "5",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (5)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "ly_sands-of-time-rutherford": {
+    "id": "hymn-ly_sands-of-time-rutherford",
+    "title": "The Sands of Time Are Sinking",
+    "composer": "Text: Anne Ross Cousin, 1857 · Tune: Edward F. Rimbault, 1867",
+    "voices": [
+      {
+        "id": "S",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "A",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "T",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "B",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "ly_softly-and-tenderly-thompson": {
+    "id": "hymn-ly_softly-and-tenderly-thompson",
+    "title": "Softly and Tenderly Jesus Is Calling",
+    "composer": "Text and tune: Will L. Thompson, Sparkling Gems Nos.1 & 2, 1880",
+    "voices": [
+      {
+        "id": "S",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "A",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "T",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "B",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "mobile-complete-in-thee": {
+    "id": "hymn-mobile-complete-in-thee",
+    "title": "Complete in Thee",
+    "composer": "Aaron R. Wolfe; refrain James M. Gray · Talmage J. Bittikofer, 1921",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "mobile-does-jesus-care": {
+    "id": "hymn-mobile-does-jesus-care",
+    "title": "Does Jesus Care?",
+    "composer": "Frank E. Graeff (1860-1919),1901 · Joseph L. Hall (1866-1930),1901",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "mobile-o-love": {
+    "id": "hymn-mobile-o-love",
+    "title": "O Love That Wilt Not Let Me Go",
+    "composer": "George Matheson, 1882 · Albert L. Peace, 1884",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "mobile-only-trust-him": {
+    "id": "hymn-mobile-only-trust-him",
+    "title": "Only Trust Him",
+    "composer": "John Hart Stockton (1813-1877); source dates text and tune 1874",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "mobile-spirit-of-god": {
+    "id": "hymn-mobile-spirit-of-god",
+    "title": "Spirit of God, Descend Upon My Heart",
+    "composer": "George Croly (1854); Frederick C. Atkinson (1870)",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "mobile-we-have-an-anchor": {
+    "id": "hymn-mobile-we-have-an-anchor",
+    "title": "Will Your Anchor Hold (We Have an Anchor)",
+    "composer": "Priscilla J. Owens; William J. Kirkpatrick",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "mobile-well-work-till-jesus-comes": {
+    "id": "hymn-mobile-well-work-till-jesus-comes",
+    "title": "We'll Work Till Jesus Comes",
+    "composer": "Elizabeth Mills (1837); William Miller (1859)",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_a-mighty-fortress-is-our-god-ein-feste-burg-isorhythmic": {
+    "id": "hymn-oh_a-mighty-fortress-is-our-god-ein-feste-burg-isorhythmic",
+    "title": "A Mighty Fortress Is Our God",
+    "composer": "Words: Martin Luther, 1529. Translation Frederic Henry Hedge, 1853. · Music: 'Ein Feste Burg (Isorhythmic)' Martin Luther, 1529.  Setting: \"Common Service Book\" (ULCA), 1917, alt.",
+    "tune": "Ein Feste Burg (Isorhythmic)",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_all-creatures-of-our-god-and-king-lasst-uns-erfreuen": {
+    "id": "hymn-oh_all-creatures-of-our-god-and-king-lasst-uns-erfreuen",
+    "title": "All Creatures of Our God and King",
+    "composer": "Words: Francis of Assisi circa 1225. Translated by William H. Draper, 1919. · Music: 'Lasst Uns Erfreuen' from Geistliche Kirchengesäng, Köln, 1623. Setting: Ralph Vaughan Williams, 1906.",
+    "tune": "Lasst Uns Erfreuen",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "oh_all-hail-the-power-of-jesus-name-coronation": {
+    "id": "hymn-oh_all-hail-the-power-of-jesus-name-coronation",
+    "title": "All Hail the Power of Jesus’ Name",
+    "composer": "Words: Edward Perronet, 1780.  Music: 'Coronation' Oliver Holden, 1793. · Setting: \"The Church Hymnal, Revised and Enlarged\" (Episcopal), 1896, alt.",
+    "tune": "Coronation",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_amazing-grace-new-britain": {
+    "id": "hymn-oh_amazing-grace-new-britain",
+    "title": "Amazing Grace",
+    "composer": "Words: John Newton, 1779.  last verse author unknown, before 1829. · Music: 'New Britain' James P. Carrell and David L. Clayton, 1831.  Setting: Edwin Othello Excell, 1900.",
+    "tune": "New Britain",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_be-still-my-soul-finlandia": {
+    "id": "hymn-oh_be-still-my-soul-finlandia",
+    "title": "Be Still, My Soul",
+    "composer": "Words: Katharina A. von Schlegel, 1752.  Translated by Jane L. Borthwick, 1855. · Music: 'Finlandia' Jean Sibelius, 1899.  Setting: from Jean Sibelius, 1900.",
+    "tune": "Finlandia",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_be-thou-my-vision-slane": {
+    "id": "hymn-oh_be-thou-my-vision-slane",
+    "title": "Be Thou My Vision",
+    "composer": "Words: Attr. Dallan Forgaill, 8th Century.  Translated by Mary Byrne, 1905 and Eleanor Hull, 1912. · Music: 'Slane' Traditional Irish.  Setting: Mark Hamilton Dewey, 2007. · the arranger on 27 July 2007. He already had released the parts and the versification (except for a few",
+    "tune": "Slane",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_blessed-assurance-blessed-assurance-assurance": {
+    "id": "hymn-oh_blessed-assurance-blessed-assurance-assurance",
+    "title": "Blessed Assurance",
+    "composer": "Words: Fanny Crosby, 1873. · Music and Setting: 'Blessed Assurance' or 'Assurance' Phoebe P. Knapp, 1873.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_christ-arose-christ-arose": {
+    "id": "hymn-oh_christ-arose-christ-arose",
+    "title": "Low In The Grave He Lay (Christ Arose)",
+    "composer": "Words: Robert Lowry, 1874.  Music and Setting: 'Christ Arose' Robert Lowry, 1874.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_come-thou-long-expected-jesus-jefferson": {
+    "id": "hymn-oh_come-thou-long-expected-jesus-jefferson",
+    "title": "Come Thou Long-Expected Jesus (original Wesley hymn)",
+    "composer": "Words: Charles Wesley, 1745. · Music and Setting: 'Jefferson'  from \"Southern Harmony\", 1835, alt.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_crown-him-with-many-crowns-diademata": {
+    "id": "hymn-oh_crown-him-with-many-crowns-diademata",
+    "title": "Crown Him with Many Crowns",
+    "composer": "Words: Verses 1, 4, 5, 6 & 9: Matthew Bridges, The Passion of Jesus, 1852. · verses 2 & 3: Godfrey Thring, Hymns and Sacred Lyrics, 1874. · Music: 'Diademata' George J. Elvey, 1868.  Setting: \"Appendix to Hymns Ancient and Modern\", 1869.",
+    "tune": "Diademata",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_for-the-beauty-of-the-earth-dix": {
+    "id": "hymn-oh_for-the-beauty-of-the-earth-dix",
+    "title": "For the Beauty of the Earth",
+    "composer": "Words: Folliot S. Pierpoint, 1864.  Music: 'Dix' Conrad Kocher, 1838.  Setting: \"The English Hymnal\", 1906.",
+    "tune": "Dix",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn": {
+    "id": "hymn-oh_glorious-things-of-thee-are-spoken-austria-haydn-austrian-hymn",
+    "title": "Glorious Things Of Thee Are Spoken",
+    "composer": "Words: John Newton, 1779, alt. · Music: 'Austria (Haydn)' or 'Austrian Hymn' Franz Joseph Haydn, 1797. · Setting: \"The Evangelical Hymnal with Tunes\", 1880.",
+    "tune": "Austria (Haydn)",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love": {
+    "id": "hymn-oh_he-keeps-me-singing-he-keeps-me-singing-melody-of-love",
+    "title": "He Keeps Me Singing",
+    "composer": "Words: Luther B. Bridgers, 1910. · Music: 'He Keeps Me Singing' or 'Melody of Love' Hans Engelmann, 1903. · Setting: \"The Revival No. 6\", Luther B. Bridgers, 1910.",
+    "tune": "He Keeps Me Singing",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_he-leadeth-me-he-leadeth-me": {
+    "id": "hymn-oh_he-leadeth-me-he-leadeth-me",
+    "title": "He Leadeth Me",
+    "composer": "Words: Joseph H. Gilmore, 1862. · Music and Setting: 'He Leadeth Me' William B. Bradbury, 1864.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_holy-holy-holy-nicaea": {
+    "id": "hymn-oh_holy-holy-holy-nicaea",
+    "title": "Holy Holy Holy",
+    "composer": "Words: Reginald Heber, 1826. · Music: 'Nicaea' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.",
+    "tune": "Nicaea",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_i-sing-the-mighty-power-of-god-ellacombe": {
+    "id": "hymn-oh_i-sing-the-mighty-power-of-god-ellacombe",
+    "title": "I Sing the Mighty Power of God",
+    "composer": "Words: Isaac Watts, 1709. · Music: 'Ellacombe' from Gesangbuch der Herzogl. Hofkapelle, Wurttemberg, 1784. Setting: \"Amore Dei\", 1897.",
+    "tune": "Ellacombe",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_immortal-invisible-god-only-wise-st-denio": {
+    "id": "hymn-oh_immortal-invisible-god-only-wise-st-denio",
+    "title": "Immortal, Invisible, God Only Wise",
+    "composer": "Words: Walter Chalmers Smith, 1876. · Music: 'St. Denio' or 'Joanna' or 'Palestrina' · traditional Welsh found in \"Caniadau y Cyssegr\" by John Roberts, 1839. · Setting: \"Caniadau y Cyssegr a'r Teulu\", 1878, alt.",
+    "tune": "St. Denio",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_it-is-well-with-my-soul-it-is-well-ville-du-havre": {
+    "id": "hymn-oh_it-is-well-with-my-soul-it-is-well-ville-du-havre",
+    "title": "It Is Well with My Soul",
+    "composer": "Words: Horatio G. Spafford, 1873.  Music and Setting: 'It Is Well' or 'Ville Du Havre' Philip P. Bliss, 1876.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_jesus-shall-reign-duke-street": {
+    "id": "hymn-oh_jesus-shall-reign-duke-street",
+    "title": "Jesus Shall Reign",
+    "composer": "Words: Isaac Watts, 1719. · Music: 'Duke Street' John Hatton, 1793.  Setting: \"Christian Hymns\", 1908.",
+    "tune": "Duke Street",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_more-love-to-thee-more-love-to-thee": {
+    "id": "hymn-oh_more-love-to-thee-more-love-to-thee",
+    "title": "More Love To Thee",
+    "composer": "Words: Elizabeth Payson Prentis, 1856. · Music: 'More Love to Thee' William Howard Doane, 1870.  Setting: William Howard Doane, 1870, alt.",
+    "tune": "More Love to Thee",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_my-hope-is-built-melita": {
+    "id": "hymn-oh_my-hope-is-built-melita",
+    "title": "The Solid Rock (My Hope Is Built on Nothing Less)",
+    "composer": "Words: Edward Mote, circa 1834. · Music: 'Melita' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.",
+    "tune": "Melita",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence": {
+    "id": "hymn-oh_my-saviors-love-my-saviors-love-i-stand-amazed-in-the-presence",
+    "title": "My Savior's Love (I Stand Amazed)",
+    "composer": "Words: Charles H. Gabriel, 1905. · Music and Setting: 'My Savior`s Love' or 'I Stand Amazed in the Presence' Charles H. Gabriel, 1905.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_now-thank-we-all-our-god-nun-danket": {
+    "id": "hymn-oh_now-thank-we-all-our-god-nun-danket",
+    "title": "Now Thank We All Our God",
+    "composer": "Words: Martin Rinkart, c.1636. Translated Catherine Winkworth, 1856.  Music: 'Nun Danket' Johann Crüger, 1647. · Setting: \"Evangelical Lutheran Hymn-Book\", 1931.",
+    "tune": "Nun Danket",
+    "voices": [
+      {
+        "id": "S1",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (S1)"
+      },
+      {
+        "id": "S2",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (S2)"
+      }
+    ],
+    "voiceStructure": "chordal-staves"
+  },
+  "oh_o-for-a-thousand-tongues-azmon": {
+    "id": "hymn-oh_o-for-a-thousand-tongues-azmon",
+    "title": "Oh for a Thousand Tongues to Sing",
+    "composer": "Words: Charles Wesley, 1740.  Music: 'Azmon' Carl G. Gläser, 1828.  Setting: Lowell Mason, 1839.",
+    "tune": "Azmon",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_our-god-our-help-in-ages-past-st-anne": {
+    "id": "hymn-oh_our-god-our-help-in-ages-past-st-anne",
+    "title": "O God, Our Help in Ages Past",
+    "composer": "Words: Isaac Watts, 1719.  Music: 'St. Anne' William Croft, 1708. · Setting: composite found in \"The Lutheran Hymnary\", 1913.",
+    "tune": "St. Anne",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_pass-me-not-o-gentle-savior-pass-me-not-o-gentle-savior": {
+    "id": "hymn-oh_pass-me-not-o-gentle-savior-pass-me-not-o-gentle-savior",
+    "title": "Pass Me Not, O Gentle Savior",
+    "composer": "Words: Fanny J. Crosby, 1868. · Music: 'Pass Me Not O Gentle Savior' William Howard Doane, 1870.  Setting: \"The Coronation\", 1872.",
+    "tune": "Pass Me Not O Gentle Savior",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_praise-god-from-whom-all-blessings-flow-old-100th": {
+    "id": "hymn-oh_praise-god-from-whom-all-blessings-flow-old-100th",
+    "title": "Doxology (Praise God, from Whom All Blessings Flow)",
+    "composer": "Words: Thomas Ken, 1674.  Music: 'Old 100th' Genevan Psalter, attr. Louis Bourgeois, c. 1551. · Setting: Sternhold and Hopkins' Psalter, 1561.",
+    "tune": "Old 100th",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima": {
+    "id": "hymn-oh_praise-my-soul-the-king-of-heaven-praise-my-soul-lauda-anima",
+    "title": "Praise, My Soul, the King of Heaven",
+    "composer": "Words: Henry F. Lyte, 1834. · Music: 'Praise My Soul' or 'Lauda Anima' or 'St. Paul' John Goss, 1869.  Setting: \"The Choral Hymnal\", 1888.",
+    "tune": "Praise My Soul",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_praise-to-the-lord-the-almighty-lobe-den-herren": {
+    "id": "hymn-oh_praise-to-the-lord-the-almighty-lobe-den-herren",
+    "title": "Praise to the Lord the Almighty",
+    "composer": "Words: Joachim Neander, 1680. Translated by Catherine Winkworth, 1863. · Music: 'Lobe den Herren' from Ander Theil des Erneuerten Gesangbuch, 1665. · Setting: William Sterndale Bennett, 1863, alt.",
+    "tune": "Lobe den Herren",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_savior-like-a-shepherd-lead-us-bradbury": {
+    "id": "hymn-oh_savior-like-a-shepherd-lead-us-bradbury",
+    "title": "Savior, Like a Shepherd Lead Us",
+    "composer": "Words: attr. Dorothy Ann Thrupp, 1836. · Music and Setting: 'Bradbury' William B. Bradbury, 1859.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_take-my-life-and-let-it-be-mozart": {
+    "id": "hymn-oh_take-my-life-and-let-it-be-mozart",
+    "title": "Take My Life And Let It Be",
+    "composer": "Words: Frances R. Havergal, 1874.  Music: 'Mozart' Wolfgang Amadeus Mozart (1756-1791). · Setting: composite found in \"Hymnal and Liturgies of the Moravian Church\", 1920.",
+    "tune": "Mozart",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_the-churchs-one-foundation-aurelia": {
+    "id": "hymn-oh_the-churchs-one-foundation-aurelia",
+    "title": "The Church's One Foundation",
+    "composer": "Words: Samuel John Stone, 1866.  Music: 'Aurelia' Samuel Sebastian Wesley, 1864. · Setting: \"Order of worship for the Reformed Church in the United States\", 1866.",
+    "tune": "Aurelia",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_the-old-rugged-cross-old-rugged-cross": {
+    "id": "hymn-oh_the-old-rugged-cross-old-rugged-cross",
+    "title": "The Old Rugged Cross",
+    "composer": "Words: George Bennard, 1913. Music and Setting: 'The Old Rugged Cross' George Bennard, 1913.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_we-gather-together-kremser": {
+    "id": "hymn-oh_we-gather-together-kremser",
+    "title": "We Gather Together to Ask the Lord's Blessing",
+    "composer": "Words: Anonymous circa 1597. Translated Theodore Baker, 1894. · Music: 'Kremser' Traditional Dutch circa 1597.  Setting: Eduard Kremser, 1877.",
+    "tune": "Kremser",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_what-a-friend-we-have-in-jesus-untitled": {
+    "id": "hymn-oh_what-a-friend-we-have-in-jesus-untitled",
+    "title": "What a Friend We Have in Jesus",
+    "composer": "Words: Joseph M. Scriven, 1855. · Music: 'untitled' Charles C. Converse, 1868.  Setting: \"Book of hymns and tunes\", 1874.",
+    "tune": "untitled",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_when-i-survey-the-wondrous-cross-duke-street": {
+    "id": "hymn-oh_when-i-survey-the-wondrous-cross-duke-street",
+    "title": "When I Survey the Wondrous Cross",
+    "composer": "Words: Isaac Watts, 1707. · Music: 'Duke Street' John Hatton, 1793.  Setting: \"Finest of the Wheat No. 3\" Hymnal, 1904.",
+    "tune": "Duke Street",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "oh_when-the-roll-is-called-up-yonder-when-the-roll-is-called-up-yonder": {
+    "id": "hymn-oh_when-the-roll-is-called-up-yonder-when-the-roll-is-called-up-yonder",
+    "title": "When the Roll Is Called Up Yonder",
+    "composer": "Words: James Milton Black, 1893. · Music: 'When The Roll Is Called Up Yonder' James Milton Black, 1893. · Setting: Charles Hutchinson Gabriel, 1893.",
+    "tune": "When The Roll Is Called Up Yonder",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "our-great-savior-hyfrydol": {
+    "id": "hymn-our-great-savior-hyfrydol",
+    "title": "Our Great Savior (Jesus! What a Friend for Sinners)",
+    "composer": "Words: J. Wilbur Chapman, 1910 · Tune: Rowland H. Prichard, HYFRYDOL, 1830 · Harmony: The English Hymnal, 1906, as encoded by Open Hymnal",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "S1V2",
+        "sourceName": "Alto",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "chordal",
+        "name": "Lower staff (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "sourceName": "Bass",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "remaining-openpsalm-all-people": {
+    "id": "hymn-remaining-openpsalm-all-people",
+    "title": "All People That on Earth Do Dwell",
+    "composer": "Louis Bourgeois",
+    "tune": "Old Hundredth",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-openpsalm-all-the-way-my-savior-leads-me": {
+    "id": "hymn-remaining-openpsalm-all-the-way-my-savior-leads-me",
+    "title": "All the Way My Savior Leads Me",
+    "composer": "Robert Lowry",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "remaining-openpsalm-christ-the-lord-is-risen-today": {
+    "id": "hymn-remaining-openpsalm-christ-the-lord-is-risen-today",
+    "title": "Christ the Lord Is Risen Today",
+    "composer": "Lyra Davidica",
+    "tune": "Easter Hymn",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-openpsalm-great-is-thy-faithfulness": {
+    "id": "hymn-remaining-openpsalm-great-is-thy-faithfulness",
+    "title": "Great Is Thy Faithfulness",
+    "composer": "William M. Runyan",
+    "tune": "Faithfulness (Runyan)",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-openpsalm-i-will-sing-the-wondrous-story": {
+    "id": "hymn-remaining-openpsalm-i-will-sing-the-wondrous-story",
+    "title": "I Will Sing the Wondrous Story",
+    "composer": "Peter P. Bilhorn",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-openpsalm-o-worship-the-king": {
+    "id": "hymn-remaining-openpsalm-o-worship-the-king",
+    "title": "O Worship the King",
+    "composer": "Johann Michael Haydn",
+    "tune": "Lyons",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-openpsalm-on-jordans-stormy-banks-i-stand": {
+    "id": "hymn-remaining-openpsalm-on-jordans-stormy-banks-i-stand",
+    "title": "On Jordan's Stormy Banks I Stand",
+    "composer": "Tullius C. O'Kane",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-openpsalm-praise-him-praise-him": {
+    "id": "hymn-remaining-openpsalm-praise-him-praise-him",
+    "title": "Praise Him! Praise Him!",
+    "composer": "Chester G. Allen",
+    "tune": "Joyful Song",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-openpsalm-sound-the-battle-cry": {
+    "id": "hymn-remaining-openpsalm-sound-the-battle-cry",
+    "title": "Sound the Battle Cry",
+    "composer": "William F. Sherwin",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-openpsalm-tell-me-the-story-of-jesus": {
+    "id": "hymn-remaining-openpsalm-tell-me-the-story-of-jesus",
+    "title": "Tell Me the Story of Jesus",
+    "composer": "John R. Sweney",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "remaining-tt-children-of-the-heavenly-father": {
+    "id": "hymn-remaining-tt-children-of-the-heavenly-father",
+    "title": "Children of the Heavenly Father",
+    "composer": "“Tryggare Kan Ingen Vara”; Swedish melody; arr. by Oskar Ahnfelt.",
+    "tune": "Tryggare Kan Ingen Vara",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "remaining-tt-god-be-with-you-till-we-meet-again": {
+    "id": "hymn-remaining-tt-god-be-with-you-till-we-meet-again",
+    "title": "God Be with You till We Meet Again",
+    "composer": "“God Be with You”; William G. Tomer, 1882.",
+    "tune": "God Be with You",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "remaining-tt-he-hideth-my-soul": {
+    "id": "hymn-remaining-tt-he-hideth-my-soul",
+    "title": "He Hideth My Soul",
+    "composer": "William J. Kirkpatrick, c.1890.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-lead-kindly-light": {
+    "id": "hymn-tt-lead-kindly-light",
+    "title": "Lead, Kindly Light",
+    "composer": "“Lux Benigna”; John B. Dykes, 1865.",
+    "tune": "Lux Benigna",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-lead-me-to-calvary": {
+    "id": "hymn-tt-lead-me-to-calvary",
+    "title": "Lead Me to Calvary",
+    "composer": "“Duncannon”; William J. Kirkpatrick, 1921.",
+    "tune": "Duncannon",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-my-faith-has-found-a-resting-place": {
+    "id": "hymn-tt-my-faith-has-found-a-resting-place",
+    "title": "My Faith Has Found a Resting Place",
+    "composer": "“Landås”; André E. M. Grétry; arr. by William J. Kirkpatrick.",
+    "tune": "Landås",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-my-jesus-i-love-thee": {
+    "id": "hymn-tt-my-jesus-i-love-thee",
+    "title": "My Jesus, I Love Thee",
+    "composer": "“Gordon”; Adoniram J. Gordon, 1876.",
+    "tune": "Gordon",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-nearer-still-nearer": {
+    "id": "hymn-tt-nearer-still-nearer",
+    "title": "Nearer, Still Nearer",
+    "composer": "Lelia N. Morris, pub.1898.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-bringing-in-the-sheaves": {
+    "id": "hymn-tt-supplemental-bringing-in-the-sheaves",
+    "title": "Bringing in the Sheaves",
+    "composer": "George A. Minor, 1880.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-count-your-blessings": {
+    "id": "hymn-tt-supplemental-count-your-blessings",
+    "title": "Count Your Blessings",
+    "composer": "“Blessings”; Edwin O. Excell, 1897.",
+    "tune": "Blessings",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "SOPRANO ALTO",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "TENOR BASS",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-grace-greater-than-our-sin": {
+    "id": "hymn-tt-supplemental-grace-greater-than-our-sin",
+    "title": "Grace Greater than Our Sin",
+    "composer": "“Moody”; Daniel B. Towner, 1910.",
+    "tune": "Moody",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-i-love-to-tell-the-story": {
+    "id": "hymn-tt-supplemental-i-love-to-tell-the-story",
+    "title": "I Love to Tell the Story",
+    "composer": "“Hankey”; William G. Fischer, pub.1869.",
+    "tune": "Hankey",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-in-the-cross-of-christ-i-glory": {
+    "id": "hymn-tt-supplemental-in-the-cross-of-christ-i-glory",
+    "title": "In the Cross of Christ I Glory",
+    "composer": "“Rathbun”; Ithamr Conkey, 1849.",
+    "tune": "Rathbun",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-jesus-lover-of-my-soul": {
+    "id": "hymn-tt-supplemental-jesus-lover-of-my-soul",
+    "title": "Jesus, Lover of My Soul",
+    "composer": "“Martyn”; Simeon B. Marsh, 1834.",
+    "tune": "Martyn",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "SOPRANO ALTO",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "TENOR BASS",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-like-a-river-glorious": {
+    "id": "hymn-tt-supplemental-like-a-river-glorious",
+    "title": "Like a River Glorious",
+    "composer": "“Wye Valley”; James Mountain, 1876.",
+    "tune": "Wye Valley",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "SOPRANO ALTO",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "bass",
+        "sourceName": "TENOR BASS",
+        "kind": "chordal",
+        "name": "Lower staff (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-my-redeemer": {
+    "id": "hymn-tt-supplemental-my-redeemer",
+    "title": "My Redeemer",
+    "composer": "James McGranahan, 1877.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-o-perfect-love": {
+    "id": "hymn-tt-supplemental-o-perfect-love",
+    "title": "O Perfect Love",
+    "composer": "“Sandringham”; Joseph Barnby, 1889.",
+    "tune": "Sandringham",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-onward-christian-soldiers": {
+    "id": "hymn-tt-supplemental-onward-christian-soldiers",
+    "title": "Onward, Christian Soldiers",
+    "composer": "“St. Gertrude”; Arthur S. Sullivan, 1871.",
+    "tune": "St. Gertrude",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-rejoice-the-lord-is-king": {
+    "id": "hymn-tt-supplemental-rejoice-the-lord-is-king",
+    "title": "Rejoice, the Lord Is King",
+    "composer": "“Darwall’s 148th”; John Darwall, pub.1770.",
+    "tune": "Darwall",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-sweet-hour-of-prayer": {
+    "id": "hymn-tt-supplemental-sweet-hour-of-prayer",
+    "title": "Sweet Hour of Prayer",
+    "composer": "“Sweet Hour”; William B. Bradbury, pub.1861.",
+    "tune": "Sweet Hour",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-the-king-of-love-my-shepherd-is": {
+    "id": "hymn-tt-supplemental-the-king-of-love-my-shepherd-is",
+    "title": "The King of Love My Shepherd Is",
+    "composer": "“St. Columba”; Irish melody; har., pub.1912; alt.",
+    "tune": "St. Columba",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-trusting-jesus": {
+    "id": "hymn-tt-supplemental-trusting-jesus",
+    "title": "Trusting Jesus",
+    "composer": "Ira D. Sankey, 1876.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "tt-supplemental-we-rest-on-thee": {
+    "id": "hymn-tt-supplemental-we-rest-on-thee",
+    "title": "We Rest on Thee",
+    "composer": "“Finlandia”; Jean Sibelius, 1899.",
+    "tune": "Finlandia",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "winkworth-whateer-gastorius": {
+    "id": "hymn-winkworth-whateer-gastorius",
+    "title": "Whate'er My God Ordains Is Right",
+    "composer": "Samuel Rodigast; translation Catherine Winkworth, The Chorale Book for England,1863 · Severus Gastorius, historical tune",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  }
+}

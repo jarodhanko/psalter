@@ -1,0 +1,122 @@
+%abc-2.1
+X:1
+T:How Gentle God's Commands
+C:Phillip Doddridge, 1702 - 1751 | H.G. Nagali, 1773 - 1836;  arr. Lowell Mason
+S:HymnsToGod.org; original MUP and PDF retained
+M:3/4
+L:1/8
+Q:1/4=105
+N:Source MUP SHA-256 b97fef1e5aef141f212f6d8fb9bf3d48c5f4fd5f34726428370ad82097fef50b
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+K:F
+% SOURCE title bold (19) "" "How Gentle God's Commands" ""
+% SOURCE title (2) " "
+% SOURCE title (11) "F-3-MI" "\f(TI)Casting all your care upon Him; for He careth for you. - 1 Peter 5:7"""
+% SOURCE title (13) "Phillip Doddridge, 1702 - 1751" "H.G. Nagali, 1773 - 1836\n arr. Lowell Mason"
+% SOURCE title (11) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // Coded with Mup vs. 5.6 - http://www.arkkra.com
+% SOURCE // The hymn produced by this source code is believed to be in the public 
+% SOURCE // domain in the United States of America.
+% SOURCE // This source code is donated to the public domain.
+% SOURCE // Hymn Source: The Christian Hymnal, 
+% SOURCE //		Pub. Central Book Concern, 
+% SOURCE //		180 Elm St., Cincinnati, Ohio, 
+% SOURCE //		Copyright 1882
+% SOURCE // Transcribed by: Ted Gatza, Jr. 09/06/2009
+% SOURCE // HymnsToGod.org
+% SOURCE // ****************************************************************************************
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3
+% SOURCE //4
+% SOURCE //5
+% SOURCE //6
+% SOURCE //7
+% SOURCE //8
+% SOURCE //9
+% SOURCE //10
+% SOURCE //11
+% SOURCE //12
+% SOURCE //13
+% SOURCE //14
+% SOURCE //15
+% SOURCE //16
+% SOURCE //17
+V:11
+[AF]2 | [(A(F]2 [C)F)]2 [AF]2 | [(G(E]2 [C)E)]2 [GE]2 | F4 ||
+w: 1.~How gen- * tle God's * com- mand's,
+w: 2.~While pro- * vi- dence * sup- ports,
+w: 3.~Why should * this anx- * ious load
+w: 4.~His good- * ness stands * ap- proved,
+V:12
+x2 | x6 | x6 | F4 ||
+V:21
+[CF,]2 | (C2 A,2) [CF,]2 | (C2 G,2) [B,C,]2 | [A,F,]4 ||
+V:22
+x2 | F,4 x2 | C,4 x2 | x4 ||
+V:11
+F2 | [(F(D]2 [B,)D)]2 [FD]2 | [(F(C]2 [A,)C)]2 [FC]2 | [EC]4 ||
+w: How kind * his pre- * cepts are!
+w: Let saints * se- cure- * ly dwell;
+w: Press down * your wea- * ry mind?
+w: Down to * the pres- * ent day;
+V:12
+_E2 | x6 | x6 | x4 ||
+V:21
+[A,F,]2 | (B,2 F,2) [B,B,,]2 | (A,2 F,2) [A,F,]2 | [G,C,]4 ||
+V:22
+x2 | B,,4 x2 | F,4 x2 | x4 ||
+V:11
+[GE]2 | [(G(E]2 [C)E)]2 [GC]2 | [(F(C]2 [F)A)]2 [cF]2 | (c2 G2) [BG]2 |
+w: Come, cast * your bur- * dens on * the
+w: That hand, * which bears * all na- * ture
+w: Haste to * your heav'n- * ly Fa- * ther's
+w: I'll drop * my bur- * den at * his
+V:12
+x2 | x6 | x6 | E4 x2 |
+V:21
+[CC,]2 | (C2 G,2) [B,C,]2 | (A,2 C2) [A,F,]2 | (G,2 C2) [CC,]2 |
+V:22
+x2 | C,4 x2 | F,4 x2 | C,4 x2 |
+V:11
+[(A(F]2 [A)c)]2 ||
+w: Lord, *
+w: up, *
+w: throne, *
+w: feet, *
+V:12
+x4 ||
+V:21
+[CF,]4 ||
+V:22
+x4 ||
+V:11
+[dF]2 | (c2 A2) [BF]2 | [(A(F]2 [C)F)]2 [GC]2 | [FC]4 |]
+w: And trust * his con- * stant care.
+w: Shall guide * his chil- * dren well.
+w: And sweet * com- mun- * ion find.
+w: And bear * a song * a- way.
+V:12
+x2 | F4 x2 | x6 | x4 |]
+V:21
+[B,F,]2 | (A,2 C2) [DB,,]2 | (C2 A,2) [B,C,]2 | [A,F,]4 |]
+V:22
+x2 | F,4 x2 | C,4 x2 | x4 |]

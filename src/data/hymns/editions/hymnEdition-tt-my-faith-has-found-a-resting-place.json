@@ -1,0 +1,217 @@
+{
+  "sourceSha256": "d08fdcf2605d3358af371d8263b6489870f8285635d09711958c7b24675eca70",
+  "metadata": {
+    "id": "hymn-tt-my-faith-has-found-a-resting-place",
+    "title": "My Faith Has Found a Resting Place",
+    "composer": "“Landås”; André E. M. Grétry; arr. by William J. Kirkpatrick.",
+    "tune": "Landås",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-my-faith-has-found-a-resting-place",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/M/My_Faith_Has_Found_a_Resting_Place/My_Faith_Has_Found_a_Resting_Place.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Eliza E. Hewitt, pub.1891.  MUSIC: “Landås”; André E. M. Grétry; arr. by William J. Kirkpatrick.  Public Domain.",
+      "My Faith Has Found a Resting Place",
+      "Come unto me, all ye that labour and are heavy laden, and I will give you rest. Mt. 11:28",
+      "We which have believed do enter into rest. Heb. 4:3"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "rights": [
+      "Not cleared for distribution by this acquisition; source labels and original decisions retained.",
+      "WORDS: Eliza E. Hewitt, pub.1891.  MUSIC: “Landås”; André E. M. Grétry; arr. by William J. Kirkpatrick.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-my-faith-has-found-a-resting-place",
+      "title": "My Faith Has Found a Resting Place",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H072"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B067"
+        }
+      ],
+      "file": "abc/tt-my-faith-has-found-a-resting-place.abc",
+      "sha256": "d08fdcf2605d3358af371d8263b6489870f8285635d09711958c7b24675eca70",
+      "canonical_reference_in_archive": "musicxml_abc/My_Faith_Has_Found_a_Resting_Place.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/M/My_Faith_Has_Found_a_Resting_Place/My_Faith_Has_Found_a_Resting_Place.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; source labels and original decisions retained.",
+        "page_evidence": [
+          {
+            "url": "https://library.timelesstruths.org/music/My_Faith_Has_Found_a_Resting_Place/",
+            "direct_fetch_status": "downloaded",
+            "evidence_status": "parsed",
+            "source_file_listed": true,
+            "rights_context": [
+              {
+                "text": "copyright status is Public Domain",
+                "preceding_context": [
+                  "| >>",
+                  "My Faith Has Found a Resting Place",
+                  "Eliza E. Hewitt, pub.1891"
+                ],
+                "following_context": [
+                  "Subjects:",
+                  "Faith,"
+                ]
+              },
+              {
+                "text": "copyright status is Public Domain",
+                "preceding_context": [
+                  "Landås (2) [.xml]",
+                  "André E. M. Grétry",
+                  "arr. by William J. Kirkpatrick"
+                ],
+                "following_context": [
+                  "Key: A♭",
+                  "Meter: 8.6.8.6 D"
+                ]
+              }
+            ],
+            "rights_links": [
+              {
+                "text": "Public Domain",
+                "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+              },
+              {
+                "text": "Public Domain",
+                "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+              }
+            ],
+            "snapshot_path": "sources/timelesstruths/pages/My_Faith_Has_Found_a_Resting_Place.txt",
+            "note": null
+          }
+        ],
+        "evidence_warnings": [],
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H072",
+      "title": "My Faith Has Found a Resting Place",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "tt-my-faith-has-found-a-resting-place",
+      "abc_file": "abc/tt-my-faith-has-found-a-resting-place.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H072",
+        "Hymn / version": "My Faith Has Found a Resting Place",
+        "Playlist track #": "88",
+        "Music / score source": "https://library.timelesstruths.org/library/music/M/My_Faith_Has_Found_a_Resting_Place/My_Faith_Has_Found_a_Resting_Place.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/My_Faith_Has_Found_a_Resting_Place/",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB-style grand-staff PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights source": "https://library.timelesstruths.org/music/My_Faith_Has_Found_a_Resting_Place/",
+        "Text, tune and version notes": "Eliza E. Hewitt (1891) / LANDÅS, attributed André E. M. Grétry, arr. William J. Kirkpatrick\nPDF opened successfully",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B067",
+      "title": "My Faith Has Found a Resting Place",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-my-faith-has-found-a-resting-place",
+      "abc_file": "abc/tt-my-faith-has-found-a-resting-place.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B067",
+        "Song title": "My Faith Has Found a Resting Place",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/M/My_Faith_Has_Found_a_Resting_Place/My_Faith_Has_Found_a_Resting_Place.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/My_Faith_Has_Found_a_Resting_Place/",
+        "Editable source": "",
+        "Tune and work identity": "Eliza E. Hewitt (1891) / LANDÅS, attributed André E. M. Grétry, arr. William J. Kirkpatrick\nPDF opened successfully",
+        "Public distribution rights": "US public domain underlying text and tune; use only the identified standard edition, not the recording arrangement",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/My_Faith_Has_Found_a_Resting_Place/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 332 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "88, 332",
+        "Playlist artists": "Don Moen; The Haven Quartet",
+        "Original track titles": "My Faith Has Found a Resting Place; My Faith Has Found A Resting Place",
+        "Source review": "SATB-style grand-staff PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

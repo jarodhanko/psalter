@@ -1,0 +1,52 @@
+/** Presentation-only additions for one byte-matched historical source.
+ * The source prints these stanzas as W: prose. This is editorial alignment,
+ * using the same 28 syllable carriers as each of its five printed verses.
+ * Never pass the result to playback or replace the canonical song record.
+ */
+export interface EditorialStanzaUnderlayInfo {
+  readonly kind: 'editorial-stanza-underlay';
+  readonly sourceSha256: string;
+  readonly stanzaNumbers: readonly number[];
+  readonly note: string;
+  readonly sourceUrls: readonly string[];
+}
+export interface EditorialStanzaUnderlay {
+  readonly abc: string;
+  readonly info: EditorialStanzaUnderlayInfo;
+}
+const sourceWitness = "%abc-2.1\n% Normalized from Open Hymnal ABCPlus. See companion provenance JSON.\n% Source engraving directive: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n% Source engraving directive: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n% Source engraving directive: %%pagewidth\t21.6000cm\n% Source engraving directive: %%pageheight\t27.9000cm\n% Source engraving directive: %%scale\t\t0.750000\n% Source engraving directive: %%staffsep\t1.60000cm\n% Source engraving directive: %%exprabove\tfalse\n% Source engraving directive: %%measurebox\tfalse\n% Source engraving directive: %%postscript /st { moveto -8 0 rmoveto 0 8 rlineto 4 0 rlineto stroke } def\n% Source engraving directive: %%postscript /nd { moveto -8 0 rmoveto 0 8 rlineto -4 0 rlineto stroke } def\n% Source engraving directive: %%deco sintro 6 st 6 0 0\n% Source engraving directive: %%deco eintro 6 nd 6 0 0\nX:1\nT: Amazing Grace\nC: Words: John Newton, 1779.  last verse author unknown, before 1829.\nC: Music: 'New Britain' James P. Carrell and David L. Clayton, 1831.  Setting: Edwin Othello Excell, 1900.\nC: copyright: public domain.  This score is a part of the Open Hymnal Project, 2006 Revision.\nS: Music source: \"Joy to the World\", 1915, Hymn 209 Ed. E. O. Excell  explicit about arrangement.  Christian Classics Ethereal Library (ccel.org) Hymnary  Think setting from \"Make His praise glorious\", 1900.  Ed. Edwin Othello Excell.\nM: 3/4 % time signature\nL: 1/4 % default length\n%%score (S1V1 S1V2) | (S2V1 S2V2)\nV: S1V1 clef=treble\n%%MIDI beat 127 125 110 1\nV: S1V2\n%%MIDI beat 127 125 110 1\nV: S2V1 clef=bass\n%%MIDI beat 127 125 110 1\nV: S2V2\n%%MIDI beat 127 125 110 1\nK: G % key signature\n%\n%%MIDI program 1 0 % Piano 1\n%%MIDI program 2 0 % Piano 1\n%%MIDI program 3 0 % Piano 1\n%%MIDI program 4 0 % Piano 1\n%\n% 1\n[V: S1V1]  [Q:1/4=100]  D | G2 B/G/ | B2 A | G2 E | D2 D |\nw: 1.~A- maz- ing * grace! How sweet the sound That\nw: 2.~'Twas grace that * taught my heart to fear, And\nw: 3.~Through ma- ny * dan- gers, toils and snares, I\nw: 4.~The Lord has * pro- mised good to me, His\nw: 5.~Yea, when this * flesh and heart shall fail, And\n[V: S1V2]  B, | B,2 D | D2 C | B,2 C | B,2 B, |\n[V: S2V1]  G, | D,2 G, | G,2 F, | G,2 G, | G,2 G, |\n[V: S2V2]  G,, | G,,2 G,,/B,,/ | D,2 D, | E,2 C, | G,,2 G,, |\n% 5\n[V: S1V1]  G2 B/G/ | B2 A | d3- | d2 B | (d3/2 B/) d/B/ | G2 D |\nw: saved a * wretch like me! * I once * was * lost, but\nw: grace my * fears re- lieved; * How pre- * cious * did that\nw: have al- * rea- dy come; * 'Tis grace * hath * brought me\nw: Word my * hope se- cures;  * He will * my * Shield and\nw: mor- tal * life shall cease, * I shall * pos- * sess, with-\n[V: S1V2]  B,2 D | D2 D | D3- | D2 D | D2 D | D2 D |\n[V: S2V1]  D,2 G, | G,2 F, | G,3- | G,2 G, | (B,3/2 G,/) B,/G,/ | G,2 G, |\n[V: S2V2]  G,,2 G,,/B,,/ | D,2 C, | B,,3- | B,,2 G,, | G,2 G, | B,,2 B,, |\n% 9\n[V: S1V1]  (E3/2 G/) G/E/ | D2 D | G2 B/G/ | B2 A | G3- | G2 |]\nw:   now * am * found; Was blind, but * now I see. *\nw:   grace * ap- * pear The hour I * first be- lieved. *\nw:  safe * thus * far, And grace will * lead me home. *\nw: Por- * tion * be, As long as * life en- dures. *\nw:  in * the * veil, A life of * joy and peace. *\n[V: S1V2]  C3/2 D/ C | B,2 D | B,2 D | G2 F | D3- | D2 |]\n[V: S2V1]  G,2 E,/G,/ | G,2 G, | G,2 G,/B,/ | D2 C | B,3- | B,2 |]\n[V: S2V2]  (C,3/2 B,,/) C, | G,,2 B,, | E,2 D, | D,2 D, | G,3- | G,2 |]\n% 18\nW: 6.The earth shall soon dissolve like snow,\nW: The sun forbear to shine;\nW: But God, Who called me here below,\nW: Shall be forever mine.\nW:\nW: 7.When we've been there ten thousand years,\nW: Bright shining as the sun,\nW: We've no less days to sing God's praise\nW: Than when we'd first begun.\n";
+const info: EditorialStanzaUnderlayInfo = {
+  kind: 'editorial-stanza-underlay',
+  sourceSha256: '9d108a45a1c98d91bbc09e711861d54c16d0be30758615ae5fd463d06201d558',
+  stanzaNumbers: [6, 7],
+  note: 'Verses 6 and 7 use editorial lyric alignment; the source prints them below the score.',
+  sourceUrls: [
+    'https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Amazing_Grace/Amazing_Grace-New_Britain.abc',
+    'https://library.timelesstruths.org/library/music/A/Amazing_Grace/Amazing_Grace.pdf',
+  ],
+};
+// Fixed source line positions, not a heuristic assignment to matching words.
+const additionalRows: Readonly<Record<number, readonly string[]>> = {
+  "44": [
+    "6.~The earth shall * soon dis- solve like snow, The",
+    "7.~When we've been * there ten thou- sand years, Bright"
+  ],
+  "54": [
+    "sun for- * bear to shine; * But God, * Who * called me",
+    "shin- ing * as the sun, * We've no * less * days to"
+  ],
+  "64": [
+    "here * be- * low, Shall be for- * ev- er mine. *",
+    "sing * God's * praise Than when we'd * first be- gun. *"
+  ]
+};
+const projected: EditorialStanzaUnderlay = {
+  abc: sourceWitness.split('\n').flatMap((line, index) =>
+    [line, ...(additionalRows[index] ?? []).map(row => `w: ${row}`)]).join('\n'),
+  info,
+};
+
+/** Changed headers, words, notes, spacing or line endings fail closed. */
+export function getEditorialStanzaUnderlay(songId: string | undefined, abc: string): EditorialStanzaUnderlay | undefined {
+  return songId === 'hymn-oh_amazing-grace-new-britain' && abc === sourceWitness ? projected : undefined;
+}

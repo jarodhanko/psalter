@@ -1,0 +1,67 @@
+% Source edition: tt-supplemental-sweet-hour-of-prayer
+% Source URL: https://library.timelesstruths.org/library/music/S/Sweet_Hour_of_Prayer/Sweet_Hour_of_Prayer.xml
+% Source SHA256: efcb549d9ead3da3140a703861356c06840728d491864665b42cf5c56d045be3
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Sweet_Hour_of_Prayer.repairs.json
+% Catalog membership: book1:H037, book2:B036
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: William W. Walford, 1845.  MUSIC: “Sweet Hour”; William B. Bradbury, pub.1861.  Public Domain.
+% Original credit-words: Sweet Hour of Prayer
+% Original credit-words: WORDS: William W. Walford, 1845.  MUSIC: “Sweet Hour”; William B. Bradbury, pub.1861.  Public Domain.
+% Original credit-words: Pray without ceasing. 1 Th. 5:17
+% Original credit-words: The smoke of the incense, which came with the prayers of the saints, ascended up before God. Rev. 8:4
+X:1
+T:Sweet Hour of Prayer
+Z:WORDS: William W. Walford, 1845.  MUSIC: “Sweet Hour”; William B. Bradbury, pub.1861.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+M:6/8
+K:D
+V:1 treble nm="Soprano" snm="S."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ D | [DF]2 [EG] [FA]2 [FA] | [GB]2 [Ac] [Bd]2 [GB] | [FA]2 [DF] (([DF] [CE])) D | %4
+w: 1.~Sweet|hour of prayer! sweet|hour of prayer! That|calls me from * a|
+w: 2.~Sweet|hour of prayer! sweet|hour of prayer! The|joys I feel, * the|
+w: 3.~Sweet|hour of prayer! sweet|hour of prayer! Thy|wings shall my * pe-|
+w: 4.~Sweet|hour of prayer! sweet|hour of prayer! May|I thy con- * so-|
+ [CE]2 [DF] [CE]2 |  D | [DF]2 [EG] [FA]2 [FA] | [GB]2 [Ac] [Bd]2 [GB] | %8
+w: world of care,|And|bids me at my|Fa- ther’s throne Make|
+w: bliss I share,|Of|those whose anx- ious|spir- its burn With|
+w: ti- tion bear|To|Him whose truth and|faith- ful- ness En-|
+w: la- tion share,|Till,|from Mount Pis- gah’s|loft- y height, I|
+ [FA]2 [DF] (([DF] [CE])) D | [DF]2 [CE] !fermata!D2 |  [FA] | [Fd]2 [Gc] [Ad]2 [GB] | %12
+w: all my wants * and|wish- es known.|In|sea- sons of dis-|
+w: strong de- sires * for|thy re- turn!|With|such I has- ten|
+w: gage the wait- * ing|soul to bless.|And|since He bids me|
+w: view my home * and|take my flight.|This|robe of flesh I’ll|
+ [FA]2 [DF] [FA]2 [DA] | [Fd]2 [Gc] [Ad]2 [GB] | [FA]2 [DF] [CE]2 |  D | %16
+w: tress and grief, My|soul has of- ten|found re- lief,|And|
+w: to the place Where|God my Sav- ior|shows His face,|And|
+w: seek His face, Be-|lieve His Word and|trust His grace,|I’ll|
+w: drop, and rise To|seize the ev- er-|last- ing prize,|And|
+ [DF]2 [EG] [FA]2 [FA] | [GB]2 [Ac] !fermata![Bd]2 [GB] | [FA]2 [DF] (([DF] [CE])) D | [DF]2 [CE] D2 |] %20
+w: oft es- caped the|temp- ter’s snare, By|thy re- turn, * sweet|hour of prayer!|
+w: glad- ly take my|sta- tion there, And|wait for thee, * sweet|hour of prayer!|
+w: cast on Him my|eve- ry care, And|wait for thee, * sweet|hour of prayer!|
+w: shout, while pass- ing|through the air, “Fare-|well, fare- well, * sweet|hour of prayer!”|
+V:2
+ D | x6 | x6 | x3 x x D | %4
+ x4 x |  D | x6 | x6 | %8
+ x3 x x D | x3 D2 |  x | x6 | %12
+ x6 | x6 | x4 x |  D | %16
+ x6 | x6 | x3 x x D | x3 D2 |] %20
+V:3
+ [D,F,] | [D,A,]2 [D,A,] [D,D]2 [D,D] | [G,D]2 [G,D] [G,D]2 [G,D] | [D,D]2 [D,A,] (A, G,) [D,F,] | %4
+ [A,,A,]2 [A,,A,] [A,,A,]2 |  [D,F,] | [D,A,]2 [D,A,] [D,D]2 [D,D] | [G,D]2 [G,D] [G,D]2 [G,D] | %8
+ [D,D]2 [D,A,] (A, G,) [D,F,] | [A,,A,]2 [A,,G,] !fermata![D,F,]2 |  [D,A,] | [D,A,]2 [E,A,] [F,A,]2 [G,D] | %12
+ [D,D]2 [D,A,] [D,D]2 [D,F,] | [D,A,]2 [E,A,] [F,A,]2 [G,D] | [D,D]2 [D,A,] [A,,A,]2 |  [D,F,] | %16
+ [D,A,]2 [D,A,] [D,D]2 [D,D] | [G,D]2 [G,D] !fermata![G,D]2 [G,D] | [D,D]2 [D,A,] (A, G,) [D,F,] | [A,,A,]2 [A,,G,] [D,F,]2 |] %20
+V:4
+ x | x6 | x6 | x3 D,2 x | %4
+ x4 x |  x | x6 | x6 | %8
+ x3 D,2 x | x4 x |  x | x6 | %12
+ x6 | x6 | x4 x |  x | %16
+ x6 | x6 | x3 D,2 x | x4 x |] %20

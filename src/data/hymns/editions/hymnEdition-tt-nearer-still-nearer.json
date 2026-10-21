@@ -1,0 +1,216 @@
+{
+  "sourceSha256": "fdb5827c3d400c339d997b2eb73da1438a7c0f7c0e49ea776de7281b0eb57aee",
+  "metadata": {
+    "id": "hymn-tt-nearer-still-nearer",
+    "title": "Nearer, Still Nearer",
+    "composer": "Lelia N. Morris, pub.1898.",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-nearer-still-nearer",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/N/Nearer_Still_Nearer/Nearer_Still_Nearer.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS and MUSIC: Lelia N. Morris, pub.1898.  Public Domain.",
+      "Nearer, Still Nearer",
+      "Draw nigh to God, and he will draw nigh to you. Jas. 4:8 Let us draw near with a true heart in full assurance of faith. Heb. 10:22",
+      "It is good for me to draw near to God: I have put my trust in the Lord God. Ps. 73:28"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "rights": [
+      "Not cleared for distribution by this acquisition; source labels and original decisions retained.",
+      "WORDS and MUSIC: Lelia N. Morris, pub.1898.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-nearer-still-nearer",
+      "title": "Nearer, Still Nearer",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H030"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B028"
+        }
+      ],
+      "file": "abc/tt-nearer-still-nearer.abc",
+      "sha256": "fdb5827c3d400c339d997b2eb73da1438a7c0f7c0e49ea776de7281b0eb57aee",
+      "canonical_reference_in_archive": "musicxml_abc/Nearer_Still_Nearer.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/N/Nearer_Still_Nearer/Nearer_Still_Nearer.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; source labels and original decisions retained.",
+        "page_evidence": [
+          {
+            "url": "https://library.timelesstruths.org/music/Nearer_Still_Nearer/",
+            "direct_fetch_status": "downloaded",
+            "evidence_status": "parsed",
+            "source_file_listed": true,
+            "rights_context": [
+              {
+                "text": "copyright status is Public Domain",
+                "preceding_context": [
+                  "| >>",
+                  "Nearer, Still Nearer",
+                  "Lelia N. Morris, pub.1898"
+                ],
+                "following_context": [
+                  "Subjects:",
+                  "Aspiration,"
+                ]
+              },
+              {
+                "text": "copyright status is Public Domain",
+                "preceding_context": [
+                  "Scripture: James 4:8; Hebrews 10:22; Psalm 73:28",
+                  "Nearer, Still Nearer [.xml]",
+                  "Lelia N. Morris, pub.1898"
+                ],
+                "following_context": [
+                  "Key: D♭",
+                  "Meter: 9.10.9.10.10"
+                ]
+              }
+            ],
+            "rights_links": [
+              {
+                "text": "Public Domain",
+                "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+              },
+              {
+                "text": "Public Domain",
+                "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+              }
+            ],
+            "snapshot_path": "sources/timelesstruths/pages/Nearer_Still_Nearer.txt",
+            "note": null
+          }
+        ],
+        "evidence_warnings": [],
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H030",
+      "title": "Nearer Still Nearer",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "tt-nearer-still-nearer",
+      "abc_file": "abc/tt-nearer-still-nearer.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H030",
+        "Hymn / version": "Nearer Still Nearer",
+        "Playlist track #": "30",
+        "Music / score source": "https://library.timelesstruths.org/library/music/N/Nearer_Still_Nearer/Nearer_Still_Nearer.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Nearer_Still_Nearer/",
+        "Editable notation / MIDI": "https://library.timelesstruths.org/music/Nearer_Still_Nearer/",
+        "Available formats": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain text and music (US), as labeled by source",
+        "Rights source": "https://library.timelesstruths.org/music/Nearer_Still_Nearer/",
+        "Text, tune and version notes": "Lelia N. Morris, text and tune 1898\nDownloaded and recognized PDF; text checked separately",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B028",
+      "title": "Nearer Still Nearer",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-nearer-still-nearer",
+      "abc_file": "abc/tt-nearer-still-nearer.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B028",
+        "Song title": "Nearer Still Nearer",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/N/Nearer_Still_Nearer/Nearer_Still_Nearer.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Nearer_Still_Nearer/",
+        "Editable source": "https://library.timelesstruths.org/music/Nearer_Still_Nearer/",
+        "Tune and work identity": "Lelia N. Morris, text and tune 1898\nDownloaded and recognized PDF; text checked separately",
+        "Public distribution rights": "Public-domain text and music (US), as labeled by source",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Nearer_Still_Nearer/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 243, 363 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "28, 243, 363",
+        "Playlist artists": "Narrow Way; Christian Edition; Discovery Singers",
+        "Original track titles": "Nearer, Still Nearer",
+        "Source review": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

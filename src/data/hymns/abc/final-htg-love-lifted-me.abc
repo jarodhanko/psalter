@@ -1,0 +1,190 @@
+%abc-2.1
+X:1
+T:Love Lifted Me
+C:James Rowe | Howard E. Smith, 1912
+S:HymnsToGod.org; original MUP and PDF retained
+M:6/8
+L:1/8
+Q:1/4=100
+N:Source MUP SHA-256 1dbfd4172d14791ea9bbb4300a1d694cfc0fac0fea92e465aad3ff7258274237
+N:Editorial typo corrections in recommended copy: verse2 lives -> live; verse3 you -> your. Canonical retains source text.
+N:Corroboration: Melody Publications Love Lifted Me -James Rowe (26 April 2024), and historical Soul Stirring Songs no.34 indexed text.
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+K:Bb
+% SOURCE title bold (19) "" "Love Lifted Me" ""
+% SOURCE title (2)""
+% SOURCE title (11)"" "\f(TI)...in his love and in his pity he redeemed them; and he bare" ""
+% SOURCE title (11)"" "\f(TI)them, and carried them all the days of old. - Is. 63:9" ""
+% SOURCE title (11) "B\(flat) - 2 - MI" "" ""
+% SOURCE title (13) "James Rowe" "" "Howard E. Smith, 1912"
+% SOURCE title(11) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // !Mup vs.6.7 http://www.arkkra.com
+% SOURCE // The hymn produced by this source code is believed to be  
+% SOURCE // in the public domain in the United States of America.
+% SOURCE // This source code is donated to the public domain.
+% SOURCE // 
+% SOURCE // Hymn Source: The New Praiseworthy For The Church And Sunday School
+% SOURCE //		Edited and Compiled by E. O. Excell
+% SOURCE //		Published by E. O. Excell
+% SOURCE //		814 The Fine Arts Building
+% SOURCE //		Copyright 1916
+% SOURCE //		Hymn No.: 61
+% SOURCE //		
+% SOURCE // Transcribed by: Ted Gatza, Jr. 02/02022
+% SOURCE // HymnsToGod.org
+% SOURCE // ****************************************
+% SOURCE // ****************************************
+% SOURCE //define macros
+% SOURCE    //Lyrics
+% SOURCE    //Chorus
+% SOURCE    //Fermatas
+% SOURCE // set midi
+% SOURCE //Enter music	
+% SOURCE //=========================
+% SOURCE //Verse 1
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3
+% SOURCE //4
+% SOURCE //5
+% SOURCE //6
+% SOURCE //7
+% SOURCE //8
+% SOURCE //9
+% SOURCE //10
+% SOURCE //11
+% SOURCE //12
+% SOURCE //13
+% SOURCE //14
+% SOURCE //15
+% SOURCE //16
+% SOURCE //17
+% SOURCE //18
+% SOURCE //19
+% SOURCE //20
+% SOURCE //21
+% SOURCE //22
+% SOURCE //23
+% SOURCE //24
+% SOURCE //25
+% SOURCE //26
+V:11
+[FD]2 [GD] [FD]2 [DB,] | [FD]2 [GD] [FD]3 | [FD] [GD] [AD] [BD]2 [cD] | [A-E-]3 [AE]2 z |
+w: 1.~I was sink- ing deep in sin, Far from the peace- ful shore, *
+w: 2.~All my heart to Him I give, ev- er to Him I'll cling, *
+w: 3.~Souls in dan- ger, look a- bove, Je- sus com- plete- ly saves; *
+V:12
+x6 | x6 | x6 | x6 |
+w: * * * *
+w: * * * *
+V:21
+[B,B,,]2 [B,B,,] [B,B,,]2 [F,B,,] | [B,B,,]2 [B,B,,] [B,B,,]3 | [B,B,,] [B,B,,] [B,B,,] [B,B,,]2 [B,B,,] | [C-F,-]3 [CF,]2 z |
+V:22
+x6 | x6 | x6 | x6 |
+V:11
+[GE]2 [AE] [GE]2 [EC] | [GE]2 [AE] [GE]3 | [GE] [AE] [BE] [AE]2 [GE] | [F-D-]3 [FD]2 z |
+w: Ver- y deep- ly stained with- in Sink- ing to rise no more; *
+w: In His bless- ed pres- ence live, Ev- er His prais- es sing. *
+w: He will lift you by His love Out of the an- gry waves. *
+V:12
+x6 | x6 | x6 | x6 |
+w: * * * *
+w: * * * *
+V:21
+[A,F,]2 [A,F,] [A,F,]2 [A,F,] | [A,F,]2 [A,F,] [A,F,]3 | [A,F,] [CF,] [CF,] [CF,]2 [A,F,] | [B,-B,,-]3 [B,B,,]2 z |
+V:22
+x6 | x6 | x6 | x6 |
+V:11
+[FD]2 [GD] [FD]2 [DB,] | [FD]2 [GD] [FD]3 | [FD] [GD] [AD] [BD]2 [FD] | [G-E-]3 [GE]2 z |
+w: But the Mas- ter of the sea Heard my de- spair- ing cry, *
+w: Love so might- y and so true Mer- its my soul's best songs; *
+w: He's the Mas- ter of the sea, Bil- lows His will o- bey; *
+V:12
+x6 | x6 | x6 | x6 |
+w: * * * *
+w: * * * *
+V:21
+[B,B,,]2 [B,B,,] [B,B,,]2 [F,B,,] | [B,B,,]2 [B,B,,] [B,B,,]3 | [B,B,,] [B,B,,] [B,B,,] [B,B,,]2 [B,B,,] | [B,-E,-]3 [B,E,]2 z |
+V:22
+x6 | x6 | x6 | x6 |
+V:11
+[GE]2 [AF] [BG]2 [c_G] | [dF]2 [BD] [AF]2 [GE] | [FD]3 [cE]3 | [B-D-]3 [BD]2 z ||
+w: From the wa- ters lift- ed me, Now safe am I. *
+w: Faith- ful, lov- ing ser- vice, too, To Him be- longs. *
+w: He your Sav- ior wants to be— Be saved to- day. *
+V:12
+x6 | x6 | x6 | x6 ||
+w: * * * *
+w: * * * *
+V:21
+[B,E,]2 [B,E,] [B,E,]2 [B,E,] | [B,B,,]2 [F,B,,] [B,D,]2 [B,E,] | [B,F,]3 [A,F,]3 | [B,-B,,-]3 [B,B,,]2 z ||
+V:22
+x6 | x6 | x6 | x6 ||
+V:11
+|:
+w: 
+w: 
+w: 
+V:12
+|:
+V:21
+|:
+V:22
+|:
+V:11
+"^Chorus"[dF]3 F2 [cE] | B3- B2 z | [BD]3 [DB,]2 [AB,] | G3- G2 z |
+w: Love lift- ed me! * Love lift- ed me! *
+w: * * * * * * * * * *
+w: * * * * * * * * * *
+V:12
+x3 E2 x | D2 E D2 x | x6 | B,2 =B, C2 x |
+w: * * * * * * * * * * * *
+w: * * * e- ven me! * * e- ven me! *
+V:21
+[B,B,,]3 [A,F,]2 [A,F,] | [B,B,,]2 [G,B,,] [F,B,,]2 z | [F,B,,]3 [F,B,,]2 [F,D,] | E,2 [F,D,] [E,C,]2 z |
+V:22
+x6 | x6 | x6 | E,2 x x2 x |
+V:11
+[GE]3 GA [BD] | [FD]2 [BD] [BD]3 |[1 [c=E]3 [GE]2 [dE] | [c-E-]3 [cE]3 :|[2
+w: When noth- * ing else could help Love lift- ed me. *
+w: * * * * * * * * * * * *
+w: * * * * * * * * * * * *
+V:12
+x3 E2 x | x6 |[1 x6 | x6 :|[2
+w: * * * * * *
+w: * * * * * *
+V:21
+[B,E,]3 [B,E,][F,C,] [F,B,,] | [B,B,,]2 [F,B,,] [F,B,,]3 |[1 [CC,]3 [B,C,]2 [B,C,] | [A,-F,-]3 [A,F,]3 :|[2
+V:22
+x6 | x6 |[1 x6 | x6 :|[2
+V:11
+[dF]3 [dF] [cE]2 | [B-D-]3 [BD]3 |]
+w: Love lift- ed me. *
+w: * * * * *
+w: * * * * *
+V:12
+x6 | x6 |]
+w: * *
+w: * *
+V:21
+[B,F,]3 [B,F,] [A,F,]2 | [B,-B,,-]3 [B,B,,]3 |]
+V:22
+x6 | x6 |]

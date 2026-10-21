@@ -1,0 +1,14 @@
+# Psalter 351 photo review — partial
+
+- Sources: owner photos local source evidence (not distributed) and `20260829_113034.jpg` (printed pp.300–301). Printed score is PAXTANG in F major, 4/4, four 4-bar systems, with two stanzas and a separate refrain.
+- The word `REFRAIN` is an unpitched section label. The former `w:Re-frain: To...` made ABCJS sing two false syllables and shifted every refrain word. It is now a source comment; the `w:` row begins `To Thee`, and ABCJS attaches `throned` to soprano bar 15's fourth note.
+- Printed fermata marks over the upper and lower staff at that note are now encoded as `!fermata!A2` in soprano and `!fermata!C2` in tenor. The unchanged alto/bass share its timing.
+- The photo's lyrics and broad score structure match the source. A complete independent SATB pitch/rhythm event audit is still open; this targeted fix is not final photo QA approval.
+
+## Refrain tenor exception — 2026-09-28
+
+A targeted comparison with the owner's printed p. 301 (`20260829_113034.jpg`), aided by high-resolution same-edition scan `psalterwithrespo00unit_0311.jp2`, found a definite engraved flat before the bass-clef upper voice's second attack in refrain bar 15 (under “en-”). The prior ABC tenor bar 15, `A,2 A,3/2 A,/2 !fermata!C2 C2`, had no flat. This exposed a broader tenor-pitch mismatch across refrain bars 13–16. One reviewer revised its initial pitch reading after a closer look; an independent second reviewer then mapped the noteheads using the A3 top line and C4/E4 ledger lines, and the pictured placement was reconciled against the owner photo. The current ABC uses the printed sequence `F2 F3/2 C/2 C4 | C2 C3/2 C/2 C4 | C2 _E3/2 E/2 !fermata!D2 B,2 | A,2 B,2 A,4`. The bar-15 flat yields E-flat4 at both the dotted-eighth and subsequent sixteenth, and `B,` is B-flat3 under `K:F`. Durations and fermata timing are unchanged. The engraved notes, not handwritten labels, govern this correction.
+
+The first two printed systems remain unaudited at note level because the full-page review was too coarse; the last systems and refrain received only bounded checks. No full SATB photo certification is claimed. Status remains **PARTIAL** until all systems/voices and current rendering are checked.
+
+After the refrain correction, `node tools/verify.mjs` passed (474 arrangements, 0 ABC warnings, 148 tests, TypeScript and production/PWA build). The changed release was deployed to Firebase production Hosting. A fresh 1400-pixel desktop capture, local source evidence (not distributed) (ignored scratch), shows the complete score, both stanza rows, the refrain, the printed-position flat, fermata, and closing bar without clipping or lyric/staff overlap. The served `psalter351` asset returned HTTP 200 and matched the local build's SHA-256. This render check does not replace the remaining note-level photo audit.

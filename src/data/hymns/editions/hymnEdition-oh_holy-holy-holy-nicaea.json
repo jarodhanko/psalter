@@ -1,0 +1,160 @@
+{
+  "sourceSha256": "2f24671f4266261c21d57bf523c37652ea4be81e7478f9d6e034c4c62c560a96",
+  "metadata": {
+    "id": "hymn-oh_holy-holy-holy-nicaea",
+    "title": "Holy Holy Holy",
+    "composer": "Words: Reginald Heber, 1826. · Music: 'Nicaea' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.",
+    "tune": "Nicaea",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_holy-holy-holy-nicaea",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Holy_Holy_Holy/Holy_Holy_Holy-Nicaea.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Reginald Heber, 1826.",
+      "Music: 'Nicaea' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision.",
+      "Music source: Hymns Ancient and Modern, 1869 hymn 135.  Tune from Hymns Ancient and Modern, 1861.",
+      "%OHARRANGER unknown assumed Dykes, John Bacchus (1823-1876)"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Nicaea' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_holy-holy-holy-nicaea",
+      "title": "Holy Holy Holy",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H027"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B025"
+        }
+      ],
+      "file": "abc/oh_holy-holy-holy-nicaea.abc",
+      "sha256": "2f24671f4266261c21d57bf523c37652ea4be81e7478f9d6e034c4c62c560a96",
+      "canonical_reference_in_archive": "abc/oh_holy-holy-holy-nicaea.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Holy_Holy_Holy/Holy_Holy_Holy-Nicaea.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Reginald Heber, 1826.",
+          "Music: 'Nicaea' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2005 Revision.",
+          "Music source: Hymns Ancient and Modern, 1869 hymn 135.  Tune from Hymns Ancient and Modern, 1861.",
+          "%OHARRANGER unknown assumed Dykes, John Bacchus (1823-1876)"
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Nicaea' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'Nicaea' John Bacchus Dykes, 1861.  Setting: \"Hymns Ancient and Modern\", 1869.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_holy-holy-holy-nicaea.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H027",
+      "title": "Holy Holy Holy",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_holy-holy-holy-nicaea",
+      "abc_file": "abc/oh_holy-holy-holy-nicaea.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H027",
+        "Hymn / version": "Holy Holy Holy",
+        "Playlist track #": "27, 110",
+        "Music / score source": "https://library.timelesstruths.org/library/music/H/Holy_Holy_Holy/Holy_Holy_Holy.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Holy_Holy_Holy/",
+        "Editable notation / MIDI": "https://library.timelesstruths.org/music/Holy_Holy_Holy/",
+        "Available formats": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain text and music (US), as labeled by source",
+        "Rights source": "https://library.timelesstruths.org/music/Holy_Holy_Holy/midi/",
+        "Text, tune and version notes": "Reginald Heber 1826; NICAEA, John B. Dykes 1861\nDownloaded PDF; title, lyrics and PD statement text inspected\nAppears within medley track 110. Use the individual song edition rather than copying the medley arrangement.",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B025",
+      "title": "Holy Holy Holy",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_holy-holy-holy-nicaea",
+      "abc_file": "abc/oh_holy-holy-holy-nicaea.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B025",
+        "Song title": "Holy Holy Holy",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/H/Holy_Holy_Holy/Holy_Holy_Holy.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Holy_Holy_Holy/",
+        "Editable source": "https://library.timelesstruths.org/music/Holy_Holy_Holy/",
+        "Tune and work identity": "Reginald Heber 1826; NICAEA, John B. Dykes 1861\nDownloaded PDF; title, lyrics and PD statement text inspected",
+        "Public distribution rights": "Public-domain text and music (US), as labeled by source",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Holy_Holy_Holy/midi/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.\nAdditional recordings at positions 233, 326, 400, 438 were grouped by title. Confirm the same hymn/text and check for added sections.",
+        "Playlist positions": "25, 233, 326, 400, 438",
+        "Playlist artists": "The Haven Quartet; The Millers; Robin Mark; Steven Moctezuma; Ghost Ship",
+        "Original track titles": "Holy, Holy, Holy; Holy Holy Holy; Holy, Holy, Holy! Lord God Almighty",
+        "Source review": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

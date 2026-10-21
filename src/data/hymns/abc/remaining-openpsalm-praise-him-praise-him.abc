@@ -1,0 +1,121 @@
+% EDITORIAL REVIEW: Source uses legacy lyric-extend tags without explicit endpoints. Refrain-boundary line-length interpretation is flagged in the visual-review report.
+% Source edition: remaining-openpsalm-praise-him-praise-him
+% Source URL: https://openpsalm.com/api/songs/295/export/musicxml
+% Source SHA256: 4bd5a710c0a74ca62c89b19b8bbbd736c64ad7e5d457b714e7a9570879eff1fb
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_OpenPsalm_Praise_Him_Praise_Him.repairs.json
+% Catalog membership: book2:B130
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Source arrangement license: Creative Commons Attribution 4.0 International
+% License URL: https://creativecommons.org/licenses/by/4.0/
+% Changes: MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.
+% Original creator (composer): Chester G. Allen
+% Original creator (lyricist): Fanny J. Crosby
+% Original creator (arranger): OpenPsalm
+% Original rights: Lyrics: Fanny J. Crosby, 1869 (public domain)
+% Original rights: Music: 'Joyful Song' by Chester G. Allen, 1869 (public domain)
+% Original rights: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+% Original credit-words: Praise Him! Praise Him!
+% Original credit-words: Lyrics: Fanny J. Crosby, 1869 (public domain)
+% Original credit-words: Music: 'Joyful Song' by Chester G. Allen, 1869 (public domain)
+% Original credit-words: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+X:1
+T:Praise Him! Praise Him!
+C:Chester G. Allen
+Z:Fanny J. Crosby
+Z:Lyrics: Fanny J. Crosby, 1869 (public domain)
+Z:Music: 'Joyful Song' by Chester G. Allen, 1869 (public domain)
+Z:Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=122
+M:6/8
+K:Ab
+V:1 treble nm="Soprano & Alto"
+V:2 treble 
+V:3 bass nm="Tenor & Bass"
+V:4 bass 
+V:1
+ c3 e3 | A3 c3 | B c B A G F | E3 A3 | %4
+w: 1.~Praise Him!|Praise Him!|Je- sus, our bless- ed Re-|deem- er,|
+w: 2.~Praise Him!|Praise Him!|Je- sus, our bless- ed Re-|deem- er,|
+w: 3.~Praise Him!|Praise Him!|Je- sus, our bless- ed Re-|deem- er,|
+ c3 e3 | A3 c3 | c B A B2 c | B3- B2 z | %8
+w: Sing, O|earth, His|won- der- ful love pro-|claim._|
+w: For our|sins He|suf- fered, and bled, and|died;_|
+w: Heav’n- ly|por- tals|loud with ho- san- nas|ring,_|
+ c3 e3 | A3 c3 | B c B A G F | E3 A3 | %12
+w: Hail Him!|hail Him!|high- est arch- an- gels in|glo- ry;|
+w: He our|rock, our|hope of e- ter- nal sal-|va- tion,|
+w: Je- sus,|Sa- vior,|reign- eth for- ev- er and|ev- er.|
+ c3 e3 | d3 B3 | A G A c2 B | A3- A2 z | %16
+w: Strength and|hon- or|give to His ho- ly|name!_|
+w: Hail Him,|hail Him,|Je- sus the Cru- ci-|fied._|
+w: Crown Him!|Crown Him—|Pro- phet, and Priest, and|King!_|
+ B3 c3 | (B2 G) E3 | d c B c2 d | c3 B3 | %20
+w: Like a|shep- * herd,|Je- sus will guard His|chil- dren,|
+w: Lov- ing|Sav- * ior,|meek- ly en- dur- ing|sor- row,|
+w: Death is|van- * quished!|Tell it with joy, ye|faith- ful.|
+ c3 e3 | A3 c3 | c B A B2 c | B3- B2 z || %24
+w: In His|arms He|car- ries them all day|long:_|
+w: Crowned with|thorns that|cru- el- ly pierced His|brow;_|
+w: Where is|now thy|vic- to- ry, boast- ing|grave?_|
+"^Refrain." c3 e3 | A3 c3 | B c B A G F | E3 A3 | %28
+w: Praise Him!|Praise Him!|Tell of His ex- cel- ent|great- ness;|
+w: __||||
+w: __||||
+ c3 e3 | d3 B3 | A G A c2 B | A6 | %32
+w: Praise Him,|praise Him|ev- er in joy- ful|song.|
+w: ||||
+w: ||||
+V:2
+ E3 E3 | E3 E3 | F F F F E D | C3 C3 | %4
+ E3 E3 | C3 C3 | =D D D D2 D | E3- E2 z | %8
+ E3 E3 | E3 E3 | F F F F E D | C3 C3 | %12
+ E3 _G3 | F3 F3 | E E E A2 G | A3- A2 z | %16
+ E3 E3 | E3 E3 | E E E E2 E | E3 E3 | %20
+ E3 E3 | C3 C3 | =D D D D2 D | E3- E2 z || %24
+ E3 E3 | E3 E3 | F F F F E D | C3 C3 | %28
+ E3 _G3 | F3 F3 | E E E A2 G | C6 | %32
+V:3
+ A,3 C3 | C3 A,3 | D D D A, A, A, | A,3 A,3 | %4
+w: 1.~Praise Him!|Praise Him!|Je- sus, our bless- ed Re-|deem- er,|
+w: 2.~Praise Him!|Praise Him!|Je- sus, our bless- ed Re-|deem- er,|
+w: 3.~Praise Him!|Praise Him!|Je- sus, our bless- ed Re-|deem- er,|
+ A,3 A,3 | A,3 A,3 | A, A, A, F,2 A, | G,3- G,2 z | %8
+w: Sing, O|earth, His|won- der- ful love pro-|claim._|
+w: For our|sins He|suf- fered, and bled, and|died;_|
+w: Heav’n- ly|por- tals|loud with ho- san- nas|ring,_|
+ A,3 C3 | C3 A,3 | D D D A, A, A, | A,3 A,3 | %12
+w: Hail Him!|hail Him!|high- est arch- an- gels in|glo- ry;|
+w: He our|rock, our|hope of e- ter- nal sal-|va- tion,|
+w: Je- sus,|Sa- vior,|reign- eth for- ev- er and|ev- er.|
+ A,3 A,3 | A,3 D3 | C B, C E2 D | C3- C2 z | %16
+w: Strength and|hon- or|give to His ho- ly|name!_|
+w: Hail Him,|hail Him,|Je- sus the Cru- ci-|fied._|
+w: Crown Him!|Crown Him—|Pro- phet, and Priest, and|King!_|
+ G,3 A,3 | (G,2 B,) G,3 | B, A, G, A,2 B, | A,3 G,3 | %20
+w: Like a|shep- * herd,|Je- sus will guard His|chil- dren,|
+w: Lov- ing|Sav- * ior,|meek- ly en- dur- ing|sor- row,|
+w: Death is|van- * quished!|Tell it with joy, ye|faith- ful.|
+ A,3 A,3 | A,3 A,3 | A, A, A, F,2 A, | G,3- G,2 z || %24
+w: In His|arms He|car- ries them all day|long:_|
+w: Crowned with|thorns that|cru- el- ly pierced His|brow;_|
+w: Where is|now thy|vic- to- ry, boast- ing|grave?_|
+ A,3 C3 | C3 A,3 | D D D A, A, A, | A,3 A,3 | %28
+w: Praise Him!|Praise Him!|Tell of His ex- cel- ent|great- ness;|
+w: __||||
+w: __||||
+ A,3 A,3 | A,3 D3 | C B, C E2 D | A,6 | %32
+w: Praise Him,|praise Him|ev- er in joy- ful|song.|
+w: ||||
+w: ||||
+V:4
+ A,3 A,3 | A,3 A,3 | D, D, D, D, D, D, | A,,3 A,,3 | %4
+ A,,3 C,3 | F,3 F,3 | B,, B,, B,, B,,2 B,, | E,3- E,2 z | %8
+ A,3 A,3 | A,3 A,3 | D, D, D, D, D, D, | A,,3 A,,3 | %12
+ A,,3 C,3 | D,3 D,3 | E, E, E, E,2 E, | A,,3- A,,2 z | %16
+ E,3 E,3 | E,3 E,3 | E, E, E, E,2 E, | E,3 E,3 | %20
+ A,,3 C,3 | F,3 F,3 | B,, B,, B,, B,,2 B,, | E,3- E,2 z || %24
+ A,3 A,3 | A,3 A,3 | D, D, D, D, D, D, | A,,3 A,,3 | %28
+ A,,3 C,3 | D,3 D,3 | E, E, E, E,2 E, | A,,6 | %32

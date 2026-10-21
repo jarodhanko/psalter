@@ -1,0 +1,10 @@
+# Psalter 442 photo QA
+
+Source: user album `album-11.jpg`, left printed p. 402, “Our Gracious God Has Laid His Firm Foundations” (Psalm 87, ZION'S GATES). The earlier metadata-only scratch mixed lyric rows and incorrectly claimed 3/2; it was not used as the score.
+
+- Full SATB, three directly underlaid stanzas, and added T1 underlay for prose stanzas 4–5. The soprano has 42 events in phrases of 11, 10, 10, and 11, matching the printed `11 10 10 11` meter and the later stanza syllables. Stanza 5's “Israel's” is underlaid as `Is-rael's` (two sung syllables) to fit phrase 2. The prose `W:` rows remain verbatim. The photo shows no key or meter signature or inner barlines; `K:C`, `M:none`, and explicit `L:1/4` preserve the visible notation. All voices total 68 quarter beats across printed phrase segments of 18, 16, 16, and 18; soprano/tenor/bass have 42 events, alto 43 due to its final slur.
+- Local staff-line reads on enlarged crops resolved opening B3 alto, strongly curved page-edge pitches, explicit system-3 F-sharp/D-sharp, final lower-voice cadence, and the stacked B3/G3 whole-note chord at the first cadence. ABCJS and rendered SVG have zero warnings and zero rest elements; a rest-like engraved glyph is actually those stacked whole-note heads.
+- The app-style render was compared with all three printed systems and keeps each of the three complete stanza rows. Prose `W:` fields were normalized to one continuous field per stanza for responsive layout.
+- The photo credits William Kuipers (1931) text, Maître Pierre (1562) tune, and Henry Bruinsma (1954) harmonization. The later harmony credit raises a separate unresolved rights question; see [rights audit](../rights-audit.md).
+
+Status: integrated in the generated viewer catalog and included in the production release; see release evidence (private operational record omitted). The credited 1954 harmonization's rights question remains unresolved as recorded in the [rights audit](../rights-audit.md); inclusion does not imply rights clearance or full independent photo-parity approval.

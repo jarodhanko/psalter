@@ -1,0 +1,84 @@
+% Source edition: hc-fathers-world
+% Source URL: https://drive.usercontent.google.com/uc?id=1O-5gzuJfhtdLlpiAbSShq7GKksdmhrPv&export=download
+% Source format: original MuseScore4 MSCZ/MSCX; MusicXML exported with webmscore1.2.1
+% Source key signature restored from explicit MSCX concertKey; notes/spelling/onsets independently checked.
+% Catalog memberships: book1:H016, book2:B016
+% Source voices, printed stanzas and any introduction/prelude retained.
+% Rights: {'publisher_statement_url': 'https://hymncommons.org/about/', 'local_snapshot': 'sources/reopened_gaps/pages/HymnCommons_about.html', 'summary': 'Publisher Ron Nelson says he transcribed PD hymns with MuseScore so others could change the arrangements, and explicitly describes all his material as public domain. Exact MSCX embedded copyright tags separately retained below.', 'embedded_tags': [{'name': 'arranger', 'text': None}, {'name': 'composer', 'text': '"TERRA BEATA," Franklin L. Sheppard, 1915\n'}, {'name': 'copyright', 'text': 'Public domain.\n6.6.8.6 meter.'}, {'name': 'creationDate', 'text': '2025-09-11'}, {'name': 'lyricist', 'text': ' Maltbie D. Babcock, 1901\n'}, {'name': 'movementNumber', 'text': None}, {'name': 'movementTitle', 'text': None}, {'name': 'platform', 'text': 'Microsoft Windows'}, {'name': 'source', 'text': None}, {'name': 'subtitle', 'text': 'Genesis 1'}, {'name': 'translator', 'text': None}, {'name': 'workNumber', 'text': None}, {'name': 'workTitle', 'text': "This is My Father's World"}]}
+% Territory: Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.
+% MuseScore source hash: 4861b47a89a646263a8fa8f07e0fd22f6341811d0b014eba945cd0623a17ae8a
+% Source end-repeat count3 restored as explicit3x annotation; playback repeat-count support depends on importer.
+X:1
+T:This is My Father's World
+C:"TERRA BEATA," Franklin L. Sheppard, 1915
+C:
+Z:Maltbie D. Babcock, 1901
+Z:
+Z:Public domain.
+Z:6.6.8.6 meter.
+%%score { ( 1 2 ) | ( 3 4 ) }
+L:1/4
+Q:1/4=90
+M:4/4
+K:Eb
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:1
+[L:1/4]
+"^Introduction" c/c/ | B G G F/E/ | G F E B, | E/F/ G B F/G/ | %4
+w: ||||
+w: ||||
+w: ||||
+ E3 |:  E/F/ | G B G F | E3 F/G/ | %8
+w: |1. This *|is my Fa- ther's|world, And *|
+w: |2. This *|is my Fa- ther's|world, The *|
+w: |3. This *|is my Fa- ther's|world, O *|
+ A c B G | F3 |  c | B G G F/E/ | %12
+w: to my lis- tening|ears|All|na- ture sings and, *|
+w: birds their car- ols|raise,|The|morn- ing light, the *|
+w: let me ne'er for-|get|That|though the wrong seems *|
+ G F E B, | E/F/ G B F/G/ | E3 |  B | %16
+w: round me rings The|mu- * sic of the *|spheres.|This|
+w: lil- y white, De-|clare * their Mak- er's *|praise.|This|
+w: oft so strong, God|is * the Ru- ler *|yet.|This|
+ e B c d | e3 e/d/ | c e d c | B3 |  %20
+w: is my Fa- ther's|world: I *|rest me in the|thought|
+w: is my Fa- ther's|world: He *|shines in all that's|fair;|
+w: is my Fa- ther's|world: The *|bat- tle is not|done;|
+ (c/c/) | B G G (F/E/) | G F E B, | E/F/ G B (F/G/) | %24
+w: Of *|rocks and trees, of *|skies and seas— His|hand * the won- ders *|
+w: In the|rust- ling grass I *|hear Him pass, He|speaks * to me ev- ery-|
+w: Je- *|sus who died shall be|sat- is- fied, And|earth * and heav'n be *|
+ E3 "^3x":| %25
+w: wrought.|
+w: where.|
+w: one.|
+V:2
+[L:1/4]
+ D/D/ | E E D D/E/ | D D E B, | E E D D/D/ | %4
+ E3 |:  B, | E E D D | E3 E | %8
+ E E E E | D3 |  D | E E D D/E/ | %12
+ D D E B, | E E D D | E3 |  D | %16
+ E G A A | G3 E | E E E E | E3 |  %20
+ (D/D/) | E E D (D/E/) | D D E B, | E E D (D/D/) | %24
+ E3 :| %25
+V:3
+[L:1/4]
+ A,/A,/ | G, B, B, A,/G,/ | B, A, G, B, | G,/A,/ B, B, A,/B,/ | %4
+ G,3 |:  G,/A,/ | B, G, B, A, | G,3 A,/B,/ | %8
+ C A, G, B, | B,3 |  A, | G, B, B, A, | %12
+ B, A, G, G, | G,/A,/ B, B, A, | G,3 |  B,/A,/ | %16
+ G, B, A, B, | B,3 B, | A, C B, A, | G,3 |  %20
+ (A,/A,/) | G, B, B, (A,/G,/) | B, A, G, B, | G,/A,/ B, B, (A,/B,/) | %24
+ G,3 :| %25
+V:4
+[L:1/4]
+ B,,/B,,/ | E, E, B,, B,,/B,,/ | B,, B,, E, B,, | E, E, B,, B,,/B,,/ | %4
+ E,3 |:  E, | E, E, B,, B,, | E,3 E, | %8
+ E, E, E, E, | B,,3 |  B,, | E, E, B,, B,, | %12
+ B,, B,, E, E, | E, E, B,, B,, | E,3 |  B,, | %16
+ E, E, A, F, | E,3 G, | A, A, A, A, | E,3 |  %20
+ (B,,/B,,/) | E, E, B,, (B,,/B,,/) | B,, B,, E, B,, | E, E, B,, (B,,/B,,/) | %24
+ E,3 :| %25

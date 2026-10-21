@@ -1,0 +1,152 @@
+%abc-2.1
+X:1
+T:Day by Day
+C:Karolina W. Sandell-Berg, 1865; trans. by Andrew L. Skog | Oskar Ahnfelt, 1872
+S:HymnsToGod.org; original MUP and PDF retained
+M:4/4
+L:1/8
+Q:1/4=90
+N:Source MUP SHA-256 3b902ea1156235a18d4812af07a23b0dc2a6e0aaac18f1dae06d1efdba354ab4
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+K:Eb
+% SOURCE title bold (19) "" "Day by Day" ""
+% SOURCE title (2)""
+% SOURCE title (11) "" "\f(TI)For which cause we faint not; but though our outward man perish,"""
+% SOURCE title (11) "" "\f(TI)yet the inward man is renewed day by day. - 2 Cor. 4:16"""
+% SOURCE title (12) "E \(flat) - 4 - MI" "" ""
+% SOURCE title (15) "Karolina W. Sandell-Berg, 1865\ntrans. by Andrew L. Skog" " " "Oskar Ahnfelt, 1872"
+% SOURCE title (11) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // Mup 7.2 arkkra.com
+% SOURCE // The hymn produced by this source code is believed to be in the public 
+% SOURCE // domain in the United States of America.
+% SOURCE // This mup code is donated to the public domain.
+% SOURCE // Hymn Source: http://library.timelesstruths.org
+% SOURCE // Transcribed by: Ted Gatza, Jr. 12/21/2009
+% SOURCE // Revisions:
+% SOURCE //	06/19/2026 [1]Updated Mup code
+% SOURCE // HymnsToGod.org
+% SOURCE //==== FOR 6X9 ======================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //define macros
+% SOURCE    //Lyrics
+% SOURCE      //Lyrics Between Staffs
+% SOURCE      //Lyrics Below Bass Staff    
+% SOURCE      //Text - Above Staff
+% SOURCE      //Fermatas
+% SOURCE      //Note Accents
+% SOURCE      //Repeats
+% SOURCE //=========================
+% SOURCE // set midi
+% SOURCE //=========================
+% SOURCE //Verse 
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3a
+% SOURCE //3b
+% SOURCE //4
+% SOURCE //5a
+% SOURCE //5b
+% SOURCE //6
+% SOURCE //7a
+% SOURCE //7b
+% SOURCE //8
+% SOURCE //9
+% SOURCE //9
+% SOURCE //10
+% SOURCE //11a
+% SOURCE //11b
+% SOURCE //12
+% SOURCE //13a
+% SOURCE //13b
+% SOURCE //14
+% SOURCE //15a
+% SOURCE //15b
+% SOURCE //16
+% SOURCE //17
+V:11
+[GB,] [FB,] | [EB,]3 [EB,] [EB,] [EB,] [FB,] [GB,] | [GC]2 [FC]4 [|] [FC] [EC] | [DB,]3 [DB,] [DB,] [EB,] [FB,] [DB,] |
+w: 1.~Day by day, and with each pass- ing mo- ment, Strength I find, to meet my tri- als
+w: 2.~Ev- 'ry day, the Lord Him- self is near me, With a spe- cial mer- cy for each
+w: 3.~Help me then in ev- 'ry trib- u- la- tion, So to trust Thy prom- is- es, O
+V:12
+x2 | x8 | x6 [|] x2 | x8 |
+V:21
+[B,E,] [A,E,] | [G,E,]3 [G,E,] [G,E,] [G,E,] [A,E,] [B,E,] | [B,A,,]2 [A,A,,]4 [|] [A,A,,] [F,=A,,] | [F,B,,]3 [F,B,,] [F,B,,] [G,B,,] [A,B,,] [F,B,,] |
+V:22
+x2 | x8 | x6 [|] x2 | x8 |
+V:11
+[EB,]6 [|] [GB,] [FB,] | [EB,]3 [EB,] [EB,] [EB,] [FB,] [GB,] | [GC]2 [FC]4 [|] [FC] [EC] | [DB,]3 [DB,] [DB,] [EB,] [FB,] [DB,] |
+w: here; Trust- ing in my Fa- ther's wise be- stow- ment, I've no cause for wor- ry or for
+w: hour; All my cares He fain would bear, and cheer me, He Whose Name is Coun- se- lor and
+w: Lord, That I lose not faith's sweet con- so- la- tion, Of- fered me with- in Thy ho- ly
+V:12
+x6 [|] x2 | x8 | x6 [|] x2 | x8 |
+V:21
+[G,E,]6 [|] [B,E,] [A,E,] | [G,E,]3 [G,E,] [G,E,] [G,E,] [A,E,] [B,E,] | [B,A,,]2 [A,A,,]4 [|] [A,A,,] [F,=A,,] | [F,B,,]3 [F,B,,] [F,B,,] [G,B,,] [A,B,,] [F,B,,] |
+V:22
+x6 [|] x2 | x8 | x6 [|] x2 | x8 |
+V:11
+[EB,]6 ||
+w: fear.
+w: Pow'r.
+w: Word.
+V:12
+x6 ||
+V:21
+[G,E,]6 ||
+V:22
+x6 ||
+V:11
+[GE] [AE] | [BE]3 [BE] [BE] [BE] [eE] [dE] | [dE]2 [cE]4 [|] [FD] [GE] | [AD]3 [AD] [AF] [cD] [BE] [AF] |
+w: He whose heart, is kind be- yond all meas- ure Gives un- to each day what He deems
+w: The pro- tec- tion of His child and treas- ure Is a charge that on Him- self He
+w: Help me, Lord, when toil and trou- ble meet- ing, E'er to take, as from a fa- ther's
+V:12
+x2 | x8 | x6 [|] x2 | x8 |
+V:21
+[B,E,] [B,F,] | [B,G,]3 [B,G,] [B,G,] [B,G,] [B,G,,] [B,G,,] | [B,A,,]2 [A,A,,]4 [|] B, [B,G,] | [B,F,]3 [B,F,] [B,D,] [F,B,,] [B,C,] [B,D,] |
+V:22
+x2 | x8 | x2 x4 [|] A, x | x8 |
+V:11
+[GE]6 [|] [GB,] [FB,] | [EB,]3 [EB,] [EB,] [EB,] [FB,] [GB,] | [GC]2 [FC]4 [|] [FC] [EC] | [DB,]3 [DB,] (D E) (F D) |
+w: best, Lov- ing- ly, its part of pain and pleas- ure, Min- gling toil with peace * and *
+w: laid; "As thy day, thy strength shall be in meas- ure," This the pledge to me * He *
+w: hand, One by one, the days, the mo- ments fleet- ing, Till I reach the prom- * ised *
+V:12
+x6 [|] x2 | x8 | x6 [|] x2 | x3 x B,2 B,2 |
+V:21
+[B,E,]6 [|] [B,E,] [A,E,] | [G,E,]3 [G,E,] [G,E,] [G,E,] [A,E,] [B,E,] | [B,A,,]2 [A,A,,]4 [|] [A,A,,] [F,=A,,] | [B,F,]3 [B,F,] (F, G,) [A,B,,]2 |
+V:22
+x6 [|] x2 | x8 | x6 [|] x2 | x3 x B,,2 x2 |
+V:11
+[EB,]6 |]
+w: rest.
+w: made.
+w: land.
+V:12
+x6 |]
+V:21
+[G,E,]6 |]
+V:22
+x6 |]

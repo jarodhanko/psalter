@@ -1,0 +1,19 @@
+{
+  "revisionUTC": "2026-10-09T06:56:10.638132+00:00",
+  "initialSHA256": "be9ffb31bc43004a8f3604c1f39801bbfcd6d0ecbf6fcfa142c08c62711aa83f",
+  "revisedSHA256": "bd276f5946745d2474deb46a349f233481e332160b7d092f4385c8d270982fda",
+  "preExposureFreezeSucceeded": true,
+  "revisions": [
+    {
+      "scope": "stanza2 final punctuation",
+      "before": "way;",
+      "after": "way.",
+      "reason": "Tight actual-source crops show a period in both editions. RFPA next-row wrought ascender was misread as comma below. Canonical punctuation is correct. No note/duration/mark revision.",
+      "crops": [
+        "rfpa-stanza2-way.png",
+        "original1912-stanza2-way.png"
+      ]
+    }
+  ],
+  "musicalRevisions": []
+}

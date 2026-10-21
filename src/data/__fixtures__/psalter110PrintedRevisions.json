@@ -1,0 +1,35 @@
+{
+  "preExposureFreezeSucceeded": true,
+  "initialSHA256": "26906c19b7306be92efc9a4e28f2f4751451fd6a34604ddfebfac4a39ee592a6",
+  "revisedSHA256": "8134d994af163a37b314bc8ba0a8538f556ef3f20e359685ef4ca3a945630d54",
+  "revisionUTC": "2026-10-09T07:02:30.586089+00:00",
+  "revisions": [
+    {
+      "voice": "B2",
+      "q": [
+        6,
+        6.5,
+        7.5,
+        8
+      ],
+      "before": [
+        "Db3",
+        "Eb3",
+        "Eb3",
+        "Db3"
+      ],
+      "after": [
+        "C3",
+        "Db3",
+        "Db3",
+        "C3"
+      ],
+      "reason": "Closer actual source pixels after comparison show C3 in bass space between B2 and D3, Db3 on middle line. Both editions and independent coordinator agree canonical is correct. No source correction.",
+      "crops": [
+        "rfpa-bass-phrase2.png",
+        "original1912-bass-phrase2.png"
+      ]
+    }
+  ],
+  "postExposureOtherChanges": []
+}

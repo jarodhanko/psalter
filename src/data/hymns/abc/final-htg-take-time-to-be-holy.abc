@@ -1,0 +1,131 @@
+%abc-2.1
+X:1
+T:Take Time To Be Holy
+C:William D. Longstaff | George C. Stebbins, 1890
+S:HymnsToGod.org; original MUP and PDF retained
+M:6/8
+L:1/8
+Q:1/4=90
+N:Source MUP SHA-256 50bd0e454ebe12278ba3ef58e57f0d7d04a52e002a614e20ab9d26d8d7894b25
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+N:Exactly three source-selected stanzas; absent Let Him be thy Guide stanza not added
+K:F
+% SOURCE title bold (19) "" "Take Time To Be Holy" ""
+% SOURCE title (2) ""
+% SOURCE title (9) "" "\f(TI)Be ye holy for I am holy - 1 Pet.1:16" ""
+% SOURCE title (11) ""
+% SOURCE title (11)" F - 2 - MI" "" ""
+% SOURCE title (13) "William D. Longstaff" "" "George C. Stebbins, 1890"
+% SOURCE title (11) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // Mup 7.2 arkkra.com
+% SOURCE // The hymn produced by this mup code is believed to be in the public 
+% SOURCE // domain in the United States of America.
+% SOURCE // This mup code is donated to the public domain.
+% SOURCE // Hymn Source: Gospel Hymns Nos. 5 & 6 Combined
+% SOURCE //		Editors:Ira D. Sankey, James McGranahan and George Stebbins
+% SOURCE //		Publishers: The Biglow and Main 
+% SOURCE //		76 East Ninth Street, New York
+% SOURCE //		215 Wabash Avenue, Chicago
+% SOURCE //		The Joyn Church Co.
+% SOURCE //		74 West Fourth St., Cincinnati
+% SOURCE //		13 East 16th Street, New York 	
+% SOURCE // 		Copyright 1892
+% SOURCE //		Hymn No.: 272
+% SOURCE // Transcribed by: Ted Gatza, Jr. 05/11/2026
+% SOURCE // Revisions:
+% SOURCE // HymnsToGod.org
+% SOURCE //==== FOR 6X9 ======================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //define macros
+% SOURCE    //Lyrics
+% SOURCE      //Lyrics Between Staffs
+% SOURCE      //Lyrics Below Bass Staff    
+% SOURCE      //Text - Above Staff
+% SOURCE      //Fermatas
+% SOURCE      //Note Accents
+% SOURCE      //Repeats
+% SOURCE //=========================
+% SOURCE //set midi
+% SOURCE //=========================
+% SOURCE // Verse
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3	
+% SOURCE //4
+% SOURCE //5
+% SOURCE //6
+% SOURCE //7
+% SOURCE //8
+% SOURCE //9
+% SOURCE //10
+% SOURCE //11
+% SOURCE //12
+% SOURCE //13
+% SOURCE //14
+% SOURCE //15
+% SOURCE //16
+V:11
+[AF]3 [AF] G [AF] | [BF]3 [AF]3 | F3 [GC] [FC] [EC] | [F-C-]3 [FC]3 |
+w: 1.~Take time to be ho- ly, Speak of with thy Lord; *
+w: 2.~Take time to be ho- ly, The world rush- es on; *
+w: 3.~Take time to be ho- ly, Be calm in thy soul, *
+V:12
+x3 x F x | x6 | F3 x x x | x6 |
+V:21
+[CF,]3 [CF,] [B,F,] [CF,] | [DF,]3 [CF,]3 | [A,C,]3 [B,C,] [A,C,] [G,C,] | [A,-F,-]3 [A,F,]3 |
+V:22
+x6 | x6 | x6 | x6 |
+V:11
+[AF]3 [AF] G [AF] | [BF]3 [AF]3 | [GE]3 [GD] [GE] G | [G-E-]3 [GE]3 |
+w: A- bide in Him al- ways, And feed on His Word; *
+w: Spend much time in se- cret With Je- sus a- lone; *
+w: Each thought and each mo- tive Be- neath His con- trol; *
+V:12
+x3 x F x | x6 | x3 x x F | x6 |
+V:21
+[CF,]3 [CF,] [B,F,] [CF,] | [DF,]3 [CF,]3 | [CG,]3 [=B,G,] [CG,] [DG,] | [C-C,-]3 [CC,]3 |
+V:22
+x6 | x6 | x6 | x6 |
+V:11
+[BG]3 [BG] [AF] [GE] | [AF]3 [cF]3 | [BE]3 [BE] [AF] [GE] | [A-F-]3 [AF]3 |
+w: Make friends of God's chil- dren, Help those who are weak, *
+w: By look- ing to Je- sus, Like Him thou shalt be; *
+w: Thus led by His Spir- it To foun- tains of love, *
+V:12
+x6 | x6 | x6 | x6 |
+V:21
+[CC,]3 [CC,] [CC,] [CC,] | [CF,]3 [A,F,]3 | [G,C,]3 [G,C,] [CC,] [CC,] | [C-F,-]3 [CF,]3 |
+V:22
+x6 | x6 | x6 | x6 |
+V:11
+[cF]3 [cF] [BE] [AF] | [dF]3 [BF]3 | [AF]3 [GC] [FC] [EC] | [F-C-]3 [FC]3 |]
+w: For- get- ing in noth- ing His bless- ing to seek. *
+w: Thy friends in thy con- duct His like- ness shall see. *
+w: Thou soon shalt be fit- ted For serv- ice a- bove. *
+V:12
+x6 | x6 | x6 | x6 |]
+V:21
+[A,F,]3 [CA,] [CG,] [CF,] | B,3 [DB,,]3 | [CC,]3 [B,C,] [A,C,] [G,C,] | [A,-F,-]3 [A,F,]3 |]
+V:22
+x6 | B,3 x3 | x6 | x6 |]

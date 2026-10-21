@@ -1,0 +1,148 @@
+{
+  "sourceSha256": "6d61697fefa5f51ca3b728179798713324d98f5d0bc91f47fc0f0c536846357b",
+  "metadata": {
+    "id": "hymn-ly_sands-of-time-rutherford",
+    "title": "The Sands of Time Are Sinking",
+    "composer": "Text: Anne Ross Cousin, 1857 · Tune: Edward F. Rimbault, 1867",
+    "voices": [
+      {
+        "id": "S",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "A",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "T",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "B",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "ly_sands-of-time-rutherford",
+    "sourceUrls": [
+      "https://github.com/kenakofer/hymnsinger/tree/4767dd24403f2d9c77f5c825595b6a6c8c2a6404/lilypond/songs/the-sands-of-time-are-sinking",
+      "https://hymnsinger.com/listing/the-sands-of-time-are-sinking"
+    ],
+    "collection": "Hymn Singer / Kenan Schaefkofer",
+    "credits": [
+      "Text: Anne Ross Cousin, 1857",
+      "Tune: Edward F. Rimbault, 1867",
+      "Hymn Singer / Kenan Schaefkofer; source commit 4767dd24403f2d9c77f5c825595b6a6c8c2a6404",
+      "ABC conversion from source LilyPond with literal text retained"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Historical creator/date credits as quoted; territorial clearance remains source-specific.",
+      "PDF and header expressly waive typesetter copyright/related rights and dedicate the work to the public domain to extent possible. Site explicitly permits free unrestricted distribution; not inferred from code licensing.",
+      "Kenan Schaefkofer, Hymn Singer, historical creators, source commit.",
+      "No blanket worldwide clearance; US candidate.",
+      "Typesetter dedicates edition to public domain to extent possible; retain source credits. Territory assessment required."
+    ],
+    "territory": "No blanket worldwide clearance; US candidate.",
+    "editionNotes": [
+      "No actual browser or app integration certification; source territory and content-scope notes retained.",
+      "Source typo bea-ty instead of beauty is visible in verse 2, and gifteth appears in verse 4; no silent repair performed. Parent should corroborate textual correction before release.",
+      "Book2 B313. Source transposed F to E; four SATB voices and chord symbols retained.",
+      "Editorial correction: verse2 bea-ty -> beau-ty, corroborated by original Trinity Hymnal text, OPC hymn_id713. Source reference preserves typo; gifteth retained.",
+      "Typesetter dedicates edition to public domain to extent possible; retain source credits. Territory assessment required."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "reports/lilypond_sands_editorial.json"
+    ],
+    "record": {
+      "source_id": "ly_sands-of-time-rutherford",
+      "title": "The Sands of Time Are Sinking",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B313"
+        }
+      ],
+      "file": "abc/ly_sands-of-time-rutherford.abc",
+      "sha256": "6d61697fefa5f51ca3b728179798713324d98f5d0bc91f47fc0f0c536846357b",
+      "canonical_reference_in_archive": "lilypond_abc/sands-of-time-rutherford.abc",
+      "source_url": [
+        "https://github.com/kenakofer/hymnsinger/tree/4767dd24403f2d9c77f5c825595b6a6c8c2a6404/lilypond/songs/the-sands-of-time-are-sinking",
+        "https://hymnsinger.com/listing/the-sands-of-time-are-sinking"
+      ],
+      "collection": "Hymn Singer / Kenan Schaefkofer",
+      "rights_and_attribution": {
+        "underlying_work": "Historical creator/date credits as quoted; territorial clearance remains source-specific.",
+        "edition": "PDF and header expressly waive typesetter copyright/related rights and dedicate the work to the public domain to extent possible. Site explicitly permits free unrestricted distribution; not inferred from code licensing.",
+        "attribution": "Kenan Schaefkofer, Hymn Singer, historical creators, source commit.",
+        "territory": "No blanket worldwide clearance; US candidate.",
+        "evidence": [
+          "hymnsinger_selected/lilypond/lib/header.ily",
+          "hymnsinger_selected/lilypond/lib/hymn-common.ily",
+          "hymnsinger_selected/docs/index.md"
+        ]
+      },
+      "scope_and_edition_notes": [
+        "No actual browser or app integration certification; source territory and content-scope notes retained.",
+        "Source typo bea-ty instead of beauty is visible in verse 2, and gifteth appears in verse 4; no silent repair performed. Parent should corroborate textual correction before release."
+      ],
+      "editorial_corrections": "reports/lilypond_sands_editorial.json",
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-lilypond-review.md",
+        "audit": "reports/independent-lilypond-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B313",
+      "title": "The Sands of Time Are Sinking",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "ly_sands-of-time-rutherford",
+      "abc_file": "abc/ly_sands-of-time-rutherford.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B313",
+        "Song title": "The Sands of Time Are Sinking",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/T/The_Sands_of_Time_Are_Sinking/The_Sands_of_Time_Are_Sinking.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/The_Sands_of_Time_Are_Sinking/",
+        "Editable source": "",
+        "Tune and work identity": "RUTHERFORD / Chrétien Urhan 1834, Edward F. Rimbault 1867; Anne R. Cousin text 1857",
+        "Public distribution rights": "Timeless Truths explicitly labels text and tune Public Domain. Use historical base score, not the commercial recording arrangement. Territory should be checked before worldwide distribution.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/The_Sands_of_Time_Are_Sinking/",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nVerified traditional RUTHERFORD setting of the same hymn retained. The Already Not Yet recording may use a modern retune, which is not copied. Use the public-domain historical text and setting only.",
+        "Playlist positions": "484",
+        "Playlist artists": "Already Not Yet",
+        "Original track titles": "The Sands of Time Are Sinking",
+        "Source review": "PDF SATB score with lyrics\nPDF opened and notation/lyrics text inspected"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

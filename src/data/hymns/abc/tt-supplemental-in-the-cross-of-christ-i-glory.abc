@@ -1,0 +1,59 @@
+% Source edition: tt-supplemental-in-the-cross-of-christ-i-glory
+% Source URL: https://library.timelesstruths.org/library/music/I/In_the_Cross_of_Christ_I_Glory/In_the_Cross_of_Christ_I_Glory.xml
+% Source SHA256: 53d64f8223cb5ac99035e16c471d7da103b096e16f08cffe5e7e887529eb8c1c
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_In_the_Cross_of_Christ_I_Glory.repairs.json
+% Catalog membership: book1:H074, book2:B069
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: John Bowring, pub.1825.  MUSIC: “Rathbun”; Ithamr Conkey, 1849.  Public Domain.
+% Original credit-words: In the Cross of Christ I Glory
+% Original credit-words: WORDS: John Bowring, pub.1825.  MUSIC: “Rathbun”; Ithamr Conkey, 1849.  Public Domain.
+% Original credit-words: God forbid that I should glory, save in the cross of our Lord Jesus Christ, 
+% Original credit-words: by whom the world is crucified unto me, and I unto the world. Gal. 6:14
+X:1
+T:In the Cross of Christ I Glory
+Z:WORDS: John Bowring, pub.1825.  MUSIC: “Rathbun”; Ithamr Conkey, 1849.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/4
+M:3/4
+K:C
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble 
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+V:1
+ [EG]2 [Ec] | [Ge]2 [Gc] | (B A) [FG] | [Ec] [EG]2 | %4
+w: 1.~In the|cross of|Christ_ I|glo- ry,|
+w: 2.~When the|woes of|life * o’er-|take me,|
+w: 3.~When the|sun of|bliss * is|beam- ing|
+w: 4.~Bane and|bless- ing,|pain * and|pleas- ure,|
+ [CG]2 [CA] | [CE]2 [B,D] | E2 [D^F] | [DG]3 |  %8
+w: Tow- ’ring|o’er the|wrecks of|time;|
+w: Hopes de-|ceive, and|fears an-|noy,|
+w: Light and|love up-|on my|way,|
+w: By the|cross are|sanc- ti-|fied;|
+ [EG]2 [Ec] | [Ge]2 [Gc] | (d c/ B/) (A/ G/) | [Ec] [EG]2 | %12
+w: All the|light of|sa- * * cred *|sto- ry|
+w: Nev- er|shall the|cross * * for- *|sake me,|
+w: From the|cross the|ra- * * diance_|stream- ing|
+w: Peace is|there that|knows * * no *|meas- ure,|
+ [EG]2 [FA] | [EG]2 [Ec] | [CE]2 [B,D] | C3 |] %16
+w: Gath- ers|round its|head sub-|lime.|
+w: Lo! it|glows with|peace and|joy.|
+w: Adds more|lus- ter|to the|day.|
+w: Joys that|through all|time a-|bide.|
+V:2
+ x3 | x3 | F2 x | x3 | %4
+ x3 | x3 | (C E) x | x3 |  %8
+ x3 | x3 | F2 F | x3 | %12
+ x3 | x3 | x3 | C3 |] %16
+V:3
+ [C,G,]2 [C,G,] | [C,C]2 [E,C] | (D C) [G,B,] | [C,G,] [C,C]2 | %4
+ [E,C]2 [F,A,] | G,2 [G,,G,] | (([C,G,] [A,,C])) [D,C] | [G,,B,]3 |  %8
+ [C,C]2 [C,G,] | (G, C) [E,C] | (B, D) [G,B,] | [C,G,] [C,C]2 | %12
+ [C,C]2 [C,C] | [C,C]2 G, | G,2 [G,,F,] | [C,E,]3 |] %16
+V:4
+ x3 | x3 | G,2 x | x3 | %4
+ x3 | G,2 x | x3 | x3 |  %8
+ x3 | C,2 x | G,2 x | x3 | %12
+ x3 | x2 (C,/ E,/) | G,2 x | x3 |] %16

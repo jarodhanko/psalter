@@ -1,0 +1,175 @@
+{
+  "sourceSha256": "36a7dbe747a567acfba0ef7f5ae7f00da02b518daef5e745182e20d99c0cd993",
+  "metadata": {
+    "id": "hymn-tt-supplemental-onward-christian-soldiers",
+    "title": "Onward, Christian Soldiers",
+    "composer": "“St. Gertrude”; Arthur S. Sullivan, 1871.",
+    "tune": "St. Gertrude",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-onward-christian-soldiers",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/O/Onward_Christian_Soldiers/Onward_Christian_Soldiers.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Sabine Baring-Gould, 1865.  MUSIC: “St. Gertrude”; Arthur S. Sullivan, 1871.  Public Domain.",
+      "Onward, Christian Soldiers",
+      "Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; ",
+      "for the battle is not yours, but God’s. 2 Chr. 20:15"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Sabine Baring-Gould, 1865.  MUSIC: “St. Gertrude”; Arthur S. Sullivan, 1871.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-onward-christian-soldiers",
+      "title": "Onward, Christian Soldiers",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B113"
+        }
+      ],
+      "file": "abc/tt-supplemental-onward-christian-soldiers.abc",
+      "sha256": "36a7dbe747a567acfba0ef7f5ae7f00da02b518daef5e745182e20d99c0cd993",
+      "canonical_reference_in_archive": "musicxml_abc/Onward_Christian_Soldiers.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/O/Onward_Christian_Soldiers/Onward_Christian_Soldiers.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "inspection_status": "parsed_cached_web_text",
+          "method": "web_cached_page_then_actual_link_click",
+          "url": "https://library.timelesstruths.org/music/Onward_Christian_Soldiers/",
+          "snapshot_path": "sources/timelesstruths_supplemental/pages/Onward_Christian_Soldiers.web.txt",
+          "snapshot_sha256": "31a9570be7f99d5c3cfd8381975c9bb2ebd3620e238773895bcfd98b6f6f75dc",
+          "rights_context": [
+            {
+              "text": "Sabine Baring-Gould , 1865 copyright status is Public Domain L24:",
+              "preceding_context": [
+                "Onward, Christian Soldiers | Sabine Baring-Gould",
+                "Warfare",
+                "# Onward, Christian Soldiers"
+              ],
+              "following_context": [
+                "* * *",
+                "Subjects: Warfare , Exhortation Scripture: 2 Chronicles 20:15 St. Gertrude [.xml ] Arthur S. Sullivan , 1871 copyright status is Public Domain L28:"
+              ]
+            },
+            {
+              "text": "Subjects: Warfare , Exhortation Scripture: 2 Chronicles 20:15 St. Gertrude [.xml ] Arthur S. Sullivan , 1871 copyright status is Public Domain L28:",
+              "preceding_context": [
+                "# Onward, Christian Soldiers",
+                "Sabine Baring-Gould , 1865 copyright status is Public Domain L24:",
+                "* * *"
+              ],
+              "following_context": [
+                "* * *",
+                "Key: E♭ Meter: 11.11 .11.11.11.11"
+              ]
+            }
+          ],
+          "rights_links": [],
+          "xml_link_count": 1,
+          "inspected_at_utc": "2026-09-30T18:11:01.616Z",
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B113",
+      "title": "Onward Christian Soldiers",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-onward-christian-soldiers",
+      "abc_file": "abc/tt-supplemental-onward-christian-soldiers.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B113",
+        "Song title": "Onward Christian Soldiers",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/O/Onward_Christian_Soldiers/Onward_Christian_Soldiers.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Onward_Christian_Soldiers/",
+        "Editable source": "",
+        "Tune and work identity": "ST. GERTRUDE — Arthur Sullivan (1871); text Sabine Baring-Gould (1865)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Onward_Christian_Soldiers/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nInput itself credits Arthur Sullivan in BYU track. Traditional score is close alternate arrangement, not L. Johnson choral arrangement. Exact Spotify melody not auditioned; recording-specific arrangement is not cleared.",
+        "Playlist positions": "150, 161, 360",
+        "Playlist artists": "Stephen R Cheney; Bluegrass Brethren; Arthur Sullivan; BYU Men's Chorus; Joshua Coffey; Noelle Reid; Conlan Miller; David Ross; Peter Bourgeois; Rosalind Hall",
+        "Original track titles": "Onward Christian Soldiers; Onward, Christian Soldiers (Arr. L. Johnson for Men's Choir & Chamber Ensemble)",
+        "Source review": "PDF staff notation and full lyrics\nSource page opened and PDF score text extracted; visual/audio comparison not completed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+X:1
+T:Softly and Tenderly Jesus Is Calling
+T:THOMPSON
+C:Text and tune: Will L. Thompson, Sparkling Gems Nos.1 & 2, 1880
+S:Hymn Singer / Kenan Schaefkofer; commit4767dd24403f2d9c77f5c825595b6a6c8c2a6404
+Z:ABC conversion from exact LilyPond edition
+N:Three source stanzas corresponding to historical1,2,4 plus common refrain; source tenor echo retained.
+N:Source edition typesetter waives copyright/related rights to extent possible. Underlying work territory assessment required.
+M:6/8
+L:1/16
+Q:1/4=68
+%%score (S A) (T B)
+V:S clef=treble name="Soprano"
+V:A clef=treble name="Alto"
+V:T clef=bass name="Tenor"
+V:B clef=bass name="Bass"
+K:Ab
+[V:S] c3BA2 A2G2A2 | B2A2F2 F2E2 z2 | A2A2A2 c3BA2 | B6- B4 z2 
+w: 1.~Soft- ly and ten- der- ly Je- sus is call- ing, call- ing for you and for me._
+w: 2.~Why should we tar- ry when Je- sus is plead- ing, plead- ing for you and for me?_
+w: 3.~Oh, for the won- der- ful love he has prom- ised, prom- ised for you and for me!_
+[V:S] | c3BA2 A2G2A2 | B2A2F2 F2E2 z2 | A2A2d2 c3AB2 | A6- A4 || E2 
+w: See, on the por- tals he's wait- ing and watch- ing, watch- ing for you and for me._ "Come
+w: Why should we lin- ger and heed not his mer- cies, mer- cies for you and for me._ *
+w: Though we have sinned he has mer- cy and par- don, par- don for you and for me._ *
+[V:S] | B6- B4 c2 | (A4 B2 c6) | B2B2B2 cc3=d2 | (!fermata!e4 !fermata!=d2 !fermata!_d4) z2 
+w: home,_ come home!__ You who are wea- ry, come home."__
+w: * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * *
+[V:S] | c3BA2 A2G2A2 | B2A2F2 F2E2 z2 | AA3d2 c!fermata!A3 !fermata!B2 | A6- A4 z2 |]
+w: Ear- nest- ly, ten- der- ly, Je- sus is call- ing, call- ing, "O sin- ner, come home!"_
+w: * * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * * *
+[V:A] E3DC2 E2D2C2 | D2D2D2 D2C2 z2 | E2E2E2 =D3DD2 | E6- E4 z2 
+[V:A] | E3DC2 E2D2C2 | D2D2D2 D2C2 z2 | E2E2F2 E3CD2 | C6- C4 || z2 
+[V:A] | z4 G2 G4 z2 | z4 G2 A6 | G2G2B2 =AA3_A2 | (!fermata!G4 !fermata!A2 !fermata!B4) z2 
+[V:A] | E3DC2 E2D2C2 | D2D2D2 D2C2 z2 | EE3F2 E!fermata!C3 !fermata!D2 | C6- C4 z2 |]
+[V:T] A,3A,A,2 A,2E,2E,2 | F,2F,2A,2 A,2A,2 z2 | C2C2C2 A,3A,B,2 | G,6- G,4 z2 
+w: * * * * * * * * * * * * * * * * * * *
+[V:T] | A,3A,A,2 A,2E,2E,2 | F,2F,2A,2 A,2A,2 z2 | A,2A,2A,2 A,3A,G,2 | A,6- A,4 || z2 
+w: * * * * * * * * * * * * * * * * * * *
+[V:T] | z4 D2 D4 E2 | C4 E2 E6 | E2E2E2 EE3B,2 | (!fermata!B,4 !fermata!B,2 !fermata!E4) z2 
+w: come home, * * Come home! * * * * * * * * *
+[V:T] | A,3A,A,2 A,2E,2E,2 | F,2F,2A,2 A,2A,2 z2 | A,A,3A,2 A,!fermata!A,3 !fermata!G,2 | A,6- A,4 z2 |]
+w: * * * * * * * * * * * * * * * * * * *
+[V:B] A,,3A,,A,,2 C,2B,,2A,,2 | D,2D,2D,2 A,,2A,,2 z2 | A,2A,2A,2 F,3F,F,2 | E,6- E,4 z2 
+[V:B] | A,,3A,,A,,2 C,2B,,2A,,2 | D,2D,2D,2 A,,2A,,2 z2 | C,2C,2D,2 E,3E,E,2 | A,,6- A,,4 || z2 
+[V:B] | z4 E,2 E,4 z2 | z4 E,2 A,6 | B,2B,2G,2 F,F,3B,2 | (!fermata!E,4 !fermata!F,2 !fermata!G,4) z2 
+[V:B] | A,,3A,,A,,2 C,2B,,2A,,2 | D,2D,2D,2 A,,2A,,2 z2 | C,C,3D,2 E,!fermata!E,3 !fermata!E,2 | A,,6- A,,4 z2 |]

@@ -1,0 +1,69 @@
+{
+  "independence": "Complete 106-event ledger was frozen before canonical exposure from both printed editions. Coordinator later independently corroborated shared G3 head/stems. Post-freeze revision adds a shared-head annotation only; no frozen event changes. Earlier source-only pre-freeze tenor scratch correction is disclosed. Underlay 5–6 remains editorial. Baseline ABC below is used solely for exact-change and negative controls, never as the independent expected-event oracle.",
+  "songs": [
+    {
+      "id": "psalter139",
+      "previousAbc": "T:The Eternal Judgment\nC:Tune: BOYLSTON; Lowell Mason\nM:3/4\nL:1/4\nK:C\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] G | E/2 F/2 G A | G2 || c |\nw:1.~The might-y God, the Lord, Has\nw:2.~From Zi-on His a-bode, Where\nw:3.~Our God shall sure-ly come, Nor\nw:4.~Then to the heav'ns a-bove He\nw:5.~Let all My cho-sen saints Be-\nw:6.~Then shall the heav'ns de-clare His\n[V:T2] E | C/2 D/2 E F | E2 || E |\n[V:B1] G, | G,/2 G,/2 G,/2C/2 C | C2 || C |\n[V:B2] C, | C,/2 C,/2 C, F, | C,2 || C, |\n[V:T1] c/2 B/2 A A | G2 || G | E/2 F/2 G G |\nw: spo-ken un-to all; From ris-ing to the\nw: per-fect beau-ty dwells, The Lord His glo-ry\nw: si-lence shall He keep; De-vour-ing fire shall\nw: from His throne shall call, The earth His king-ly\nw:5.~fore Me gath-ered be, Those that by sac-ri-\nw:6.~right-eous-ness a-broad, Be-cause the Lord Him-\n[V:T2] ^F/2 D/2 E D | D2 || E | C/2 B,/2 C E |\n[V:B1] A,/2 G,/2 G, ^F,/2C/2 | B,2 || G, | G,/2 G,/2 G, C |\n[V:B2] D,/2 C,/2 C, D, | G,2 || C, | C,/2 D,/2 E, C, |\n[V:T1] A/2 B/2 c || B | c/2 A/2 G G | G2 |]\nw: set-ting sun The na-tions hear His call.\nw: has dis-played In bright-ness that ex-cels.\nw: her-ald Him, A-bout Him storms shall sweep.\nw: voice shall hear, He is the Judge of all.\nw:5.~fice have sealed Their prom-ise un-to Me.\nw:6.~self is Judge, Yea, none is Judge but God.\n[V:T2] F/2 F/2 E || D | C/2 F/2 D F | E2 |]\n[V:B1] C/2 G,/2 G, || G, | G,/2 C/2 B, D | C2 |]\n[V:B2] F,/2 D,/2 C, || G, | E,/2 F,/2 G, G,, | C,2 |]\nW:[Selected Stanzas]\nW:5. Let all My chosen saints\nW:Before Me gathered be,\nW:Those that by sacrifice have sealed\nW:Their promise unto Me.\nW:\nW:6. Then shall the heavens declare\nW:His righteousness abroad,\nW:Because the Lord Himself is Judge,\nW:Yea, none is Judge but God.",
+      "previousAbcSHA256": "c2c0cc6dd21753655e71957e20c2e82e62ccf326f4a06e4347bfca6bbe69b83d",
+      "correctedAbcSHA256": "27a5b63f998aa9a97c72ddfcb3253a693e73c34c8272021fe17b3cfa56680acd",
+      "fixtureSHA256": "7aba7757c3f5c914b838fd9faffeb7e8d5414d119d137007b47af79b7f7f646a",
+      "corrections": [
+        {
+          "before": "[V:B2] D,/2 C,/2 C, D, |",
+          "after": "[V:B2] D,/2 G,/2 C, D, |"
+        }
+      ],
+      "printedProse": {
+        "1": "The mighty God, the Lord, Has spoken unto all; From rising to the setting sun The nations hear His call.",
+        "2": "From Zion His abode, Where perfect beauty dwells, The Lord His glory has displayed In brightness that excels.",
+        "3": "Our God shall surely come, Nor silence shall He keep; Devouring fire shall herald Him, About Him storms shall sweep.",
+        "4": "Then to the heav'ns above He from His throne shall call, The earth His kingly voice shall hear, He is the Judge of all.",
+        "5": "Let all My chosen saints Before Me gathered be, Those that by sacrifice have sealed Their promise unto Me.",
+        "6": "Then shall the heavens declare His righteousness abroad, Because the Lord Himself is Judge, Yea, none is Judge but God."
+      },
+      "provenance": [
+        {
+          "file": "source-evidence/psalter139/manual-source-ledger.initial.json",
+          "sha256": "d78b11edb50783ebea0b485ef697f4dd8128743c52b891c0cc3bbb3432cbf7bc"
+        },
+        {
+          "file": "source-evidence/psalter139/manual-ledger-freeze.json",
+          "sha256": "f08b22be5f932335903b901c9706b4a6c6e911924459ad058e29edc937140339"
+        },
+        {
+          "file": "source-evidence/psalter139/ledger-revisions.json",
+          "sha256": "5f81caf6c872b8b6067b9d17d6540a42e40e75e16172a21c10f4bd303773c2e5"
+        },
+        {
+          "file": "source-evidence/psalter139/correction-provenance.json",
+          "sha256": "13bc3a2c965bbf11f2d6902c408b75a52b3a46dcd67785e2820fd626f64535f1"
+        },
+        {
+          "file": "source-evidence/psalter139/boundary-source-manifest.json",
+          "sha256": "9fdd0cdd3a54ed31a1f761db0e610e89b7af630d1aaece83d456d3abd39fe158"
+        },
+        {
+          "file": "source-evidence/psalter139/printed-exact-underlay.json",
+          "sha256": "43f3aeec0b020aafc4449d4106c64b51655407f2c1378726f883833a87be2ad4"
+        },
+        {
+          "file": "source-evidence/psalter139/printed-prose-underlay.json",
+          "sha256": "fe33e6515e162962810438131c13e30f4e25415b6c6484c4775bd17ce8448962"
+        },
+        {
+          "file": "source-evidence/psalter139/audit-result.json",
+          "sha256": "b2ccb32005cfb4a7233365b4d390abf27cffc3c477901dfb4ddd8f3e6d67e596"
+        },
+        {
+          "file": "source-evidence/psalter139/audit-report.md",
+          "sha256": "dfd5ffeb5912ae635c7de29e3481a548eb59ebe8a24013319166ce7f2b3be6d4"
+        },
+        {
+          "file": "source-evidence/psalter139/evidence-manifest.json",
+          "sha256": "891e27779f17c31bf334f0f7e0096054ce2f289673327ff77ad3e3f3d6cd066f"
+        }
+      ],
+      "qualification": "Stanzas 1–4 are literal RFPA underlay. Stanzas 5–6 are metrical editorial attachment of printed prose, including sung heavens elision; not literal engraved note attachment."
+    }
+  ]
+}

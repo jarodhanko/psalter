@@ -1,0 +1,6 @@
+# Psalter 201 / ST. DENIO photo QA (partial)
+
+- Direct evidence: owner photo local source evidence (not distributed), printed p.169. It prints the complete SECOND TUNE, distinct from MOBILÉ on p.168, with stanzas 1–4 under the four music systems. Stanzas 5–7 appear above this tune as text only; their complete words agree with the `W:` transcript shared with MOBILÉ. The separate clean MOBILÉ score is not evidence for ST. DENIO's notes or lyric placement.
+- Added soprano `w:` rows for stanzas 5–7 at each ST. DENIO system boundary. The photographed words and numbering are direct evidence, while note-to-syllable placement is inferred because the photo does not underlay these stanzas. Each system has 11 note events, matching the 11-syllable line; the inference follows the direct 1–4 underlay pattern without adding melisma extenders. Existing music and complete `W:` text are unchanged.
+- The read-only underlay inspection reports 44 soprano events across the four systems, with all 44 events covered by each newly added stanza and no gaps. This confirms structural alignment, not direct evidence of the unprinted underlay.
+- No copyright or permission footer is visible for this second tune. Status: PARTIAL. Full event-by-event SATB and fresh rendered-score comparisons remain open.

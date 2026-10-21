@@ -1,0 +1,117 @@
+% Source edition: hc-wonderful-grace
+% Source URL: https://drive.usercontent.google.com/uc?id=171qrH6MGyd4VaG6mh06mg9xoaSedUlom&export=download
+% Source format: original MuseScore4 MSCZ/MSCX; MusicXML exported with webmscore1.2.1
+% Source key signature restored from explicit MSCX concertKey; notes/spelling/onsets independently checked.
+% Catalog memberships: book2:B128
+% Source voices, printed stanzas and any introduction/prelude retained.
+% Rights: {'publisher_statement_url': 'https://hymncommons.org/about/', 'local_snapshot': 'sources/reopened_gaps/pages/HymnCommons_about.html', 'summary': 'Publisher Ron Nelson says he transcribed PD hymns with MuseScore so others could change the arrangements, and explicitly describes all his material as public domain. Exact MSCX embedded copyright tags separately retained below.', 'embedded_tags': [{'name': 'arranger', 'text': None}, {'name': 'audioComUrl', 'text': None}, {'name': 'composer', 'text': 'Haldor Lillenas\n, 1918'}, {'name': 'copyright', 'text': 'Public domain.'}, {'name': 'creationDate', 'text': '2026-02-25'}, {'name': 'lyricist', 'text': 'Haldor Lillenas\n, 1918'}, {'name': 'movementNumber', 'text': None}, {'name': 'movementTitle', 'text': None}, {'name': 'platform', 'text': 'Microsoft Windows'}, {'name': 'source', 'text': None}, {'name': 'sourceRevisionId', 'text': None}, {'name': 'subtitle', 'text': 'John 1:16–17'}, {'name': 'translator', 'text': None}, {'name': 'workNumber', 'text': None}, {'name': 'workTitle', 'text': 'Wonderful Grace of Jesus'}]}
+% Territory: Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.
+% MuseScore source hash: 90fc7948e61c868f3f94265bbe713aa87e9cdc1e7581785fe47c7b1a15ac79fb
+X:1
+T:Wonderful Grace of Jesus
+C:Haldor Lillenas
+C:, 1918
+Z:Haldor Lillenas
+Z:, 1918
+Z:Public domain.
+%%score { ( 1 2 ) | ( 3 4 5 ) }
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 treble 
+V:3 bass 
+V:4 bass 
+V:5 bass 
+L:1/4
+V:1
+[L:1/8]
+ G2 G>G G2 G2 | A4 G4 | c2 E>F G2 F2 | E4- E4 |  %4
+w: 1. Won- der- ful grace of|Je- sus,|Great- er than all my|sin; *|
+w: 2. Won- der- ful grace of|Je- sus,|Reach- ing to all the|lost, *|
+w: 3. Won- der- ful grace of|Je- sus,|Reach- ing the most de-|filed, *|
+ E2 E>E E2 E2 | A4 c4 | B2 B>G A2 A2 | G6 z2 |  %8
+w: How shall my tongue de-|scribe it,|Where shall its praise be-|gin?|
+w: By it I have been|par- doned,|Saved to the ut- ter-|most;|
+w: By its trans- form- ing|pow- er|Mak- ing him God's dear|child,|
+ G2 G>G G2 G2 | A4 G4 | c2 c>c d2 c2 | (c4 A2) |  %12
+w: Tak- ing a- way my|bur- den,|Set- ting my spir- it|free. *|
+w: Chains have been torn a-|sun- der,|Giv- ing me lib- er-|ty, *|
+w: Pur- chas- ing peace and|heav- en|For all e- ter- ni-|ty; *|
+ AA | c2 B>A c2 A2 | G4 ^F4 | G4 d4 | %16
+w: For the|won- der- ful grace of|Je- sus|reach- es|
+w: For the|won- der- ful grace of|Je- sus|reach- es|
+w: For the|won- der- ful grace of|Je- sus|reach- es|
+ c6 z2 |  E>E E>E E>E E>E | F>F F>F F2 F2 | E>E E>E E>E E>E |  %20
+w: me.|* * * * * * * the|match- less grace of Je- sus,||
+w: me.||||
+w: me.||||
+ F>F F>F F2 (3F/D/E/(3F/G/A/ | B4 d2 B2 | c4 e2 c2 |  B4 A2 D2 | %24
+w: * the roll- ing sea; * * * * * *|Won- der- ful|grace, all suf-|fi- cient for|
+w: ||||
+w: ||||
+ G>A B>A G2 z2 | C>D E>F G>A G>E |  G4 D4 | C>D E>G c>B d>c | %28
+w: me, for e- ven me;|Broad- er than the scope of my trans-|gres- sions,|Great- er far than all my sin and|
+w: ||||
+w: ||||
+ c6 | A2 |  c>c c>c d2 c2 | e2 c2 f2 d2 | %32
+w: shame;|O|mag- ni- fy the pre- cious|name of Je- sus,|
+w: ||||
+w: ||||
+ c4 B4 | c6 z2 |] %34
+w: Praise His|name!|
+w: ||
+w: ||
+V:2
+[L:1/8]
+ E2 E>E E2 E2 | ^D4 E4 | E2 C>D E2 D2 | (C4 D4) |  %4
+ C2 C>C C2 C2 | C4 E4 | D2 D>D{^F2} D2{F2} D2 | (D4 G2) z2 |  %8
+ E2 E>E E2 E2 | ^D4 E4 | E2 E>E E2 G2 | F6 |  %12
+ FF | ^D2 D>D D2 D2 | E4 ^D4 | E4 F4 | %16
+ E6 z2 |  C>C C>C C>C C>C | B,>B, B,>B, B,2 B,2 | C>C C>C C>C C>C |  %20
+ D>D D>D D2 z2 | F4 F2 F2 | E4 G2 E2 |  D4 C2 C2 | %24
+ B,>C D>C B,2 (3FED | C>C C>D E>F E>C |  B,4 B,4 | C>B, C>E E>E E>G | %28
+ F6 | F2 |  ^D>D D>D D2 D2 | E2 E2 F2 F2 | %32
+ E4 F4 | E6 z2 |] %34
+V:3
+[L:1/8]
+ C2 C>C G,2 G,2 | ^F,4 G,4 | G,2 G,>G, G,2 G,2 | (G,4 ^G,4) |  %4
+w: ||||
+ A,2 A,>A, A,2 A,2 | A,4 A,4 | G,2 G,>B, C2 C2 | B,6 z2 |  %8
+w: ||||
+ C2 C>C G,2 G,2 | ^F,4 G,4 | G,2 G,>G, _B,2 B,2 | (A,4 C2) |  %12
+w: ||||
+ CC | A,2 B,>C A,2 C2 | C4 C4 | C4 B,4 | %16
+w: ||||
+ C6 z2 |  C,>D, E,>F, G,>A, G,>E, | G,4 D,4 | C,>D, E,>G, C>B, D>C |  %20
+w: |Won- der- ful the match- less grace of|Je- sus,|Deep- er than the might- y roll- ing|
+ B,6 z2 | D,>E, F,>G, B,2 G,2 | C,>D, E,>G, C2 G,2 |  ^F,>E, D,>E, F,>C B,>A, | %24
+w: sea;|High- er than the moun- tain,|spar- kling like a foun- tain,|All suf- fi- cient grace for e- ven|
+ G,6 z2 | E,>F, G,>G, C>C C>G, |  G,2 G,2 G,2 G,2 | G,>G, G,>G, G,>G, _B,>B, | %28
+w: me;|* * * * * * * trans|gres- sions, sing it!||
+ A,>A, A,>A, A,2 | C2 |  A,>A, A,>A, A,2 A,2 | C2 C2 C2 C2 | %32
+w: * my sin and shame;||||
+ C4 D4 | C6 z2 |] %34
+w: ||
+V:4
+[L:1/8]
+ C,2 C,>C, C,2 C,2 | C,4 C,4 | C,2 C,>C, G,,2 B,,2 | (C,4 B,,4) |  %4
+ A,,2 A,,>A,, A,,2 A,,2 | A,,4 A,,4 | D,2 D,>D, D,2 D,2 | G,,6 z2 |  %8
+ C,2 C,>C, C,2 C,2 | C,4 C,4 | C,2 C,>C, C,2 C,2 | F,6 |  %12
+ F,F, | ^F,2 F,>F, F,2 F,2 | G,4 _A,4 | G,4 G,,4 | %16
+ C,6 z2 |  C,8 | D,4 G,,4 | (C,2 C,6) |  %20
+ G,6 z2 | G,,4 G,,4 | C,8 |  D,8 | %24
+ G,,6 z2 | C,>C, C,>C, C,>C, C,>C, |  D,2 D,2 G,2 F,2 | E,>D, C,>C, C,>C, C,>C, | %28
+ F,>F, F,>F, F,2 | F,2 |  ^F,>F, F,>F, F,2 F,2 | G,2 _B,2 A,2 _A,2 | %32
+ G,4 G,,4 | C,6 z2 |] %34
+V:5
+[L:1/4]
+ x4 | x4 | x4 | x4 |  %4
+ x4 | x4 | x4 | G, F, E, D, |  %8
+ x4 | x4 | x4 | x3 |  %12
+ x | x4 | x4 | x4 | %16
+ x4 |  x4 | x4 | x4 |  %20
+ x4 | x4 | x4 |  x4 | %24
+ x4 | x4 |  x4 | x4 | %28
+ x3 | x |  x4 | x4 | %32
+ x4 | x4 |] %34

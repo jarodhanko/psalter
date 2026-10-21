@@ -1,0 +1,156 @@
+{
+  "sourceSha256": "cb757f08245199d19cdeed78bcdb9a6a5f06d5969df309391768804a839e1de5",
+  "metadata": {
+    "id": "hymn-oh_o-for-a-thousand-tongues-azmon",
+    "title": "Oh for a Thousand Tongues to Sing",
+    "composer": "Words: Charles Wesley, 1740.  Music: 'Azmon' Carl G. Gläser, 1828.  Setting: Lowell Mason, 1839.",
+    "tune": "Azmon",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_o-for-a-thousand-tongues-azmon",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/O_For_A_Thousand_Tongues/O_For_A_Thousand_Tongues-Azmon.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Charles Wesley, 1740.  Music: 'Azmon' Carl G. Gläser, 1828.  Setting: Lowell Mason, 1839.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision.",
+      "Music source: \"The Methodist Hymnal\", 1905. Hymn 1."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Azmon' Carl G. Gläser, 1828.  Setting: Lowell Mason, 1839.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_o-for-a-thousand-tongues-azmon",
+      "title": "Oh for a Thousand Tongues to Sing",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H042"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B040"
+        }
+      ],
+      "file": "abc/oh_o-for-a-thousand-tongues-azmon.abc",
+      "sha256": "cb757f08245199d19cdeed78bcdb9a6a5f06d5969df309391768804a839e1de5",
+      "canonical_reference_in_archive": "abc/oh_o-for-a-thousand-tongues-azmon.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/O_For_A_Thousand_Tongues/O_For_A_Thousand_Tongues-Azmon.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Charles Wesley, 1740.  Music: 'Azmon' Carl G. Gläser, 1828.  Setting: Lowell Mason, 1839.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2007 Revision.",
+          "Music source: \"The Methodist Hymnal\", 1905. Hymn 1."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Azmon' Carl G. Gläser, 1828.  Setting: Lowell Mason, 1839.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling.",
+        "Tune: 'Azmon' Carl G. Gläser, 1828.  Setting: Lowell Mason, 1839.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_o-for-a-thousand-tongues-azmon.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H042",
+      "title": "Oh for a Thousand Tongues to Sing",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "oh_o-for-a-thousand-tongues-azmon",
+      "abc_file": "abc/oh_o-for-a-thousand-tongues-azmon.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H042",
+        "Hymn / version": "Oh for a Thousand Tongues to Sing",
+        "Playlist track #": "47, 97",
+        "Music / score source": "https://library.timelesstruths.org/library/music/O/Oh_for_a_Thousand_Tongues_to_Sing/Oh_for_a_Thousand_Tongues_to_Sing.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/Oh_for_a_Thousand_Tongues_to_Sing/",
+        "Editable notation / MIDI": "https://library.timelesstruths.org/music/Oh_for_a_Thousand_Tongues_to_Sing/",
+        "Available formats": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain text and music (US), as labeled by source",
+        "Rights source": "https://library.timelesstruths.org/music/Oh_for_a_Thousand_Tongues_to_Sing/",
+        "Text, tune and version notes": "Charles Wesley 1739; AZMON, Carl G. Glaser 1828, Lowell Mason arrangement 1839\nAZMON selected; source also offers LYNGHAM; recording tune not independently auditioned.\nDownloaded and recognized PDF; text checked separately",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "AZMON is an accepted PD setting of Wesley’s hymn text, even if a recording uses LYNGHAM. Keep the named tune explicit. The source score was inspected and identified as PD, primarily on a US basis. Confirm the edition and territorial basis for the intended public distribution; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B040",
+      "title": "Oh for a Thousand Tongues to Sing",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_o-for-a-thousand-tongues-azmon",
+      "abc_file": "abc/oh_o-for-a-thousand-tongues-azmon.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B040",
+        "Song title": "Oh for a Thousand Tongues to Sing",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/O/Oh_for_a_Thousand_Tongues_to_Sing/Oh_for_a_Thousand_Tongues_to_Sing.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Oh_for_a_Thousand_Tongues_to_Sing/",
+        "Editable source": "https://library.timelesstruths.org/music/Oh_for_a_Thousand_Tongues_to_Sing/",
+        "Tune and work identity": "Charles Wesley 1739; AZMON, Carl G. Glaser 1828, Lowell Mason arrangement 1839\nAZMON selected; source also offers LYNGHAM; recording tune not independently auditioned.",
+        "Public distribution rights": "Public-domain text and music (US), as labeled by source",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Oh_for_a_Thousand_Tongues_to_Sing/",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nAZMON selected. LYNGHAM is another common tune; the traditional alternate tune is retained.\nSame hymn/text retained. Public-domain alternate tune is permitted. Do not copy protected recording arrangements or added sections. Confirm target territories and edition reuse terms.",
+        "Playlist positions": "44, 97",
+        "Playlist artists": "The Haven Quartet; Chris Rice",
+        "Original track titles": "O For A Thousand Tongues To Sing; O For A Thousand Tongues",
+        "Source review": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

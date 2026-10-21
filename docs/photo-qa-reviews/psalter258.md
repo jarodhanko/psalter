@@ -1,0 +1,6 @@
+# Psalter 258 photo review — partial
+
+- **Authority and scope:** local source evidence (not distributed) (photo sequence 218, printed page 224). The complete LUCILE setting and all three music systems appear on this page. Stanzas 1–5 are printed under the score; complete stanzas 6–7 are printed below it. The setting ends on this page.
+- **Lyrics:** Preserved the complete printed stanzas 6–7 in `W:` and added numbered soprano `w:` rows for both verses. Their printed text is direct transcription. Their note placement is inferred from the 8.8.8.8 verse form and the three slurred note pairs identified by the directly printed stanza 1–5 underlay; the extra note in each affected phrase continues the preceding syllable. No independent printed underlay for stanzas 6–7 is present.
+- **ABC inspection:** `tools/inspect-underlay.mjs psalter258` reports three systems with 12, 11, and 12 first-voice note/rest events and seven lyric rows. The inserted rows occupy all system events, including the inferred continuations. Existing complete `W:` text is retained.
+- **Remaining QA:** This is not a fresh pitch/rhythm/expression review. The handwritten labels still overlap noteheads and printed curves; event-by-event SATB, accidental, octave, duration, and articulation reconciliation remains open. Overall status remains PARTIAL.

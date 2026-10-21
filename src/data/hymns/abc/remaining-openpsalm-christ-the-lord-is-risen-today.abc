@@ -1,0 +1,101 @@
+% Source edition: remaining-openpsalm-christ-the-lord-is-risen-today
+% Source URL: https://openpsalm.com/api/songs/140/export/musicxml
+% Source SHA256: a0f99b87d163fbc4e5790e3830b2416f5ab1c8a74fb3db0ae6ff20bb6825a01f
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_OpenPsalm_Christ_the_Lord_Is_Risen_Today.repairs.json
+% Catalog membership: book2:B242
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Source arrangement license: Creative Commons Attribution 4.0 International
+% License URL: https://creativecommons.org/licenses/by/4.0/
+% Changes: MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.
+% Original creator (composer): Lyra Davidica
+% Original creator (lyricist): Charles Wesley
+% Original creator (arranger): OpenPsalm
+% Original rights: Words: Charles Wesley, 1739 (public domain)
+% Original rights: Music: 'Easter Hymn' from Lyra Davidica, 1708 (public domain)
+% Original rights: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+% Original credit-words: Christ the Lord Is Risen Today
+% Original credit-words: Words: Charles Wesley, 1739 (public domain)
+% Original credit-words: Music: 'Easter Hymn' from Lyra Davidica, 1708 (public domain)
+% Original credit-words: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+X:1
+T:Christ the Lord Is Risen Today
+C:Lyra Davidica
+Z:Charles Wesley
+Z:Words: Charles Wesley, 1739 (public domain)
+Z:Music: 'Easter Hymn' from Lyra Davidica, 1708 (public domain)
+Z:Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=104
+M:4/4
+K:C
+V:1 treble nm="Soprano & Alto"
+V:2 treble 
+V:3 bass nm="Tenor & Bass"
+V:4 bass 
+L:1/8
+V:1
+[L:1/4]
+ C E G C | F A (A G) | (E/F/ G/C/ F) E/F/ | (E D) C2 | %4
+w: 1.~Christ the Lord is|ris'n to- day,_|Al- * * * * le- *|lu- * ia!|
+w: 2.~Love's re- deem- ing|work is done._|Al- * * * * le- *|lu- * ia!|
+w: 3.~Lives a- gain, our|glo- rious King._|Al- * * * * le- *|lu- * ia!|
+w: 4.~Soar we now where|Christ has led._|Al- * * * * le- *|lu- * ia!|
+w: 5.~Hail, the Lord of|earth and heav'n!_|Al- * * * * le- *|lu- * ia!|
+ F G A G | F E (E D) | (E/F/ G/C/ F) E/F/ | (E D) C2 | %8
+w: Sons of men and|an- gels say:_|Al- * * * * le- *|lu- * ia!|
+w: Fought the fight, the|bat- tle won._|Al- * * * * le- *|lu- * ia!|
+w: Where, O death, is|now thy sting?_|Al- * * * * le- *|lu- * ia!|
+w: Fol- l'wing our ex-|alt- ed Head._|Al- * * * * le- *|lu- * ia!|
+w: Praise to Thee by|both be giv'n;_|Al- * * * * le- *|lu- * ia!|
+ B c d G | c d e2 | (B/c/ d/G/ c) B/c/ | (B A) G2 | %12
+w: Raise your joys and|tri- umphs high.|Al- * * * * le- *|lu- * ia!|
+w: Death in vain for-|bids Him rise.|Al- * * * * le- *|lu- * ia!|
+w: Dy- ing once, He|all doth save.|Al- * * * * le- *|lu- * ia!|
+w: Made like Him, like|Him we rise.|Al- * * * * le- *|lu- * ia!|
+w: Thee we greet tri-|um- phant now;|Al- * * * * le- *|lu- * ia!|
+ G/A/ B/G/ c E | F A (A G) | (c/B/ c/G/ A/B/) c/d/ | (c B) c2 | %16
+w: Sing,_ ye_ heav'ns, and|earth re- ply:_|Al- * * * * * le- *|lu- * ia!|
+w: Christ_ has_ o- pened|par- a- dise._|Al- * * * * * le- *|lu- * ia!|
+w: Where_ thy_ vic- to-|ry, O grave?_|Al- * * * * * le- *|lu- * ia!|
+w: Ours_ the_ cross, the|grave, the skies._|Al- * * * * * le- *|lu- * ia!|
+w: Hail,_ the_ Res- ur-|rec- tion Thou!_|Al- * * * * * le- *|lu- * ia!|
+V:2
+[L:1/4]
+ C C D C | C F (F E) | C2- C/B,/ C | (C B,) C2 | %4
+ C C C C | C/B,/ C (C B,) | C2- C/B,/ C | (C B,) C2 | %8
+ G3/2 ^F/ G G | G F E2 | G2- G/^F/ G | (G ^F) G2 | %12
+ B,/C/ D/B,/ C C | C F (F E) | (E/F/ G/E/ F) G/F/ | (E G/F/) E2 | %16
+V:3
+[L:1/4]
+ E, G, G, E, | C C C2 | (G,2 A,/F,/) G,/F,/ | (G,3/2 F,/) E,2 | %4
+w: 1.~Christ the Lord is|ris'n to- day,|Al- * * le- *|lu- * ia!|
+w: 2.~Love's re- deem- ing|work is done.|Al- * * le- *|lu- * ia!|
+w: 3.~Lives a- gain, our|glo- rious King.|Al- * * le- *|lu- * ia!|
+w: 4.~Soar we now where|Christ has led.|Al- * * le- *|lu- * ia!|
+w: 5.~Hail, the Lord of|earth and heav'n!|Al- * * le- *|lu- * ia!|
+ F, E, F, G, | A,/G,/ G, G,2 | (G,2 A,/F,/) G,/F,/ | (G,3/2 F,/) E,2 | %8
+w: Sons of men and|an- * gels say:|Al- * * le- *|lu- * ia!|
+w: Fought the fight, the|bat- * tle won.|Al- * * le- *|lu- * ia!|
+w: Where, O death, is|now_ thy sting?|Al- * * le- *|lu- * ia!|
+w: Fol- l'wing our ex-|alt- * ed Head.|Al- * * le- *|lu- * ia!|
+w: Praise to Thee by|both_ be giv'n;|Al- * * le- *|lu- * ia!|
+ D C B, B, | C3/2 B,/ C2 | D3 D/C/ | (D3/2 C/) B,2 | %12
+w: Raise your joys and|tri- umphs high.|Al- le- *|lu- * ia!|
+w: Death in vain for-|bids Him rise.|Al- le- *|lu- * ia!|
+w: Dy- ing once, He|all doth save.|Al- le- *|lu- * ia!|
+w: Made like Him, like|Him we rise.|Al- le- *|lu- * ia!|
+w: Thee we greet tri-|um- phant now;|Al- le- *|lu- * ia!|
+ G, G, G, G, | F, C C2 | (C/G,/ C C) C | (C D) C2 | %16
+w: Sing, ye heav'ns, and|earth re- ply:|Al- * * * le-|lu- * ia!|
+w: Christ has o- pened|par- a- dise.|Al- * * * le-|lu- * ia!|
+w: Where thy vic- to-|ry, O grave?|Al- * * * le-|lu- * ia!|
+w: Ours the cross, the|grave, the skies.|Al- * * * le-|lu- * ia!|
+w: Hail, the Res- ur-|rec- tion Thou!|Al- * * * le-|lu- * ia!|
+V:4
+[L:1/8]
+ C,2 C,2 B,,2 C,2 | A,2 F,2 C,4 | (C,D, E,2 D,2) C,A,, | G,,4 C,4 | %4
+ A,,2 C,2 F,2 E,2 | D,2 E,F, G,4 | (C,D, E,2 D,2) C,A,, | G,,4 C,4 | %8
+ G,,2 A,,2 B,,2 G,F, | E,2 D,2 C,4 | (G,A, B,2 A,2) G,E, | D,4 G,,4 | %12
+ G,3 F, E,2 C,B,, | A,,2 F,,2 C,4 | (C,D, E,C, F,G,) A,F, | G,4 C,4 | %16

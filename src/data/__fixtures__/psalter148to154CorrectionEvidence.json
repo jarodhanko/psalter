@@ -1,0 +1,80 @@
+{
+  "songs": [
+    {
+      "id": "psalter148",
+      "previousAbc": "T:Earnest Appeal Against Enemies\nC:Tune: GIVE; Joseph Grigg\nO:Psalm 55, C. M.\nM:3/4\nL:1/8\nK:G\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] D2 | G4 B2 | d4 B2 | (A2 G2) A2 | B4 || A2 |\nw:1.~Je- ho- vah, to my prayer * give ear, Nor\nw:2.~My en- e- mies lift up * their voice, The\nw:3.~Sore pained in heart I find * no ease, Death's\nw:4.~O had I wings, I sigh * and say, Like\nw:5.~Lo, wan- d'ring far my rest * should be In\nw:6.~O Lord, their mal- ice rec- * om- pense, Their\nw: 7.~They walk her walls both night * and day, With-\nw: 8.~No for-eign foe pro-vokes * a- larm, But\n[V:T2] D2 | D4 G2 | G4 G2 | (F2 G2) F2 | G4 || F2 |\n[V:B1] B,2 | B,4 D2 | B,4 D2 | (C2 B,2) D2 | D4 || D2 |\n[V:B2] G,2 | G,4 G,2 | G,4 G,2 | D,4 D,2 | G,4 || D,2 |\n[V:T1] (G2 A2) B2 | c4 B2 | !fermata!A4 || D2 | G4 B2 | d4 B2 |\nw: hide * Thee from my cry; At- tend my sad com-\nw: vi- * o- lent op- press; To do me wrong my\nw: ter- * rors fill my soul; Great fear and trem- bling\nw: some * swift dove to roam, Then would I has- ten\nw: some * lone des- ert waste; I from the storm- y\nw: wick- * ed tongues con- found, For in the cit- y\nw: in * all vi-ces meet; Op-pres-sion, fraud, and\nw: en- * e- mies with- in; May God de- stroy their\n[V:T2] (G2 F2) G2 | G4 G2 | F4 || D2 | D4 G2 | G4 G2 |\n[V:B1] D4 D2 | E4 D2 | !fermata!D4 || B,2 | B,4 D2 | B,4 D2 |\n[V:B2] (B,,2 D,2) G,2 | C,4 G,,2 | D,4 || G,2 | G,4 G,2 | G,4 G,2 |\n[V:T1] A4 B2 | c4 || BA | (G2 B2) d2 | (d2 A2) B2 | !fermata!G4 |]\nw: plaint, and hear My * rest- * less moan * and sigh.\nw: foes re- joice, And * love * my soul's * dis- tress.\nw: on me seize, And * hor- * rors o'er * me roll.\nw: far a- way And * find * a peace- * ful home.\nw: wind would flee, And * to * a shel- * ter haste.\nw: vi- o- lence And * bit- * ter strife * a- bound.\nw: crime hold sway, Nor * leave * the crowd- * ed street.\nw: pow'r to harm And * re- * com- pense * their sin.\n[V:T2] F4 G2 | G4 || G2 | G4 G2 | F4 F2 | G4 |]\n[V:B1] D4 D2 | E4 || DC | (B,2 D2) D2 | D4 C2 | !fermata!B,4 |]\n[V:B2] D,4 G,2 | C,4 || D,2 | G,4 B,,2 | D,4 D,2 | G,,4 |]\nW:7. They walk her walls both night and day,\nW:   Within all vices meet;\nW:   Oppression, fraud, and crime hold sway,\nW:   Nor leave the crowded street.\nW:8. No foreign foe provokes alarm,\nW:   But enemies within;\nW:   May God destroy their power to harm\nW:   And recompense their sin.",
+      "previousAbcSHA256": "6b4b33ee72bb76e13c062b5c361836240912fd0571e08da15e8c2615b090a11e",
+      "correctedAbcSHA256": "e40f0ff9fbaff50611874fd19ff6655663e7261756bb5921c0657d3609ba2852",
+      "fixtureSHA256": "65c5cf1f4852592b424a618a7cb072b4a4c504e89abc400e8a46b1f566616a6e",
+      "sourceLedgerSHA256": "b1cce8bf0feee2da09e9fe57a2ce4e440afe58e9b8dd518f861cf9a18b74b9d3",
+      "sourceLedgerFilename": "manual-source-ledger.current.json",
+      "corrections": [
+        {
+          "before": "soul; Great fear",
+          "after": "soul, Great fear"
+        }
+      ],
+      "qualification": "Six RFPA engraved stanzas; stanzas 7–8 are prose-only, so later app syllabification is editorial. Both editions support soul comma. RFPA/app wan-d’ring versus 1912 wandering retained. Shared upright fermatas belong to each staff at q19/q40. Registry and punctuation fixes are tested together."
+    },
+    {
+      "id": "psalter149",
+      "previousAbc": "T:Confession of Trust\nC:Tune: ASCRIPTION; Luther O. Emerson\nO:Psalm 55, C. M.\nM:3/2\nL:1/8\nK:Bb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] F4 | F2 d2 B4 G4 | F2 D2 F4 || F4 | B2 B2 d4 B4 | c8 |\nw:1.~On God a- lone my soul re- lies, And He will soon re- lieve;\nw:2.~He has re- deemed my soul in peace, From con- flict set me free;\nw:3.~The liv- ing God in right- eous- ness Will rec- om- pense with shame\nw:4.~All treach'- rous friends who o- ver- reach And break their plight- ed troth,\nw:5.~Up- on the Lord thy bur- den cast, To Him bring all thy care;\nw:6.~God will not let His saints be moved; Pro- tect- ed, they shall see\n[V:T2] D4 | D2 D2 D4 E4 | D2 B,2 D4 || D4 | D2 D2 F4 (D2 =E2) | F8 |\n[V:B1] B,4 | B,2 G,2 G,4 B,4 | B,2 G,2 B,4 || B,4 | G,2 G,2 B,4 B,4 | A,8 |\n[V:B2] B,,4 | B,,2 B,,2 B,,4 B,,4 | B,,2 B,,2 B,,4 || B,,4 | B,,2 B,,2 B,,4 G,4 | F,8 |\n[V:T1] c4 | d2 c2 B4 F4 | G2 G2 B4 || G4 | F2 B2 d4 c4 | B8 |]\nw: The Lord will hear my plain- tive cries At morn- ing, noon, and eve.\nw: My man- y foes are made to cease, And strive no more with me.\nw: The men who, hard- ened by suc- cess, For- get to fear His Name.\nw: Who hide their hate with hon- eyed speech, With such the Lord is wroth.\nw: He will sus- tain and hold thee fast, And give thee strength to bear.\nw: Their foes cut off and sin re- proved; O God, I trust in Thee.\n[V:T2] F4 | F2 E2 F4 D4 | E2 E2 G4 || E4 | D2 D2 F4 E4 | D8 |]\n[V:B1] A,4 | B,2 A,2 B,4 B,4 | B,2 B,2 B,4 || B,4 | B,2 B,2 B,4 F,4 | F,8 |]\n[V:B2] F,4 | B,,2 C,2 D,4 B,,4 | E,2 E,2 E,4 || E,4 | F,2 F,2 F,4 F,,4 | B,,8 |]\nW:[Stanzas 9-14]",
+      "previousAbcSHA256": "8091fc8a31c6ae3e0159e39a002c5fe1eb3c20d58c4c16f9b0dbeabc5eac3ffc",
+      "correctedAbcSHA256": "e050cd3248650afe69c82d8db45472ede186c62de836d7e8ad164201c08e4bbf",
+      "fixtureSHA256": "cf616789f3c609ede136af5c8cc981a55c878e3696d0ce7d6b0b41eb90700733",
+      "sourceLedgerSHA256": "4f8d56a361d9e8f99112cd8a3fc607fc60460fba931747e07caf48114de430b7",
+      "sourceLedgerFilename": "manual-source-ledger.revised.json",
+      "corrections": [
+        {
+          "before": "[V:B1] B,4 | B,2 G,2 G,4 B,4 | B,2 G,2 B,4 || B,4 | G,2 G,2 B,4 B,4 | A,8 |",
+          "after": "[V:B1] B,4 | B,2 F,2 F,4 B,4 | B,2 F,2 B,4 || B,4 | F,2 F,2 B,4 B,4 | A,8 |"
+        }
+      ],
+      "qualification": "Initial ledger revised in twelve explicitly documented non-target readings; all five tenor F3 readings were independently present before exposure and unchanged. RFPA treach’rous divider differs from app treach’-rous and original1912 prose treacherous. Heavy phrase bar positions preserved; glyph shape not certified."
+    },
+    {
+      "id": "psalter153",
+      "previousAbc": "T:Heroic Faith\nC:Tune: MASON'S CHANT; William B. Bradbury\nO:Psalm 56, C. M.\nM:3/2\nL:1/8\nK:Db\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] A4 | A3 A A2 A2 A2 A2 | (A4 d4) || A4 | B2 B2 B4 d4 | A8 |\nw:1.~O God, be mer- ci- ful to me, * For men no mer- cy show;\nw:2.~When foes in- vade, I safe- ly rest, * Con- fid- ing in Thy word;\nw:3.~I take Thy vows up- on me now, * O God, Who sav- est me;\nw:4.~My feet from fall- ing and my soul * From death Thou hast re- stored,\n[V:T2] F4 | F3 G A2 F2 E2 G2 | F8 || F4 | G2 G2 G4 G4 | F8 |\n[V:B1] D4 | D3 C D2 D2 C2 E2 | D8 || D4 | D2 D2 D4 (B,2 D2) | D8 |\n[V:B2] D,4 | D,3 E, F,2 D,2 A,2 A,,2 | D,8 || D,4 | G,2 G,2 G,4 (G,,2 B,,2) | D,8 |\n[V:T1] d4 | c3 c c2 c2 B2 A2 | d8 || A4 | B2 dB A4 A4 | A8 |]\nw: With con- stant war- fare press- ing me They seek my * o- ver- throw.\nw: I will not dread what man can do, My trust is * in the Lord.\nw: The sac- ri- fice of praise I bring In grat- i- * tude to Thee.\nw: And ev- er in the light of life I walk be- * fore the Lord.\n[V:T2] F4 | E3 E E2 E2 D2 C2 | D8 || F4 | G2 BG F4 (E2 G2) | F8 |]\n[V:B1] A,4 | A,3 A, A,2 A,2 A,2 A,G, | A,8 || (A,2 D2) | D2 D2 D4 C4 | D8 |]\n[V:B2] D,4 | A,3 A, A,2 A,2 A,2 A,G, | F,8 || D,4 | G,2 G,2 A,4 A,,4 | D,8 |]\nW:[Selected Stanzas]",
+      "previousAbcSHA256": "7641ffcbb9ffab7378423977990afd82415737b48513e4835df4b5a1996e9143",
+      "correctedAbcSHA256": "5d6cd106dd59dbbff92312e77ce4af0d0e58f8ca5c05d134740e513226f34550",
+      "fixtureSHA256": "d83243921c6dbfd38b73c368d3d73c5bead2b78575e7c20e37d9697db7bfdecd",
+      "sourceLedgerSHA256": "f33a433985334191040c88135f3bb30dc172a1cf2e447172d2503fcf1dcec257",
+      "sourceLedgerFilename": "manual-source-ledger.current.json",
+      "corrections": [
+        {
+          "before": "[V:B1] A,4 | A,3 A, A,2 A,2 A,2 A,G,",
+          "after": "[V:B1] A,4 | A,3 A, A,2 A,2 A,2 A,2"
+        }
+      ],
+      "qualification": "RFPA supplies duration authority for older light/open shared heads earlier in bar 8; those ambiguities remain held. Target q31 unflagged tenor quarter is clear in both editions. RFPA ev’-er versus app/original1912 ever retained. Heavy phrase bar glyph variants retained."
+    },
+    {
+      "id": "psalter154",
+      "previousAbc": "T:Danger and Rescue\nC:Tune: SILWYN; arranged from Mendelssohn\nO:Psalm 57, L. M.\nM:3/4\nL:1/8\nK:Ab\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] E2 A2 B2 | c4 B2 | d4 c2 | (c4 B2) | A2 A2 A2 |\nw:1.~O God, be mer- ci- ful to me, * My soul for\nw:2.~To God Most High shall rise my prayer, * To God Who\nw:3.~Great foes and fierce my soul a- larm, * In- flamed with\nw:4.~Be Thou, O God, ex- alt- ed high, * Yea, far a-\n[V:T2] C2 E2 E2 | F4 E2 | (F2 E2) E2 | E6 | C2 F2 =D2 |\n[V:B1] A,2 A,2 G,2 | A,4 B,2 | (A,2 B,2) A,2 | (A,4 G,2) | A,2 B,2 B,2 |\n[V:B2] A,,2 C,2 E,2 | A,4 G,2 | (F,2 G,2) A,2 | E,6 | F,2 =D,2 B,,2 |\n[V:T1] (A2 G2) B2 | (BAG2) F2 | E4 z2 || E2 A2 G2 | c4 B2 |\nw: ref- * uge comes * * to Thee; Be- neath Thy wings I\nw: makes * my wants * * His care; From heav'n He will sal-\nw: rage * and strong * * to harm, But God, from heav'n His\nw: bove * the star- * * ry sky, And let Thy glo- ry\n[V:T2] E4 E2 | (F2 E2) =D2 | E4 z2 || E2 E2 G2 | A4 E2 |\n[V:B1] B,4 _D2 | (C2 B,2) A,2 | G,4 z2 || C2 E2 D2 | (C2 =D2) E2 |\n[V:B2] E,4 G,,2 | (A,,2 B,,2) B,,2 | E,4 z2 || A,,2 C,2 E,2 | A,4 G,2 |\n[V:T1] d4 c2 | (c4 B2) || A2 A2 A2 | (A2 d2) c2 | (cBA2) G2 | A4 z2 |]\nw: safe will stay * Un- til these troub- * les pass * * a- way.\nw: va- tion send, * And me from ev- * 'ry foe * * de- fend.\nw: dwell- ing- place, * Will res- cue me * with truth * * and grace.\nw: be dis- played * O'er all the earth * Thy hands * * have made.\n[V:T2] (A2 B2) A2 | (A4 G2) || F2 _G2 G2 | (F2 =G2) A2 | (F2 E2) D2 | C4 z2 |]\n[V:B1] (F2 E2) E2 | (E2 =D2 _D2) || C2 E2 C2 | D4 E2 | (EDC2) B,2 | A,4 z2 |]\n[V:B2] (F,2 G,2) A,2 | E,6 || F,2 C,2 A,,2 | (D,2 B,,2) C,2 | (B,,2 E,2) E,2 | A,,4 z2 |]",
+      "previousAbcSHA256": "452c4ea697f1cb32f8bdf9940cf29d9e72b17723999fb47da833190f4cbbb127",
+      "correctedAbcSHA256": "bbf0ccf4a289a959ae5a4dae667aa611e7335a22d00e9df1adfa027492b1fe55",
+      "fixtureSHA256": "35de356a12d4272194f7de6c782d87eb3d8b7ef7354527b64a3266639927e842",
+      "sourceLedgerSHA256": "e36aade32e2fc9501395d3ddcc39035fd7042e80c2130b8864b729169b3f05c4",
+      "sourceLedgerFilename": "manual-source-ledger.current.json",
+      "corrections": [
+        {
+          "before": "C:Tune: SILWYN;",
+          "after": "C:Tune: SELWYN;"
+        },
+        {
+          "before": "[V:T2] C2 E2 E2 | F4 E2",
+          "after": "[V:T2] C2 E2 E2 | E4 E2"
+        },
+        {
+          "before": "E4 z2 || E2 A2 G2",
+          "after": "E4 z2 || E2 A2 B2"
+        },
+        {
+          "before": "(B,,2 E,2) E,2 | A,,4 z2",
+          "after": "(D,2 E,2) E,2 | A,,4 z2"
+        }
+      ],
+      "qualification": "Seven initial treble readings corrected after exposure using separate source-only reviewer and renewed staff calibration; source ledger history retained. Exact RFPA underlay preserved. Original1912 prose heaven/every and apostrophe variants retained; existing dwelling-place transcript reconstruction loss remains outside this correction."
+    }
+  ]
+}

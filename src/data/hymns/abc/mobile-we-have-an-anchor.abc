@@ -1,0 +1,61 @@
+X:1
+T:We Have an Anchor
+T:WE HAVE AN ANCHOR
+C:Priscilla J. Owens; William J. Kirkpatrick
+S:Mobile Hymns, public-domain-labelled full score, retrieved 2026-09-30
+Z:Source-assisted manual SATB transcription; no new harmony or tempo
+N:All five printed stanzas, refrain, and all four source voice streams retained; final bass octave is a two-note chord.
+N:Same Owens/Kirkpatrick hymn as catalog Will Your Anchor Hold - Piano; traditional vocal edition, no recording-arrangement match claimed.
+N:Printed ties retained where alternate stanzas split syllables across tied notes; performance articulation is verse-dependent.
+N:The source splits the fermata phrase ending and following pickup with separate barlines; those partial bars are retained.
+N:Printed stanza 4 reads "On the rising tide it the never fail"; the apparent source typo is retained without silent correction.
+N:Two lower-staff slurs in source system 2 have coincident paths; both voice slurs are retained.
+N:Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed.
+N:Recommended-copy editorial correction: verse1 can->the, verse4 the->can, verse3 missing our restored at existing continuation slot; verified Winning Songs1892 p165. Canonical source transcription remains literal.
+M:4/4
+L:1/4
+%%score { ( 1 2 ) | ( 3 4 ) }
+%%measurenb 0
+%%staffsep 95
+V:1 clef=treble name="Soprano"
+V:2 clef=treble name="Alto"
+V:3 clef=bass name="Tenor"
+V:4 clef=bass name="Bass"
+K:F
+[V:1] F3/4G/4 | A F D G3/4G/4 | F E !fermata!F (A3/4A/4) | G/-G/ 
+w: 1.~Will your an- chor hold in the storms of life, When the clouds_
+w: 2.~It is safe- ly moored, 'twill the storm with- stand, For 'tis well_
+w: 3.~It will firm- ly hold in the straits of fear, When the break- ers
+w: 4.~It will sure- ly hold in the floods of death, When the wa-_
+w: 5.~When our eyes be- hold thro' the gath- 'ring night The_ cit- y
+[V:1] G c (E/F/) | E D !fermata!C | C3/4C/4 | F A G C3/4C/4 |
+w: un- fold their_ wings of strife? When the strong tides lift and the
+w: se- cured by the Sav- ior's hand; And the ca- bles, passed from His
+w: have told that_ reef is near; Tho' the tem- pest rave and the
+w: ters cold chill our lat- est breath; On the ris- ing tide it can
+w: of gold, our_ har- bor bright, We shall an- chor fast by the
+[V:1] G B A F3/4A/4 | c c (c/B/) (F/G/) | A G F2 ||
+w: ca- bles strain, Will your an- chor drift,_ or_ firm re- main?
+w: heart to mine, Can de- fy that blast,_ thro' our strength di- vine.
+w: wild winds blow, Not an an- gry wave_ shall our bark o'er- flow.
+w: nev- er fail, While our hopes a- bide_ with-_ in the Veil.
+w: heav'n- ly shore, With the storms all past_ for-_ ev- er- more.
+[V:1] c c3/4c/4 c/ c c/ | d c c2 | A A/A/ c c3/4A/4 | F A G2 |
+w: We have an an- chor that keeps the soul Stead- fast and sure while the bil- lows roll,
+[V:1] c/c/ c3/4c/4 c A | B c d2 | c/c/ A/F/ C B3/4B/4 | A G !fermata!F |]
+w: Fas- tened to the Rock which can- not move, Ground- ed firm and deep in the Sav- ior's love.
+[V:2] C3/4C/4 | F C D D3/4D/4 | C C C (F3/4F/4) | E/-E/ 
+[V:2] E E (C/D/) | C =B, C | C3/4C/4 | C F E C3/4C/4 |
+[V:2] E G F C3/4F/4 | F _E D F/F/ | F E C2 ||
+[V:2] F F3/4F/4 F/ F F/ | F F F2 | F F/F/ F F3/4F/4 | F F E2 |
+[V:2] F/F/ F3/4F/4 F F | F F F2 | C/C/ A/F/ C F3/4F/4 | F E C |]
+[V:3] A,3/4B,/4 | C A, F, B,3/4B,/4 | A, G, !fermata!A, (C3/4C/4) | C/-C/ 
+[V:3] C G, (G,/A,/) | G, F, E, | B,3/4B,/4 | A, C C C3/4C/4 |
+[V:3] C C C A,3/4C/4 | A, A, F, D/-D/ | C B, A,2 ||
+[V:3] A, A,3/4A,/4 A,/ A, A,/ | B, A, A,2 | C C/C/ A, A,3/4C/4 | C C C2 |
+[V:3] A,/A,/ A,3/4A,/4 A, C | B, A, B,2 | C/C/ A,/F,/ C, D3/4D/4 | C B, !fermata!A, |]
+[V:4] F,3/4F,/4 | F, F, B,, B,,3/4B,,/4 | C, C, F, (F,3/4F,/4) | C,/-C,/ 
+[V:4] C, C, (C,/F,/) | G, G,, !invertedfermata!C, | E,3/4E,/4 | F, F, C, C,3/4C,/4 |
+[V:4] C, C, F, F,3/4F,/4 | F, F, B,, B,,/-B,,/ | C, C, F,2 ||
+[V:4] F, F,3/4F,/4 F,/ F, F,/ | F, F, F,2 | F, F,/F,/ F, F,3/4F,/4 | A, F, C,2 |
+[V:4] F,/F,/ F,3/4F,/4 F, _E, | D, C, B,,2 | C,/C,/ A,/F,/ C, B,,3/4B,,/4 | C, C, [F,F,,] |]

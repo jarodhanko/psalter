@@ -1,0 +1,209 @@
+{
+  "sourceSha256": "4af53ab4df1782eab78a55f5b5a250721768b80ba7628d14f44d78c33d365a4d",
+  "metadata": {
+    "id": "hymn-hc-turn-your-eyes",
+    "title": "Turn Your Eyes Upon Jesus",
+    "composer": "Helen Howarth Lemmel, 1922",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Piano",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "chordal",
+        "name": "Upper staff (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "chordal",
+        "name": "Lower staff (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "hc-turn-your-eyes",
+    "sourceUrls": [
+      "https://hymncommons.org/piano-hymn-library/",
+      "https://hymncommons.org/about/",
+      "https://drive.usercontent.google.com/uc?id=10kxunACODiZaoR9F6i6RMEk2n5UX2eGI&export=download"
+    ],
+    "collection": "Hymn Commons",
+    "credits": [
+      "Helen Howarth Lemmel, 1922",
+      "“Turn Your Eyes Upon Jesus,” lyrics and music by Helen Howarth Lemmel (1922);",
+      "first U.S. publication in Gospel Truth in Song (Chicago, IL: Harry D. Clarke, 1924).",
+      "Public domain (U.S.)."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.",
+      "Public domain (U.S.)."
+    ],
+    "territory": "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959.",
+    "editionNotes": [
+      "Original MuseScore file is the authoritative conversion source; offeredPDF is a companion revision, not always an exact facsimile.",
+      "SourceMSCX voices, notes, grace notes, rests, lyrics/rows/onsets, slurs, ties, key and meter audited directly; source-specific tempos/dynamics/hairpins preserved.",
+      "No actualABCJS browser or liveapp import certification.",
+      "Four source voices including keyboard octave doublings, three verses and refrain, prelude, quarter=96, dynamics/hairpins, three-play repeat. Nine source cue-size chords become ordinary-size inABC; all pitches/durations retained.",
+      "Source dominion lyric extender is only1/1920whole-note long and face extender3/4; lyric slots/words/onsets preserved; exact graphic endpoints remain engraving-specific.",
+      "Exact printed/source stanzas; no new verses. Introduction/prelude, optional cue-size notes and additional accompaniment voice retained where present.",
+      "Piano hymn transcription includes a labelled instrumental Prelude and repeat structure. Review/remove or label the prelude for a hymnbook edition rather than silently treating it as original hymn. Full PDF is an independent score output; do not assume byte-identical revision to downloaded MSCZ without comparing."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "hc-turn-your-eyes",
+      "title": "Turn Your Eyes Upon Jesus",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B145"
+        }
+      ],
+      "file": "abc/hc-turn-your-eyes.abc",
+      "sha256": "4af53ab4df1782eab78a55f5b5a250721768b80ba7628d14f44d78c33d365a4d",
+      "canonical_reference_in_archive": "reopened_xml_abc/HC_Turn_Your_Eyes.abc",
+      "source_url": [
+        "https://hymncommons.org/piano-hymn-library/",
+        "https://hymncommons.org/about/",
+        "https://drive.usercontent.google.com/uc?id=10kxunACODiZaoR9F6i6RMEk2n5UX2eGI&export=download"
+      ],
+      "collection": "Hymn Commons",
+      "rights_and_attribution": {
+        "edition": {
+          "publisher_statement_url": "https://hymncommons.org/about/",
+          "local_snapshot": "sources/reopened_gaps/pages/HymnCommons_about.html",
+          "summary": "Publisher Ron Nelson says he transcribed PD hymns with MuseScore so others could change the arrangements, and explicitly describes all his material as public domain. Exact MSCX embedded copyright tags separately retained below.",
+          "embedded_tags": [
+            {
+              "name": "arranger",
+              "text": null
+            },
+            {
+              "name": "audioComUrl",
+              "text": null
+            },
+            {
+              "name": "composer",
+              "text": "Helen Howarth Lemmel, 1922"
+            },
+            {
+              "name": "copyright",
+              "text": "“Turn Your Eyes Upon Jesus,” lyrics and music by Helen Howarth Lemmel (1922); \nfirst U.S. publication in Gospel Truth in Song (Chicago, IL: Harry D. Clarke, 1924).\nPublic domain (U.S.)."
+            },
+            {
+              "name": "creationDate",
+              "text": "2026-08-09"
+            },
+            {
+              "name": "lyricist",
+              "text": "Helen Howarth Lemmel, 1922"
+            },
+            {
+              "name": "movementNumber",
+              "text": null
+            },
+            {
+              "name": "movementTitle",
+              "text": null
+            },
+            {
+              "name": "platform",
+              "text": "Microsoft Windows"
+            },
+            {
+              "name": "source",
+              "text": null
+            },
+            {
+              "name": "sourceRevisionId",
+              "text": null
+            },
+            {
+              "name": "subtitle",
+              "text": "Worship"
+            },
+            {
+              "name": "translator",
+              "text": null
+            },
+            {
+              "name": "workNumber",
+              "text": null
+            },
+            {
+              "name": "workTitle",
+              "text": "Turn Your Eyes Upon Jesus"
+            }
+          ]
+        },
+        "territory": "Source-specific PD dedication/claim for this transcription; underlying-work rights in destination jurisdictions still apply. Lemmel died1961 and Lillenas1959."
+      },
+      "scope_and_edition_notes": [
+        "Original MuseScore file is the authoritative conversion source; offeredPDF is a companion revision, not always an exact facsimile.",
+        "SourceMSCX voices, notes, grace notes, rests, lyrics/rows/onsets, slurs, ties, key and meter audited directly; source-specific tempos/dynamics/hairpins preserved.",
+        "No actualABCJS browser or liveapp import certification.",
+        "Four source voices including keyboard octave doublings, three verses and refrain, prelude, quarter=96, dynamics/hairpins, three-play repeat. Nine source cue-size chords become ordinary-size inABC; all pitches/durations retained.",
+        "Source dominion lyric extender is only1/1920whole-note long and face extender3/4; lyric slots/words/onsets preserved; exact graphic endpoints remain engraving-specific.",
+        "Exact printed/source stanzas; no new verses. Introduction/prelude, optional cue-size notes and additional accompaniment voice retained where present.",
+        "Piano hymn transcription includes a labelled instrumental Prelude and repeat structure. Review/remove or label the prelude for a hymnbook edition rather than silently treating it as original hymn. Full PDF is an independent score output; do not assume byte-identical revision to downloaded MSCZ without comparing."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-hymncommons-review.md",
+        "audit": "reports/independent-hymncommons-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B145",
+      "title": "Turn Your Eyes Upon Jesus",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "hc-turn-your-eyes",
+      "abc_file": "abc/hc-turn-your-eyes.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B145",
+        "Song title": "Turn Your Eyes Upon Jesus",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/T/Turn_Your_Eyes_upon_Jesus/Turn_Your_Eyes_upon_Jesus.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Turn_Your_Eyes_upon_Jesus/",
+        "Editable source": "",
+        "Tune and work identity": "LEMMEL / Helen H. Lemmel, 1922",
+        "Public distribution rights": "Timeless Truths explicitly labels text and tune Public Domain. Use historical base score, not the commercial recording arrangement. Territory should be checked before worldwide distribution.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Turn_Your_Eyes_upon_Jesus/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional song identity strongly suggested by title; actual Spotify audio has not been compared. Use the historical hymn edition; an alternate traditional tune is permitted.",
+        "Playlist positions": "195",
+        "Playlist artists": "Living Stones Quartet",
+        "Original track titles": "Turn Your Eyes Upon Jesus",
+        "Source review": "PDF SATB score with lyrics\nPDF opened and notation/lyrics text inspected"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

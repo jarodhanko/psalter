@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Open Psalter with musical notes</title>
+  <rect width="512" height="512" rx="96" fill="#18352d"/>
+  <path d="M256 151c-43-31-93-42-151-32v244c58-10 108 1 151 32 43-31 93-42 151-32V119c-58-10-108 1-151 32Z" fill="#fffef9" stroke="#c9a55a" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M256 151v244" fill="none" stroke="#c9a55a" stroke-width="14"/>
+  <g fill="none" stroke="#2d584b" stroke-width="10" stroke-linecap="round">
+    <path d="M130 187h87M130 222h87M130 257h87M130 292h87M295 187h87M295 222h87M295 257h87M295 292h87"/>
+  </g>
+  <g fill="#c9a55a" stroke="#18352d" stroke-width="7" stroke-linejoin="round">
+    <ellipse cx="174" cy="257" rx="22" ry="16" transform="rotate(-16 174 257)"/>
+    <path d="M193 252v-79l57-13v28l-57 13"/>
+    <ellipse cx="338" cy="292" rx="22" ry="16" transform="rotate(-16 338 292)"/>
+    <path d="M357 287v-74l45-10v28l-45 10"/>
+  </g>
+</svg>

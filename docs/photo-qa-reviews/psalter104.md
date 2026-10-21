@@ -1,0 +1,10 @@
+# Psalter 104 photo review — partial
+
+## Stanzas 7–10 lyric underlay — 2026-09-27
+
+Added native ABC `w:` rows for printed stanzas 7–10 in `src/psalter-abc.ts`. The four stanzas are printed as text below the notation, so their note placement is inferred from the four 8-syllable lines and the established underlay pattern in stanzas 1–6. Each new row fits the same 41-event soprano melody without changing any notes or the complete `W:` text.
+
+- Sources: owner photo local source evidence (not distributed) (printed p.89) and the clean scan local source evidence (not distributed). The title, BERA tune, composer, Psalm 39, key, meter, first six underlaid stanzas, and complete stanzas 7–10 were compared with the printed page. The owner photo contains handwritten pitch labels, so the engraving governs.
+- Underlay alignment: the soprano has 41 note events across three printed systems (13, 16, and 12). For each stanza, system 1 carries the first 8 syllables and the first 3 of line 2; system 2 carries the remaining 5 of line 2 and the first 7 of line 3; system 3 carries the final syllable of line 3 and all 8 of line 4. The continuation slots match the existing stanzas: system 1 events 7 and 9; system 2 events 4, 6, 13, and 16; system 3 events 3, 9, and 11 (one-based within each system). Thus each stanza has 32 sung syllables and 9 continuation slots over the 41 note events.
+- `tools/inspect-underlay.mjs psalter104` with Node 22 reports 3 systems and 10 underlaid rows. It shows each new stanza following the event pattern above, with all syllables present and final words at system 3 event 12. Syllabification of `iniquity`, `rebukest`, `correctest`, `chastisement`, `comforter`, and `recover` was aligned to the 8-syllable line pattern and checked against the printed words.
+- Remaining QA: the placement of stanzas 7–10 is a metrical extrapolation because those verses are not printed under the score. No new SATB audit or fresh engraving review was performed; overall photo-QA remains PARTIAL.

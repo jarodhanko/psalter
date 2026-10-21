@@ -1,0 +1,211 @@
+{
+  "sourceSha256": "c129dcc020ecdf2794fac76b8f627e4827074cd831af0134f5f63918beb8922f",
+  "metadata": {
+    "id": "hymn-tt-supplemental-i-love-to-tell-the-story",
+    "title": "I Love to Tell the Story",
+    "composer": "“Hankey”; William G. Fischer, pub.1869.",
+    "tune": "Hankey",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-i-love-to-tell-the-story",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/I/I_Love_to_Tell_the_Story/I_Love_to_Tell_the_Story.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Arabella K. Hankey, 1866.  MUSIC: “Hankey”; William G. Fischer, pub.1869.  Public Domain.",
+      "I Love to Tell the Story",
+      "Come and hear, all ye that fear God, and I will declare what he hath done for my soul. Psa. 66:16"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Arabella K. Hankey, 1866.  MUSIC: “Hankey”; William G. Fischer, pub.1869.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-i-love-to-tell-the-story",
+      "title": "I Love to Tell the Story",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H036"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B035"
+        }
+      ],
+      "file": "abc/tt-supplemental-i-love-to-tell-the-story.abc",
+      "sha256": "c129dcc020ecdf2794fac76b8f627e4827074cd831af0134f5f63918beb8922f",
+      "canonical_reference_in_archive": "musicxml_abc/I_Love_to_Tell_the_Story.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/I/I_Love_to_Tell_the_Story/I_Love_to_Tell_the_Story.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "url": "https://library.timelesstruths.org/music/I_Love_to_Tell_the_Story/",
+          "html_path": "sources/timelesstruths_supplemental/pages/I_Love_to_Tell_the_Story.html",
+          "html_sha256": "2d732f60dd120b36849214096112ddf3d70080c86f14c724b4e2190033ce41d9",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "| >>",
+                "I Love to Tell the Story",
+                "Arabella K. Hankey, 1866"
+              ],
+              "following_context": [
+                "Subject:",
+                "Gospel"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain",
+              "preceding_context": [
+                "Scripture: Psalm 66:16",
+                "Hankey [.xml]",
+                "William G. Fischer, pub.1869"
+              ],
+              "following_context": [
+                "Key: A♭",
+                "Meter: 13.13.13.13.7.7.7.6"
+              ]
+            }
+          ],
+          "rights_links": [
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            },
+            {
+              "text": "Public Domain",
+              "url": "https://creativecommons.org/publicdomain/mark/1.0/"
+            }
+          ],
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H036",
+      "title": "I Love to Tell the Story",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "tt-supplemental-i-love-to-tell-the-story",
+      "abc_file": "abc/tt-supplemental-i-love-to-tell-the-story.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H036",
+        "Hymn / version": "I Love to Tell the Story",
+        "Playlist track #": "39",
+        "Music / score source": "https://library.timelesstruths.org/library/music/I/I_Love_to_Tell_the_Story/I_Love_to_Tell_the_Story.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/I_Love_to_Tell_the_Story/",
+        "Editable notation / MIDI": "https://library.timelesstruths.org/music/I_Love_to_Tell_the_Story/",
+        "Available formats": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain text and music (US), as labeled by source",
+        "Rights source": "https://library.timelesstruths.org/music/I_Love_to_Tell_the_Story/",
+        "Text, tune and version notes": "Arabella K. Hankey 1866; HANKEY, William G. Fischer 1869\nPDF opened and parsed",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B035",
+      "title": "I Love to Tell the Story",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-i-love-to-tell-the-story",
+      "abc_file": "abc/tt-supplemental-i-love-to-tell-the-story.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B035",
+        "Song title": "I Love to Tell the Story",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/I/I_Love_to_Tell_the_Story/I_Love_to_Tell_the_Story.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/I_Love_to_Tell_the_Story/",
+        "Editable source": "https://library.timelesstruths.org/music/I_Love_to_Tell_the_Story/",
+        "Tune and work identity": "Arabella K. Hankey 1866; HANKEY, William G. Fischer 1869\nPDF opened and parsed",
+        "Public distribution rights": "Public-domain text and music (US), as labeled by source",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/I_Love_to_Tell_the_Story/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "37",
+        "Playlist artists": "Chris Rupp",
+        "Original track titles": "I Love to Tell the Story",
+        "Source review": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

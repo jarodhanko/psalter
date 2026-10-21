@@ -1,0 +1,55 @@
+X:1
+T:Spirit of God, Descend upon My Heart
+T:MORECAMBE
+C:George Croly (1854); Frederick C. Atkinson (1870)
+S:Mobile Hymns, public-domain-labelled full score, retrieved 2026-09-30
+Z:Source-assisted manual SATB transcription; no new harmony or tempo
+N:All five printed stanzas and all four source voice streams retained; source key C and meter 4/4.
+N:Source voice crossings in systems 3 and 4 are retained; no new harmony, tempo, or recording-match claim.
+N:Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed.
+M:4/4
+L:1/4
+%%score { ( 1 2 ) | ( 3 4 ) }
+%%measurenb 0
+%%staffsep 95
+V:1 clef=treble name="Soprano"
+V:2 clef=treble name="Alto"
+V:3 clef=bass name="Tenor"
+V:4 clef=bass name="Bass"
+K:C
+[V:1] E2 E E | F2 E2 | A G F F | E4 |
+w: 1.~Spir- it of God, de- scend up- on my heart;
+w: 2.~I ask no dream, no proph- et ec- sta- sies,
+w: 3.~Hast Thou not bid me love Thee, God and King?
+w: 4.~Teach me to feel that Thou art al- ways nigh;
+w: 5.~Teach me to love Thee as Thine an- gels love,
+[V:1] c2 B A | G2 A2 | B G A A | G4 |
+w: Wean it from earth; through all its puls- es move.
+w: No sud- den rend- ing of the veil of clay,
+w: All, all Thine own, soul, heart and strength and mind.
+w: Teach me the strug- gles of the soul to bear,
+w: One ho- ly pas- sion fill- ing all my frame;
+[V:1] G2 G G | B2 A2 | F A B c | d4 |
+w: Stoop to my weak- ness, might- y as Thou art,
+w: No an- gel vis- it- ant, no o- pening skies;
+w: I see Thy cross— there teach my heart to cling:
+w: To check the ris- ing doubt, the reb- el sigh;
+w: The bap- tism of the heaven de- scend- ed Dove,
+[V:1] e2 d c | B A G c | G2 F2 | G4 |]
+w: And make me love Thee as I ought to love.
+w: But take the dim- ness of my soul a- way.
+w: O let me seek Thee, and, O let me find!
+w: Teach me the pa- tience of un- an- swered prayer.
+w: My heart an al- tar, and Thy love the flame.
+[V:2] C2 C C | D2 C2 | C C C B, | C4 |
+[V:2] E2 ^D ^F | (E G) G2 | G D E ^F | G4 |
+[V:2] D2 D D | F2 F2 | G F F F | F4 |
+[V:2] E2 F G | G F E F | E2 G2 | E4 |]
+[V:3] G,2 G, G, | G,2 G,2 | F, G, A, G, | G,4 |
+[V:3] (A, G,) ^F, B, | B,2 ^C2 | D B, C C | B,4 |
+[V:3] B,2 B, B, | D2 C2 | B, C D G, | B,4 |
+[V:3] (C A,) B, C | C C C C | C2 B,2 | C4 |]
+[V:4] C,2 C, C, | B,,2 C,2 | F, E, D, G,, | C,4 |
+[V:4] A,,2 B,, ^D, | E,2 E,2 | D, D, D, D, | G,4 |
+[V:4] G,2 G, G, | G,2 G,2 | G, G, G, A, | G,4 |
+[V:4] C,2 D, E, | F, F, G, A, | G,2 G,2 | C,4 |]

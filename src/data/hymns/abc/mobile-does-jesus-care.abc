@@ -1,0 +1,51 @@
+X:1
+T:Does Jesus Care?
+T:MY SAVIOR CARES
+C:Frank E. Graeff (1860-1919),1901
+C:Joseph L. Hall (1866-1930),1901
+S:Mobile Hymns #5018, downloaded 2026-09-30
+Z:Source-assisted manual transcription of the public-domain-labelled PDF
+N:Source 6/4 edition; three printed historical stanzas (original1,3,4) and common refrain.
+N:All four source voice streams preserved. Source ties may coincide with differing verse syllables.
+N:Source asserts public domain; no worldwide or recording-specific rights clearance claimed.
+M:6/4
+L:1/4
+%%score { ( 1 2 ) | ( 3 4 ) }
+%%measurenb 0
+%%staffsep 80
+V:1 clef=treble name="Soprano"
+V:2 clef=treble name="Alto"
+V:3 clef=bass name="Tenor"
+V:4 clef=bass name="Bass"
+K:Db
+[V:1] A | F2 E D2 B/B/ | A2 G F2 F/-F/ | E 
+w: 1.~Does Je- sus care when my heart is pained Too_ deep-
+w: 2.~Does Je- sus care when I've tried and failed To re- sist
+w: 3.~Does Je- sus care when I've said "good- bye" To the dear-
+[V:1] =D E A2 G | F3- F2 F/G/ | A2 d d2 F/F/ | E2 
+w: ly for mirth or song,_ As the bur- dens press, and the cares
+w: some temp- ta- tion strong;_ When for my deep grief there is no
+w: est on earth to me,_ And my sad heart aches till it near-
+[V:1] B B2 B/B/ | A2 F A G E | D3- D2 ||
+w: dis- tress, And the way grows wear- y and long?_
+w: re- lief, Though my tears flow all the night long?_
+w: ly breaks— Is it aught to Him? Does He see?_
+[V:1] d | c2 G c2 e | d2 F A2 F | E2 c B F =G | A3- A2 
+w: O yes, He cares, I know He cares, His heart is touched with my grief;_
+[V:1] c/c/ | d2 e d A F | E2 B d c B | A2 D F2 E | D3- D2 |]
+w: When the days are wear- y, the long nights drear- y, I know my Sav- ior cares._
+[V:2] F | D2 D D2 D/D/ | D2 D D2 D/-D/ | C 
+[V:2] =B, C (C _D) E | D3- D2 D/E/ | F2 F F2 D/D/ | D2 
+[V:2] D G2 G/G/ | F2 D C C C | D3- D2 ||
+[V:2] F | G2 E G2 G | F2 D D2 D | C2 E D D D | (C2 D C2) 
+[V:2] G/G/ | F2 F F F D | D2 D D G G | F2 D C2 C | A,3- A,2 |]
+[V:3] D | A,2 G, F,2 G,/G,/ | F,2 B, A,2 A,/-A,/ | A, 
+[V:3] A, A, E,2 A, | A,3- A,2 A,/A,/ | D2 A, A,2 _C/C/ | B,2 
+[V:3] B, D2 D/D/ | D2 A, A, E, G, | F,3- F,2 ||
+[V:3] A, | A,2 C E2 C | D2 A, F,2 A, | A,2 A, =G, A, B, | (A,2 F, G,2) 
+[V:3] A,/A,/ | A,2 A, A, D A, | B,2 B, B, C D | D2 F, A,2 G, | F,3- F,2 |]
+[V:4] D, | D,2 D, D,2 D,/D,/ | D,2 D, D,2 D,/-D,/ | A,, 
+[V:4] A,, A,, (A,, B,,) C, | D,3- D,2 D,/D,/ | D,2 D, D,2 D,/D,/ | G,2 
+[V:4] G, E,2 E,/E,/ | A,2 A, A,, A,, A,, | D,3- D,2 ||
+[V:4] D, | E,2 A, A,2 A, | D,2 D, D,2 D, | E,2 E, E, E, E, | A,,3- A,,2 
+[V:4] A,,/A,,/ | D,2 D, D, D, D, | G,2 G, G, G, G, | A,2 A,, A,,2 A,, | D,3- D,2 |]

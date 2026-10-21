@@ -1,0 +1,7 @@
+# Psalter 129 photo review — partial
+
+- Authority: local source evidence (not distributed), printed page 111. No. 129, TRURO by Charles Burney, is complete in the top two systems; no. 130 begins below it. The source prints Psalm 47, L. M., and five underlaid stanzas. No alternate tune, refrain, selected-stanza marker, or copyright notice is visible for no. 129.
+- Added the Psalm/meter and all five photographed stanzas to `psalter129` in `src/psalter-abc.ts`. The existing SATB music fields were preserved; no photographed score-system breaks were added to the lyric transcript.
+- Independent photo comparison: all five source stanza rows match the annotated page in wording and printed hyphenation; no clear lyric correction is warranted. The page visibly contains two complete systems for no. 129. Its score notes continue after the last assigned lyric event in the current ABC, but this review does not establish whether the tail should be encoded as extensions or remain lyricless.
+- ABCJS structural inspection: one tune, no parser warnings, 39 soprano note events. Stanza 1 has 33 lyric assignments / 6 unassigned events (trailing indices 33–38); stanzas 2–5 each have 32 assignments / 7 unassigned events (trailing indices 32–38). These counts identify the trailing gaps but do not prove correct rendered underlay or melisma handling.
+- Full note-by-note SATB pitch, rhythm, accidental, expression, and rendered-underlay comparison remains open. Overall status is PARTIAL.

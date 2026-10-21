@@ -1,0 +1,110 @@
+% Source edition: remaining-openpsalm-o-worship-the-king
+% Source URL: https://openpsalm.com/api/songs/148/export/musicxml
+% Source SHA256: e5215ff5ec3eff75439142574a56094a193c3cfa3e6332df9596ad880dee1c2d
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_OpenPsalm_O_Worship_the_King.repairs.json
+% Catalog membership: book1:H011, book2:B009
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Source arrangement license: Creative Commons Attribution 4.0 International
+% License URL: https://creativecommons.org/licenses/by/4.0/
+% Changes: MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.
+% Original creator (composer): Johann Michael Haydn
+% Original creator (lyricist): Robert Grant
+% Original creator (arranger): OpenPsalm
+% Original rights: Lyrics: Robert Grant, 1833 (public domain)
+% Original rights: Music: 'Lyons' by Johann Michael Haydn (public domain)
+% Original rights: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+% Original credit-words: O Worship the King
+% Original credit-words: Lyrics: Robert Grant, 1833 (public domain)
+% Original credit-words: Music: 'Lyons' by Johann Michael Haydn (public domain)
+% Original credit-words: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+X:1
+T:O Worship the King
+C:Johann Michael Haydn
+Z:Robert Grant
+Z:Lyrics: Robert Grant, 1833 (public domain)
+Z:Music: 'Lyons' by Johann Michael Haydn (public domain)
+Z:Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+%%score ( 1 2 ) ( 3 4 )
+L:1/4
+Q:1/4=104
+M:3/4
+K:G
+V:1 treble nm="Soprano & Alto"
+V:2 treble 
+V:3 bass nm="Tenor & Bass"
+V:4 bass 
+V:1
+ x2 D | G G A | B2 G | c c B | %4
+w: 1.~O|wor- ship the|King, all|glo- rious a-|
+w: 2.~O|tell of His|might and|sing of His|
+w: 3.~Thy|boun- ti- ful|care, what|tongue can re-|
+w: 4.~Frail|chil- dren of|dust, and|fee- ble as|
+w: 5.~O|mea- sure- less|Might, un-|change- a- ble|
+ A2 D | G G A | B2 c | d/>c/ B A | %8
+w: bove, And|grate- ful- ly|sing his|won- * der- ful|
+w: grace, Whose|robe is the|light, Whose|can- * o- py|
+w: cite? It|breathes in the|air, it|shines_ in the|
+w: frail, in|Thee do we|trust, nor|find_ Thee to|
+w: Love, whom|an- gels de-|light to|wor- * ship a-|
+ G2 D | D D E | F F G | A A B | %12
+w: love; Our|Shield and De-|fend- er, the|An- cient of|
+w: space. His|char- iots of|wrath the deep|thun- der- clouds|
+w: light; It|streams from the|hills, it de-|scends to the|
+w: fail. Thy|mer- cies, how|ten- der, how|firm to the|
+w: bove! Thy|ran- somed cre-|a- tion, with|glo- ry a-|
+ c2 D | G G A | B B c | d/>c/ B A | %16
+w: Days, pa-|vil- ioned in|splen- dor and|gird- * ed with|
+w: form, And|dark is His|path on the|wings_ of the|
+w: plain, and|sweet- ly dis-|tills in the|dew_ and the|
+w: end, our|Mak- er, De-|fend- er, Re-|deem- * er, and|
+w: blaze, In|true ad- o-|ra- tion shall|sing_ to thy|
+ G2 x | %17
+w: praise.|
+w: storm.|
+w: rain.|
+w: Friend!|
+w: praise!|
+V:2
+ x2 B, | D D D | D2 D | C D D | %4
+ D2 D/C/ | B, D D | D2 E | D/>E/ D C | %8
+ B,2 D | D D ^C | C C B, | A, D G | %12
+ F2 D/C/ | B, D D | D D E | D/>E/ D C | %16
+ B,2 x | %17
+V:3
+ x2 G, | B, G, F, | G,2 G, | G, A, G, | %4
+w: 1.~O|wor- ship the|King, all|glo- rious a-|
+w: 2.~O|tell of His|might and|sing of His|
+w: 3.~Thy|boun- ti- ful|care, what|tongue can re-|
+w: 4.~Frail|chil- dren of|dust, and|fee- ble as|
+w: 5.~O|mea- sure- less|Might, un-|change- a- ble|
+ F,2 F, | G, G, F, | G,2 G, | G, G, F, | %8
+w: bove, And|grate- ful- ly|sing his|won- der- ful|
+w: grace, Whose|robe is the|light, Whose|can- o- py|
+w: cite? It|breathes in the|air, it|shines in the|
+w: frail, in|Thee do we|trust, nor|find Thee to|
+w: Love, whom|an- gels de-|light to|wor- ship a-|
+ G,2 F, | F, F, G, | A, A, G, | F, F, G, | %12
+w: love; Our|Shield and De-|fend- er, the|An- cient of|
+w: space. His|char- iots of|wrath the deep|thun- der- clouds|
+w: light; It|streams from the|hills, it de-|scends to the|
+w: fail. Thy|mer- cies, how|ten- der, how|firm to the|
+w: bove! Thy|ran- somed cre-|a- tion, with|glo- ry a-|
+ A,2 F, | G, G, F, | G, G, G, | G, G, F, | %16
+w: Days, pa-|vil- ioned in|splen- dor and|gird- ed with|
+w: form, And|dark is His|path on the|wings of the|
+w: plain, and|sweet- ly dis-|tills in the|dew and the|
+w: end, our|Mak- er, De-|fend- er, Re-|deem- er, and|
+w: blaze, In|true ad- o-|ra- tion shall|sing to thy|
+ G,2 x | %17
+w: praise.|
+w: storm.|
+w: rain.|
+w: Friend!|
+w: praise!|
+V:4
+ x2 G,, | G,, B,, D, | G,2 B,, | E, F, G, | %4
+ D,2 D, | G,, B,, D, | G,2 E, | B,,/>C,/ D, D, | %8
+ G,,2 D, | D, D, D, | D, D, D, | D, D, D, | %12
+ D,2 D, | G,, B,, D, | G, G, E, | B,,/>C,/ D, D, | %16
+ G,,2 x | %17

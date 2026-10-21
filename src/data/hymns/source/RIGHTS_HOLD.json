@@ -1,0 +1,41 @@
+{
+  "candidate_id": "B129",
+  "candidate_title": "I Have Decided to Follow Jesus",
+  "status": "not_included_pending_exact_edition_rights",
+  "evidence": {
+    "catalog_id": "B129",
+    "title": "I Have Decided to Follow Jesus",
+    "source_assertion": "Mobile PDF/page Public Domain, unknown/attributed Sundar Singh, Indian folk tune.",
+    "contrary_evidence_url": "https://www.hymnologyarchive.com/i-have-decided-to-follow-jesus",
+    "summary": "Documented Simon K. Marak (1877–1975) authorship, likely written circa1935; first located English printing1950. Primary1950 excerpt visibly prints copyright1950 Young Peoples Missionary Society and harmonized by Dorothea Hart. Primary1959 excerpt names stanzas1–2 Garo Christians, stanza3 John Clark, arrangement William J. Reynolds. Mobile lacks provenance distinguishing its harmony/English words from protected versions.",
+    "primary_image_evidence": [
+      {
+        "path": "sources/reopened_gaps/IHaveDecided_1950_rights.jpg",
+        "sha256": "d08549b5feeeef3b7595d8919a973566a11088772415c12810d5c9a62601d198",
+        "url": "https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/43b8053d-1679-4f48-bcc4-da4fa8c0e68d/IHaveDecided-ChoiceLightLife1950_0001_crop.jpg",
+        "purpose": "Rights provenance analysis only; not a cleared notation input"
+      },
+      {
+        "path": "sources/reopened_gaps/IHaveDecided_1959_rights.jpg",
+        "sha256": "624be90d0dd65fa2964ef01d745668c054dfdbac6b62f6b231d57b0b3c4b6ab2",
+        "url": "https://images.squarespace-cdn.com/content/v1/5b11858da2772cf01402ee6e/c59f245c-abe2-424f-a6f8-569daf156e11/IHaveDecided-AssemblySongbook1959_crop.jpg",
+        "purpose": "Rights provenance analysis only; not a cleared notation input"
+      }
+    ],
+    "decision": "Retain distribution hold until exact text/tune/harmonization rights are resolved or permission obtained. A PD footer is not sufficient to resolve the conflict.",
+    "limits_of_historical_evidence": "The1950 copyright notice establishes a copyright claim for that Hart edition; it does not, by itself, prove current protection of the core English text or tune. Renewal, term and any restoration issues have not been determined. No corroborated English printing earlier than1950 or explicit rights-holder release for the core work was found in this bounded pass.",
+    "additional_source_assertions": [
+      {
+        "url": "https://bicus.org/initiatives/compelling-worship/following-jesus/",
+        "claim": "Denominational primary resource credits Indian Folk/S.Marak and lists Licensing Coverage: Public Domain.",
+        "limitation": "Provides a present-day PD assertion but no early-publication, renewal or rights-holder-release history resolving the exact-source question."
+      },
+      {
+        "url": "https://hymnary.org/hymn/CHCH1959/304",
+        "claim": "1959 Christian Hymnal entry records Copyright1950 Young People's Missionary Society for text and tune; harmonizer Dorothea Hart."
+      }
+    ]
+  },
+  "required_to_resolve": "Corroborated public-domain basis for exact English text/tune/harmony, or explicit rights-holder permission allowing public distribution. A1950notice alone is not treated as proof of present-day protection.",
+  "conversion_feasibility": "Full notation is acquired; this is a reuse-rights hold, not a musical-format or source-access impossibility."
+}

@@ -1,0 +1,42 @@
+X:1
+T:Here Is Love
+T:CYMRAEG
+C:William Rees; stanzas3–4 attributed to William Williams; tr.William Edwards,1900
+C:Robert Lowry,1876
+S:Cantorion / Devra Dato-on, score4843
+Z:Transcription of the specific public-domain-labelled source PDF
+N:Four printed stanzas only; historical stanza3–4 attribution remains the source assertion.
+N:Two chordal staff voices preserve all237 printed pitch heads, shared unisons and final bass doubling. No independent SATB split invented.
+N:Source bass unisons on Bb3 in first two systems are retained as printed.
+N:Source asserts public domain; no worldwide rights or recording arrangement clearance claimed.
+M:3/4
+L:1/8
+%%score { 1 | 2 }
+%%measurenb 0
+V:1 clef=treble name="Upper parts"
+V:2 clef=bass name="Lower parts"
+K:F
+[V:1] [CF] [DG] | "F"[FA]3 [CF] [DG] [FA] | "Bb"[DG] [DF]3 [DF] [B,D] | "F"[A,C]3 [CF] [CE] [CF] | "C"[EG]4 
+w: 1.~Here is love, vast as the o- cean, Lov- ing kind- ness as the flood,
+w: 2.~On the mount of cru- ci- fix- ion, Foun- tains o- pened deep and wide;
+w: 3.~Let me, all Thy love ac- cept- ing, Love Thee, ev- er all my days;
+w: 4.~In Thy truth Thou dost di- rect me By Thy Spir- it through Thy Word;
+[V:1] [DF] [EG] | "F"[FA]3 [CF] [DG] [FA] | "Bb"[DG] [DF]3 [DF] [B,D] | "F"[A,C]3 [CF] "C"[EG] [CE] | "F"[CF]4 
+w: When the Prince of Life, our Ran- som, Shed for us His pre- cious blood.
+w: Through the flood- gates of God's mer- cy Flowed a vast and gra- cious tide.
+w: Let me seek Thy king- dom on- ly, And my life be to Thy praise;
+w: And Thy grace my need is meet- ing As I trust in Thee, my Lord.
+[V:1] [FA] [FB] | "F"[Fc]3 [FA] [GB] [FA] | "C"[FA] [EG]3 [EG] [FA] | "Gm"[FB]3 [DG] "C7"[EA] [EB] | "F"[FA]4 
+w: Who His love will not re- mem- ber? Who can cease to sing His praise?
+w: Grace and love, like might- y riv- ers, Poured in- ces- sant from a- bove,
+w: Thou a- lone shalt be my glo- ry, Noth- ing in the world I see;
+w: Of Thy full- ness Thou art pour- ing Thy great love and pow'r on me,
+[V:1] [FA] [EG] | "Dm"[DF]3 [DG] [DF] [CE] | "Bb"[B,D] [DF]3 [DF] [DG] | "F"[FA]3 [DF] "C"[EG] [CE] | "F"[CF]4 |]
+w: He can nev- er be for- got- ten, Through- out heav'n's e- ter- nal days.
+w: And heav'n's peace and per- fect jus- tice Kissed a guilt- y world in love.
+w: Thou hast cleansed and sanc- ti- fied me, Thou Thy- self hast set me free.
+w: With- out meas- ure, full and bound- less, Draw- ing out my heart to Thee.
+[V:2] [F,A,] [F,B,] | [F,C]3 [F,A,] [F,B,] [F,C] | B, B,3 [B,,B,] [B,,F,] | [F,,F,]3 [F,,A,] [F,G,] [F,A,] | [C,C]4 
+[V:2] [C,B,] [C,C] | [F,C]3 [F,A,] [F,B,] [F,C] | B, B,3 [B,,B,] [B,,F,] | [F,,F,]3 [F,,A,] [C,C] [C,G,] | [F,A,]4 
+[V:2] [F,C] [F,B,] | [F,A,]3 [F,C] [F,D] [F,C] | [C,C] [C,C]3 [C,C] [C,C] | [G,D]3 [G,B,] [C,C] [C,C] | [F,C]4 
+[V:2] [F,C] [E,C] | [D,A,]3 [D,A,] [D,A,] [C,A,] | [B,,F,] [B,,B,]3 [B,,B,] [B,,B,] | [F,C]3 [F,A,] [C,C] [C,G,] | [F,,F,A,]4 |]

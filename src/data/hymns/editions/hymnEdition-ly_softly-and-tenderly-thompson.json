@@ -1,0 +1,179 @@
+{
+  "sourceSha256": "b6d67a4968a97da5a07cf241d24297aaa1457f0faa6c8f97ab590675d6c642a4",
+  "metadata": {
+    "id": "hymn-ly_softly-and-tenderly-thompson",
+    "title": "Softly and Tenderly Jesus Is Calling",
+    "composer": "Text and tune: Will L. Thompson, Sparkling Gems Nos.1 & 2, 1880",
+    "voices": [
+      {
+        "id": "S",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "A",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "T",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "B",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "ly_softly-and-tenderly-thompson",
+    "sourceUrls": [
+      "https://github.com/kenakofer/hymnsinger/tree/4767dd24403f2d9c77f5c825595b6a6c8c2a6404/lilypond/songs/softly-and-tenderly-jesus-is-calling",
+      "https://hymnsinger.com/listing/softly-and-tenderly-jesus-is-calling"
+    ],
+    "collection": "Hymn Singer / Kenan Schaefkofer",
+    "credits": [
+      "Text and tune: Will L. Thompson, Sparkling Gems Nos.1 & 2, 1880",
+      "Hymn Singer / Kenan Schaefkofer; commit4767dd24403f2d9c77f5c825595b6a6c8c2a6404",
+      "ABC conversion from exact LilyPond edition"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Historical creator/date credits as quoted; territorial clearance remains source-specific.",
+      "PDF and header expressly waive typesetter copyright/related rights and dedicate the work to the public domain to extent possible. Site explicitly permits free unrestricted distribution; not inferred from code licensing.",
+      "Kenan Schaefkofer, Hymn Singer, historical creators, source commit.",
+      "No blanket worldwide clearance; US candidate.",
+      "Source edition typesetter waives copyright/related rights to extent possible. Underlying work territory assessment required."
+    ],
+    "territory": "No blanket worldwide clearance; US candidate.",
+    "editionNotes": [
+      "No actual browser or app integration certification; source territory and content-scope notes retained.",
+      "Three stanzas only: Time is now fleeting omitted. Source comments describe reducing a refrain echo to four parts; this is the source edition, not a transcription inferred by this worker.",
+      "Three source stanzas corresponding to historical1,2,4 plus common refrain; source tenor echo retained.",
+      "Source edition typesetter waives copyright/related rights to extent possible. Underlying work territory assessment required."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "2026-10-05: Replicated the source edition's score-wide double barline at whole-note onset 5.875 in alto, tenor and bass, immediately before their existing eighth rests. The imported ABC encoded this divider only in soprano, shifting later bar ordinals during reflow. No pitches, durations, rests, ties, fermatas, stanza words or tenor echo were changed."
+    ],
+    "record": {
+      "source_id": "ly_softly-and-tenderly-thompson",
+      "title": "Softly and Tenderly Jesus Is Calling",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H022"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B022"
+        }
+      ],
+      "file": "abc/ly_softly-and-tenderly-thompson.abc",
+      "sha256": "b6d67a4968a97da5a07cf241d24297aaa1457f0faa6c8f97ab590675d6c642a4",
+      "canonical_reference_in_archive": "lilypond_abc/softly-and-tenderly-thompson.abc",
+      "source_url": [
+        "https://github.com/kenakofer/hymnsinger/tree/4767dd24403f2d9c77f5c825595b6a6c8c2a6404/lilypond/songs/softly-and-tenderly-jesus-is-calling",
+        "https://hymnsinger.com/listing/softly-and-tenderly-jesus-is-calling"
+      ],
+      "collection": "Hymn Singer / Kenan Schaefkofer",
+      "rights_and_attribution": {
+        "underlying_work": "Historical creator/date credits as quoted; territorial clearance remains source-specific.",
+        "edition": "PDF and header expressly waive typesetter copyright/related rights and dedicate the work to the public domain to extent possible. Site explicitly permits free unrestricted distribution; not inferred from code licensing.",
+        "attribution": "Kenan Schaefkofer, Hymn Singer, historical creators, source commit.",
+        "territory": "No blanket worldwide clearance; US candidate.",
+        "evidence": [
+          "hymnsinger_selected/lilypond/lib/header.ily",
+          "hymnsinger_selected/lilypond/lib/hymn-common.ily",
+          "hymnsinger_selected/docs/index.md"
+        ]
+      },
+      "scope_and_edition_notes": [
+        "No actual browser or app integration certification; source territory and content-scope notes retained.",
+        "Three stanzas only: Time is now fleeting omitted. Source comments describe reducing a refrain echo to four parts; this is the source edition, not a transcription inferred by this worker."
+      ],
+      "editorial_corrections": [
+        "2026-10-05: Replicated the source edition's score-wide double barline at whole-note onset 5.875 in alto, tenor and bass, immediately before their existing eighth rests. The imported ABC encoded this divider only in soprano, shifting later bar ordinals during reflow. No pitches, durations, rests, ties, fermatas, stanza words or tenor echo were changed."
+      ],
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-lilypond-review.md",
+        "audit": "reports/independent-lilypond-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs.",
+      "original_import_sha256": "3ec2f53d1b6aa331bf42c3d6520ef1357dfbba69a8db73e9654d8a625c33ae1a"
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H022",
+      "title": "Softly and Tenderly Jesus Is Calling",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "ly_softly-and-tenderly-thompson",
+      "abc_file": "abc/ly_softly-and-tenderly-thompson.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H022",
+        "Hymn / version": "Softly and Tenderly Jesus Is Calling",
+        "Playlist track #": "22, 143",
+        "Music / score source": "https://hymnary.org/media/fetch/137566",
+        "Lyrics / companion source": "https://hymnary.org/text/softly_and_tenderly_jesus_is_calling",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB/full hymn score PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights source": "https://hymnary.org/media/fetch/137566",
+        "Text, tune and version notes": "Text: Will L. Thompson, 1880\nTune: THOMPSON; Will L. Thompson, 1880",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B022",
+      "title": "Softly and Tenderly Jesus Is Calling",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "ly_softly-and-tenderly-thompson",
+      "abc_file": "abc/ly_softly-and-tenderly-thompson.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B022",
+        "Song title": "Softly and Tenderly Jesus Is Calling",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/137566",
+        "Lyrics source": "https://hymnary.org/text/softly_and_tenderly_jesus_is_calling",
+        "Editable source": "",
+        "Tune and work identity": "Text: Will L. Thompson, 1880\nTune: THOMPSON; Will L. Thompson, 1880",
+        "Public distribution rights": "Public-domain source edition (US)\nPDF explicitly marks the hymn public domain; credit Hymnary.org when reproducing this score.",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/137566",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "22, 468",
+        "Playlist artists": "Guy Penrod; The Worship Zone",
+        "Original track titles": "Softly And Tenderly",
+        "Source review": "SATB/full hymn score PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

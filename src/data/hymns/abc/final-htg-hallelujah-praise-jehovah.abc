@@ -1,0 +1,235 @@
+%abc-2.1
+X:1
+T:Hallelujah! Praise Jehovah!
+C:Psalm 148, Arr. | William J. Kirkpatrick, 1899
+S:HymnsToGod.org; original MUP and PDF retained
+M:4/4
+L:1/8
+Q:1/4=110
+N:Source MUP SHA-256 7e7282aaccbcfb457123f086537a839b53c7f47c8b1bcb75476e43695353070d
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+K:G
+% SOURCE title bold (19) "" "Hallelujah! Praise Jehovah!" ""
+% SOURCE title (2) ""
+% SOURCE title (11) "" "\f(TI)Let them praise the name of Jehovah; For his name alone is exalted;" ""
+% SOURCE title (11) "" "\f(TI)His glory is above the earth and the heavens. - Ps. 148:13" ""
+% SOURCE title (11) ""
+% SOURCE title (11) "G - 4 - SOL" "" ""
+% SOURCE title (13) "Psalm 148, Arr." "" "William J. Kirkpatrick, 1899"
+% SOURCE title (11) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // !Mup 7.1 arkkra.com
+% SOURCE // The hymn produced by this source code is believed to be in the public 
+% SOURCE // domain in the United States of America.
+% SOURCE // This source code is donated to the public domain.
+% SOURCE // Hymn Source: 
+% SOURCE //	The New Century Hymnal
+% SOURCE //	For Church Services, Prayer Meetings,
+% SOURCE //	Young People’s Meetings, Sunday Schools
+% SOURCE //	Edited By Will L. Thompson
+% SOURCE //	Published By Will L. Thompson & Co. East Liverpool, Ohio
+% SOURCE //	Copyright,1904
+% SOURCE //	Hymn No.: 38
+% SOURCE // Transcribed by: Ted Gatza, Jr. 12/03/2024
+% SOURCE // Revisions:
+% SOURCE // HymnsToGod.org
+% SOURCE //==== FOR 6X9 ======================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //define macros
+% SOURCE    //Lyrics
+% SOURCE      //Lyrics Between Staffs
+% SOURCE      //Lyrics Below Bass Staff    
+% SOURCE      //Text - Above Staff
+% SOURCE      //Fermatas
+% SOURCE      //Note Accents
+% SOURCE      //Repeats
+% SOURCE //=========================
+% SOURCE //set midi
+% SOURCE //=========================
+% SOURCE // Verse
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3
+% SOURCE //3
+% SOURCE //4
+% SOURCE //5
+% SOURCE //5
+% SOURCE //6
+% SOURCE //7
+% SOURCE //7
+% SOURCE //8
+% SOURCE //9
+% SOURCE //9
+% SOURCE //10
+% SOURCE //11
+% SOURCE //11
+% SOURCE //12
+% SOURCE //13
+% SOURCE //13
+% SOURCE //14
+% SOURCE //15
+% SOURCE //15
+% SOURCE //16
+% SOURCE //17
+% SOURCE //18
+% SOURCE //19
+% SOURCE //20
+% SOURCE //20
+% SOURCE //21
+% SOURCE //22
+% SOURCE //23
+% SOURCE //24
+% SOURCE //24
+% SOURCE //25
+% SOURCE //26
+% SOURCE //27
+% SOURCE //28
+% SOURCE //29
+% SOURCE //30
+% SOURCE //31
+% SOURCE //32
+V:11
+D3/2 D1/2 | [GB,]2 [DB,]2 [GD]2 [AD]2 | (([BD]3 [AC] [GB,]2)) [|] [BD]3/2 [cD]1/2 | [dD]2 [dG]2 [cF]2 [BG]2 |
+w: 1.~Hal- le- lu- jah, praise Je- ho- * vah, From the heav- ens praise His
+w: 2.~Let them prais- es give Je- ho- * vah, They were made at His com-
+w: 3.~All ye fruit- ful trees and ced- * ars, All ye hills and moun- tains
+V:12
+D3/2 D1/2 | x8 | x6 [|] x2 | x8 |
+V:21
+%%vocal above
+D,3/2 D,1/2 | [D,G,,]2 [G,G,,]2 [G,B,,]2 [F,D,]2 | G,4 G,2 [|] G,3/2 A,1/2 | [B,G,]2 [DB,]2 [DA,]2 [DG,]2 |
+w: * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * *
+V:22
+D,3/2 D,1/2 | x8 | G,4 G,2 [|] G,3/2 G,1/2 | x8 |
+V:11
+[AF]6 [|] D3/2 D1/2 | [GB,]2 [DB,]2 [GD]2 [AD]2 | [(B(D]3 [C)A)] [GB,]2 [|] [BG]3/2 [BG]1/2 | [AF]2 [dF]2 [dE]2 [^cG]2 |
+w: name; Praise Je- ho- vah in the high- * est, All His an- gels praise pro-
+w: mand, Them for- ev- er He es- tab- * lished; His de- cree shall ev- er
+w: high, Creep- ing things, and beast and cat- * tle, Birds that in the heav- ens
+V:12
+x6 [|] D3/2 D1/2 | x8 | x6 [|] x2 | x8 |
+V:21
+%%vocal above
+[DD,]6 [|] D,3/2 D,1/2 | [D,G,,]2 [G,G,,]2 [G,B,,]2 [F,D,]2 | G,4 G,2 [|] [DG,]3/2 [DG,]1/2 | [DA,]2 A,2 [A,A,,]2 [A,A,,]2 |
+w: * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * *
+V:22
+x6 [|] D,3/2 D,1/2 | x8 | G,4 G,2 [|] x2 | x2 A,2 x2 x2 |
+V:11
+[dF]6 [|] d3/2 d1/2 | c2 B2 A2 G2 | (F3 E) D2 [|] [dB]3/2 [dB]1/2 | [cA]2 [BG]2 [AF]2 [GE]2 |
+w: claim. All His hosts, to- geth- er praise _ Him, Sun, and moon and stars on
+w: stand. From the earth, O praise Je- ho- * vah, All ye floods, ye dra- gons
+w: fly. Kings of earth, and all ye peo- * ple, Prin- ces great, earth's judg- es
+V:12
+x6 [|] d3/2 d1/2 | c2 B2 A2 G2 | (F3 E) D2 [|] x2 | x8 |
+V:21
+%%vocal above
+[A,D,]6 [|] D3/2 D1/2 | C2 B,2 A,2 G,2 | (F,3 E,) D,2 [|] D,3/2 D,1/2 | [DD,]2 [DD,]2 [CD,]2 B,^C |
+w: * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * *
+V:22
+x6 [|] D3/2 D1/2 | C2 B,2 A,2 G,2 | (F,3 E,) D,2 [|] D,3/2 D,1/2 | x2 x2 x2 E,2 |
+V:11
+[AF]6 [|] D3/2 D1/2 | [GD]2 [BG]2 [AF]2 [cA]2 | (B2 d2) [cG]2 [|] [eG]3/2 [eG]1/2 | [dG]3 [GD] [GD]2 [FD]2 |
+w: high; Praise Him, O ye heav'ns of heav- * ens, And ye floods a- bove the
+w: all; Fire, and hail, and snow, and va- * pors, Storm- y winds that hear His
+w: all; Praise His name, young men and maid- * ens, A- ged men, and child- ren
+V:12
+x6 [|] D3/2 D1/2 | x8 | G4 x2 [|] x2 | x8 |
+V:21
+%%vocal above
+[DD,]6 [|] D,3/2 D,1/2 | [B,G,,]2 [DG,,]2 [DD,]2 [DD,]2 | D4 [CE,]2 [|] [CC,]3/2 [CC,]1/2 | [B,D,]3 [B,D,] [A,D,]2 [CD,]2 |
+w: * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * *
+V:22
+x6 [|] D,3/2 D,1/2 | x8 | (G,2 =F,2) x2 [|] x2 | x8 |
+V:11
+[GD]6 ||
+w: sky.
+w: call.
+w: small.
+V:12
+x6 ||
+V:21
+%%vocal above
+[B,G,,]6 ||
+w: *
+w: *
+V:22
+x6 ||
+V:11
+"^Chorus"[BG]3/2 [cA]1/2 | [d-B-]4 [dB]3/2 [cA]1/2 [BG]3/2 [cA]1/2 | [dB]4 [BG]2 [|] [dG]3/2 [dG]1/2 | [eG]2 [dG]2 [cF]2 [BG]2 |
+w: Let them prais- * es give Je- ho- vah, For His name a- lone is
+w: * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * *
+V:12
+x2 | x8 | x6 [|] x2 | x8 |
+V:21
+%%vocal above
+z2 | [DG,]2 [DG,]2 [DG,]3/2 [DG,]1/2 [DG,]3/2 [DG,]1/2 | [DG,]4 [DG,]2 [|] [B,G,]3/2 [B,G,]1/2 | C2 [DB,]2 [DA,]2 [DG,]2 |
+w: * * * * * * * * * * * * * *
+w: Let them prais- es * * * * * * * * * *
+V:22
+x2 | x8 | x6 [|] x2 | C2 x2 x2 x2 |
+V:11
+[AF]6 [|] D3/2 D1/2 | [G-B,-]4 [GB,]3/2 [DB,]1/2 [GB,]3/2 [AC]1/2 | [BD]4 [GB,]2 [|] G3/2 A1/2 | [B-G-]4 [BG]3/2 [AD]1/2 [BG]3/2 [cA]1/2 |
+w: high, And His glo- * ry is ex- al- ted, And His glo- * ry is ex-
+w: * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * *
+V:12
+x6 [|] D3/2 D1/2 | x8 | x6 [|] G3/2 G1/2 | x8 |
+V:21
+%%vocal above
+[DD,]6 [|] z2 | !pp![D,G,,]2 [D,G,,]2 [D,G,,]3/2 [D,G,,]1/2 [D,G,,]3/2 [D,G,,]1/2 | [G,G,,]4 [G,G,,]2 [|] z2 | !p![DG,]2 [DG,]2 [DG,]3/2 [DG,]1/2 [DG,]3/2 [DG,]1/2 |
+w: * * * * * * * * * * * * * * *
+w: * And His glo- ry * * * * And His glo- ry * *
+V:22
+x6 [|] x2 | x8 | x6 [|] x2 | x8 |
+V:11
+[dB]4 [BG]2 [|] !ff!G3/2 G1/2 | [e-G-]4 [eG]3/2 [dG]1/2 [cG]3/2 [eG]1/2 | [dG]4 [BG]2 [|] [dG]3/2 [dG]1/2 | [dF]3 [cF] [BF]2 [AF]2 |
+w: alt- ed, And His glo- * ry is ex- alt- ed Far a- above the earth and
+w: * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * *
+V:12
+x6 [|] G3/2 G1/2 | x8 | x6 [|] x2 | x8 |
+V:21
+%%vocal above
+[DG,]4 [DG,]2 [|] z2 | [CC,]2 [CC,]2 [CC,]3/2 [CD,]1/2 [CE,]3/2 [CC,]1/2 | [B,G,]4 [DG,]2 [|] [B,G,]3/2 [B,G,]1/2 | [A,D,]3 [A,D,] [DD,]2 [CD,]2 |
+w: * * * * * * * * * * * * * * * *
+w: * * And His glo- ry * * * * * * * * * *
+V:22
+x6 [|] x2 | x8 | x6 [|] x2 | x8 |
+V:11
+[GD]6 |]
+w: sky.
+w: *
+w: *
+V:12
+x6 |]
+V:21
+%%vocal above
+[B,G,,]6 |]
+w: *
+w: *
+V:22
+x6 |]

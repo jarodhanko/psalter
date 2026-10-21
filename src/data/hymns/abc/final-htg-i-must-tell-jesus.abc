@@ -1,0 +1,166 @@
+%abc-2.1
+X:1
+T:I Must Tell Jesus
+C:Elisha A. Hoffman | Elisha A. Hoffman, 1893
+S:HymnsToGod.org; original MUP and PDF retained
+M:9/8
+L:1/8
+Q:1/4=100
+N:Source MUP SHA-256 1e3832344ebf817f786879d17d46b70d88b12068f47f5ceb87bbb2661a923f6f
+N:Source describes this hymn as believed public domain in the United States only
+N:MUP source code donated to public domain; no global-territory clearance implied
+N:Two chordal staves with supplemental MUP voices, not a four-independent-SATB reduction
+N:All-voice collapsible spaces normalized per MUP 7.2 semantics; see model and transformation map
+%%score { (11 12) | (21 22) }
+%%staffsep 90
+%%vocalspace 12
+%%pagewidth 1200
+%%barsperstaff 4
+%%measurenb 0
+%%flatbeams 1
+V:11 clef=treble
+%%vocal below
+V:12 clef=treble
+%%vocal below
+V:21 clef=bass
+%%vocal above
+V:22 clef=bass
+%%vocal above
+K:Eb
+% SOURCE title bold (19) "" "I Must Tell Jesus" ""
+% SOURCE title (2) ""
+% SOURCE title (11)"" "\f(TI)casting all your anxiety upon him, because he careth for you. - 1 Pet. 5:7" ""
+% SOURCE title (12)"E\(flat) - 3 - SOL" "" ""
+% SOURCE title (15) "Elisha A. Hoffman" "" "Elisha A. Hoffman, 1893"
+% SOURCE title (13) "" "Public Domain" "HymnsToGod.org"
+% SOURCE // Mup 7.2 arkkra.com
+% SOURCE // The hymn produced by this source code is believed to be  
+% SOURCE // in the public domain in the United States of America.
+% SOURCE // This source code is donated to the public domain.
+% SOURCE // Hymn Source:	The Golden Sheaf
+% SOURCE //		A Collection of Choice Hymns and Songs
+% SOURCE //		Especially Designed For
+% SOURCE //		Sunday Schools, Loyal Worker Meetings
+% SOURCE //		Prayer and Social Services
+% SOURCE //		Boston
+% SOURCE //		The Advent Christian Publication Society
+% SOURCE //		160 Warren Street
+% SOURCE //		Copyright 1902 by Chas. H. Woodman
+% SOURCE //		Hymn No. 59
+% SOURCE // Transcribed by: Ted Gatza, Jr. 07/24/2020
+% SOURCE // Revisions:
+% SOURCE //	06/03/2025 [1] Updated Mup code.
+% SOURCE // HymnsToGod.org
+% SOURCE //==== FOR 6X9 ======================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE //=========================
+% SOURCE ///define macros
+% SOURCE    //Lyrics
+% SOURCE      //Lyrics Between Staffs
+% SOURCE      //Lyrics Below Bass Staff    
+% SOURCE      //Text - Above Staff
+% SOURCE      //Fermatas
+% SOURCE      //Note Accents
+% SOURCE      //Repeats
+% SOURCE //=========================
+% SOURCE // Set midi
+% SOURCE //=========================
+% SOURCE // Verse
+% SOURCE //1
+% SOURCE //2
+% SOURCE //3a
+% SOURCE //3b
+% SOURCE //4
+% SOURCE //5a
+% SOURCE //5b
+% SOURCE //6
+% SOURCE //7a
+% SOURCE //7b
+% SOURCE //8
+% SOURCE //9
+% SOURCE //10
+% SOURCE //11
+% SOURCE //12a
+% SOURCE //12b
+% SOURCE //13
+% SOURCE //14a
+% SOURCE //14b
+% SOURCE //15
+% SOURCE //16a
+% SOURCE //16b
+% SOURCE //17
+% SOURCE //18
+V:11
+E F [GE] | [BE]3 [BE]3 E F [GE] | [FD]3 E3 [|] E F [GE] | [BE]3 [BE]3 E F [GE] |
+w: 1.~I must tell Je- sus all of my tri- als; I can- not bear these bur- dens a-
+w: 2.~I must tell Je- sus all of my trou- bles; He is a kind, com- pas- sion- ate
+w: 3.~Tempt- ed and tried, I need a great Sav- iour, One who can help my bur- dens to
+w: 4.~Oh, how the world to e- vil al- lures me! Oh, how my heart is tempt- ed to
+V:12
+E E x | x3 x3 E E x | x3 E3 [|] E E x | x3 x3 E E x |
+V:21
+[G,E,] [A,E,] [B,E,] | [G,E,]3 [G,E,]3 [G,E,] [A,E,] [B,E,] | [B,B,,]3 [G,E,]3 [|] [G,E,] [A,E,] [B,E,] | [G,E,]3 [G,E,]3 [G,E,] [A,E,] [B,E,] |
+V:22
+x3 | x8 x | x6 [|] x3 | x8 x |
+V:11
+[F-D-]3 [FD]2 z [|] E F [GE] | [BE]3 [BE]3 E F [GE] | [FD]3 E3 [|] [eE] [eE] [eE] | [BE]3 [GE]3 E [GE] [FD] |
+w: lone; * In my dis- tress he kind- ly will help me; He ev- er loves and cares for his
+w: Friend; * If I but ask him, he will de- liv- er, Make of my trou- bles quick- ly an
+w: bear; * I must tell Je- sus, I must tell Je- sus; He all my cares and sor- rows will
+w: sin! * I must tell Je- sus, and he will help me O- ver the world the vic- t'ry to
+V:12
+x6 [|] E E x | x3 x3 E E x | x3 E3 [|] x3 | x3 x3 E x x |
+V:21
+[B,-B,,-]3 [B,B,,]2 z [|] [G,E,] [A,E,] [B,E,] | [G,E,]3 [G,E,]3 [G,E,] [A,E,] [B,E,] | [A,B,,]3 [G,C,]3 [|] [^F,_C,] [F,C,] [F,C,] | [G,B,,]3 [B,B,,]3 [G,B,,] [B,B,,] [A,B,,] |
+V:22
+x6 [|] x3 | x8 x | x6 [|] x3 | x8 x |
+V:11
+E3- E2 z ||
+w: own. *
+w: end. *
+w: share. *
+w: win. *
+V:12
+E3- E2 x ||
+V:21
+[G,-E,-]3 [G,E,]2 z ||
+V:22
+x6 ||
+V:11
+"^Chorus"[eG] [eG] [eG] | [eG]3 [BG]3 [eB] [eB] [eB] | [ec]3 [cA]3 [|] A B [cA] | [BG]3 [BG]3 [BF] [AF] [GE] |
+w: I must tell Je- sus! I must tell Je- sus! I can- not bear my bur- dens a-
+w: * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * *
+V:12
+x3 | x8 x | x6 [|] A A x | x8 x |
+V:21
+[B,E,] [B,E,] [B,E,] | [B,E,]3 [EE,]3 [EG,] [EG,] [EG,] | [EA,]3 [EA,]3 [|] [CA,] [DA,] [EA,] | [EE,]3 [B,E,]3 [B,D,] [B,D,] [B,E,] |
+V:22
+x3 | x8 x | x6 [|] x3 | x8 x |
+V:11
+[F-D-]3 [FD]2 z [|] E F [GE] | [BE]3 [BE]3 E F [GE] | [FD]3 E3 [|] [eE] [eE] [eE] | [BE]3 [GE]3 E [GE] [FD] |
+w: lone; * I must tell Je- sus! I must tell Je- sus! Je- sus can help me, Je- sus a-
+w: * * * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * * * *
+w: * * * * * * * * * * * * * * * * * * * *
+V:12
+x6 [|] E E x | x3 x3 E E x | x3 E3 [|] x3 | x3 x3 E x x |
+V:21
+[B,-B,,-]3 [B,B,,]2 z [|] [G,E,] [A,E,] [B,E,] | [G,E,]3 [G,E,]3 [G,E,] [A,E,] [B,E,] | [A,B,,]3 [G,C,]3 [|] [^F,_C,] [F,C,] [F,C,] | [G,B,,]3 [B,B,,]3 [G,B,,] [B,B,,] [A,B,,] |
+V:22
+x6 [|] x3 | x8 x | x6 [|] x3 | x8 x |
+V:11
+E3- E2 z |]
+w: lone. *
+w: * *
+w: * *
+w: * *
+V:12
+E3- E2 x |]
+V:21
+[G,-E,-]3 [G,E,]2 z |]
+V:22
+x6 |]

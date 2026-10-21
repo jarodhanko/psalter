@@ -1,0 +1,8 @@
+# Psalter 189 photo QA (partial)
+
+- Sources: local source evidence (not distributed) (printed page 158; no.189 starts at the bottom) and local source evidence (not distributed) (printed page 159; no.189 concludes at the top).
+- Boundary: “Prayer for Help,” Psalm 70, S.M.; ST. MICHAEL, Genevan Psalter. Four stanzas are underlaid across the two systems split between pages. The tune ends before no.190 begins; no extra text-only stanza or continuation is visible.
+- Rights/footer: the p.158 copyright/permission footer (“Copyright, 1901, by United Presbyterian Board of Publication. Used by per.”) is printed beneath no.188, not no.189. No separate copyright or permission notice is visible for no.189; none was added to its block.
+- Text/music: each photographed system contributes a syllable-aligned segment for all four stanzas. The first system has 12 note events and 12 syllables per stanza; the continuation has 14 note events and 14 syllables per stanza. The first-system stanza 4 phrase visibly prints “In need am I, and poor”; ABCJS treats the comma after “I” as a lyric separator, so the lowercase underlay omits that punctuation while the complete original wording and punctuation remain in `W:`. SATB is unchanged; no forced `$` breaks were added.
+- Structural parser check: focused ABCJS coverage verifies 12 and 14 T1 note events, all four expected syllable slots on both systems, and the complete final words “waste,” “requite,” “magnified,” and “delay.” The former misassigned/truncated trial is replaced by the photo-aligned rows; parser reports no warnings.
+- Status: lyric underlay checked against both annotated photos. No full-note audit or rendered-score approval is claimed.

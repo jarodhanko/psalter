@@ -1,0 +1,107 @@
+{
+  "songs": [
+    {
+      "id": "psalter155",
+      "previousAbc": "T:Assurance Amid Peril\nC:Tune: CHURCH TRIUMPHANT; James W. Elliott\nO:Psalm 57, L. M.\nM:4/4\nL:1/8\nK:Bb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] F2 | B2 F2 d2 c2 | B2 G2 F2 || DE | F2 GA\nw:1.~My soul is grieved be- cause my foes With * treach- 'rous *\nw:2.~My heart is stead- fast, O my King, My * heart is *\nw:3.~Yea, I will ear- ly wake and sing, A * thank- ful *\nw:4.~Be Thou, O God, ex- alt- ed high, Yea, * far a- *\n[V:T2] D2 | D2 D2 F2 E2 | D2 E2 D2 || DE | F2 F2\n[V:B1] B,2 | F,2 B,2 B,2 A,2 | B,2 B,2 B,2 || B,C | D2 C2\n[V:B2] B,,2 | B,,2 B,,2 B,2 F,2 | G,2 E,2 B,,2 || B,,2 | B,2 A,2\n[V:T1] B2 d2 | c3 B A2 || F2 | G2 G2 A2 D2 |\nw: plans my way in- close; But from the snares that\nw: tuned Thy praise to sing; A- wake, my soul, and\nw: hymn to Thee will bring, For un- to heav'n Thy\nw: bove the star- ry sky, And let Thy glo- ry\n[V:T2] D2 D2 | G2 =E2 F2 || C2 | C2 C2 C2 C2 |\n[V:B1] B,2 A,2 | G,2 C2 C2 || A,2 | G,2 G,2 G,2 ^F,2 |\n[V:B2] G,2 F,2 | =E,2 C,2 F,2 || F,2 | _E,2 E,2 D,2 D,2 |\n[V:T1] B2 B2 c2 || F2 | d2 d2 e2 G2 | A3 c B2 |]\nw: they de- vise Their own un- do- ing shall a- rise.\nw: swell the song, Let vi- brant harp the notes pro- long.\nw: mer- cies rise, Thy truth is loft- y as the skies.\nw: be dis- played O'er all the earth Thy hands have made.\n[V:T2] B,2 E2 E2 || E2 | D2 F2 E2 E2 | E2 E2 D2 |]\n[V:B1] D2 B,2 B,2 || A,2 | B,2 B,2 B,2 C2 | C3 A, B,2 |]\n[V:B2] G,2 G,2 F,2 || F,2 | B,,2 _A,2 G,2 C,2 | F,2 F,,2 B,,2 |]\nW:[Stanzas 5-8]",
+      "previousAbcSHA256": "0d7140e38e137c484fe8a0be7aa4744a6b7711ee0e9aa314aa5d7407a7a0c48a",
+      "correctedAbcSHA256": "124ee83977a8dee13540e9da9a0a21a296f64ab751dd9daf9df2e79be1501590",
+      "fixtureSHA256": "ad98f85510d42aba5a5ff1bd9e95ef33e2bb15bec4de84ff56198731c88bfc4a",
+      "sourceLedgerSHA256": "e0e31ec291610d6f8813a236635e72bb850447b87ccc312e4c6cdce3097f43aa",
+      "sourcePages": {
+        "rfpa": 231,
+        "original1912": [
+          131
+        ],
+        "original1912Leaves": [
+          "0137"
+        ]
+      },
+      "corrections": [
+        {
+          "before": "[V:T2] D2 | D2 D2 F2 E2 | D2 E2 D2 || DE | F2 F2\n",
+          "after": "[V:T2] D2 | D2 D2 F2 E2 | D2 E2 D2 || D2 | F2 F2\n"
+        }
+      ],
+      "qualification": "Alto q8 quarter is independently confirmed. Existing lower-part display underlay at q14/q30 remains held: A,T,AT,B,AB,TB,ATB split printed quarters into tied eighths and move words. Source oracle is preserved; no underlay correction is included."
+    },
+    {
+      "id": "psalter156b",
+      "previousAbc": "T:Wickedness and Retribution (Second Tune)\nC:Tune: SWANWICK; James Lucas\nO:Psalm 58, C. M.; SECOND TUNE\nM:3/4\nL:1/8\nK:Ab\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] E2 | A4 AB | c4 Ac | (B2 A2) G2 | A4 ||\nw:1.~Do ye, O * men, speak * right- * eous- ness\nw:2.~The wick- ed, * from their * ear- * liest days,\nw:3.~The God of * venge- ance * will * de- stroy\nw:4.~The good shall * tri- umph * and * re- joice,\n[V:T1] c2 | (d2 c2) B2 | (A2 G2) F2 | E4 ||\nw: And up- * right judg- * ment mete?\nw: In sin * are gone * a- stray,\nw: The wick- * ed from * His sight;\nw: And this * shall be * con- fessed:\n[V:T1] c2 | (c2 B2) A2 | (A2 G2) Ae | (e2 d2) c2 | (c2 B2) ||\nw: Nay, in * your hearts * is * wick- * ed- ness *\nw: With fro- * ward heart, * in * fool- * ish pride, *\nw: The Lord * will bring * to * nought * their pow'r *\nw: On earth * the God * of * jus- * tice reigns, *\n[V:T1] E2 | (E2 F2) G2 | (A2 B2) c2 | d4 || d2 | (c2 B2) A2 | (B2 A2) G2 | A4 |]\nw: And in * your hands * de- ceit, And in * your hands * de- ceit.\nw: From wis- * dom turned * a- way, From wis- * dom turned * a- way.\nw: And scat- * ter all * their might, And scat- * ter all * their might.\nw: And right- * eous- ness * is blessed, And right- * eous- ness * is blessed.\n[V:T2] C2 | C4 E2 | E4 F2 | (F2 E2) D2 | C4 ||\n[V:T2] E2 | (F2 E2) E2 | (F2 E2) =D2 | E4 ||\n[V:T2] E2 | E4 E2 | E4 E2 | E4 E2 | E4 ||\n[V:T2] E2 | (E2 =D2) _D2 | (C2 E2) E2 | E4 || E2 | (E2 D2) C2 | (F2 E2) D2 | C4 |]\n[V:B1] A,2 | A,4 A,G, | A,4 C2 | (D2 C2) B,2 | A,4 ||\n[V:B1] A,2 | A,4 B,2 | (C2 B,2) A,2 | G,4 ||\n[V:B1] A,2 | (A,2 G,2) C2 | B,4 A,2 | G,4 A,2 | (A,2 G,2) ||\n[V:B1] G,2 | (G,2 A,2) B,2 | (A,2 G,2) A,2 | B,4 || G,2 | (A,2 G,2) A,2 | (D2 C2) B,2 | A,4 |]\n[V:B2] A,,2 | A,,4 C,E, | A,4 F,2 | (D,2 E,2) E,2 | A,,4 ||\n[V:B2] A,2 | A,4 G,2 | (A,2 B,2) B,,2 | E,4 ||\n[V:B2] A,2 | E,4 E,2 | E,4 C,2 | B,,4 A,,2 | E,4 ||\n[V:B2] E,2 | E,4 E,2 | E,2-E,2 A,2 | G,4 || E,2 | (A,2 E,2) F,2 | (D,2 E,2) E,2 | A,,4 |]",
+      "previousAbcSHA256": "bfff8da38d354582f1a65a66bee384b252b1fafa9e504f28f87f693007ed3659",
+      "correctedAbcSHA256": "d467997a78ed64c19e509dfe34bdaa296f0f56a2d68f39bf8387c159c2efefea",
+      "fixtureSHA256": "cce5ddf5912ac2e5bcef430626054569da948cccb6a99bacd33fc2fe137f9101",
+      "sourceLedgerSHA256": "8bedb47a0fadb594d20ced182d09e711e9b3a1337c09b69e6dc2015d171c061b",
+      "sourcePages": {
+        "rfpa": [
+          232,
+          233
+        ],
+        "original1912": [
+          132,
+          133
+        ],
+        "original1912Leaves": [
+          "0138",
+          "0139"
+        ]
+      },
+      "corrections": [
+        {
+          "before": "w: Nay, in * your hearts * is * wick- * ed- ness *\n",
+          "after": "w: Nay, in * your hearts * is * wick- * ed- ness, *\n"
+        }
+      ],
+      "qualification": "Only the independently photographed comma after wickedness changes. Both tune settings remain distinct; all music, source ties and slurs are unchanged."
+    },
+    {
+      "id": "psalter159",
+      "previousAbc": "T:Communion with God\nC:Tune: MERIBAH; Lowell Mason\nO:Psalm 61, C. P. M.\nM:3/2\nL:1/8\nK:Eb\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] E4 | G3 G G2 F2 G2 A2 | B4 ||\nw:1.~O God, re- gard my hum- ble plea;\nw:2.~In Thee my soul hath shel- ter found,\nw:3.~For Thou, O God, my vows hast heard,\nw:4.~Be- fore Thy face shall I a- bide;\n[V:T2] E4 | E3 E E2 D2 E2 F2 | G4 ||\n[V:B1] G,4 | B,3 B, B,2 B,2 B,2 B,2 | B,4 ||\n[V:B2] E,4 | E,3 E, E,2 A,2 G,2 F,2 | E,4 ||\n[V:T1] G4 | c3 c c2 B2 A2 G2 | F4 ||\nw: I can- not be so far from Thee\nw: And Thou hast been from foes a- round\nw: On me the her- it- age con- ferred\nw: O God, Thy truth and grace pro- vide\n[V:T2] E4 | E3 E E2 E2 D2 E2 | D4 ||\n[V:B1] B,4 | A,3 A, A,2 B,2 B,2 B,2 | B,4 ||\n[V:B2] E,4 | A,,3 A,, A,2 G,2 F,2 E,2 | B,,4 ||\n[V:T1] B4 | d2 c2 B4 =A4 | B4 ||\nw: But Thou wilt hear my cry;\nw: The tow'r to which I flee;\nw: Of those that fear Thy Name;\nw: To guard me in the way;\n[V:T2] D4 | F2 E2 D4 E4 | D4 ||\n[V:B1] F,4 | F,2 G,2 F,4 C4 | B,4 ||\n[V:B2] B,,4 | B,,2 E,2 F,4 F,4 | B,,4 ||\n[V:T1] B4 | e2 B2 B2 G2 A2 c2 | B4 ||\nw: When I by trou- ble am dis- tressed,\nw: With- in Thy house will I a- bide;\nw: A blest a- noint- ing Thou dost give,\nw: So I will make Thy prais- es known,\n[V:T2] E4 | G2 G2 G2 E2 E2 A2 | G4 ||\n[V:B1] G,4 | B,2 E2 E2 B,2 C2 E2 | E4 ||\n[V:B2] E,4 | E,2 E,2 E,2 E,2 C,2 A,,2 | E,4 ||\n[V:T1] B4 | e2 B2 B2 G2 A2 c2 | B4 ||\nw: Then lead me on the Rock to rest\nw: My ref- uge sure, what- e'er be- tide,\nw: And Thou wilt make me ev- er live\nw: And, hum- bly bend- ing at Thy throne,\n[V:T2] E4 | G2 G2 G2 E2 E2 A2 | G4 ||\n[V:B1] G,4 | B,2 E2 E2 B,2 C2 E2 | E4 ||\n[V:B2] E,4 | E,2 E,2 E,2 E,2 C,2 A,,2 | E,4 ||\n[V:T1] E4 | F2 A2 G4 F4 | E8 |]\nw: That high- er is than I.\nw: Thy shel- t'ring wings shall be.\nw: Thy prais- es to pro- claim.\nw: My vows will dai- ly pay.\n[V:T2] E4 | E2 E2 E4 D4 | E8 |]\n[V:B1] B,4 | C2 C2 B,4 (B,2 A,2) | G,8 |]\n[V:B2] G,,4 | A,,2 A,,2 B,,4 B,,4 | E,8 |]",
+      "previousAbcSHA256": "59425dd32d4c74222b76079de5dd8c2e07d7d3f14edd5e6467e062fd8f8c7da5",
+      "correctedAbcSHA256": "c6153e97fc65e9d787f0f69f684b8bcd69eec9c43d2881602c84da1123c22a94",
+      "fixtureSHA256": "c651d50b33f03acf8f7b212077df91fc63a5c0a68904a869905ee4dc4f257ba5",
+      "sourceLedgerSHA256": "db7f5598e8889407a636ccc9298b943004de802c8361a7bda452b46f3d8e4ac9",
+      "sourcePages": {
+        "path": "source-evidence/psalter2/The_Psalter.pdf",
+        "url": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+        "sha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504",
+        "pagesOneBased": [
+          238
+        ],
+        "boundaries": [
+          239
+        ]
+      },
+      "corrections": [
+        {
+          "before": "[V:T1] E4 | G3 G G2 F2 G2 A2 | B4 ||\n",
+          "after": "[V:T1] E4 | G3 G G2 F2 G2 A2 | B8 ||\n"
+        },
+        {
+          "before": "[V:T2] E4 | E3 E E2 D2 E2 F2 | G4 ||\n[V:B1] G,4 | B,3 B, B,2 B,2 B,2 B,2 | B,4 ||\n[V:B2] E,4 | E,3 E, E,2 A,2 G,2 F,2 | E,4 ||\n[V:T1] G4 | c3 c c2 B2 A2 G2 | F4 ||\n",
+          "after": "[V:T2] E4 | E3 E E2 D2 E2 F2 | G8 ||\n[V:B1] G,4 | B,3 B, B,2 B,2 B,2 B,2 | B,8 ||\n[V:B2] E,4 | E,3 E, E,2 A,2 G,2 F,2 | E,8 ||\n[V:T1] G4 | c3 c c2 B2 A2 G2 | F8 ||\n"
+        },
+        {
+          "before": "[V:T2] E4 | E3 E E2 E2 D2 E2 | D4 ||\n[V:B1] B,4 | A,3 A, A,2 B,2 B,2 B,2 | B,4 ||\n[V:B2] E,4 | A,,3 A,, A,2 G,2 F,2 E,2 | B,,4 ||\n[V:T1] B4 | d2 c2 B4 =A4 | B4 ||\n",
+          "after": "[V:T2] E4 | E3 E E2 E2 D2 E2 | D8 ||\n[V:B1] B,4 | A,3 A, A,2 B,2 B,2 B,2 | B,8 ||\n[V:B2] E,4 | A,,3 A,, A,2 G,2 F,2 E,2 | B,,8 ||\n[V:T1] B4 | d2 c2 B4 =A4 | B8 ||\n"
+        },
+        {
+          "before": "w: The tow'r to which I flee;\n",
+          "after": "w: The tow'r to which I flee.\n"
+        },
+        {
+          "before": "[V:T2] D4 | F2 E2 D4 E4 | D4 ||\n[V:B1] F,4 | F,2 G,2 F,4 C4 | B,4 ||\n[V:B2] B,,4 | B,,2 E,2 F,4 F,4 | B,,4 ||\n[V:T1] B4 | e2 B2 B2 G2 A2 c2 | B4 ||\n",
+          "after": "[V:T2] D4 | F2 E2 D4 E4 | D8 ||\n[V:B1] F,4 | F,2 G,2 F,4 C4 | B,8 ||\n[V:B2] B,,4 | B,,2 E,2 F,4 F,4 | B,,8 ||\n[V:T1] B4 | e2 B2 B2 G2 A2 c2 | B8 ||\n"
+        },
+        {
+          "before": "[V:T2] E4 | G2 G2 G2 E2 E2 A2 | G4 ||\n[V:B1] G,4 | B,2 E2 E2 B,2 C2 E2 | E4 ||\n[V:B2] E,4 | E,2 E,2 E,2 E,2 C,2 A,,2 | E,4 ||\n[V:T1] B4 | e2 B2 B2 G2 A2 c2 | B4 ||\n",
+          "after": "[V:T2] E4 | G2 G2 G2 E2 E2 A2 | G8 ||\n[V:B1] G,4 | B,2 E2 E2 B,2 C2 E2 | E8 ||\n[V:B2] E,4 | E,2 E,2 E,2 E,2 C,2 A,,2 | E,8 ||\n[V:T1] B4 | e2 B2 B2 G2 A2 c2 | B8 ||\n"
+        },
+        {
+          "before": "[V:T2] E4 | G2 G2 G2 E2 E2 A2 | G4 ||\n[V:B1] G,4 | B,2 E2 E2 B,2 C2 E2 | E4 ||\n[V:B2] E,4 | E,2 E,2 E,2 E,2 C,2 A,,2 | E,4 ||\n",
+          "after": "[V:T2] E4 | G2 G2 G2 E2 E2 A2 | G8 ||\n[V:B1] G,4 | B,2 E2 E2 B,2 C2 E2 | E8 ||\n[V:B2] E,4 | E,2 E,2 E,2 E,2 C,2 A,,2 | E,8 ||\n"
+        }
+      ],
+      "qualification": "Twenty phrase cadence half notes become whole notes; stanza 2 flee semicolon becomes period. Source-specific trou-ble/troub-le, tower/tow’r and sheltering/shel-t’ring differences remain explicit. One post-exposure source-ledger revision is recorded in the source audit; no app-derived oracle replacement."
+    }
+  ]
+}

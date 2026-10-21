@@ -1,0 +1,174 @@
+{
+  "sourceSha256": "7ad0152c427c56883f51071ff82a7db237d40faf23286508845a348862bd6abd",
+  "metadata": {
+    "id": "hymn-mobile-o-love",
+    "title": "O Love That Wilt Not Let Me Go",
+    "composer": "George Matheson, 1882 · Albert L. Peace, 1884",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "mobile-o-love",
+    "sourceUrls": [
+      "https://www.mobilehymns.org/PDF/O_Love_That_Wilt_Not_Let_Me_Go.pdf",
+      "https://www.mobilehymns.org/english/O_Love_That_Wilt_Not_Let_Me_Go.html",
+      "https://mobilehymns.org/copyright.html"
+    ],
+    "collection": "Mobile Hymns / ST.MARGARET",
+    "credits": [
+      "George Matheson, 1882",
+      "Albert L. Peace, 1884",
+      "Mobile Hymns public-domain-labelled score, downloaded 2026-09-30",
+      "Source-assisted transcription preserving four source voices and all four printed verses"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "George Matheson,1882; source labels public domain",
+      "Albert L.Peace,1884; ST.MARGARET; source labels public domain",
+      "George Matheson / Albert L.Peace; Mobile Hymns transcription",
+      "US source basis; no blanket worldwide clearance",
+      "No added tempo or arrangement; source-specific public-domain assertion, not worldwide clearance."
+    ],
+    "territory": "US source basis; no blanket worldwide clearance",
+    "editionNotes": [
+      "All four printed stanzas,152 syllables/164 lyric slots; no tempo or additional stanzas",
+      "All four SATB source voices,157 heads, five slurs and no ties",
+      "SourceAb4/2 edition; all four verses; recommendedABCJS copy changes lyric underscore whitespace only.",
+      "No added tempo or arrangement; source-specific public-domain assertion, not worldwide clearance."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "mobile-o-love",
+      "title": "O Love That Wilt Not Let Me Go",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H099"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B092"
+        }
+      ],
+      "file": "abc/mobile-o-love.abc",
+      "sha256": "7ad0152c427c56883f51071ff82a7db237d40faf23286508845a348862bd6abd",
+      "canonical_reference_in_archive": "manual_abc/mobile-o-love.abc",
+      "source_url": [
+        "https://www.mobilehymns.org/PDF/O_Love_That_Wilt_Not_Let_Me_Go.pdf",
+        "https://www.mobilehymns.org/english/O_Love_That_Wilt_Not_Let_Me_Go.html",
+        "https://mobilehymns.org/copyright.html"
+      ],
+      "collection": "Mobile Hymns / ST.MARGARET",
+      "rights_and_attribution": {
+        "text": "George Matheson,1882; source labels public domain",
+        "music": "Albert L.Peace,1884; ST.MARGARET; source labels public domain",
+        "attribution": "George Matheson / Albert L.Peace; Mobile Hymns transcription",
+        "territory": "US source basis; no blanket worldwide clearance"
+      },
+      "scope_and_edition_notes": [
+        "All four printed stanzas,152 syllables/164 lyric slots; no tempo or additional stanzas",
+        "All four SATB source voices,157 heads, five slurs and no ties",
+        "SourceAb4/2 edition; all four verses; recommendedABCJS copy changes lyric underscore whitespace only."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-o-love-review.md",
+        "audit": "reports/independent-o-love-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H099",
+      "title": "O Love That Wilt Not Let Me Go",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "mobile-o-love",
+      "abc_file": "abc/mobile-o-love.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H099",
+        "Hymn / version": "O Love That Wilt Not Let Me Go",
+        "Playlist track #": "125",
+        "Music / score source": "https://hymnary.org/media/fetch/143463",
+        "Lyrics / companion source": "https://www.hymnary.org/text/o_love_that_wilt_not_let_me_go?extended=true",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "PDF score with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "US public domain underlying text and tune; use listed PD edition",
+        "Rights source": "https://hymnary.org/media/fetch/143463",
+        "Text, tune and version notes": "George Matheson 1882; ST. MARGARET Albert L. Peace (standard tune)\nPD PDF with explicit personal/congregational reuse; credit Hymnary. Dave Hunt recording tune not verified; do not present ST. MARGARET as recording-exact",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "ST. MARGARET is an accepted PD setting of Matheson’s hymn text. Dave Hunt’s recording tune is unconfirmed and may differ. The source score was inspected and identified as PD, primarily on a US basis. Confirm the edition and territorial basis for the intended public distribution; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B092",
+      "title": "O Love That Wilt Not Let Me Go",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "mobile-o-love",
+      "abc_file": "abc/mobile-o-love.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B092",
+        "Song title": "O Love That Wilt Not Let Me Go",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/143463",
+        "Lyrics source": "https://www.hymnary.org/text/o_love_that_wilt_not_let_me_go?extended=true",
+        "Editable source": "",
+        "Tune and work identity": "George Matheson 1882; ST. MARGARET Albert L. Peace (standard tune)\nPD PDF with explicit personal/congregational reuse; credit Hymnary. Dave Hunt recording tune not verified; do not present ST. MARGARET as recording-exact",
+        "Public distribution rights": "US public domain underlying text and tune; use listed PD edition",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/143463",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nST. MARGARET selected for the Matheson hymn; recording melody may differ.\nSame hymn/text retained. Public-domain alternate tune is permitted. Do not copy protected recording arrangements or added sections. Confirm target territories and edition reuse terms.",
+        "Playlist positions": "127, 172, 211",
+        "Playlist artists": "Dave Hunt; Steve Green; Chris Rice",
+        "Original track titles": "O Love That WIll Not Let Me Go; O Love That Will Not Let Me Go",
+        "Source review": "PDF score with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Psalter 343 — printed-score reconstruction
+
+## Bounded current-score recheck — 2026-09-28
+
+The owner photo's second music system opens “Lord” on an upper D5/lower F4 treble chord. The current ABC had lower G4. The lower printed notehead is in the F4 space in both the owner photo and same-edition reflow; the handwritten F label was not the deciding evidence. The second-system first T2 attack was corrected from `G` to `F`. A 1400-pixel desktop render of the rebuilt score shows all four stanza rows and the corrected chord. This bounded recheck did **not** complete another full SATB or four-stanza audit, so the setting remains partial pending an independent current-score pass and audible/mobile/print checks.
+
+Authority: clean high-resolution scan of printed p. 294, local source evidence (not distributed), corroborated by owner photo local source evidence (not distributed). The printed engraving is authoritative over handwritten pitch labels. No. 343 is complete on this page; no. 344 follows.
+
+The prior ABC was structurally wrong: it omitted sixteenth-note attacks in the opening and both “And” pickups, misrepresented lower voices and short bars, and tied into the final word from a preceding syllable. A fresh independent SATB ledger was read from magnified clean crops and entered together into canonical `src/psalter-abc.ts`. A second read-only review confirmed the entered block against the ledger. All four `W:` stanzas are now complete single transcript rows with the printed wording and punctuation.
+
+With `L:1/8`, `K:C`, the photographed phrase structure is: 1/8 pickup; 6/8, 5/8; 1/8 pickup; 6/8, 5/8; then on the second physical system a 1/8 pickup; 6/8, 5/8; 1/8 pickup; 6/8, 6/8, 5/8. The source preserves the printed `M:6/8` header without inserting unprinted meter changes. Each voice totals 54 eighth-note units. Soprano and alto have 39 attacks each; tenor and bass have 33 each. The final word is a dotted-quarter attack tied to a plain quarter (`3-2`) in every voice, not two dotted quarters. Second-system “Lord” is a single upper-voice quarter-note attack; closing “false” spans two upper-voice eighths, followed by one eighth on “de-”.
+
+The original page prints stanza 1 beneath the music and stanzas 2–4 as text below. The same-edition reflowed engraving at local source evidence (not distributed) corroborates all four note-aligned rows. Each opening sixteenth pair carries **one** syllable across both attacks: “I,” “What,” “A-,” or “In”; “woe,” “-las,” and “thought” begin on the following quarter. The first apparent extra “I” on p. 294 is the stanza number 1. Four `w:` rows now accompany each of the two soprano music lines. The final `_` continues the last word over the second tied attack. The pinned ABCJS underlay inspector reports 20/19 event slots with every printed word present and no warnings.
+
+This is a full printed-score and same-edition lyric-underlay reconstruction, not a device approval: responsive/print rendering and audible playback remain open.

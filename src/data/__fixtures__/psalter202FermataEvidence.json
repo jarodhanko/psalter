@@ -1,0 +1,12 @@
+{
+  "purpose": "Display-only inheritance of two printed CARTER shared fermatas",
+  "canonicalModuleSHA256": "f47cc1d3bb2206f652ea27a30237f81c1f99d05b6f00f1e95056d8d1786bd2e6",
+  "canonicalAbcSHA256": "6aa8f88385dd1443f68b8558f8bd30069ec2835fdd716a6ae400ee8dbaa6e4a3",
+  "manualLedgerSHA256": "319a8d901429ad7ebe4e6a17cd907866e4623f48fbbf799ade067848d2611922",
+  "printedFixtureSHA256": "cb12d74655bdbf7a437d02712bf1f83b314005119058a154e5adb07bf12944a8",
+  "productionChanges": [
+    "src/features/viewer/reviewedFermataSources.ts"
+  ],
+  "priorWitnessBytesPreserved": true,
+  "noCanonicalRendererAudioScopeEdits": true
+}

@@ -1,0 +1,64 @@
+% Source edition: tt-lead-me-to-calvary
+% Source URL: https://library.timelesstruths.org/library/music/L/Lead_Me_to_Calvary/Lead_Me_to_Calvary.xml
+% Source SHA256: 7ba83d0504a4957f49c1c2203d9c8e5ef277a44a5cacb8ad677576601b380ccb
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_Lead_Me_to_Calvary.repairs.json
+% Catalog membership: book1:H082, book2:B077
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Jennie E. Hussey, 1921.  MUSIC: “Duncannon”; William J. Kirkpatrick, 1921.  Public Domain.
+% Original credit-words: Lead Me to Calvary
+% Original credit-words: WORDS: Jennie E. Hussey, 1921.  MUSIC: “Duncannon”; William J. Kirkpatrick, 1921.  Public Domain.
+% Original credit-words: And when they were come to the place, which is called Calvary, there they crucified him. Lk. 23:33
+X:1
+T:Lead Me to Calvary
+Z:WORDS: Jennie E. Hussey, 1921.  MUSIC: “Duncannon”; William J. Kirkpatrick, 1921.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/16
+M:4/4
+K:Eb
+V:1 treble nm="Treble" snm="Tr."
+V:2 treble 
+L:1/4
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+L:1/4
+V:1
+[L:1/16]
+ [EG]4 [EG]3 [DF] E4 E4 | [EA]4 [EA]4 [EG]8 | [EG]4 [DF]3 E [EB]4 [EG]4 | [DF]16 |  %4
+w: 1.~King of my life, I|crown Thee now,|Thine shall the glo- ry|be;|
+w: 2.~Show me the tomb where|Thou wast laid,|Ten- der- ly mourned and|wept;|
+w: 3.~Let me like Mar- y,|through the gloom,|Come with a gift to|Thee;|
+w: 4.~May I be will- ing,|Lord, to bear|Dai- ly my cross for|Thee;|
+ [EG]4 [EG]3 [DF] E4 E4 | [Ec]4 [Ec]4 [EB]8 | E4 E3 [EF] [EG]4 [DF]4 | [EE]16 ||  %8
+w: Lest I for- get Thy|thorn- crowned brow,|Lead me to Cal- va-|ry.|
+w: An- gels in robes of|light ar- rayed|Guard- ed Thee whilst Thou|slept.|
+w: Show to me now the|emp- ty tomb,|Lead me to Cal- va-|ry.|
+w: E- ven Thy cup of|grief to share,|Thou hast borne all for|me.|
+"^Refrain" [DF]4 [DF]3 [EG] [FA]4 [Ac]4 | [GB]6 [FA]2 [EG]8 | [DF]4 [DF]3 [DG] [DA]4 [Ac]4 | [GB]6 [FA]2 [EG]8 |  %12
+w: Lest I for- get Geth-|sem- a- ne,|Lest I for- get Thine|ag- o- ny;|
+w: ||||
+w: ||||
+w: ||||
+ [Ge]4 [Ge]3 [Ge] [Fd]4 [Fd]4 | [Ec]4 [^Fc]4 [GB]8 | E4 E3 [EF] [EG]4 [DF]4 | [EE]16 |] %16
+w: Lest I for- get Thy|love for me,|Lead me to Cal- va-|ry.|
+w: ||||
+w: ||||
+w: ||||
+V:2
+[L:1/4]
+ x2 E E | x4 | x x3/4 E/4 x2 | x4 |  %4
+ x2 E E | x4 | E E3/4 x/4 x2 | x4 ||  %8
+ x4 | x4 | x4 | x4 |  %12
+ x4 | x4 | E E3/4 x/4 x2 | x4 |] %16
+V:3
+[L:1/16]
+ [E,B,]4 [E,B,]3 [E,A,] [E,G,]4 [E,G,]4 | [A,,C]4 [A,,C]4 [E,B,]8 | [E,B,]4 [E,A,]3 [E,G,] [G,B,]4 [E,B,]4 | (A,4 G,4 F,8) |  %4
+ [E,B,]4 [E,B,]3 [F,B,] [G,B,]4 [E,G,]4 | [A,,A,]4 [A,,A,]4 [E,G,]8 | [G,B,]4 [G,B,]3 [A,C] B,4 [B,,A,]4 | [E,G,]16 ||  %8
+ [B,,B,]4 [B,,B,]3 [B,,B,] [B,,B,]4 [B,,B,]4 | [E,B,]6 [E,B,]2 [E,B,]8 | [B,,B,]4 [A,B,]3 [G,B,] [F,B,]4 [B,,D]4 | [E,E]6 [E,B,]2 [E,B,]8 |  %12
+ [C,C]4 [C,C]3 [C,C] [G,=B,]4 [G,B,]4 | [A,C]4 [A,E]4 [E,E]8 | [G,B,]4 [G,B,]3 [A,C] B,4 [B,,A,]4 | [E,G,]16 |] %16
+V:4
+[L:1/4]
+ x4 | x4 | x4 | B,,4 |  %4
+ x4 | x4 | x2 B, x | x4 ||  %8
+ x4 | x4 | x4 | x4 |  %12
+ x4 | x4 | x2 B, x | x4 |] %16

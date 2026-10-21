@@ -1,0 +1,553 @@
+{
+  "scope": [
+    109,
+    110,
+    112
+  ],
+  "songs": [
+    {
+      "number": 109,
+      "previousAbc": "T:Personal Devotion to God\nC:Tune: BELMONT; William Gardiner\nM:3/4\nL:1/4\nK:G\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] D | B2 A | G2 F | (F E) G | F2 || d | (d c) B | (B A) G | (G3 | F2) |\nw: 1.~The of-f'ring on the al- * tar burned Gives no * de-light * to Thee; *\nw: 2.~Then, O my God, I come, * I come, Thy pur- * pose to * ful-fill; *\nw: 3.~Be-fore Thy peo-ple I * will now Thy right- * eous-ness * pro-claim; *\nw: 4.~I nev-er have with-in * my heart Thy faith- * ful-ness * con-cealed, *\n[V:T2] D | G2 F | G2 D | C2 C | B,2 || D | F2 G | E2 E | D3- | D2 |\n[V:B1] B, | D2 C | B,2 B, | G,2 G, | G,2 || B, | C2 D | C2 A, | (B,3 | A,2) |\n[V:B2] G, | G,2 D, | E,2 B,, | C,2 E, | G,2 || G,, | A,,2 B,, | C,2 ^C, | D,3- | D,2 |\n[V:T1] D | B2 A | G2 F | (F E) G | D2 || d | (d c) A | (G B) A | G3- | G2 |]\nw: The hear-ing ear, the will- * ing heart, Thou giv- * est un- * to me. *\nw: Thy law is writ-ten in * my heart, 'Tis joy * to do * Thy will. *\nw: Thou know-est, Lord, I will * not cease To praise * Thy ho- * ly Name. *\nw: But Thy sal-va-tion and * Thy truth To men * I have * re-vealed. *\n[V:T2] D | D2 C | B,2 D | C2 C | D2 || D | E2 C | (D G) F | G3- | G2 |]\n[V:B1] C | B,2 F, | G,2 G, | G,2 G, | B,2 || G, | (G, A,) C | (B, D) C | B,3- | B,2 |]\n[V:B2] F, | G,2 D, | E,2 B,, | C,2 E, | G,2 || B,, | C,2 C, | D,2 D, | G,3- | G,2 |]\nW:[Stanzas 8–11]",
+      "corrections": [
+        {
+          "before": "| (F E) G | F2 || d |",
+          "after": "| (F E) G | D2 || d |"
+        },
+        {
+          "before": "|| D | E2 C | (D G) F |",
+          "after": "|| D | E2 E | (D G) F |"
+        }
+      ],
+      "events": 129,
+      "ledgerSHA256": "ccd68b5aacea449e69c8777587467b61fa856e28ebe53310a45b2abbb91e7836",
+      "correctedAbcSHA256": "8410c6c43c4a268d4964b64c29ddc27c728767e64a1cec7e893ea4b9b59b34b4",
+      "previousSelection": [],
+      "currentSelection": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "prose": {
+        "1": "The off'ring on the altar burned Gives no delight to Thee; The hearing ear, the willing heart, Thou givest unto me.",
+        "2": "Then, O my God, I come, I come, Thy purpose to fulfill; Thy law is written in my heart, 'Tis joy to do Thy will.",
+        "3": "Before Thy people I will now Thy righteousness proclaim; Thou knowest, Lord, I will not cease To praise Thy holy Name.",
+        "4": "I never have within my heart Thy faithfulness concealed, But Thy salvation and Thy truth To men I have revealed."
+      },
+      "preExposureFreeze": {
+        "createdUTC": "2026-10-09T06:59:01.521108+00:00",
+        "ledgerSHA256": "10df416dac897e3cca367d047bb011185bafe0d976d98121292aa032ac5f686c",
+        "canonicalExposed": false,
+        "events": 129,
+        "voices": {
+          "T1": 36,
+          "T2": 31,
+          "B1": 32,
+          "B2": 30
+        }
+      },
+      "independentReview": {
+        "findings": [
+          {
+            "kind": "two canonical defects confirmed",
+            "text": "Independent second reading confirms both proposed defects in both editions: soprano 'burned' q10 is D4 half, one space below bottom treble E4 line (not F-sharp4); Alto 'est/to/Thy/I' q39 is E4 quarter on the bottom treble line, not ledger C4."
+          },
+          {
+            "kind": "ledger signature corrections confirmed",
+            "text": "Confirmed signature application in both editions: bass q24 and tenor q27 are F3 staff positions under the one-sharp G-major signature, with no natural cancellation in those measures. Both sound F-sharp3 and canonical is correct."
+          }
+        ]
+      },
+      "sourceProvenance": {
+        "canonicalFile": "src/psalter-abc/psalter109.ts",
+        "canonicalSha256": "e9283759a504eff85011f6a8ef11061ff4b0f3259e5f1e54fd9ab5cb95b0bd4d",
+        "canonicalSnapshotEqualsCurrent": true,
+        "catalogArrangements": [
+          {
+            "id": "psalter109",
+            "number": 109,
+            "variant": "",
+            "title": "Personal Devotion to God",
+            "tune": "BELMONT",
+            "composer": "William Gardiner",
+            "psalmNumber": 40,
+            "voices": [
+              {
+                "id": "T1",
+                "clef": "treble"
+              },
+              {
+                "id": "T2",
+                "clef": "treble"
+              },
+              {
+                "id": "B1",
+                "clef": "bass"
+              },
+              {
+                "id": "B2",
+                "clef": "bass"
+              }
+            ]
+          }
+        ],
+        "rfpa": {
+          "url": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+          "localFile": "RFPA The Psalter PDF",
+          "sha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504",
+          "musicPageOneBased": 162,
+          "boundaries": "Complete109 on p162. Adjacent actual renders161 and163 contain108 and110 respectively. All four stanzas engraved; no continuation or alternate109 tune."
+        },
+        "original1912": {
+          "urls": [
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0098.jp2",
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0099.jp2"
+          ],
+          "printedPages": [
+            92,
+            93
+          ],
+          "pixelDimensions": [
+            2156,
+            3202
+          ],
+          "boundaries": "109 follows108 on leaf0098/p92; all music and stanza1 there. Stanzas2–4 continue as prose atop leaf0099/p93 before110. No alternate109 tune or continuation music."
+        },
+        "lineage": "Distinct engravings. Full source pixels and close crops viewed. Enlargements do not add source resolution. User-owned controlling photograph not available; conclusions identify agreement of these two independent print witnesses.",
+        "sourceImageSHA256": {
+          "original1912-leaf0098.jp2": "d8e27d3a93d845231ff89b4eb3b97a5532d1c9a780b6ef0c06a14c8de8149a78",
+          "original1912-leaf0099.jp2": "d2f6c94c32b29ac5897768323658f8a444e66c6ed285885054ca5300ff64f5de",
+          "rfpa-page162-native-0.jpeg": "ef1ed0509afc63efc251bf92b074205f13174ba1f8bf9b66a08fb6b6f2e93adb",
+          "rfpa-page162-native-1.jpeg": "f8c3e3353263198734ac5d19891a3a36d9ed235e12ad5956a41c61f45dc36871"
+        },
+        "preExposureFreeze": {
+          "createdUTC": "2026-10-09T06:59:01.521108+00:00",
+          "ledgerSHA256": "10df416dac897e3cca367d047bb011185bafe0d976d98121292aa032ac5f686c",
+          "canonicalExposed": false,
+          "events": 129,
+          "voices": {
+            "T1": 36,
+            "T2": 31,
+            "B1": 32,
+            "B2": 30
+          }
+        },
+        "canonicalFirstExposureUTC": "2026-10-09T06:59:12Z",
+        "manualRevisions": {
+          "preExposureFreezeSucceeded": true,
+          "initialSHA256": "10df416dac897e3cca367d047bb011185bafe0d976d98121292aa032ac5f686c",
+          "revisedSHA256": "ccd68b5aacea449e69c8777587467b61fa856e28ebe53310a45b2abbb91e7836",
+          "revisionUTC": "2026-10-09T07:01:08.491321+00:00",
+          "revisions": [
+            {
+              "voice": "B1",
+              "q": 27,
+              "before": "F3 MIDI53",
+              "after": "F#3 MIDI54",
+              "reason": "The written F3 staff position is subject to the one-sharp key signature; no natural cancellation. Initial independent ledger omitted the signature for these two bass-clef heads. Both source engravings and coordinator independently confirm canonical F#3."
+            },
+            {
+              "voice": "B2",
+              "q": 24,
+              "before": "F3 MIDI53",
+              "after": "F#3 MIDI54",
+              "reason": "The written F3 staff position is subject to the one-sharp key signature; no natural cancellation. Initial independent ledger omitted the signature for these two bass-clef heads. Both source engravings and coordinator independently confirm canonical F#3."
+            }
+          ],
+          "otherEventRevisions": []
+        },
+        "independentSecondReading": {
+          "findings": [
+            {
+              "kind": "two canonical defects confirmed",
+              "text": "Independent second reading confirms both proposed defects in both editions: soprano 'burned' q10 is D4 half, one space below bottom treble E4 line (not F-sharp4); Alto 'est/to/Thy/I' q39 is E4 quarter on the bottom treble line, not ledger C4."
+            },
+            {
+              "kind": "ledger signature corrections confirmed",
+              "text": "Confirmed signature application in both editions: bass q24 and tenor q27 are F3 staff positions under the one-sharp G-major signature, with no natural cancellation in those measures. Both sound F-sharp3 and canonical is correct."
+            }
+          ]
+        }
+      },
+      "auditIncidents": [
+        {
+          "kind": "initial transcript oracle typo",
+          "detail": "Initial post-freeze prose fixture incorrectly retained the syllable-divider hyphen in of-f'ring. Corrected to lexical off'ring, preserving original fixture and failed transcript results. Frozen syllable ledger already separated of- and f'ring correctly and was not revised."
+        },
+        {
+          "kind": "audio harness pickup default corrected",
+          "detail": "Initial audio harness predicted105 at opening pickup q0. ABCJS flattener processVolume explicitly gives pickup85. Preserved the initial harness/results and corrected expectation; no source ledger or production change."
+        }
+      ],
+      "originalSealSHA256": "5b3f47af825c97cff2ecc69a9c2f89c17fb6da463573f07131f79ca01e9d4c0a",
+      "thinDoubleBars": [
+        12,
+        36
+      ]
+    },
+    {
+      "number": 110,
+      "previousAbc": "T:The Mercy of God Besought\nC:Tune: RUTH; W. Irving Hartshorn\nM:6/8\nL:1/8\nK:Ab\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\n% validator: allow-photographed-partial-bars\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] E | c=B c d2 c | c2 B A2 || A | AG F E2 c | B3-B2 |\nw: 1.~Thy ten- * der mer-cies, O my Lord, With-hold * not, I im-plore; *\nw: 2.~My sins * are more than I can count, My heart * has failed for grief; *\nw: 3.~Let all * who seek Thee now re-joice, Yea, glad * in Thee a-bide; *\n[V:T2] C | E=D E F2 E | E2 D C2 || E | FE D E2 E | E3-E2 |\n[V:B1] A, | A,2 A, A,2 A, | A,2 G, A,2 || A, | A,2 A, A,2 A, | G,3-G,2 |\n[V:B2] A,, | A,,2 A,, A,,2 A,, | E,2 E, F,2 || C, | D,2 D, C,2 A,, | E,3-E,2 |\n[V:T1] E | c=B c d2 c | c2 B A2 || F | E2 E EF G | A3-A2 |\nw: But let * Thy kind-ness and Thy truth Pre-serve me ev- * er-more. *\nw: Be pleased, * O Lord, to res-cue me, O haste to my * re-lief. *\nw: And, lov- * ing Thy sal-va-tion, say, The Lord be mag- * ni-fied. *\n[V:T2] E | E=D E F2 E | E2 D C2 || D | CB, C D2 D | C3-C2 |\n[V:B1] G, | A,2 A, A,2 A, | A,2 G, A,2 || A, | A,G, A, B,2 B, | A,3-A,2 |\n[V:B2] E, | A,,2 A,, A,,2 A,, | E,2 E, F,2 || D, | E,2 E, E,2 E, | A,,3-A,,2 |\n[V:T1] A | A2 A G2 G | F2 =E F2 || F | E2 E A2 c | B3-B2 |\nw: For count-less ills have com-passed me, My sin-ful deeds a-rise; *\nw: Be those who seek to hurt my soul Dis-mayed and put to flight, *\nw: My low-ly state and bit-ter need The Lord has not for-got; *\n[V:T2] E | F2 F =E2 E | F2 D D2 || D | C2 C E2 E | E3-E2 |\n[V:B1] C | C2 C C2 B, | A,2 A, A,2 || A, | A,2 A, C2 A, | G,3-G,2 |\n[V:B2] A, | F,2 F, C,2 C, | D,2 D, D,2 || D, | A,,2 A,, A,,2 A,, | E,3-E,2 |\n[V:T1] d | c=B c d2 c | c2 B A2 || F | E2 E EF G | A3-A2 |]\nw: Yea, they * have o-ver-tak-en me; I dare not raise * my eyes. *\nw: And they * them-selves be put to shame Who in my woe * de-light. *\nw: Thou art * my Sav-iour and my help, Come, Lord, and tar- * ry not. *\n[V:T2] E | E=D E F2 E | E2 D C2 || D | CB, C D2 D | C3-C2 |]\n[V:B1] G, | A,2 A, A,2 A, | A,2 G, A,2 || A, | A,G, A, B,2 B, | A,3-A,2 |]\n[V:B2] E, | A,,2 A,, A,,2 A,, | E,2 E, F,2 || D, | E,2 E, E,2 E, | A,,3-A,,2 |]\nW:[Stanzas 12–17]",
+      "corrections": [
+        {
+          "before": "a-bide;",
+          "after": "a-bide,"
+        }
+      ],
+      "events": 254,
+      "ledgerSHA256": "8134d994af163a37b314bc8ba0a8538f556ef3f20e359685ef4ca3a945630d54",
+      "correctedAbcSHA256": "14e5c76fafaffdb7946c33106dd8b5a9145fba37dbbbd86687fcf1bb5d34463f",
+      "previousSelection": [],
+      "currentSelection": [
+        1,
+        2,
+        3
+      ],
+      "prose": {
+        "1": "Thy tender mercies, O my Lord, Withhold not, I implore; But let Thy kindness and Thy truth Preserve me evermore. For countless ills have compassed me, My sinful deeds arise; Yea, they have overtaken me; I dare not raise my eyes.",
+        "2": "My sins are more than I can count, My heart has failed for grief; Be pleased, O Lord, to rescue me, O haste to my relief. Be those who seek to hurt my soul Dismayed and put to flight, And they themselves be put to shame Who in my woe delight.",
+        "3": "Let all who seek Thee now rejoice, Yea, glad in Thee abide, And, loving Thy salvation, say, The Lord be magnified. My lowly state and bitter need The Lord has not forgot; Thou art my Saviour and my help, Come, Lord, and tarry not."
+      },
+      "preExposureFreeze": {
+        "createdUTC": "2026-10-09T07:00:48.051426+00:00",
+        "ledgerSHA256": "26906c19b7306be92efc9a4e28f2f4751451fd6a34604ddfebfac4a39ee592a6",
+        "canonicalExposed": false,
+        "events": 254,
+        "voices": {
+          "T1": 66,
+          "T2": 66,
+          "B1": 62,
+          "B2": 60
+        }
+      },
+      "independentReview": {
+        "summary": "Independent staff reading supports those four bass ledger revisions: q6/q8 C3 in the space between B2 and D3 lines; q6.5/q7.5 D-flat3 on the middle D3 line under the four-flat signature. Both editions agree with canonical.",
+        "punctuationReview": {
+          "summary": "Both tight abide crops show a comma, with no upper dot. RFPA line is partly cropped but punctuation tail and absence of a semicolon upper dot are visible; original prose is especially clear. Canonical semicolon is therefore a punctuation discrepancy, separate from the corrected four-note source-ledger reading."
+        }
+      },
+      "sourceProvenance": {
+        "canonicalFile": "src/psalter-abc/psalter110.ts",
+        "canonicalSha256": "9b733cd21f5960bc92fe9985bc001ed41b6452ccea42eb224792a23531bf9574",
+        "canonicalSnapshotEqualsCurrent": true,
+        "catalogArrangements": [
+          {
+            "id": "psalter110",
+            "number": 110,
+            "variant": "",
+            "title": "The Mercy of God Besought",
+            "tune": "RUTH",
+            "composer": "W. Irving Hartshorn",
+            "psalmNumber": 40,
+            "voices": [
+              {
+                "id": "T1",
+                "clef": "treble"
+              },
+              {
+                "id": "T2",
+                "clef": "treble"
+              },
+              {
+                "id": "B1",
+                "clef": "bass"
+              },
+              {
+                "id": "B2",
+                "clef": "bass"
+              }
+            ]
+          }
+        ],
+        "rfpa": {
+          "url": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+          "localFile": "RFPA The Psalter PDF",
+          "sha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504",
+          "musicPageOneBased": 163,
+          "boundaries": "Complete110 on p163; adjacent viewed pages162 and164 contain109/111. All3 long stanzas engraved, no continuation."
+        },
+        "original1912": {
+          "urls": [
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0099.jp2",
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0100.jp2"
+          ],
+          "printedPages": [
+            93,
+            94
+          ],
+          "pixelDimensions": [
+            2156,
+            3202
+          ],
+          "boundaries": "110 follows109 prose on p93. All110 music and stanza1 are engraved; stanzas2–3 appear as prose on the same page. Viewed p94 begins111. No alternate tune."
+        },
+        "lineage": "Distinct engravings. Both show identical four-system A-flat-major6/8 SATB tune. Actual native scan and original1912 pixels viewed; enlargements add no source resolution.",
+        "sourceImageSHA256": {
+          "original1912-leaf0099.jp2": "d2f6c94c32b29ac5897768323658f8a444e66c6ed285885054ca5300ff64f5de",
+          "original1912-leaf0100.jp2": "31a7a0bd41f127caa2fa6476ae5f901329acef81c7dea8b216dc1cab4f3fa0c9",
+          "rfpa-native-0.jpeg": "17cab9b21d6c974083bd26718985db554740d58bcad7be5e6ee7e1a9b4bb4b65",
+          "rfpa-native-1.jpeg": "db8008e8a5206f715c6ed96f17e39312f09124871eb6863c212c77fce4ae993e",
+          "rfpa-native-2.jpeg": "336a547c8953e554ae6fcba02246a84c660441b0cb9d12c858f65024e5f2b0c5",
+          "rfpa-native-3.jpeg": "9befa5bd7a468f75f952fb8b8fccaac48f8cc59ea21fbc0557ccc52ced837602"
+        },
+        "preExposureFreeze": {
+          "createdUTC": "2026-10-09T07:00:48.051426+00:00",
+          "ledgerSHA256": "26906c19b7306be92efc9a4e28f2f4751451fd6a34604ddfebfac4a39ee592a6",
+          "canonicalExposed": false,
+          "events": 254,
+          "voices": {
+            "T1": 66,
+            "T2": 66,
+            "B1": 62,
+            "B2": 60
+          }
+        },
+        "canonicalFirstExposureUTC": "2026-10-09T07:00:54Z",
+        "manualRevisions": {
+          "preExposureFreezeSucceeded": true,
+          "initialSHA256": "26906c19b7306be92efc9a4e28f2f4751451fd6a34604ddfebfac4a39ee592a6",
+          "revisedSHA256": "8134d994af163a37b314bc8ba0a8538f556ef3f20e359685ef4ca3a945630d54",
+          "revisionUTC": "2026-10-09T07:02:30.586089+00:00",
+          "revisions": [
+            {
+              "voice": "B2",
+              "q": [
+                6,
+                6.5,
+                7.5,
+                8
+              ],
+              "before": [
+                "Db3",
+                "Eb3",
+                "Eb3",
+                "Db3"
+              ],
+              "after": [
+                "C3",
+                "Db3",
+                "Db3",
+                "C3"
+              ],
+              "reason": "Closer actual source pixels after comparison show C3 in bass space between B2 and D3, Db3 on middle line. Both editions and independent coordinator agree canonical is correct. No source correction.",
+              "crops": [
+                "rfpa-bass-phrase2.png",
+                "original1912-bass-phrase2.png"
+              ]
+            }
+          ],
+          "postExposureOtherChanges": []
+        },
+        "independentSecondReading": {
+          "summary": "Independent staff reading supports those four bass ledger revisions: q6/q8 C3 in the space between B2 and D3 lines; q6.5/q7.5 D-flat3 on the middle D3 line under the four-flat signature. Both editions agree with canonical.",
+          "punctuationReview": {
+            "summary": "Both tight abide crops show a comma, with no upper dot. RFPA line is partly cropped but punctuation tail and absence of a semicolon upper dot are visible; original prose is especially clear. Canonical semicolon is therefore a punctuation discrepancy, separate from the corrected four-note source-ledger reading."
+          }
+        }
+      },
+      "auditIncidents": [
+        {
+          "kind": "post-exposure manual revisions",
+          "detail": "Four bass pitches revised after source close-read and coordinator confirmation; original freeze and initial comparison retained. No failed freeze."
+        },
+        {
+          "kind": "punctuation close-reading",
+          "detail": "Original1912 full-page resized image initially appeared to show semicolon after abide. Tight native crop shows comma; coordinator independently confirmed. Original frozen RFPA ledger already has comma, so it was not changed. Post-exposure separately entered transcript-prose expectation was corrected before transcript tests."
+        },
+        {
+          "kind": "audio-harness pickup metric",
+          "detail": "Initial adapted audio expectation treated q0 as accented bar start105. ABCJS source processVolume gives initial pickup85. All pitches/durations/onsets/ends already agreed. Preserved initial harness/results/log, corrected metric expectation from actual dependency code, reran48 cases successfully."
+        }
+      ],
+      "originalSealSHA256": "5045726dc65b004cd9fc175fba199de8c0447db22699dbad4885c1d1da6db83e",
+      "thinDoubleBars": [
+        6,
+        18,
+        30,
+        42
+      ]
+    },
+    {
+      "number": 112,
+      "previousAbc": "T:An Entreaty for Mercy\nC:Tune: FLEMMING; Arranged from F. F. Flemming\nM:4/4\nL:1/4\nK:Ab\n%%score (T1 T2) (B1 B2)\n%%stretchlast 1\nV:T1 clef=treble\nV:T2 clef=treble\nV:B1 clef=bass\nV:B2 clef=bass\n[V:T1] A2 A A | B2 B2 | (c A) (A B) | (A2 G) z | c2 c c |\nw: 1.~Be-fore Thy peo-ple I * con- * fess * The won-ders\nw: 2.~With-hold not Thou Thy grace * from * me, * O Lord, Thy\nw: 3.~Let all who seek to see * Thy * face * Be glad and\nw: 4.~Al-though I poor and need- * y * be, * The Lord in\n[V:T2] E2 E E | E2 E2 | (E =E) F2 | E2-E x | E2 E E |\n[V:B1] C2 C C | D2 D2 | C2 D2 | (C2 B,) z | A,2 A, A, |\n[V:B2] A,2 A, A, | G,2 G,2 | A,2 D,2 | E,2-E, x | A,2 A, A, |\n[V:T1] (c3/2 B/) B2 | A2 (B A) | (A2 G) z | c2 A A | (d3/2 c/) B2 |\nw: of * Thy right-eous- * ness; * Thou know-est, Lord, * that\nw: mer- * cy let me * see; * To me Thy lov- * ing-\nw: joy- * ful in Thy * grace; * Let those who Thy * sal-\nw: love * takes thought for * me; * Thou art my help * in\n[V:T2] =E2 E2 | F2 F2 | (F2 =E) x | A2 E E | E2 E2 |\n[V:B1] (B,3/2 C/) C2 | C2 D2 | C2-C z | E2 C C | B,2 B,2 |\n[V:B2] G,2 G,2 | F,2 F,2 | C,2-C, x | A,2 A, A, | G,2 G,2 |\n[V:T1] c2 (B A) | (G F E2) | c2 A B | A2 B2 | c3 z | A2 A A |\nw: I have * made * * Thy great sal-va-tion known, Thy truth and\nw: kind-ness * show, * * Thy truth be still my stay; Let them pre-\nw: va-tion * love * * For ev-er-more pro-claim, O praise the\nw: time of * need, * * My Sav-iour, Lord, art Thou; Then, O my\n[V:T2] E2 =D2 | (E ^D E2) | E2 F F | E2 E2 | E3 x | E2 E E |\n[V:B1] A,2 B,2 | (B, A, G,2) | A,2 A, D | C2 G,2 | A,3 z | C2 C C |\n[V:B2] A,2 F,2 | E,4 | A,,2 D, B,, | E,2 E,2 | A,,3 x | A,2 A, A, |\n[V:T1] B2 B2 | (c A) (A B) | (A2 G) z | c2 A B | A2 G2 | A4 |]\nw: faith-ful-ness * dis- * played, * Thy lov-ing-kind-ness shown.\nw: serve me where * I * go, * And keep me ev-'ry day.\nw: Lord Who dwells * a- * bove, * And mag-ni-fy His Name.\nw: God, I pray, * I * plead, * Stay not, but save me now.\n[V:T2] E2 E2 | (E =E) F2 | E2-E x | E2 F F | E2 E2 | E4 |]\n[V:B1] D2 D2 | C2 D2 | (C2 B,) z | A,2 A, D | C2 B,2 | C4 |]\n[V:B2] G,2 G,2 | A,2 D,2 | E,2-E, x | A,,2 D, B,, | C,2 C,2 | A,,4 |]\nW:[Stanzas 5–8]",
+      "corrections": [
+        {
+          "before": "(E ^D E2)",
+          "after": "(E =D E2)"
+        },
+        {
+          "before": "| C,2 C,2 | A,,4 |]",
+          "after": "| E,2 E,2 | A,,4 |]"
+        },
+        {
+          "before": "see;",
+          "after": "see,"
+        }
+      ],
+      "events": 221,
+      "ledgerSHA256": "ab244e7c01a615e07f808365e7a638a7dfcfb2e5ae6053530f1a1a51bf646be6",
+      "correctedAbcSHA256": "5b394a5db7e7cbdce7fd82a1c9e9ef17f93c87848991a5689f84a1b1350abde8",
+      "previousSelection": [],
+      "currentSelection": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "prose": {
+        "1": "Before Thy people I confess The wonders of Thy righteousness; Thou knowest, Lord, that I have made Thy great salvation known, Thy truth and faithfulness displayed, Thy loving-kindness shown.",
+        "2": "Withhold not Thou Thy grace from me, O Lord, Thy mercy let me see, To me Thy loving-kindness show, Thy truth be still my stay; Let them preserve me where I go, And keep me every day.",
+        "3": "Let all who seek to see Thy face Be glad and joyful in Thy grace; Let those who Thy salvation love For evermore proclaim, O praise the Lord Who dwells above, And magnify His Name.",
+        "4": "Although I poor and needy be, The Lord in love takes thought for me; Thou art my help in time of need, My Saviour, Lord, art Thou; Then, O my God, I pray, I plead, Stay not, but save me now."
+      },
+      "preExposureFreeze": {
+        "createdUTC": "2026-10-09T07:16:30.236549+00:00",
+        "ledgerSHA256": "c5f0ff0031e89cf8a2e0bec52ee5d2acd00948d8a0a9ffbc1bd7181b4d422623",
+        "canonicalExposed": false,
+        "events": 221,
+        "voices": {
+          "T1": 61,
+          "T2": 55,
+          "B1": 54,
+          "B2": 51
+        }
+      },
+      "independentReview": {
+        "findings": [
+          "Second pixels confirm both findings: q45 lower treble head has a natural sign in RFPA and original, so D-natural; terminal bass bar21 heads sit on the second bass staff line from bottom, E-flat3 under key, not C3. Final bar22 shows four stemless whole heads, duration4, supporting the documented ledger duration revision.",
+          "Independent pixels confirm stanza2 ‘see,’ comma in RFPA native second system and original prose. Shared-rest visibility is a separate qualification; this reading does not certify rendered geometry."
+        ],
+        "decisions": "Three incorrect canonical pitches and stanza2 punctuation confirmed. Four terminal duration ledger revisions confirmed against canonical. Shared-rest selected-part visibility remains a parser/preparation finding, not geometry certified."
+      },
+      "sourceProvenance": {
+        "canonicalFile": "src/psalter-abc/psalter112.ts",
+        "canonicalSha256": "5df1e637b9ad3e4d26573e5d58da542145a68c54c0ee5e2ef4d6842ade613d42",
+        "canonicalSnapshotEqualsCurrent": true,
+        "catalogArrangements": [
+          {
+            "id": "psalter112",
+            "number": 112,
+            "variant": "",
+            "title": "An Entreaty for Mercy",
+            "tune": "FLEMMING",
+            "composer": "Arranged from F. F. Flemming",
+            "psalmNumber": 40,
+            "voices": [
+              {
+                "id": "T1",
+                "clef": "treble"
+              },
+              {
+                "id": "T2",
+                "clef": "treble"
+              },
+              {
+                "id": "B1",
+                "clef": "bass"
+              },
+              {
+                "id": "B2",
+                "clef": "bass"
+              }
+            ]
+          }
+        ],
+        "rfpa": {
+          "url": "https://nrcfortmacleod.tor1.cdn.digitaloceanspaces.com/psalters/General/The_Psalter.pdf",
+          "localFile": "RFPA The Psalter PDF",
+          "sha256": "3653def7fed8b8c978dbe7aec978d2941473a58f27a985c80586c7e49e7e1504",
+          "musicPagesOneBased": [
+            166,
+            167
+          ],
+          "boundaries": "112 begins166 with three systems and continues167 with fourth system; all four stanzas engraved. Adjacent viewed165 ends111;168 begins113. No alternate112."
+        },
+        "original1912": {
+          "urls": [
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0101.jp2",
+            "https://archive.org/download/psalterwithrespo00unit/psalterwithrespo00unit_jp2.zip/psalterwithrespo00unit_jp2%2Fpsalterwithrespo00unit_0102.jp2"
+          ],
+          "printedPages": [
+            95,
+            96
+          ],
+          "pixelDimensions": [
+            2156,
+            3202
+          ],
+          "boundaries": "Leaf0101 printed95 has all112 music/stanza1 in three systems and prose2–4 on same page;0102 printed96 starts113. No additional112 tune or continuation."
+        },
+        "lineage": "Distinct engravings inspected in actual native pixels and original-resolution system crops. RFPA enlargements add no source resolution. Expectations came from actual music pixels, not extracted/OCR text.",
+        "sourceImageSHA256": {
+          "original1912-leaf0101.jp2": "1b737e5eedd06ecaf06c8fc03983de856028882182dcbc414c34f515747c15b7",
+          "original1912-leaf0102.jp2": "c494b758dac0aab1d3905976487556cef8adbe058ab09cef9a1be9ea7065ea73",
+          "rfpa-native-0.jpeg": "31648f1fd3a1493cacc1106202f56975634e91e24998a5951769b7fd6c3fcee9",
+          "rfpa-native-1.jpeg": "5cb38d38e27f823f33466e5778242b7945f2bd4e4eac6e66b36d1e3dba04c5c6",
+          "rfpa-native-2.jpeg": "d5934e1bd0ab45e135bc40812ec78f885184ec8d0bf005dcdf82e295193a822a",
+          "rfpa-page167-native-0.jpeg": "8c1a0ea5a411b7eac624a4ac6f0bc86def1579e5562a071aed72c865fb72f51a"
+        },
+        "preExposureFreeze": {
+          "createdUTC": "2026-10-09T07:16:30.236549+00:00",
+          "ledgerSHA256": "c5f0ff0031e89cf8a2e0bec52ee5d2acd00948d8a0a9ffbc1bd7181b4d422623",
+          "canonicalExposed": false,
+          "events": 221,
+          "voices": {
+            "T1": 61,
+            "T2": 55,
+            "B1": 54,
+            "B2": 51
+          }
+        },
+        "canonicalFirstExposureUTC": "2026-10-09T07:16:38Z",
+        "manualRevisions": {
+          "preExposureFreezeSucceeded": true,
+          "initialSHA256": "c5f0ff0031e89cf8a2e0bec52ee5d2acd00948d8a0a9ffbc1bd7181b4d422623",
+          "revisedSHA256": "ab244e7c01a615e07f808365e7a638a7dfcfb2e5ae6053530f1a1a51bf646be6",
+          "revisionUTC": "2026-10-09T07:19:04.086679+00:00",
+          "revisions": [
+            {
+              "voice": "T1",
+              "q": 84,
+              "beforeDuration": 2,
+              "afterDuration": 4,
+              "reason": "Post-exposure source rereading: all four terminal heads are stemless whole notes, not half notes. Canonical duration4 is correct. Coordinator second reading requested."
+            },
+            {
+              "voice": "T2",
+              "q": 84,
+              "beforeDuration": 2,
+              "afterDuration": 4,
+              "reason": "Post-exposure source rereading: all four terminal heads are stemless whole notes, not half notes. Canonical duration4 is correct. Coordinator second reading requested."
+            },
+            {
+              "voice": "B1",
+              "q": 84,
+              "beforeDuration": 2,
+              "afterDuration": 4,
+              "reason": "Post-exposure source rereading: all four terminal heads are stemless whole notes, not half notes. Canonical duration4 is correct. Coordinator second reading requested."
+            },
+            {
+              "voice": "B2",
+              "q": 84,
+              "beforeDuration": 2,
+              "afterDuration": 4,
+              "reason": "Post-exposure source rereading: all four terminal heads are stemless whole notes, not half notes. Canonical duration4 is correct. Coordinator second reading requested."
+            }
+          ],
+          "otherChanges": []
+        },
+        "independentSecondReading": {
+          "findings": [
+            "Second pixels confirm both findings: q45 lower treble head has a natural sign in RFPA and original, so D-natural; terminal bass bar21 heads sit on the second bass staff line from bottom, E-flat3 under key, not C3. Final bar22 shows four stemless whole heads, duration4, supporting the documented ledger duration revision.",
+            "Independent pixels confirm stanza2 ‘see,’ comma in RFPA native second system and original prose. Shared-rest visibility is a separate qualification; this reading does not certify rendered geometry."
+          ],
+          "decisions": "Three incorrect canonical pitches and stanza2 punctuation confirmed. Four terminal duration ledger revisions confirmed against canonical. Shared-rest selected-part visibility remains a parser/preparation finding, not geometry certified."
+        }
+      },
+      "auditIncidents": [],
+      "originalSealSHA256": "55a5ecd38510de129ad1d9131e6058b15f5b47b798fcab7811fce2bb1cd042f6",
+      "thinDoubleBars": []
+    }
+  ],
+  "publicEvidenceNote": "Musical review findings summarized for public distribution; internal coordination and private repository identifiers omitted. Original source and musical ledger identities are retained."
+}

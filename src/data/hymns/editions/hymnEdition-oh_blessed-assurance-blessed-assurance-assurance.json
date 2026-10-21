@@ -1,0 +1,126 @@
+{
+  "sourceSha256": "cff4ed719969ce105b87cf164c3449dab45db25f6f5dd6a6ee7aa387ac1645b5",
+  "metadata": {
+    "id": "hymn-oh_blessed-assurance-blessed-assurance-assurance",
+    "title": "Blessed Assurance",
+    "composer": "Words: Fanny Crosby, 1873. · Music and Setting: 'Blessed Assurance' or 'Assurance' Phoebe P. Knapp, 1873.",
+    "voices": [
+      {
+        "id": "S1V1",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V1)"
+      },
+      {
+        "id": "S1V2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (S1V2)"
+      },
+      {
+        "id": "S2V1",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V1)"
+      },
+      {
+        "id": "S2V2",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (S2V2)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "oh_blessed-assurance-blessed-assurance-assurance",
+    "sourceUrls": [
+      "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Blessed_Assurance/Blessed_Assurance-Blessed_Assurance-Assurance.abc"
+    ],
+    "collection": "Open Hymnal Project (GitHub mirror)",
+    "credits": [
+      "Words: Fanny Crosby, 1873.",
+      "Music and Setting: 'Blessed Assurance' or 'Assurance' Phoebe P. Knapp, 1873.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision.",
+      "Music source: \"The Lesser Hymnal\", 1875 hymn 323.  Most of hymnal does not contain 4 part music.  This does, attr. to Mrs. Joseph Knapp."
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+      "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Tune: 'Blessed Assurance' or 'Assurance' Phoebe P. Knapp, 1873.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "oh_blessed-assurance-blessed-assurance-assurance",
+      "title": "Blessed Assurance",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B127"
+        }
+      ],
+      "file": "abc/oh_blessed-assurance-blessed-assurance-assurance.abc",
+      "sha256": "cff4ed719969ce105b87cf164c3449dab45db25f6f5dd6a6ee7aa387ac1645b5",
+      "canonical_reference_in_archive": "abc/oh_blessed-assurance-blessed-assurance-assurance.abc",
+      "source_url": "https://raw.githubusercontent.com/mzealey/openhymnal/d35811b2d5c9b0bbc5887d60a2936454815416e8/Complete/Blessed_Assurance/Blessed_Assurance-Blessed_Assurance-Assurance.abc",
+      "collection": "Open Hymnal Project (GitHub mirror)",
+      "rights_and_attribution": {
+        "basis": "Source declares public domain under Open Hymnal US-law scope. No worldwide publication clearance inferred.",
+        "attribution": [
+          "Words: Fanny Crosby, 1873.",
+          "Music and Setting: 'Blessed Assurance' or 'Assurance' Phoebe P. Knapp, 1873.",
+          "copyright: public domain.  This score is a part of the Open Hymnal Project, 2008 Revision.",
+          "Music source: \"The Lesser Hymnal\", 1875 hymn 323.  Most of hymnal does not contain 4 part music.  This does, attr. to Mrs. Joseph Knapp."
+        ]
+      },
+      "scope_and_edition_notes": [
+        "Tune: 'Blessed Assurance' or 'Assurance' Phoebe P. Knapp, 1873.\nConfirmed traditional hymn source; recording not auditioned\nHistorical hymn edition only; recording-specific arrangement and modern additions are not supplied or cleared.\nABCJS not tested. ABC Plus uses abcm2ps-specific postscript/deco/staves directives; engraving metadata and occasional legacy text encoding may need importer handling."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": "reports/oh_blessed-assurance-blessed-assurance-assurance.provenance.json",
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B127",
+      "title": "Blessed Assurance",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "oh_blessed-assurance-blessed-assurance-assurance",
+      "abc_file": "abc/oh_blessed-assurance-blessed-assurance-assurance.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B127",
+        "Song title": "Blessed Assurance",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/B/Blessed_Assurance/Blessed_Assurance.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Blessed_Assurance/",
+        "Editable source": "",
+        "Tune and work identity": "ASSURANCE; Phoebe P. Knapp; words Fanny J. Crosby",
+        "Public distribution rights": "Opened Timeless Truths source explicitly labels both words and music Public Domain. Use this traditional score, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Blessed_Assurance/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional title/work candidate; no recording audio comparison performed. Three versions grouped. Traditional core qualifies only if all use ASSURANCE without copyrighted additions. Latest user permits a traditional PD tune even if different from recorded tune; use only historical text without added contemporary chorus.",
+        "Playlist positions": "170, 171, 266",
+        "Playlist artists": "Hymns You Love to Sing Performers; Jadon Lavik; Phillips, Craig & Dean",
+        "Original track titles": "Blessed Assurance",
+        "Source review": "PDF score with lyrics\nPDF opened and parsed; recording tune not independently confirmed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

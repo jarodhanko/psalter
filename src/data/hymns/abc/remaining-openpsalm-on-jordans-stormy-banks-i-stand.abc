@@ -1,0 +1,116 @@
+% Source edition: remaining-openpsalm-on-jordans-stormy-banks-i-stand
+% Source URL: https://openpsalm.com/api/songs/334/export/musicxml
+% Source SHA256: 64afd41f82111da4bbe1878b58dc6d0003e01f2a077700b8c3c062506d372f8a
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_OpenPsalm_On_Jordans_Stormy_Banks_I_Stand.repairs.json
+% Catalog membership: book1:H064, book2:B059
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Source arrangement license: Creative Commons Attribution 4.0 International
+% License URL: https://creativecommons.org/licenses/by/4.0/
+% Changes: MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.
+% Original creator (composer): Tullius C. O'Kane
+% Original creator (lyricist): Samuel Stennett
+% Original creator (arranger): OpenPsalm
+% Original rights: Lyrics: Samuel Stennett, 1787 (public domain)
+% Original rights: Music: Tullius C. O'Kane, 1877 (public domain)
+% Original rights: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+% Original credit-words: On Jordan's Stormy Banks I Stand
+% Original credit-words: Lyrics: Samuel Stennett, 1787 (public domain)
+% Original credit-words: Music: Tullius C. O'Kane, 1877 (public domain)
+% Original credit-words: Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+X:1
+T:On Jordan's Stormy Banks I Stand
+C:Tullius C. O'Kane
+Z:Samuel Stennett
+Z:Lyrics: Samuel Stennett, 1787 (public domain)
+Z:Music: Tullius C. O'Kane, 1877 (public domain)
+Z:Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license
+%%score ( 1 2 ) ( 3 4 )
+L:1/8
+Q:1/4=100
+M:4/4
+K:G
+V:1 treble nm="Soprano & Alto"
+V:2 treble 
+L:1/4
+V:3 bass nm="Tenor & Bass"
+V:4 bass 
+L:1/4
+V:1
+[L:1/8]
+ x6 (GB) | d3 e d2 B2 | G2 A2 G2 G2 | A2 A2 A2 (dc) | %4
+w: 1.~On_|Jor- dan's storm- y|banks I stand, And|cast a wish- ful_|
+w: 2.~O'er_|all those wide ex-|tend- ed plains Shines|one e- ter- nal_|
+w: 3.~When_|shall I reach that|hap- py place, And|be for- ev- er_|
+w: 4.~Filled_|with de- light, my|rap- tured soul Would|here no long- er_|
+ B6 (GB) | d3 e d2 B2 | G2 A2 G2 G2 | A2 c2 (BA) (GF) || %8
+w: eye To_|Ca- naan's fair and|hap- py land, Where|my pos- ses- * sions_|
+w: day; There_|God, the Sun, for-|ev- er reigns, And|scat- ters night_ a- *|
+w: blest? When_|shall I see my|Fa- ther's face, And|in His bos- * om_|
+w: stay; Tho'_|Jor- dan's waves a-|round me roll, Fear-|less I'd launch_ a- *|
+ G6"^Refrain." G A | B2 B3/2 B/ B A B c | d4- d2 d3/2 d/ | e2 e3/2 e/ d d B2 | %12
+w: lie. We will|rest in the fair and hap- py|land,_ Just a-|cross on the ev- er- green|
+w: way. * *||||
+w: rest? * *||||
+w: way. * *||||
+ (A2 c2 B2) G3/2 A/ | B2 B2 B3/2 A/ B c | d2 d3/2 c/ B2 B2 | A2 c2 B3/2 A/ G F | %16
+w: shore,__ Sing the|song of Mos- es and the|Lamb, by and by, And|dwell with Je- sus ev- er-|
+w: ||||
+w: ||||
+w: ||||
+ G6 x2 | %17
+w: more.|
+w: |
+w: |
+w: |
+V:2
+[L:1/4]
+ x3 (D/G/) | G3/2 G/ G G | E E E G | F F F (B/A/) | %4
+w: ||||
+ G3 D | G3/2 G/ G G | E E E G | F F F D || %8
+w: ||||
+ D3 D/ D/ | G G3/4 G/4 G/ F/ G/ F/ | G G3/4 F/4 G G3/4 G/4 | G G3/4 G/4 G/ G/ G | %12
+w: ||* by and by, * *||
+ F/ F/ A G D3/4 D/4 | G G G3/4 F/4 G/ F/ | G G3/4 F/4 G G | E E F3/4 F/4 D/ D/ | %16
+w: * er- green shore, * *||||
+ D3 x | %17
+w: |
+V:3
+[L:1/8]
+ x6 (B,D) | B,3 C B,2 D2 | C2 C2 C2 B,2 | D2 D2 D2 D2 | %4
+w: 1.~On_|Jor- dan's storm- y|banks I stand, And|cast a wish- ful|
+w: 2.~O'er_|all those wide ex-|tend- ed plains Shines|one e- ter- nal|
+w: 3.~When_|shall I reach that|hap- py place, And|be for- ev- er|
+w: 4.~Filled_|with de- light, my|rap- tured soul Would|here no long- er|
+ D6 (B,D) | B,3 C B,2 D2 | C2 C2 C2 B,2 | C2 A,2 (DC) (B,A,) || %8
+w: eye To_|Ca- naan's fair and|hap- py land, Where|my pos- ses- * sions_|
+w: day; There_|God, the Sun, for-|ev- er reigns, And|scat- ters night_ a- *|
+w: blest? When_|shall I see my|Fa- ther's face, And|in His bos- * om_|
+w: stay; Tho'_|Jor- dan's waves a-|round me roll, Fear-|less I'd launch_ a- *|
+ B,6 B, C | D2 D3/2 D/ D D D D | D2 D3/2 C/ B,2 B,3/2 B,/ | C2 C3/2 C/ B, B, D2 | %12
+w: lie. We will|rest in the fair and hap- py|land, by and by, Just a-|cross on the ev- er- green|
+w: way. * *||||
+w: rest? * *||||
+w: way. * *||||
+ D4- D2 B,3/2 C/ | D2 D2 D3/2 D/ D D | D4- D2 D2 | C2 A,2 D3/2 C/ B, A, | %16
+w: shore,_ Sing the|song of Mos- es and the|Lamb,_ And|dwell with Je- sus ev- er-|
+w: ||||
+w: ||||
+w: ||||
+ B,6 x2 | %17
+w: more.|
+w: |
+w: |
+w: |
+V:4
+[L:1/4]
+ x3 G, | G,3/2 G,/ G, G, | C, C, C, E, | D, D, D, D, | %4
+w: ||||
+ G,3 G, | G,3/2 G,/ G, G, | C, C, C, E, | D, D, D, D, || %8
+w: ||||
+ G,,3 G,/ G,/ | G, G,3/4 G,/4 G,/ D,/ G,/ A,/ | B, B,3/4 A,/4 G, G,3/4 G,/4 | (C,/D,/) E,3/4 F,/4 G,/ G,/ G, | %12
+w: ||||
+ D,/ D,/ D, G, G,3/4 G,/4 | G, G, G,3/4 D,/4 G,/ G,/ | B, B,3/4 A,/4 G, G, | C, C, D,3/4 D,/4 D,/ D,/ | %16
+w: * er- green shore, * *||* by and by, *||
+ G,,3 x | %17
+w: |

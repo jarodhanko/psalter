@@ -1,0 +1,50 @@
+X:1
+T:We'll Work till Jesus Comes
+T:O LAND OF REST
+C:Elizabeth Mills (1837); William Miller (1859)
+S:Mobile Hymns, public-domain-labelled full score, retrieved 2026-09-30
+Z:Source-assisted manual SATB transcription; no new harmony or tempo
+N:Four printed stanzas and common refrain; all four voices, source slurs and staggered refrain entries retained.
+N:Shared stanza/refrain text is under soprano; separately printed lower-part response words are under bass at their actual note onsets.
+N:The source upper and lower voices sometimes sustain while their partner moves; no extra sounded notes or rhythms supplied.
+N:Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed.
+M:4/4
+L:1/4
+%%score { ( 1 2 ) | ( 3 4 ) }
+%%measurenb 0
+%%staffsep 75
+V:1 clef=treble name="Soprano"
+V:2 clef=treble name="Alto"
+V:3 clef=bass name="Tenor"
+V:4 clef=bass name="Bass"
+K:F
+[V:1] (F/G/) | A A A A | c A (A/G/) F | G3/ F/ G G | (A c2) 
+w: 1.~O_ land of rest, for thee I sigh!_ When will the mo- ment come_
+w: 2.~No_ tran- quil joys on earth I know,_ No peace- ful, shelt'- ring dome;_
+w: 3.~To_ Je- sus Christ I fled for rest;_ He bade me cease to roam,_
+w: 4.~I_ sought at once my Sav- ior's side;_ No more my steps shall roam;_
+[V:1] (F/G/) | A A A A | c A (A/G/) F | G3/ F/ G A | F3 ||
+w: When_ I shall lay my ar- mor by_ And dwell in peace at home?
+w: This_ world's a wil- der- ness of woe,_ This world is not my home.
+w: And_ lean for com- fort on His breast_ Till He con- duct me home.
+w: With_ Him I'll brave death's chill- ing tide_ And reach my heav'n- ly home.
+[V:1] c | c3 c | d c (A/G/) F | A3 G | A c c c |
+w: We'll work till Je- sus comes,_ We'll work till Je- sus comes, We'll
+[V:1] c3 c | d c (A/G/) F | G3/ F/ G A | F3 |]
+w: work till Je- sus comes,_ And we'll be gath- ered home.
+[V:2] C | F F F F | E F F C | E3/ D/ E E | F3 
+[V:2] C | F F F F | E F F C | E3/ F/ E E | C3 ||
+[V:2] A | A3 A | B A F z | z F F E | F A A A |
+[V:2] A3 A | B A F C | E3/ F/ E E | C3 |]
+[V:3] (A,/B,/) | C C C C | C C (C/B,/) A, | C3/ C/ C C | (C A,2) 
+[V:3] (A,/B,/) | C C C C | C C (C/B,/) A, | B,3/ A,/ B, C | A,3 ||
+[V:3] z | z F F F | F F (C/B,/) A, | C3 C | C F F z |
+[V:3] z F F F | F F (C/B,/) A, | B,3/ A,/ B, C | A,3 |]
+[V:4] F, | F, F, F, F, | C, F, F, F, | C,3/ C,/ C, C, | F,3 
+w: * * * * * * * * * * * * * *
+[V:4] F, | F, F, F, F, | C, F, F, F, | C,3/ C,/ C, C, | F,3 ||
+w: * * * * * * * * * * * * * *
+[V:4] z | z F, F, F, | B,, F, F, z | z F, F, C, | F, F, F, z |
+w: We'll work * * * * We'll work * * * *
+[V:4] z F, F, F, | B,, F, F, F, | C,3/ C,/ C, C, | F,3 |]
+w: We'll work * * * * * * * * * *

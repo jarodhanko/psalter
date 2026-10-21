@@ -1,0 +1,145 @@
+{
+  "sourceSha256": "6ed762520aa0e9b027d7fb229d1b85d19e19e9be5878351001a254f5ba826cfc",
+  "metadata": {
+    "id": "hymn-mobile-well-work-till-jesus-comes",
+    "title": "We'll Work Till Jesus Comes",
+    "composer": "Elizabeth Mills (1837); William Miller (1859)",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano",
+        "kind": "independent",
+        "name": "Soprano"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "sourceName": "Alto",
+        "kind": "independent",
+        "name": "Alto"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor",
+        "kind": "independent",
+        "name": "Tenor"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "independent",
+        "name": "Bass"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "mobile-well-work-till-jesus-comes",
+    "sourceUrls": [
+      "https://mobilehymns.org/PDF/Well_Work_Till_Jesus_Comes.pdf",
+      "https://mobilehymns.org/english/Well_Work_Till_Jesus_Comes.html",
+      "https://mobilehymns.org/copyright.html"
+    ],
+    "collection": "Mobile Hymns",
+    "credits": [
+      "Elizabeth Mills (1837); William Miller (1859)",
+      "Mobile Hymns, public-domain-labelled full score, retrieved 2026-09-30",
+      "Source-assisted manual SATB transcription; no new harmony or tempo"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Public Domain printed in exact PDF and individual source page",
+      "https://mobilehymns.org/copyright.html",
+      "Source assertion and primarily US catalog basis; no worldwide or recording-specific arrangement clearance claimed.",
+      "Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Four printed stanzas and common refrain; exact source underlay",
+      "Four source voice streams",
+      "Four printed stanzas and common refrain; all four voices, source slurs and staggered refrain entries retained. Shared stanza/refrain text is under soprano; separately printed lower-part response words are under bass at their actual note onsets. The source upper and lower voices sometimes sustain while their partner moves; no extra sounded notes or rhythms supplied.",
+      "Four printed stanzas and common refrain; all four voices, source slurs and staggered refrain entries retained.",
+      "Shared stanza/refrain text is under soprano; separately printed lower-part response words are under bass at their actual note onsets.",
+      "The source upper and lower voices sometimes sustain while their partner moves; no extra sounded notes or rhythms supplied.",
+      "Source Public Domain assertion retained; no worldwide or recording-specific rights clearance claimed."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "mobile-well-work-till-jesus-comes",
+      "title": "We'll Work Till Jesus Comes",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B223"
+        }
+      ],
+      "file": "abc/mobile-well-work-till-jesus-comes.abc",
+      "sha256": "6ed762520aa0e9b027d7fb229d1b85d19e19e9be5878351001a254f5ba826cfc",
+      "canonical_reference_in_archive": "manual_abc/mobile-well-work-till-jesus-comes.abc",
+      "source_url": [
+        "https://mobilehymns.org/PDF/Well_Work_Till_Jesus_Comes.pdf",
+        "https://mobilehymns.org/english/Well_Work_Till_Jesus_Comes.html",
+        "https://mobilehymns.org/copyright.html"
+      ],
+      "collection": "Mobile Hymns",
+      "rights_and_attribution": {
+        "source_label": "Public Domain printed in exact PDF and individual source page",
+        "policy_url": "https://mobilehymns.org/copyright.html",
+        "attribution_retained": true,
+        "territorial_caveat": "Source assertion and primarily US catalog basis; no worldwide or recording-specific arrangement clearance claimed."
+      },
+      "scope_and_edition_notes": [
+        "Four printed stanzas and common refrain; exact source underlay",
+        "Four source voice streams",
+        "Four printed stanzas and common refrain; all four voices, source slurs and staggered refrain entries retained. Shared stanza/refrain text is under soprano; separately printed lower-part response words are under bass at their actual note onsets. The source upper and lower voices sometimes sustain while their partner moves; no extra sounded notes or rhythms supplied."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-mobile-two-review.md",
+        "audit": "reports/independent-mobile-two-review.json"
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B223",
+      "title": "We'll Work Till Jesus Comes",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "mobile-well-work-till-jesus-comes",
+      "abc_file": "abc/mobile-well-work-till-jesus-comes.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B223",
+        "Song title": "We'll Work Till Jesus Comes",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/W/Well_Work_till_Jesus_Comes/Well_Work_till_Jesus_Comes.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Well_Work_till_Jesus_Comes/",
+        "Editable source": "",
+        "Tune and work identity": "O LAND OF REST — William Miller (1859); Elizabeth Mills (1837)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Well_Work_till_Jesus_Comes/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\n Exact Spotify melody not auditioned; recording-specific arrangement is not cleared.",
+        "Playlist positions": "321",
+        "Playlist artists": "Voice of Praise",
+        "Original track titles": "We'll Work Till Jesus Comes",
+        "Source review": "PDF staff notation and full lyrics\nSource page and actual one-page PDF opened; score notation/lyrics extracted; recording audio not auditioned"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

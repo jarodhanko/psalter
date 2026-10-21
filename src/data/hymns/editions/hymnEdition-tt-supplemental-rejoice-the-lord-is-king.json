@@ -1,0 +1,175 @@
+{
+  "sourceSha256": "0a93eeb6c3d3a5100e77b11c2b9cd6bef14ea36ac92223f6f9d851cebc57d1e6",
+  "metadata": {
+    "id": "hymn-tt-supplemental-rejoice-the-lord-is-king",
+    "title": "Rejoice, the Lord Is King",
+    "composer": "“Darwall’s 148th”; John Darwall, pub.1770.",
+    "tune": "Darwall",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-rejoice-the-lord-is-king",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/R/Rejoice_the_Lord_Is_King/Rejoice_the_Lord_Is_King.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Charles Wesley, pub.1744.  MUSIC: “Darwall’s 148th”; John Darwall, pub.1770.  Public Domain.",
+      "Rejoice, the Lord Is King",
+      "Rejoice in the Lord alway: and again I say, Rejoice. Php. 4:4",
+      "The Lord hath prepared his throne in the heavens; and his kingdom ruleth over all. Ps. 103:19"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Charles Wesley, pub.1744.  MUSIC: “Darwall’s 148th”; John Darwall, pub.1770.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-rejoice-the-lord-is-king",
+      "title": "Rejoice, the Lord Is King",
+      "book_memberships": [
+        {
+          "book": "book2",
+          "catalog_id": "B191"
+        }
+      ],
+      "file": "abc/tt-supplemental-rejoice-the-lord-is-king.abc",
+      "sha256": "0a93eeb6c3d3a5100e77b11c2b9cd6bef14ea36ac92223f6f9d851cebc57d1e6",
+      "canonical_reference_in_archive": "musicxml_abc/Rejoice_the_Lord_Is_King.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/R/Rejoice_the_Lord_Is_King/Rejoice_the_Lord_Is_King.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "inspection_status": "parsed_cached_web_text",
+          "method": "web_cached_page_then_actual_link_click",
+          "url": "https://library.timelesstruths.org/music/Rejoice_the_Lord_Is_King/",
+          "snapshot_path": "sources/timelesstruths_supplemental/pages/Rejoice_the_Lord_Is_King.web.txt",
+          "snapshot_sha256": "c4891d1ff9f353ac96d03cded8212ecd953a1292d09dc28798b52d4c5c66e6b9",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain L28:",
+              "preceding_context": [
+                "Joy",
+                "Report Error | << | >> L23: # Rejoice, the Lord Is King",
+                "Charles Wesley , pub.1744"
+              ],
+              "following_context": [
+                "* * *",
+                "Subject: Joy L32:"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain L40:",
+              "preceding_context": [
+                "Scripture: Philippians 4:4; Psalm 103:19 L34:",
+                "Darwall's 148th [.xml ]",
+                "John Darwall , pub.1770"
+              ],
+              "following_context": [
+                "* * *",
+                "Key: D L44:"
+              ]
+            }
+          ],
+          "rights_links": [],
+          "xml_link_count": 1,
+          "inspected_at_utc": "2026-09-30T18:11:04.677Z",
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book2",
+      "catalog_id": "B191",
+      "title": "Rejoice the Lord Is King",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-rejoice-the-lord-is-king",
+      "abc_file": "abc/tt-supplemental-rejoice-the-lord-is-king.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B191",
+        "Song title": "Rejoice the Lord Is King",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/R/Rejoice_the_Lord_Is_King/Rejoice_the_Lord_Is_King.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/Rejoice_the_Lord_Is_King/",
+        "Editable source": "",
+        "Tune and work identity": "DARWALL’S 148TH — John Darwall (1770); Charles Wesley (1744)",
+        "Public distribution rights": "Timeless Truths explicitly labels both words and music Public Domain; use this traditional edition, not the recording arrangement.",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/Rejoice_the_Lord_Is_King/",
+        "Remaining checks / version notes": "Candidate: alternate traditional tune\nSAME HYMN / POSSIBLY DIFFERENT TUNE: DARWALL candidate; GOPSAL also common. Phillips Craig & Dean tune not established. Exact Spotify melody not auditioned; recording-specific arrangement is not cleared. Under revised user instruction, retain this verified traditional PD setting even if recording uses another tune; disclose selected tune explicitly.",
+        "Playlist positions": "267",
+        "Playlist artists": "Phillips, Craig & Dean",
+        "Original track titles": "Rejoice the Lord Is King",
+        "Source review": "PDF staff notation and full lyrics\nSource page opened and PDF score text extracted; visual/audio comparison not completed"
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

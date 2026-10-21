@@ -1,0 +1,49 @@
+X:1
+T:O Love That Wilt Not Let Me Go
+T:ST. MARGARET
+C:George Matheson, 1882
+C:Albert L. Peace, 1884
+S:Mobile Hymns public-domain-labelled score, downloaded 2026-09-30
+Z:Source-assisted transcription preserving four source voices and all four printed verses
+N:No added tempo or arrangement; source-specific public-domain assertion, not worldwide clearance.
+M:4/2
+L:1/4
+%%score { ( 1 2 ) | ( 3 4 ) }
+%%staffsep 100
+V:1 clef=treble name="Soprano"
+V:2 clef=treble name="Alto"
+V:3 clef=bass name="Tenor"
+V:4 clef=bass name="Bass"
+K:Ab
+[V:1] E2 | E3 E E F G A | (A4 G2) G2 
+w: 1.~O Love that wilt not let me go,_ I
+w: 2.~O Light that foll'- west all my way,_ I
+w: 3.~O Joy that seek- est me through pain,_ I
+w: 4.~O Cross that lift- est up my head,_ I
+[V:1] | G3 G G A B c | (e4 d2) d2 | c3 c 
+w: rest my wea- ry soul in Thee;_ I give Thee
+w: yield my flick- ring torch to Thee;_ My heart re-
+w: can- not close my heart to Thee;_ I trace the
+w: dare not ask to fly from Thee;_ I lay in
+[V:1] c B A G | (B4 A2) A2 | A3 A A A 
+w: back the life I owe,_ That in Thine o- cean
+w: stores its bor- rowed ray,_ That in Thy sun- shine's
+w: rain- bow through the rain,_ And feel the prom- ise
+w: dust life's glo- ry dead,_ And from the ground there
+[V:1] G F | E3 F G2 A2 | c6 B2 | A6 |]
+w: depths its flow May rich- er, full- er be.
+w: blaze its day May bright- er, fair- er be.
+w: is not vain, That morn shall tear- less be.
+w: blos- soms red Life that shall end- less be.
+[V:2] C2 | E3 E E E =D D | E6 E2 
+[V:2] | E3 E E E G A | B6 E2 | E3 E 
+[V:2] =E E E E | (G4 F2) C2 | =D3 D D D 
+[V:2] =D D | C3 E E2 E2 | A4 G4 | E6 |]
+[V:3] A,2 | C3 C C C A, A, | (C4 B,2) B,2 
+[V:3] | D3 D D E E E | E6 B,2 | C3 C 
+[V:3] C C C C | C6 A,2 | A,3 A, A, C 
+[V:3] B, A, | A,3 A, B,2 C2 | E4 D4 | C6 |]
+[V:4] A,,2 | A,3 A, A, A, F, F, | E,6 E,2 
+[V:4] | D3 D D C B, A, | G,6 G,2 | A,3 A, 
+[V:4] G, G, C, C, | F,6 F,2 | B,,3 B,, B,, B,, 
+[V:4] B,, B,, | E,3 E, E,2 E,2 | E,4 E,4 | A,,6 |]

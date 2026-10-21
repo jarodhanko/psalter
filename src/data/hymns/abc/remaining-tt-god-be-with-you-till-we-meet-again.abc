@@ -1,0 +1,78 @@
+% Source edition: remaining-tt-god-be-with-you-till-we-meet-again
+% Source URL: https://library.timelesstruths.org/library/music/G/God_Be_with_You_till_We_Meet_Again/God_Be_with_You_till_We_Meet_Again.xml
+% Source SHA256: b7beb6d00a884e4db3369f2b806608f885eed0273839f59dadeeb708be7760f3
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_God_Be_with_You_till_We_Meet_Again.repairs.json
+% Catalog membership: book1:H111, book2:B115
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Jeremiah E. Rankin, pub.1880.  MUSIC: “God Be with You”; William G. Tomer, 1882.  Public Domain.
+% Original credit-words: God Be with You till We Meet Again
+% Original credit-words: WORDS: Jeremiah E. Rankin, pub.1880.  MUSIC: “God Be with You”; William G. Tomer, 1882.  Public Domain.
+% Original credit-words: The Lord watch between me and thee, when we are absent one from another. Gen. 31:49
+% Original credit-words: Grace be to you and peace from God our Father, and from the Lord Jesus Christ. 2 Cor. 1:2
+X:1
+T:God Be with You till We Meet Again
+Z:WORDS: Jeremiah E. Rankin, pub.1880.  MUSIC: “God Be with You”; William G. Tomer, 1882.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+M:4/4
+K:C
+V:1 treble nm="Soprano" snm="S."
+V:2 treble 
+L:1/4
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+L:1/4
+V:1
+[L:1/8]
+ [CE]3 [CE] [CE] [CE] [CE] [CE] | [CG]2 [B,D]2 [CE]4 | [CA]3 [FA] [FA] [FA] [FA] [FA] | [FA]4 [EG]4 |  %4
+w: 1.~God be with you till we|meet a- gain,|By His coun- sels guide, up-|hold you,|
+w: 2.~God be with you till we|meet a- gain,|’Neath His wings se- cure- ly|hide you,|
+w: 3.~God be with you till we|meet a- gain,|When life’s per- ils thick con-|found you,|
+w: 4.~God be with you till we|meet a- gain,|Keep love’s ban- ner float- ing|o’er you,|
+ [DG]3 [DG] [DG] [DG] [FG] [FG] | [EG]4 [CE]4 | [CE]3 [CE] [FA] [EG] C [CD] | [CE]2 [B,D]2 !fermata!C2 ||  %8
+w: With His sheep se- cure- ly|fold you,|God be with you till we|meet a- gain.|
+w: Dai- ly man- na still pro-|vide you,|God be with you till we|meet a- gain.|
+w: Put His arms un- fail- ing|round you,|God be with you till we|meet a- gain.|
+w: Smite death’s threat- ’ning wave be-|fore you,|God be with you till we|meet a- gain.|
+"^Refrain" [CE]3/2 [DF]/ | (G2 c2 [Ge]2) [Gd]3/2 [Gc]/ | (([FA]2 [Ac]4)) [GB]3/2 [FA]/ | [EG]3 [FA] (([EG] [CE])) (C E) | %12
+w: Till we|meet,__ till we|meet,_ Till we|meet at Je- * sus’ *|
+w: ||||
+w: ||||
+w: ||||
+ [B,D]6 |  [CE]3/2 [DF]/ | (G2 c2 [Ge]2) [Gd]3/2 [Gc]/ | (([FA]2 !fermata![Ac]4)) !fermata![Fc]3/2 [FA]/ | %16
+w: feet;|Till we|meet,__ till we|meet,_ God be|
+w: ||||
+w: ||||
+w: ||||
+ [EG] [CE] C [CD] [CE]2 [B,D]2 | [CC]8 |] %18
+w: with you till we meet a-|gain.|
+w: ||
+w: ||
+w: ||
+V:2
+[L:1/4]
+ x4 | x4 | x4 | x4 |  %4
+ x4 | x4 | x2 x C/ x/ | x2 C ||  %8
+ x | (E2 G) x | x4 | x2 x C | %12
+ x3 |  x | (E2 G) x | x4 | %16
+ x C/ x/ x2 | x4 |] %18
+V:3
+[L:1/8]
+ [C,G,]3 [C,G,] [C,G,] [C,G,] [C,G,] [C,G,] | [E,G,]2 G,2 [C,G,]4 | F,3 [F,C] [F,C] [F,C] [F,C] [F,C] | [C,C]4 [C,C]4 |  %4
+w: ||||
+ [G,B,]3 [G,B,] [G,B,] [G,B,] [G,,D] [G,,D] | [C,C]4 [C,G,]4 | [C,G,]3 [C,G,] [C,C] [C,C] [E,G,] [F,A,] | G,2 [G,,F,]2 !fermata![C,E,]2 ||  %8
+w: ||||
+ z2 | z2 [C,G,] [C,G,] [C,C]2 [E,C]3/2 [E,C]/ | [F,C]2 [F,C]2 [F,C]2 [F,C]3/2 [F,C]/ | [C,C]3 [C,C] (C G,) (E, G,) | %12
+w: |Till we meet, till we|meet a- gain, * *||
+ [G,,G,]2 [G,,G,] [G,,G,] [G,,G,]2 |  z2 | z2 [C,G,] [C,G,] [C,C]2 [E,C]3/2 [E,C]/ | [F,C]2 [F,C]2 !fermata![F,C]2 !fermata![F,A,]3/2 [F,C]/ | %16
+w: * till we meet;||Till we meet, till we|meet a- gain, * *|
+ [C,C] [C,G,] [E,G,] [F,A,] G,2 [G,,F,]2 | [C,E,]8 |] %18
+w: ||
+V:4
+[L:1/4]
+ x4 | x G, x2 | F,3/2 x/ x2 | x4 |  %4
+ x4 | x4 | x4 | G, x x ||  %8
+ x | x4 | x4 | x2 C, C, | %12
+ x3 |  x | x4 | x4 | %16
+ x2 G, x | x4 |] %18

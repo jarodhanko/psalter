@@ -1,0 +1,274 @@
+{
+  "sourceSha256": "fc387f305d77dd757c1cd77164808dab232d0b676741e71fb72a0c9f806b7757",
+  "metadata": {
+    "id": "hymn-remaining-openpsalm-i-will-sing-the-wondrous-story",
+    "title": "I Will Sing the Wondrous Story",
+    "composer": "Peter P. Bilhorn",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Soprano & Alto",
+        "kind": "independent",
+        "name": "Upper voice (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Tenor & Bass",
+        "kind": "independent",
+        "name": "Lower voice (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "independent-parts"
+  },
+  "provenance": {
+    "sourceId": "remaining-openpsalm-i-will-sing-the-wondrous-story",
+    "sourceUrls": [
+      "https://openpsalm.com/api/songs/197/export/musicxml"
+    ],
+    "collection": "OpenPsalm",
+    "credits": [
+      "Peter P. Bilhorn",
+      "Francis H. Rowley",
+      "Lyrics: Francis H. Rowley, 1886 (public domain)",
+      "Music: Peter P. Bilhorn, 1886 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "Creative Commons Attribution 4.0 International",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added.",
+      "OpenPsalm",
+      "I Will Sing the Wondrous Story"
+    ],
+    "licenseUrls": [
+      "https://creativecommons.org/licenses/by/4.0/"
+    ],
+    "rights": [
+      "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+      "Lyrics: Francis H. Rowley, 1886 (public domain)\nMusic: Peter P. Bilhorn, 1886 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+      "https://creativecommons.org/licenses/by/4.0/",
+      "Lyrics: Francis H. Rowley, 1886 (public domain)",
+      "Music: Peter P. Bilhorn, 1886 (public domain)",
+      "Arrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license"
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics.",
+      "MusicXML converted to ABC; score layout and any encoding repairs are documented in the accompanying manifest. No source lyric stanza has been added."
+    ],
+    "record": {
+      "source_id": "remaining-openpsalm-i-will-sing-the-wondrous-story",
+      "title": "I Will Sing the Wondrous Story",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H077"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B072"
+        }
+      ],
+      "file": "abc/remaining-openpsalm-i-will-sing-the-wondrous-story.abc",
+      "sha256": "fc387f305d77dd757c1cd77164808dab232d0b676741e71fb72a0c9f806b7757",
+      "canonical_reference_in_archive": "musicxml_abc/OpenPsalm_I_Will_Sing_the_Wondrous_Story.abc",
+      "source_url": "https://openpsalm.com/api/songs/197/export/musicxml",
+      "collection": "OpenPsalm",
+      "rights_and_attribution": {
+        "rights_review_state": "Source-specific assertions retained, Candidate status preserved; no independent worldwide clearance.",
+        "structured_source_evidence": {
+          "@context": "https://schema.org",
+          "@id": "https://openpsalm.com/songs/197#composition",
+          "@type": "MusicComposition",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Time signature",
+              "value": "3/4"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Tempo",
+              "value": 104
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Verses",
+              "value": 5
+            }
+          ],
+          "composer": [
+            {
+              "@type": "Person",
+              "name": "Peter P. Bilhorn"
+            }
+          ],
+          "contributor": [
+            {
+              "@type": "Organization",
+              "name": "OpenPsalm"
+            }
+          ],
+          "copyrightNotice": "Lyrics: Francis H. Rowley, 1886 (public domain)\nMusic: Peter P. Bilhorn, 1886 (public domain)\nArrangement by OpenPsalm, 2026 and released under the CC-BY 4.0 license",
+          "description": "I Will Sing the Wondrous Story — 5 verses worship hymn. Browse, listen, and export as MusicXML, MIDI, LilyPond, or PDF.",
+          "encoding": [
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/197/export/musicxml",
+              "encodingFormat": "application/vnd.recordare.musicxml+xml",
+              "name": "I Will Sing the Wondrous Story — MusicXML"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/197/export/midi",
+              "encodingFormat": "audio/midi",
+              "name": "I Will Sing the Wondrous Story — MIDI"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/197/export/mp3",
+              "encodingFormat": "audio/mpeg",
+              "name": "I Will Sing the Wondrous Story — MP3"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/197/export/lilypond",
+              "encodingFormat": "text/x-lilypond",
+              "name": "I Will Sing the Wondrous Story — LilyPond"
+            },
+            {
+              "@type": "MediaObject",
+              "contentUrl": "https://openpsalm.com/api/songs/197/render/pdf",
+              "encodingFormat": "application/pdf",
+              "name": "I Will Sing the Wondrous Story — PDF"
+            }
+          ],
+          "inLanguage": "en",
+          "isAccessibleForFree": true,
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "lyricist": [
+            {
+              "@type": "Person",
+              "name": "Francis H. Rowley"
+            }
+          ],
+          "lyrics": {
+            "@type": "CreativeWork",
+            "inLanguage": "en",
+            "text": "Verse 1\nI will sing the wondrous story\nOf the Christ who died for me.\nHow He left His home in glory\nFor the cross of Calvary.\n\nVerse 2\nI was lost, but Jesus found me,\nFound the sheep that went astray,\nThrew His loving arms around me,\nDrew me back into His way.\n\nVerse 3\nI was bruised, but Jesus healed me,\nFaint was I from many a fall,\nSight was gone, and fears possessed me,\nBut He freed me from them all.\n\nVerse 4\nDays of darkness still come o’er me,\nSorrow’s paths I often tread,\nBut the Savior still is with me;\nBy His hand I’m safely led.\n\nVerse 5\nHe will keep me till the river\nRolls its waters at my feet;\nThen He’ll bear me safely over,\nWhere the loved ones I shall meet.\n\nChorus\nYes, I’ll sing the wondrous story,\nOf the Christ Who died for me,\nSing it with the saints in glory,\nGathered by the crystal sea."
+          },
+          "mainEntityOfPage": {
+            "@id": "https://openpsalm.com/songs/197",
+            "@type": "WebPage"
+          },
+          "musicCompositionForm": "Hymn",
+          "musicalKey": "Eb",
+          "name": "I Will Sing the Wondrous Story",
+          "publisher": {
+            "@type": "Organization",
+            "name": "OpenPsalm",
+            "url": "https://openpsalm.com"
+          },
+          "url": "https://openpsalm.com/songs/197"
+        }
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H077",
+      "title": "I Will Sing the Wondrous Story",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "remaining-openpsalm-i-will-sing-the-wondrous-story",
+      "abc_file": "abc/remaining-openpsalm-i-will-sing-the-wondrous-story.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H077",
+        "Hymn / version": "I Will Sing the Wondrous Story",
+        "Playlist track #": "96",
+        "Music / score source": "https://hymnary.org/media/fetch/137294",
+        "Lyrics / companion source": "https://hymnary.org/media/fetch/137294",
+        "Editable notation / MIDI": "Not verified",
+        "Available formats": "SATB-style grand-staff PDF with lyrics",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain hymn; supplied score expressly allows personal/congregational worship reproduction with Hymnary.org credit",
+        "Rights source": "https://hymnary.org/media/fetch/137294",
+        "Text, tune and version notes": "Francis H. Rowley / HYFRYDOL, Rowland H. Prichard\nPDF opened, 2 pages. HYFRYDOL likely matches Mandate/Robin Mark performance; https://garyware.me/2011/11/13/i-will-sing-the-wondrous-story-sunday-songs/ discusses that exact performance. Not Bilhorn’s WONDROUS STORY tune. Historical alternative Common Praise 1913 #437: https://hymnary.org/hymn/CP1913/437",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared. HYFRYDOL likely matches the performance and is the selected PD tune."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B072",
+      "title": "I Will Sing the Wondrous Story",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "remaining-openpsalm-i-will-sing-the-wondrous-story",
+      "abc_file": "abc/remaining-openpsalm-i-will-sing-the-wondrous-story.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B072",
+        "Song title": "I Will Sing the Wondrous Story",
+        "Status": "Candidate",
+        "Score / source": "https://hymnary.org/media/fetch/137294",
+        "Lyrics source": "https://hymnary.org/media/fetch/137294",
+        "Editable source": "",
+        "Tune and work identity": "Francis H. Rowley / HYFRYDOL, Rowland H. Prichard\nPDF opened, 2 pages. HYFRYDOL likely matches Mandate/Robin Mark performance; https://garyware.me/2011/11/13/i-will-sing-the-wondrous-story-sunday-songs/ discusses that exact performance. Not Bilhorn’s WONDROUS STORY tune. Historical alternative Common Praise 1913 #437: https://hymnary.org/hymn/CP1913/437",
+        "Public distribution rights": "Public-domain hymn; supplied score expressly allows personal/congregational worship reproduction with Hymnary.org credit",
+        "Rights / identity evidence": "https://hymnary.org/media/fetch/137294",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "96",
+        "Playlist artists": "The Mandate; Stuart Townend; Robin Mark",
+        "Original track titles": "I Will Sing the Wondrous Story - Live",
+        "Source review": "SATB-style grand-staff PDF with lyrics. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

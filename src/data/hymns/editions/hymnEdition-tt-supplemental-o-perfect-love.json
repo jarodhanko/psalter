@@ -1,0 +1,205 @@
+{
+  "sourceSha256": "a65b60ab9c1d3641153df30040855a399368c22a7449524af001750b74303d9d",
+  "metadata": {
+    "id": "hymn-tt-supplemental-o-perfect-love",
+    "title": "O Perfect Love",
+    "composer": "“Sandringham”; Joseph Barnby, 1889.",
+    "tune": "Sandringham",
+    "voices": [
+      {
+        "id": "1",
+        "clef": "treble",
+        "sourceName": "Treble",
+        "kind": "chordal",
+        "name": "Upper staff (1)"
+      },
+      {
+        "id": "2",
+        "clef": "treble",
+        "kind": "independent",
+        "name": "Upper voice (2)"
+      },
+      {
+        "id": "3",
+        "clef": "bass",
+        "sourceName": "Bass",
+        "kind": "chordal",
+        "name": "Lower staff (3)"
+      },
+      {
+        "id": "4",
+        "clef": "bass",
+        "kind": "independent",
+        "name": "Lower voice (4)"
+      }
+    ],
+    "voiceStructure": "mixed-parts"
+  },
+  "provenance": {
+    "sourceId": "tt-supplemental-o-perfect-love",
+    "sourceUrls": [
+      "https://library.timelesstruths.org/library/music/O/O_Perfect_Love/O_Perfect_Love.xml"
+    ],
+    "collection": "Timeless Truths",
+    "credits": [
+      "WORDS: Dorothy F. Gurney, 1883.  MUSIC: “Sandringham”; Joseph Barnby, 1889.  Public Domain.",
+      "O Perfect Love",
+      "Know the love of Christ, which passeth knowledge. Eph. 3:19",
+      "They are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder. Mt. 19:6"
+    ],
+    "licenseUrls": [],
+    "rights": [
+      "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+      "WORDS: Dorothy F. Gurney, 1883.  MUSIC: “Sandringham”; Joseph Barnby, 1889.  Public Domain."
+    ],
+    "territory": "Source-specific U.S. public-domain assertions and stated edition licenses; no blanket worldwide or recording-specific arrangement clearance.",
+    "editionNotes": [
+      "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+      "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+      "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+    ],
+    "changes": [
+      "Imported the selected ABCJS-compatible edition without changing notation or printed lyrics."
+    ],
+    "record": {
+      "source_id": "tt-supplemental-o-perfect-love",
+      "title": "O Perfect Love",
+      "book_memberships": [
+        {
+          "book": "book1",
+          "catalog_id": "H040"
+        },
+        {
+          "book": "book2",
+          "catalog_id": "B038"
+        }
+      ],
+      "file": "abc/tt-supplemental-o-perfect-love.abc",
+      "sha256": "a65b60ab9c1d3641153df30040855a399368c22a7449524af001750b74303d9d",
+      "canonical_reference_in_archive": "musicxml_abc/O_Perfect_Love.abc",
+      "source_url": "https://library.timelesstruths.org/library/music/O/O_Perfect_Love/O_Perfect_Love.xml",
+      "collection": "Timeless Truths",
+      "rights_and_attribution": {
+        "rights_review_state": "Not cleared for distribution by this acquisition; original decisions and caveats retained.",
+        "page_evidence": {
+          "inspection_status": "parsed_cached_web_text",
+          "method": "web_cached_page_then_actual_link_click",
+          "url": "https://library.timelesstruths.org/music/O_Perfect_Love/",
+          "snapshot_path": "sources/timelesstruths_supplemental/pages/O_Perfect_Love.web.txt",
+          "snapshot_sha256": "78f656c64b8ad58152b2f7db4e1dcab038d12228d2d7bb9d8396962f11427c64",
+          "rights_context": [
+            {
+              "text": "copyright status is Public Domain L28:",
+              "preceding_context": [
+                "Marriage",
+                "Report Error | << | >> L23: # O Perfect Love",
+                "Dorothy F. Gurney , 1883"
+              ],
+              "following_context": [
+                "* * *",
+                "Subjects: Marriage , Love , Supplication L32:"
+              ]
+            },
+            {
+              "text": "copyright status is Public Domain L40:",
+              "preceding_context": [
+                "Scripture: Ephesians 3:19; Matthew 19:6 L34:",
+                "Sandringham [.xml ]",
+                "Joseph Barnby , 1889"
+              ],
+              "following_context": [
+                "* * *",
+                "Key: D L44:"
+              ]
+            }
+          ],
+          "rights_links": [],
+          "xml_link_count": 1,
+          "inspected_at_utc": "2026-09-30T18:10:38.962Z",
+          "source_file_listed": true
+        },
+        "embedded_public_domain_label": true
+      },
+      "scope_and_edition_notes": [
+        "Edition, same-hymn/text scope, and permitted public-distribution territory need final selection review; no protected additions or recording-specific arrangements cleared.",
+        "Independent review combines semantic audits and full paired visual overviews, with8 focused full-size reviews; it is not human note-by-note proofreading or ABCJS browser certification.",
+        "Source part/voice structure is retained; chord members without a voice tag inherit their chord-root voice. The sole PDF-supported regrouping is explicitly documented for the final We Rest on Thee unison. Counts are not an assertion of four independent SATB lines."
+      ],
+      "editorial_corrections": null,
+      "verification": {
+        "source_event_checked": true,
+        "independently_reviewed": true,
+        "abcjs_parser_version": "6.7.1",
+        "actual_abcjs_browser_render": "Holy dotted-tie workaround visually checked under6.6.4 only; no universal6.7.1 browser certification",
+        "live_project_import_tested": false
+      },
+      "archive_provenance_report": {
+        "report": "reports/independent-musicxml-review.md",
+        "audit": "reports/independent-musicxml-review.json",
+        "reviewed_at_utc": "2026-09-30T19:29:41.737585+00:00",
+        "review_status": "technical_review_pass_with_preserved_source_and_release_caveats",
+        "limits": [
+          "Local paired proofs are Verovio source notation against abc2svg/resvg native output, not ABCJS browser images.",
+          "Actual ABCJS 6.7.1 parse-model event checks are separate from engraving, synth/MIDI or integration tests.",
+          "Source labels and licenses are preserved evidence, not independent worldwide legal clearance."
+        ]
+      },
+      "engine_note": "Recommended ABCJS variant. Canonical notation and reference abc2svg proofs are in the archive; engine-specific whitespace/lyric-skip variants must not be treated as abc2svg proof inputs."
+    }
+  },
+  "memberships": [
+    {
+      "book": "book1",
+      "catalog_id": "H040",
+      "title": "O Perfect Love",
+      "original_decision": "Candidate: public-reuse check",
+      "status": "included",
+      "source_id": "tt-supplemental-o-perfect-love",
+      "abc_file": "abc/tt-supplemental-o-perfect-love.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "ID": "H040",
+        "Hymn / version": "O Perfect Love",
+        "Playlist track #": "44",
+        "Music / score source": "https://library.timelesstruths.org/library/music/O/O_Perfect_Love/O_Perfect_Love.pdf",
+        "Lyrics / companion source": "https://library.timelesstruths.org/music/O_Perfect_Love/",
+        "Editable notation / MIDI": "https://library.timelesstruths.org/music/O_Perfect_Love/",
+        "Available formats": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked",
+        "Earlier source check": "Open score checked",
+        "Earlier reuse notes": "Public-domain text and music (US), as labeled by source",
+        "Rights source": "https://library.timelesstruths.org/music/O_Perfect_Love/",
+        "Text, tune and version notes": "Dorothy F. Gurney 1883; SANDRINGHAM, Joseph Barnby 1889\nPDF opened and parsed",
+        "Current inclusion": "Candidate: public-reuse check",
+        "Reason and required evidence": "Inspected PD/open setting of the underlying hymn. Prefer the familiar melody, but a verified PD tune variant of the same hymn/text is acceptable. Confirm the selected edition’s public-distribution basis and territories; no protected modern words or added material are cleared."
+      },
+      "available_reviewed_alternatives": []
+    },
+    {
+      "book": "book2",
+      "catalog_id": "B038",
+      "title": "O Perfect Love",
+      "original_decision": "Candidate",
+      "status": "included",
+      "source_id": "tt-supplemental-o-perfect-love",
+      "abc_file": "abc/tt-supplemental-o-perfect-love.abc",
+      "reason": "Source edition selected and independently reviewed",
+      "original_catalog_record": {
+        "Song ID": "B038",
+        "Song title": "O Perfect Love",
+        "Status": "Candidate",
+        "Score / source": "https://library.timelesstruths.org/library/music/O/O_Perfect_Love/O_Perfect_Love.pdf",
+        "Lyrics source": "https://library.timelesstruths.org/music/O_Perfect_Love/",
+        "Editable source": "https://library.timelesstruths.org/music/O_Perfect_Love/",
+        "Tune and work identity": "Dorothy F. Gurney 1883; SANDRINGHAM, Joseph Barnby 1889\nPDF opened and parsed",
+        "Public distribution rights": "Public-domain text and music (US), as labeled by source",
+        "Rights / identity evidence": "https://library.timelesstruths.org/music/O_Perfect_Love/",
+        "Remaining checks / version notes": "Candidate: traditional edition / rights check\nTraditional same-hymn edition retained. A public-domain tune difference is acceptable if needed. Confirm edition reuse terms and distribution territories before publication.",
+        "Playlist positions": "41",
+        "Playlist artists": "The Worship Team",
+        "Original track titles": "O Perfect Love",
+        "Source review": "PDF SATB hymn score with lyrics; Sibelius and MusicXML also linked. Source review is limited by the status and notes."
+      },
+      "available_reviewed_alternatives": []
+    }
+  ]
+}

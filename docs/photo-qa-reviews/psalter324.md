@@ -1,0 +1,9 @@
+# Psalter 324 photo QA — PARTIAL
+
+Owner-photo authority: local source evidence (not distributed) (printed p. 280, first system) and `20260829_112905.jpg` (printed p. 281, final system above no. 325). The printed NORTHREPS setting has exactly **two** SATB systems, one flat (F major), common time, and four numbered stanzas. A prior claim of three systems was wrong: it counted no. 325's music as a continuation.
+
+## 2026-09-28 whole-setting reconstruction
+
+The prior ABC had `K:C`, half-note-heavy rhythms, incorrect grouping of the opening “My” pickup, and several wrong pitches. It has been replaced with a two-system reconstruction from the printed engraving. The first system has a one-quarter pickup and 14 soprano attacks; its final three-beat chord leads into the second system's one-quarter “To” pickup. The second system also has 14 attacks. All four voices follow the printed bar segments, including the explicit F-sharp, C-sharp, G-sharp and B-natural accidentals, and the final tenor F3+A3 dyad. Four stanza `w:` rows attach to each system; all four `W:` transcripts are retained. Stanza 4's full text now uses the printed “Thro' strength,” not “Through strength.”
+
+The scratch event worksheets are local source evidence (not distributed) and `system2-ledger.txt`. An independent scan review corrected three draft soprano misreads at “O,” “Lord,” and “Ac-” before integration and confirmed the first-system final bass C3 and final tenor dyad. ABCJS parses the replacement without warnings; underlay inspection shows 14 attacks and four lyric rows on each system. The single printed B-flat3 lower-staff heads at “re-vive” are provisionally assigned to both tenor and bass as unisons; this editorial voice allocation remains an explicit open point. Full independent photo-to-current-ABC event certification, render comparison, and audible/device/print QA remain open. Therefore this arrangement is **not PASS**.

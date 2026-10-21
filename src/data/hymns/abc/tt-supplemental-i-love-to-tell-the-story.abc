@@ -1,0 +1,88 @@
+% Source edition: tt-supplemental-i-love-to-tell-the-story
+% Source URL: https://library.timelesstruths.org/library/music/I/I_Love_to_Tell_the_Story/I_Love_to_Tell_the_Story.xml
+% Source SHA256: 70e70e59b1b41f9526d6ec7a368c65147fbf6bf160c24962f96f4533550049c8
+% Conversion: xml2abc revision 177; literal-asterisk escape patch documented separately
+% Working-copy repairs: reports/musicxml_I_Love_to_Tell_the_Story.repairs.json
+% Catalog membership: book1:H036, book2:B035
+% Status: candidate; technical checks and public-distribution rights must be read in manifest
+% Original rights: WORDS: Arabella K. Hankey, 1866.  MUSIC: “Hankey”; William G. Fischer, pub.1869.  Public Domain.
+% Original credit-words: I Love to Tell the Story
+% Original credit-words: WORDS: Arabella K. Hankey, 1866.  MUSIC: “Hankey”; William G. Fischer, pub.1869.  Public Domain.
+% Original credit-words: Come and hear, all ye that fear God, and I will declare what he hath done for my soul. Psa. 66:16
+X:1
+T:I Love to Tell the Story
+Z:WORDS: Arabella K. Hankey, 1866.  MUSIC: “Hankey”; William G. Fischer, pub.1869.  Public Domain.
+%%score [ ( 1 2 ) ( 3 4 ) ]
+L:1/8
+M:4/4
+K:Ab
+V:1 treble nm="Soprano" snm="S."
+V:2 treble 
+L:1/4
+V:3 bass nm="Bass" snm="B."
+V:4 bass 
+L:1/4
+V:1
+[L:1/8]
+ [CE]2 | [CA]3 [CE] [CE]2 [CA]2 | (([Ec]3 [DB])) [CA]2 [EA]2 | [FA]3 [DF] (B A) [DF]2 | %4
+w: 1.~I|love to tell the|sto- * ry of|un- seen things * a-|
+w: 2.~I|love to tell the|sto- * ry, more|won- der- ful * it|
+w: 3.~I|love to tell the|sto- * ry, ’tis|pleas- ant to * re-|
+w: 4.~I|love to tell the|sto- * ry, for|those who know * it|
+ [CE]6 E2 | [GB]3 [^F=A] [GB]2 [Gc]2 |  [EB]2 [EA]4 (A c) | [Ae]3 [Ec] (c B) [EA]2 | %8
+w: bove, Of|Je- sus and His|glo- ry, of *|Je- sus and * His|
+w: seems Than|all the gold- en|fan- cies of *|all our gold- * en|
+w: peat, What|seems each time I|tell it more *|won- der- ful- * ly|
+w: best Seem|hun- ger- ing and|thirst- ing to *|hear it like * the|
+ [GB]6 [EB]2 | [EB]3 [Ec] [Ed]2 [Ed]2 | [Ed]2 [Ec]4 |  [Ec]2 | %12
+w: love; I|love to tell the|sto- ry,|be-|
+w: dreams; I|love to tell the|sto- ry,|it|
+w: sweet; I|love to tell the|sto- ry,|for|
+w: rest; And|when in scenes of|glo- ry|I|
+ [Ac]3 [GB] [FA]2 (([GB] [FA])) | [=EG]6 [EG]2 | F3 [EG] [FA]2 [DF]2 | [DF]2 [CE]4 [EA]2 | %16
+w: cause I know ’tis *|true, It|sat- is- fies my|long- ings as|
+w: did so much for *|me, And|that is just the|rea- son I|
+w: some have nev- er *|heard The|mes- sage of sal-|va- tion from|
+w: sing the new, new *|song, ’Twill|be the old, old|sto- ry that|
+ [GB]3 A [Ac]3 [EB] | [EA]6 || "^Refrain" [CE]2 | E3 [EG] [EB]3 [Ec] | %20
+w: noth- ing else would|do.|I|love to tell the|
+w: tell it now to|thee.|||
+w: God’s own ho- ly|Word.|||
+w: I have loved so|long.|||
+ [EB]2 [EA]4 [EA]2 | [FA]3 [Fd] [Fd]2 [Ed]2 | [Ed]2 [Ec]4 |  [Ec]2 | %24
+w: sto- ry, ’Twill|be my theme in|glo- ry,|To|
+w: ||||
+w: ||||
+w: ||||
+ [Ae]3 [Ec] (([Ec] [DB])) A2 | [FB]2 [FA]4 [DF]2 | [CE]2 [EA]2 [GB]3 [EA] | [EA]6 |] %28
+w: tell the old, * old|sto- ry Of|Je- sus and His|love.|
+w: ||||
+w: ||||
+w: ||||
+V:2
+[L:1/4]
+ x | x4 | x4 | x2 F x | %4
+ x3 E | x4 |  x3 E | x2 E x | %8
+ x4 | x4 | x3 |  x | %12
+ x4 | x4 | F3/2 x/ x2 | x4 | %16
+ x3/2 A/ x2 | x3 ||  x | E3/2 x/ x2 | %20
+ x4 | x4 | x3 |  x | %24
+ x2 x (C/ E/) | x4 | x4 | x3 |] %28
+V:3
+[L:1/8]
+ [A,,A,]2 | [A,,E,]3 [A,,A,] [A,,A,]2 A,2 | A,4 [A,,A,]2 [C,A,]2 | [D,A,]3 [D,A,] [D,A,]2 [D,A,]2 | %4
+ [A,,A,]6 A,2 | [E,D]3 [E,C] [E,D]2 [E,E]2 |  [A,,D]2 [A,,C]4 [A,C]2 | [A,C]3 [A,E] (E D) [A,C]2 | %8
+ [E,E]6 [E,G,]2 | [E,G,]3 [E,A,] [E,B,]2 [E,B,]2 | [A,B,]2 A,4 |  A,2 | %12
+ [F,A,]3 [F,B,] [F,C]2 [F,C]2 | [C,C]6 [C,B,]2 | [D,A,]3 [D,A,] [D,A,]2 [D,A,]2 | [A,,A,]2 [A,,A,]4 [A,,C]2 | %16
+ [E,D]3 [E,C] [E,E]3 [E,D] | [A,,C]6 ||  [A,,A,]2 | [E,G,]3 [E,B,] [E,D]3 [E,E] | %20
+ [A,,D]2 [A,,C]4 [C,A,]2 | [D,A,]3 [D,A,] [D,A,]2 [D,A,]2 | [A,,A,]2 [A,,A,]4 |  A,2 | %24
+ [A,C]3 [A,,A,] (([A,,A,] [B,,G,])) [C,A,]2 | [D,D]2 [D,D]4 [D,A,]2 | [E,A,]2 [E,C]2 [E,D]3 [A,,C] | [A,,C]6 |] %28
+V:4
+[L:1/4]
+ x | x2 x (C,/ E,/) | A,2 x2 | x4 | %4
+ x3 (A,,/ C,/) | x4 |  x4 | x2 A, x | %8
+ x4 | x4 | x A,2 |  A, | %12
+ x4 | x4 | x4 | x4 | %16
+ x4 | x3 ||  x | x4 | %20
+ x4 | x4 | x3 |  A, | %24
+ x4 | x4 | x4 | x3 |] %28

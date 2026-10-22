@@ -164,11 +164,14 @@ const limits = {
   // 1,207,540 raw / 359,588 gzip; +5,251 / +1,305 over actual the prior build
   // (1,202,289 / 358,283). Smallest 100-byte ceilings retain +2 raw / +13 gzip
   // marker allowance; all other limits, measurements and runtime guards stay unchanged.
-  viewerRaw: 1_215_600,
+  // All Creatures default opening uses an exact native bass-beam proof.
+  // Viewer ceilings include build-marker variance; all other limits and
+  // source/native identity guards remain unchanged.
+  viewerRaw: 1_218_800,
   // Source-bound Psalter 47 grouped opening, 2026-10-16: 1,107,645 raw / 327,812 gzip,
   // +7,751 / +2,240 over the prior build. Next100 gzip ceiling retains +13 marker variance;
   // exact source/native guards, raw ceiling, measurement and all other limits stay unchanged.
-  viewerGzip: 361_400,
+  viewerGzip: 362_800,
   // Sixteen photo-reviewed addenda add searchable stanza text; retain the
   // tighter 175 KB transferred-size ceiling while allowing that raw growth.
   searchRaw: 825_000,

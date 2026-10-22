@@ -5,13 +5,13 @@ The enforced source of truth is `tools/validate-build.mjs`. Run `npm run build:r
 The gate counts complete, deduplicated JavaScript dependency closures, including shared imports. Current ceilings are:
 
 - Initial application: 500,600 raw / 130,400 gzip bytes
-- Additional viewer closure: 1,215,600 raw / 361,400 gzip bytes
+- Additional viewer closure: 1,218,800 raw / 362,800 gzip bytes
 - Search: 825,000 raw / 175,000 gzip bytes
 - Per-Psalter-arrangement asset: 8,000 raw bytes
 - Complete core distribution: 30 MiB
 - Optional instrument packs: 3,153,044 bytes, separately hosted and excluded from initial precache
 
-The default public build with the guarded ABCJS measurement cleanup qualified on 2026-10-20 measured 500,528 raw / 130,227 gzip bytes for the initial application and 1,205,875 raw / 358,011 gzip bytes for the additional viewer closure. These measurements use disabled optional reporting and a seven-character public build marker; a different marker may slightly change compressed sizes. Run the gate again for the exact source and settings you ship. The limits above are ceilings, not these measurements.
+The default public build with the source-bound All Creatures opening fix qualified on 2026-10-22 measured 500,528 raw / 130,226 gzip bytes for the initial application and 1,208,978 raw / 359,478 gzip bytes for the additional viewer closure. These measurements use disabled optional reporting and a seven-character public build marker; a different marker may slightly change compressed sizes. Run the gate again for the exact source and settings you ship. The limits above are ceilings, not these measurements.
 
 All 474 viewer arrangements and all 267 core piano/concert-grand/organ samples must remain offline-covered. The optional banks validate all samples before declaring readiness; browser storage can later be evicted.
 

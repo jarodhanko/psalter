@@ -34,6 +34,12 @@ export function allCreaturesGroupingWrappedNotation(prepared: string) {
     book.tunes[0].abc === prepared.slice(profile.prefix).trimEnd() && fingerprint(book.tunes[0].abc) === profile.parser
     ? book.tunes[0].abc : undefined;
 }
+/** Default-only witness: grouped, filtered and alternate preparations cannot
+ * acquire the opening-beat capability through a shared identity reader. */
+export function allCreaturesDefaultWrappedNotation(prepared: string) {
+  return preparedProfiles.get(fingerprint(prepared))?.verses === 31
+    ? allCreaturesGroupingWrappedNotation(prepared) : undefined;
+}
 const attacks = [60, 61, 62, 78], heads = [67, 65, 63, 78], chords = [7, 4, 1, 0], slurs = [3, 12, 10, 15];
 const count = (values: number[], profile: Profile) => profile.parts.reduce((sum, part) => sum + values[part], 0);
 const noteFields = ['el_type', 'startChar', 'endChar', 'duration', 'pitches', 'lyric', 'startBeam', 'endBeam',

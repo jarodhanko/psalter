@@ -3,7 +3,7 @@ import { newOLoveSession, disposeOLoveSession, releaseOLoveFrame, captureOLoveFr
 import { newRollInteriorSession, disposeRollInteriorSession, releaseRollInteriorFrame, captureRollInteriorFrame, reflowRollInterior, clearRollInteriorReflow } from './rollInteriorReflow';
 import type { RollInteriorSession } from './rollInteriorReflow';
 import type { RollGroupingBaseline } from './rollGroupingWrap';
-import { HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, CHURCH_OPENING_ID, HE_LEADETH_OPENING_ID, OH_HOW_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, PSALTER_BEAT_ID, SAVIORS_LOVE_OPENING_ID, THOUSAND_OPENING_ID, newOpeningBeatSession, captureOpeningBeatFrame, reflowOpeningBeats, clearOpeningBeatReflow } from './openingBeatReflow';
+import { ALL_CREATURES_OPENING_ID, HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, CHURCH_OPENING_ID, HE_LEADETH_OPENING_ID, OH_HOW_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, PSALTER_BEAT_ID, SAVIORS_LOVE_OPENING_ID, THOUSAND_OPENING_ID, newOpeningBeatSession, captureOpeningBeatFrame, reflowOpeningBeats, clearOpeningBeatReflow } from './openingBeatReflow';
 import { hasMightyFortressOpeningSource } from './mightyFortressOpeningSource';
 import type { BeatFrame } from './openingBeatReflow';
 import { reflowAllCreaturesOpeningScreenScore } from './hymnOpeningWrap';
@@ -1294,7 +1294,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
   const [width, setWidth] = useState(900);
   const [renderError, setRenderError] = useState<string | undefined>();
   const visibleKey = visibleVoiceIndexes.join(',');
-  const beatOpening = songId === HIDETH_OPENING_ID || songId === GOD_LEADS_OPENING_ID || songId === MIGHTY_FORTRESS_OPENING_ID || songId === SAVIORS_LOVE_OPENING_ID || songId === PSALTER39_OPENING_ID || songId === PSALTER46_LYRIC_ID || songId === OH_HOW_OPENING_ID || songId === HE_LEADETH_OPENING_ID || songId === CHURCH_OPENING_ID || songId === THOUSAND_OPENING_ID || songId === PSALTER_BEAT_ID;
+  const beatOpening = songId === ALL_CREATURES_OPENING_ID || songId === HIDETH_OPENING_ID || songId === GOD_LEADS_OPENING_ID || songId === MIGHTY_FORTRESS_OPENING_ID || songId === SAVIORS_LOVE_OPENING_ID || songId === PSALTER39_OPENING_ID || songId === PSALTER46_LYRIC_ID || songId === OH_HOW_OPENING_ID || songId === HE_LEADETH_OPENING_ID || songId === CHURCH_OPENING_ID || songId === THOUSAND_OPENING_ID || songId === PSALTER_BEAT_ID;
   const rollInterior = hasRollGroupingSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 1 && scale === 1;
   const oLoveInterior = hasOLoveOpeningSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 4 && scale === 1;
   const oLoveSession = useMemo(newOLoveSession, [abc, songId, transpose, learnerAccidentals, visibleKey, stanzasPerGroup, scale, showOriginalLyrics]);

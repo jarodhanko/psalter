@@ -1,5 +1,6 @@
 /** Generated from canonical cc0979466a1d… through the existing source projection, grouping and part-selection paths.
- * Ten distinct stanza groups with all four original parts. These bind
+ * Ten distinct stanza groups and the unsplit default five-row view, all with
+ * four original parts. These bind
  * preparation bytes only; native layout acceptance remains mandatory. */
 export const allCreaturesGroupingProfiles: readonly (readonly [number, number, number, bigint, number, bigint, number])[] = [
   [1, 15, 2877, 0x6c0dfb6bae760485n, 2039, 0x3a500e2fddaca4ddn, 837],
@@ -12,4 +13,5 @@ export const allCreaturesGroupingProfiles: readonly (readonly [number, number, n
   [7, 15, 3281, 0x8e30f88121843f01n, 2443, 0x26f6deed9e67e721n, 837],
   [24, 15, 3068, 0xdcab9cd87c5797b3n, 2230, 0x5630e8908382ccbbn, 837],
   [15, 15, 3478, 0x3c25ffe4c8adcf40n, 2640, 0xbdb2a3f58fe2ddban, 837],
+  [31, 15, 3605, 0x46b1689a469ef893n, 2767, 0xbf71af14ef3fc49bn, 837],
 ];

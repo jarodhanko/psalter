@@ -1,5 +1,7 @@
 /** Source-pinned opening beat reflow. Canonical audio, print and export stay separate. */
 import abcjs from 'abcjs';
+import { ALL_CREATURES_OPENING_ID, hasAllCreaturesOpeningSource, hasAllCreaturesPrefixBeam, readAllCreaturesPrefixBeam } from './allCreaturesOpeningBeatProof';
+import { allCreaturesDefaultWrappedNotation, readAllCreaturesGroupingIdentity } from './allCreaturesGroupingWrap';
 import type EngraverController from 'abcjs/src/write/engraver-controller';
 import { CHURCH_OPENING_ID, THOUSAND_OPENING_ID, hasHymnOpeningSource, hymnOpeningWrappedNotation, readHymnOpeningIdentity } from './hymnOpeningSource';
 import { OH_HOW_OPENING_ID, hasOhHowOpeningSource, ohHowOpeningWrappedNotation, readOhHowOpeningIdentity } from './ohHowOpeningSource';
@@ -22,12 +24,17 @@ import { preserveBlankLyricRows } from './lyricRows';
 import { containScreenSvgSystems } from './screenSvgBounds';
 import type { HymnOpeningSettings } from './hymnOpeningWrap';
 
-export { HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, CHURCH_OPENING_ID, HE_LEADETH_OPENING_ID, OH_HOW_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, SAVIORS_LOVE_OPENING_ID, THOUSAND_OPENING_ID };
+export { ALL_CREATURES_OPENING_ID, HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, CHURCH_OPENING_ID, HE_LEADETH_OPENING_ID, OH_HOW_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, SAVIORS_LOVE_OPENING_ID, THOUSAND_OPENING_ID };
 const ATTRIBUTE = 'data-opening-beat-reflow';
 export function clearOpeningBeatReflow(host: HTMLElement | null) { host?.removeAttribute(ATTRIBUTE); }
 export const PSALTER_BEAT_ID = 'psalter50';
 // Only these exact-source profiles may split the opening measure.
 function profile(song: string) {
+  if (song === ALL_CREATURES_OPENING_ID) return {
+    source: hasAllCreaturesOpeningSource, parser: allCreaturesDefaultWrappedNotation, read: readAllCreaturesGroupingIdentity,
+    numerator: 6, denominator: 4, stanzasPerGroup: 5, lyricRows: 5, suffixBeam: false, reviewedUnderlay: true,
+    prefixBeam: { boundary: hasAllCreaturesPrefixBeam, read: readAllCreaturesPrefixBeam },
+  };
   if (song === HIDETH_OPENING_ID || song === GOD_LEADS_OPENING_ID) {
     const hideth = song === HIDETH_OPENING_ID;
     return {
@@ -261,7 +268,7 @@ function cleanCuts(tune: Pick<Tune, 'lines'>, edition: Profile): Cut[] {
       if (voice.some(event => !['stem', 'note', 'bar'].includes(event.el_type)) || notes.some(event =>
         event.rest || event.gracenotes?.length || event.startTriplet || event.endTriplet || event.tripletMultiplier ||
         event.decoration?.length || event.chord?.length || event.startSlur || event.endSlur ||
-        (!edition.suffixBeam && ((event as Event & { startBeam?: boolean; endBeam?: boolean }).startBeam ||
+        (!edition.suffixBeam && !edition.prefixBeam && ((event as Event & { startBeam?: boolean; endBeam?: boolean }).startBeam ||
           (event as Event & { startBeam?: boolean; endBeam?: boolean }).endBeam)) ||
         event.pitches?.some(pitch => (pitch.accidental && !edition.suffixAccidental?.allows(voiceIndex, event, boundary)) || pitch.startTie || pitch.endTie || pitch.startSlur || pitch.endSlur))) {
         reason = 'unsupported-crossing-context'; break;
@@ -274,14 +281,16 @@ function cleanCuts(tune: Pick<Tune, 'lines'>, edition: Profile): Cut[] {
         duration += note.duration; moved.push(note);
       }
       if (duration !== boundary || !moved.length || moved.length === notes.length) { reason = 'not-synchronized-event-end'; break; }
-      // P50's native last-beat eighth pair stays wholly in the suffix. Reject
-      // a prefix beam, a beam spanning the cut, nested/unclosed/unknown flags.
-      if (edition.suffixBeam) {
+      // Existing suffix beams stay wholly in the suffix. Only the exact
+      // All Creatures bass capability may move a complete native prefix beam.
+      // Spanning, nested, unclosed and unknown flags always fail closed.
+      if (edition.suffixBeam || edition.prefixBeam) {
+        const prefixAllowed = edition.prefixBeam?.boundary(voiceIndex, notes, moved.length, boundary);
         let open = false;
         for (let index = 0; index < notes.length; index++) {
           const note = notes[index] as Event & { startBeam?: boolean; endBeam?: boolean };
           if ((note.startBeam !== undefined && note.startBeam !== true) || (note.endBeam !== undefined && note.endBeam !== true) ||
-            (index < moved.length && (note.startBeam || note.endBeam)) || (index === moved.length && open) ||
+            (index < moved.length && (note.startBeam || note.endBeam) && !prefixAllowed) || (index === moved.length && open) ||
             (note.startBeam && open) || (note.endBeam && !open && !note.startBeam)) { reason = 'unsupported-crossing-beam'; break; }
           if (note.startBeam) open = true;
           if (note.endBeam) open = false;
@@ -407,7 +416,7 @@ export function reflowOpeningBeats({ diagnosticHost, host, source, prepared, opt
     const engine = runtime();
     if (!engine || !edition?.source(source) || !frame || frame.parser !== edition.parser(prepared)) return finish(original, 'source-or-frame');
     if (settings.visibleKey !== '0,1,2,3' || settings.stanzasPerGroup !== edition.stanzasPerGroup || settings.transpose !== 0 || settings.learnerAccidentals ||
-      settings.grouped || settings.musicOnly || settings.repeatUnderlay || settings.reviewedUnderlay || options.print ||
+      settings.grouped || settings.musicOnly || settings.repeatUnderlay || settings.reviewedUnderlay !== !!edition.reviewedUnderlay || options.print ||
       host.closest('.print-score-canvas') || !host.isConnected || !options.wrap || options.lineBreaks || options.visualTranspose ||
       options.scale !== 1 || options.responsive !== 'resize' || options.oneSvgPerLine !== true || options.minPadding !== 6 ||
       options.format || options.expandToWidest || options.timeBasedLayout || options.tablature || options.viewportHorizontal || options.viewportVertical ||
@@ -415,6 +424,8 @@ export function reflowOpeningBeats({ diagnosticHost, host, source, prepared, opt
       options.wrap.preferredMeasuresPerLine !== 0 || options.wrap.minSpacingLimit !== undefined || options.wrap.lastLineLimit !== undefined ||
       !Number.isFinite(options.staffwidth) || Math.abs(options.staffwidth! - settings.scoreWidth / settings.requestedScale) > EPSILON || !current()) return finish(original, 'unsupported-or-stale');
     if (edition.lyricContinuation && settings.requestedScale !== 1) return finish(original, 'unsupported-lyric-scale');
+    if (edition.prefixBeam && (settings.requestedScale !== 1 ||
+      !host.ownerDocument.defaultView?.matchMedia?.('(max-width: 600px)').matches)) return finish(original, 'unsupported-prefix-size');
     if (edition.supplementalRest && (settings.requestedScale !== 1 ||
       !host.ownerDocument.defaultView?.matchMedia?.('(max-width: 600px)').matches)) return finish(original, 'unsupported-rest-size');
     const before = original.length === 1 && edition.read(original[0], frame.parser);
@@ -428,6 +439,7 @@ export function reflowOpeningBeats({ diagnosticHost, host, source, prepared, opt
     if (!prior) return finish(original, 'ordinary-events');
     if (edition.lyricContinuation && !edition.lyricContinuation.read(host, original[0], false))
       return finish(original, 'ordinary-lyric-ownership');
+    if (edition.prefixBeam && !edition.prefixBeam.read(host, original[0], false)) return finish(original, 'ordinary-prefix-ownership');
     const suffixOwned = edition.suffixAccidental?.read(host, original[0]);
     if (edition.suffixAccidental && !suffixOwned) return finish(original, 'ordinary-suffix-ownership');
     if (suffixOwned) suffixEvidence.ordinaryOwnership = true;
@@ -540,6 +552,7 @@ export function reflowOpeningBeats({ diagnosticHost, host, source, prepared, opt
         if (!after || !sameScreenScoreGeometry(geometry, after) || nextSizes.length !== sizes.length || nextSizes.some((size, index) =>
           size.some((number, axis) => Math.abs(number - sizes[index][axis]) > EPSILON))) reason = 'candidate-size-or-spacing';
         else if (!lyricOwned) reason = 'candidate-lyric-ownership';
+        else if (edition.prefixBeam && !edition.prefixBeam.read(host, candidate, true)) reason = 'candidate-prefix-ownership';
         else if (edition.suffixAccidental && !edition.suffixAccidental.same(suffixOwned, edition.suffixAccidental.read(host, candidate)))
           reason = 'candidate-suffix-ownership';
         else {

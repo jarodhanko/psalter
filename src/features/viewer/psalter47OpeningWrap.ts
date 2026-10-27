@@ -33,6 +33,13 @@ const SOURCE = "\nT:The Cross of Calvary\nC:Tune: HEBRON; Lowell Mason\nR:Psalm 
 // does not prepare caller input or admit any changed canonical/group source.
 const withoutMetadata = (source: string) => source.replace(/^[ \t]*[TCRSONWZ]:.*(?:\r?\n|$)/gm, '');
 const PREPARED = withoutMetadata(SOURCE).replace(/^w:(?:[1-5]|11)\.~.*\n/gm, '');
+/** Exact repeated stanzas 6–10; automatic wrap removes only the leading newline. */
+export function psalter47WrappedNotation(prepared: string): string | undefined {
+  if (prepared !== PREPARED) return;
+  const book = new abcjs.TuneBook(prepared);
+  return !book.header && book.tunes.length === 1 && book.tunes[0].startPos === 1 &&
+    book.tunes[0].abc === prepared.slice(1).trimEnd() ? book.tunes[0].abc : undefined;
+}
 // P44's complete current edition is immutable too. Its four independently
 // admitted one-stanza copies retain all notes and intentional lyric blanks.
 // SHA-256 3fd5f6e57cc6213011fcd28538c3bc1ecc0f3f2ab5016889be12927f7c4908e8.
@@ -120,6 +127,24 @@ const profiles = {
     verses: 1, notes: 122, voices: [33, 32, 29, 28],
     durations: [0.25, 0.75, 0.75, 0.75, 0.5, 0.25, 0.75, 0.75, 0.75, 0.5], singles: [0, 5, 9] },
 };
+/** Only the independently witnessed first and third stanzas of WIRTH are admitted. */
+export function psalter44WrappedNotation(prepared: string): string | undefined {
+  if (prepared !== profiles.psalter44.groups[0] && prepared !== profiles.psalter44.groups[2]) return;
+  const book = new abcjs.TuneBook(prepared);
+  return !book.header && book.tunes.length === 1 && book.tunes[0].startPos === 1 &&
+    book.tunes[0].abc === prepared.slice(1).trimEnd() ? book.tunes[0].abc : undefined;
+}
+export function readPsalter44OpeningIdentity(tune: abcjs.TuneObject, parser: string) {
+  const score = readScreenScoreIdentity(tune, parser), profile = profiles.psalter44;
+  return score && score.meter === 0.75 && score.units.length === profile.durations.length && score.notes.length === profile.notes &&
+    score.units.every((unit, index) => unit.duration === profile.durations[index]) &&
+    profile.voices.every((count, voice) => score.notes.filter(note => note.voice === voice).length === count) &&
+    tune.lines.every(line => line.staff?.length === 2 && line.staff.every(staff => {
+      const group = staff as typeof staff & { brace?: unknown; bracket?: unknown; connectBarLines?: unknown };
+      return staff.voices?.length === 2 && group.brace === undefined && group.bracket === undefined && group.connectBarLines === undefined;
+    })) && score.notes.every(note => !note.element.rest && note.element.pitches?.length === 1 &&
+      (note.voice !== 0 || note.element.lyric?.length === 1)) ? score : undefined;
+}
 const profileFor = (songId: string | undefined) => songId === 'psalter50' ? profiles.psalter50 : songId === 'psalter28' ? profiles.psalter28 : songId === 'psalter47' || songId === 'psalter44' || songId === 'psalter31' || songId === 'psalter25' || songId === 'psalter26' ? profiles[songId] : undefined;
 const optionKeys = ['afterParsing', 'accentAbove', 'add_classes', 'selectionColor', 'dragColor', 'clickListener',
   'oneSvgPerLine', 'minPadding', 'responsive', 'scale', 'staffwidth', 'visualTranspose', 'viewportHorizontal', 'wrap'];
@@ -204,12 +229,29 @@ function samePsalter31RestSizes(before: RestSnapshot, after: RestSnapshot | unde
       close(size[key], after[index].sizes[root][key]))));
 }
 
+// The newly witnessed LISBON partition needs two boundary moves: borrowing
+// bar 1 alone strands the one-chord cadence in bar 2. Preserve that cadence
+// with the following pickup, and keep every later boundary unchanged.
+function psalter25OpeningPartition(systems: number[][]) {
+  if (JSON.stringify(systems) !== '[[0],[1,2],[3,4],[5,6],[7],[8,9],[10,11]]') return undefined;
+  return [[0, 1], [2, 3], [4], ...systems.slice(3).map(system => [...system])];
+}
+
+// INNOCENTS bar 8 holds one melody note while Bass moves through two notes.
+// It is deliberately not a generic all-voice singleton. Join only these exact
+// witnessed sparse-melody partitions, preserving all four voices and barlines.
+function psalter26InteriorPartition(systems: number[][]) {
+  if (!['[[0],[1],[2,3],[4],[5,6],[7],[8],[9],[10,11]]',
+    '[[0],[1,2],[3],[4,5],[6,7],[8],[9],[10,11]]'].includes(JSON.stringify(systems))) return undefined;
+  return [...systems.slice(0, -3).map(system => [...system]), [8, 9], [...systems.at(-1)!]];
+}
+
 /** Shared transaction for immutable screen-score boundary profiles.
  * Native estimates reject this pair at a witnessed phone width even though
  * full native engraving can fit at the original glyph size. Try the ordinary
  * 15-unit margins first; only P28/P44/P47 may reclaim seven units per side.
  * P44/P50 may transfer complete unit1 from [1,2], retaining complete unit2.
- * P26 joins only the terminal [10],[11] pair at ordinary margins. P50 admits
+ * P26 joins source-bound [8],[9] or terminal [10],[11] pairs at ordinary margins. P50 admits
  * only source-bound [0],[1] or [0],[1,2] openings, at ordinary margins with
  * fresh native fit proof at every render. Every
  * other boundary, shared planner rule, lyric and source offset stays intact.
@@ -265,16 +307,17 @@ export function reflowPsalterGroupedOpeningScreenScore(host: HTMLElement, canoni
     // Unit 1 has no internal bar; no source split or later boundary is allowed.
     if (psalter28 && JSON.stringify(before.systems) !== '[[0],[1],[2,3],[4],[5,6],[7],[8],[9,10],[11]]')
       return finish(original, 'unaffected-opening');
-    // The generic helper has already repaired the late orphan. Only its exact
-    // retained 375-width partition admits the additional opening join.
-    if (psalter25 && JSON.stringify(before.systems) !== '[[0],[1],[2,3],[4],[5,6],[7],[8,9],[10,11]]')
+    const repartition25 = psalter25 ? psalter25OpeningPartition(before.systems) : undefined;
+    const repartition26 = psalter26 ? psalter26InteriorPartition(before.systems) : undefined;
+    // Admit only the two independently witnessed source-bound partitions.
+    if (psalter25 && !repartition25 && JSON.stringify(before.systems) !== '[[0],[1],[2,3],[4],[5,6],[7],[8,9],[10,11]]')
       return finish(original, 'unaffected-opening');
-    if (psalter26 && JSON.stringify(before.systems) !== '[[0],[1],[2,3],[4],[5,6],[7],[8,9],[10],[11]]')
+    if (psalter26 && !repartition26 && JSON.stringify(before.systems) !== '[[0],[1],[2,3],[4],[5,6],[7],[8,9],[10],[11]]')
       return finish(original, 'unaffected-terminal');
     // P50's exact source admits only these two complete-unit opening shapes;
     // every later current-system boundary is cloned into the candidate plan.
     const opening = JSON.stringify(before.systems.slice(0, 2));
-    if (!psalter26 && opening !== '[[0],[1]]' && !((psalter44 || psalter50) && opening === '[[0],[1,2]]')) return finish(original, 'unaffected-opening');
+    if (!psalter26 && opening !== '[[0],[1]]' && !((psalter44 || psalter50 || repartition25) && opening === '[[0],[1,2]]')) return finish(original, 'unaffected-opening');
     if (psalter50 && opening === '[[0],[1,2]]' && !safePsalter50Remainder(before)) return finish(original, 'source-remainder');
     const padding = original[0].engraver?.renderer?.padding;
     const section = (original[0] as abcjs.TuneObject & { explanation?: { widths?: NativeWidths; staffWidth?: number }[] }).explanation;
@@ -294,7 +337,7 @@ export function reflowPsalterGroupedOpeningScreenScore(host: HTMLElement, canoni
     const proof: GeometryDiagnostic = { version: 1, song: songId, phase: 'baseline', result: 'original' };
     const geometry = readScreenScoreGeometry(host, before, psalter50 || psalter28 || psalter25 || psalter26, proof);
     diagnostic.geometry = proof;
-    if (!geometry || ((psalter25 || psalter26) && (!close(geometry.width, options.staffwidth! + 30) || host.querySelector('.abcjs-rest'))))
+    if (!geometry || ((psalter25 || psalter26) && (((repartition25 || repartition26) ? geometry.width < options.staffwidth! + 30 : !close(geometry.width, options.staffwidth! + 30)) || host.querySelector('.abcjs-rest'))))
       return finish(original, 'original-geometry');
     // P28's ordinary engraving is slightly wider than requested staff + 30.
     // Keep that measured envelope; the candidate may never enlarge it.
@@ -310,9 +353,11 @@ export function reflowPsalterGroupedOpeningScreenScore(host: HTMLElement, canoni
     // P44 and this exact P50 opening admit a complete-unit transfer.
     // Remaining unit2 has two attacks per voice; no new lone chord is created.
     const remainder = before.systems[1].slice(1);
-    const systems = psalter26
+    const systems = repartition25 ?? repartition26 ?? (psalter26
       ? [...before.systems.slice(0, -2).map(system => [...system]), [10, 11]]
-      : [[0, 1], ...(remainder.length ? [remainder] : []), ...before.systems.slice(2).map(system => [...system])];
+      : [[0, 1], ...(remainder.length ? [remainder] : []), ...before.systems.slice(2).map(system => [...system])]);
+    if ((psalter25 || repartition26) && systems.some(system => system.length === 1 && before.units[system[0]].singleAttack &&
+      !before.systems.some(old => old.length === 1 && old[0] === system[0]))) return finish(original, 'new-singleton');
     diagnostic.originalUnits = before.systems; diagnostic.plannedUnits = systems;
     const attempts: Record<string, unknown>[] = [];
     diagnostic.attempts = attempts;
@@ -365,7 +410,9 @@ export function reflowPsalterGroupedOpeningScreenScore(host: HTMLElement, canoni
             containScreenSvgSystems(host);
             const next = readScreenScoreGeometry(host, after, true, candidateProof);
             const nextPadding = candidate[0].engraver?.renderer?.padding;
-            if (!next || !sameScreenScoreGeometry(geometry, next, candidateProof) || next.width !== geometry.width ||
+            const control = (repartition25 || repartition26) && next && captureLyricTypography(host, after.notes, next);
+            const textProof = control && verifyLyricTypography(host, typography, control, { preserveNaturalWidth: true });
+            if (!next || !sameScreenScoreGeometry(geometry, next, candidateProof, textProof?.valid === true) || next.width !== geometry.width ||
               candidate[0].engraver?.width !== staffwidth || nextPadding?.left !== margin || nextPadding.right !== margin ||
               ((psalter25 || psalter26) && host.querySelector('.abcjs-rest')))
               attempt.reason = 'candidate-geometry';
@@ -374,8 +421,8 @@ export function reflowPsalterGroupedOpeningScreenScore(host: HTMLElement, canoni
             else if (psalter31 && !samePsalter31RestSizes(rests!, readPsalter31RestSizes(host, after)))
               attempt.reason = 'candidate-rest-geometry';
             else {
-              const captured = captureLyricTypography(host, after.notes, next);
-              const text = captured && verifyLyricTypography(host, typography, captured, { preserveNaturalWidth: true });
+              const captured = control || captureLyricTypography(host, after.notes, next);
+              const text = textProof || captured && verifyLyricTypography(host, typography, captured, { preserveNaturalWidth: true });
               attempt.typography = text;
               const complete28 = !psalter28 || !!text && text.rows === 204 && text.compared === text.rows &&
                 text.nativeControls === text.rows * 2 && text.measurements > 0 &&

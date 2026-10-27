@@ -4,7 +4,7 @@ import { readLyricReferenceWidth } from './lyricTypography';
 const EPSILON = 0.05;
 const close = (a: number, b: number) => Number.isFinite(a) && Number.isFinite(b) && Math.abs(a - b) <= EPSILON;
 type Box = [number, number, number, number];
-type Glyph = { tag: string; name: string | null; classes: string | null; style: string; attributes: string;
+export type Glyph = { tag: string; name: string | null; classes: string | null; style: string; attributes: string;
   path?: (string | number)[]; box: Box; screen: Box; matrix: number[]; lyric: boolean; staff: boolean; arc: boolean };
 type System = { svg: SVGSVGElement; wrapper: HTMLElement; width: number; viewBox: string; glyphs: Glyph[] };
 export type HeKeepsInk = { systems: System[]; engine: string };
@@ -41,10 +41,10 @@ export function heKeepsPathShape(path: string): (string | number)[] | undefined 
   }
   return command.toUpperCase() === 'Z' || count % lengths[command.toUpperCase()] === 0 ? result : undefined;
 }
-const shapeEqual = (a: (string | number)[] | undefined, b: typeof a) => !a || !b ? a === b :
+export const shapeEqual = (a: (string | number)[] | undefined, b: typeof a) => !a || !b ? a === b :
   a.length === b.length && a.every((value, index) => typeof value === 'number'
     ? typeof b[index] === 'number' && close(value, b[index] as number) : value === b[index]);
-const overlaps = (a: Box, b: Box) => Math.min(a[0] + a[2], b[0] + b[2]) > Math.max(a[0], b[0]) + EPSILON &&
+export const overlaps = (a: Box, b: Box) => Math.min(a[0] + a[2], b[0] + b[2]) > Math.max(a[0], b[0]) + EPSILON &&
   Math.min(a[1] + a[3], b[1] + b[3]) > Math.max(a[1], b[1]) + EPSILON;
 
 // All source-owned drawing children, including accidentals, flags, stems, rests,
@@ -62,7 +62,7 @@ export function heKeepsEngineInk(tune: abcjs.TuneObject): string | undefined {
         [key, (child as unknown as Record<string, unknown>)[key]])) })))));
 }
 
-function glyph(element: SVGGraphicsElement, svg: SVGSVGElement): Glyph | undefined {
+export function glyph(element: SVGGraphicsElement, svg: SVGSVGElement): Glyph | undefined {
   const tag = element.tagName.toLowerCase(), box = element.getBBox(), screen = element.getBoundingClientRect();
   const matrix = element.getScreenCTM(), frame = svg.getScreenCTM();
   if (!matrix || !frame || ![box.x, box.y, box.width, box.height, screen.x, screen.y, screen.width, screen.height,

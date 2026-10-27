@@ -14,6 +14,12 @@ const PARSER: Witness = [1786, 0x5ec5ed13bbf22222n];
 const SIGNATURE: Witness = [51105, 0x5f1367e4e87eb0d4n];
 // The common reader deliberately omits beam fields; bind their absence too.
 const BEAMS: Witness = [8816, 0x4d58319c2e34ebd3n];
+// Separate all-five-stanza screen profile. The historical report's effective
+// versesPerTune=1 was ambiguous unsplit underlay, not today's group-one view.
+const DEFAULT = {
+  prepared: [3341, 0x5e7c6e81d52b146an], parser: [2446, 0x17b44e479e784114n],
+  signature: [55682, 0x767e85cd19f6d0b8n], beams: [8930, 0xa5a557dcbfb4c741n],
+} as const;
 const grouping = JSON.stringify([[null, null, 'start'], [null, null, 'end']]);
 
 function matches(text: string, witness: Witness) {
@@ -31,10 +37,16 @@ export function hasHeKeepsSizeSource(songId: string | undefined, abc: string) {
 /** Automatic wrapping strips exactly this prefix and trailing newlines. The
  * owned explicit-break parser must use those same bytes and click offsets. */
 export function heKeepsSizeWrappedNotation(prepared: string): string | undefined {
-  if (!matches(prepared, PREPARED)) return undefined;
+  return wrappedNotation(prepared, PREPARED, PARSER);
+}
+export function heKeepsDefaultWrappedNotation(prepared: string): string | undefined {
+  return wrappedNotation(prepared, DEFAULT.prepared, DEFAULT.parser);
+}
+function wrappedNotation(prepared: string, input: Witness, parser: Witness): string | undefined {
+  if (!matches(prepared, input)) return undefined;
   const book = new abcjs.TuneBook(prepared);
   return !book.header && book.tunes.length === 1 && book.tunes[0].startPos === 892 &&
-    book.tunes[0].abc === prepared.slice(892).trimEnd() && matches(book.tunes[0].abc, PARSER)
+    book.tunes[0].abc === prepared.slice(892).trimEnd() && matches(book.tunes[0].abc, parser)
     ? book.tunes[0].abc : undefined;
 }
 
@@ -46,7 +58,7 @@ function list(value: unknown): value is unknown[] {
   return Array.isArray(value) && Object.keys(value).length === value.length &&
     Object.keys(value).every((key, index) => key === String(index));
 }
-function engravedHeader(value: unknown, kind: string) {
+export function engravedHeader(value: unknown, kind: string) {
   const header = value as { el_type?: string; abselem?: unknown };
   return (!('el_type' in header) || header.el_type === kind) &&
     (!('abselem' in header) || !!header.abselem && typeof header.abselem === 'object' && header.el_type === kind);
@@ -64,7 +76,13 @@ const pitchFields = ['pitch', 'name', 'accidental', 'verticalPos', 'startSlur', 
  * the independently signed opening tempo is omitted from the structural view.
  * All returned note references are the original parser/engraver objects. */
 export function readHeKeepsSizeIdentity(tune: abcjs.TuneObject | undefined, abc: string) {
-  if (!tune || !matches(abc, PARSER) || abcjs.signature !== 'abcjs-basic v6.7.0' ||
+  return readIdentity(tune, abc, false);
+}
+export function readHeKeepsDefaultIdentity(tune: abcjs.TuneObject | undefined, abc: string) {
+  return readIdentity(tune, abc, true);
+}
+function readIdentity(tune: abcjs.TuneObject | undefined, abc: string, allStanzas: boolean) {
+  if (!tune || !matches(abc, allStanzas ? DEFAULT.parser : PARSER) || abcjs.signature !== 'abcjs-basic v6.7.0' ||
     !list(tune.lines) || !tune.lines.length || !keys(tune.metaText, [])) return undefined;
   let invalid = false;
   const tempos: unknown[] = [];
@@ -111,7 +129,8 @@ export function readHeKeepsSizeIdentity(tune: abcjs.TuneObject | undefined, abc:
             return false;
           }
           if (raw.el_type !== 'note') return true;
-          if ('lyric' in element && (!list(element.lyric) || element.lyric.length !== 1 || element.lyric.some(row =>
+          if ('lyric' in element && (!list(element.lyric) ||
+            (allStanzas ? ![1, 5].includes(element.lyric.length) : element.lyric.length !== 1) || element.lyric.some(row =>
             !keys(row, ['syllable', 'divider']) || typeof row.syllable !== 'string' || typeof row.divider !== 'string'))) invalid = true;
           const engraved = 'abselem' in element;
           const derived = element as typeof element & { averagepitch?: number; minpitch?: number; maxpitch?: number };
@@ -143,9 +162,9 @@ export function readHeKeepsSizeIdentity(tune: abcjs.TuneObject | undefined, abc:
   const score = readScreenScoreIdentity(structural, abc);
   if (!score || score.meter !== 1 || score.units.length !== 16 || score.units.some(unit => unit.duration !== 1) ||
     score.notes.length !== 250 || score.notes.reduce((sum, note) => sum + (note.element.pitches?.length ?? 0), 0) !== 226 ||
-    !matches(score.signature, SIGNATURE)) return undefined;
+    !matches(score.signature, allStanzas ? DEFAULT.signature : SIGNATURE)) return undefined;
   const beams = JSON.stringify(score.notes.map(({ voice, element }) => [voice, element.startChar, element.endChar,
     'startBeam' in element, element.startBeam, 'endBeam' in element, element.endBeam]));
-  if (!matches(beams, BEAMS)) return undefined;
+  if (!matches(beams, allStanzas ? DEFAULT.beams : BEAMS)) return undefined;
   return { ...score, signature: JSON.stringify([score.signature, grouping, tempos, beams]) };
 }

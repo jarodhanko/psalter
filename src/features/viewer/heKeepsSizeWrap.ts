@@ -63,9 +63,9 @@ export function heKeepsSizeReservations(group: Group | undefined, apply = false)
   return proof;
 }
 
-export function readHeKeepsSizeStaves(host: HTMLElement) {
+export function readHeKeepsSizeStaves(host: HTMLElement, count = 16) {
   const svgs = [...host.querySelectorAll('svg')];
-  if (svgs.length !== 16) return undefined;
+  if (svgs.length !== count) return undefined;
   const staves = svgs.map(svg => [...svg.querySelectorAll<SVGGraphicsElement>('g.abcjs-staff')].map(staff => {
     const box = staff.getBBox(), screen = staff.getBoundingClientRect();
     return { width: box.width, height: box.height, screenHeight: screen.height, left: box.x };
@@ -75,7 +75,7 @@ export function readHeKeepsSizeStaves(host: HTMLElement) {
     !close(row.height, staves[0][0].height) || !close(row.screenHeight, staves[0][0].screenHeight)) || !close(rows[0].width, rows[1].width))) return undefined;
   return staves;
 }
-function sameSize(before: Geometry, after: Geometry, width: number) {
+export function sameSize(before: Geometry, after: Geometry, width: number) {
   const ratio = before.width / width;
   return ratio > 1 && close(after.width, width) && close(before.left, after.left) && close(before.screenWidth, after.screenWidth) &&
     before.notes.length === after.notes.length && before.notes.every((note, index) => {
@@ -86,7 +86,7 @@ function sameSize(before: Geometry, after: Geometry, width: number) {
         note.lyrics.length === next.lyrics.length && note.lyrics.every((row, i) => row.text === next.lyrics[i].text);
     });
 }
-const sourcePadding = (tune: abcjs.TuneObject, width: number) => tune.engraver?.width === width &&
+export const sourcePadding = (tune: abcjs.TuneObject, width: number) => tune.engraver?.width === width &&
   tune.engraver?.renderer?.padding?.left === 15 && tune.engraver.renderer.padding.right === 15 &&
   tune.formatting.staffwidth === undefined && tune.formatting.leftmargin === undefined && tune.formatting.rightmargin === undefined;
 

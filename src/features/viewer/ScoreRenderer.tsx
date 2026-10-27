@@ -3,7 +3,7 @@ import { newOLoveSession, disposeOLoveSession, releaseOLoveFrame, captureOLoveFr
 import { newRollInteriorSession, disposeRollInteriorSession, releaseRollInteriorFrame, captureRollInteriorFrame, reflowRollInterior, clearRollInteriorReflow } from './rollInteriorReflow';
 import type { RollInteriorSession } from './rollInteriorReflow';
 import type { RollGroupingBaseline } from './rollGroupingWrap';
-import { ALL_CREATURES_OPENING_ID, HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, CHURCH_OPENING_ID, HE_LEADETH_OPENING_ID, OH_HOW_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, PSALTER_BEAT_ID, SAVIORS_LOVE_OPENING_ID, THOUSAND_OPENING_ID, newOpeningBeatSession, captureOpeningBeatFrame, reflowOpeningBeats, clearOpeningBeatReflow } from './openingBeatReflow';
+import { PSALTER44_GROUPED_ID, PSALTER47_GROUPED_ID, ALL_CREATURES_OPENING_ID, HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, CHURCH_OPENING_ID, HE_LEADETH_OPENING_ID, OH_HOW_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, PSALTER_BEAT_ID, SAVIORS_LOVE_OPENING_ID, THOUSAND_OPENING_ID, newOpeningBeatSession, captureOpeningBeatFrame, reflowOpeningBeats, clearOpeningBeatReflow } from './openingBeatReflow';
 import { hasMightyFortressOpeningSource } from './mightyFortressOpeningSource';
 import type { BeatFrame } from './openingBeatReflow';
 import { reflowAllCreaturesOpeningScreenScore } from './hymnOpeningWrap';
@@ -11,6 +11,7 @@ import { clearItIsWellOpeningWrap, reportItIsWellOpeningSettings, reflowItIsWell
 import { clearOLoveOpeningWrap, reportOLoveOpeningSettings, reflowOLoveOpeningScreenScore } from './hymnOpeningWrap';
 import { hasRollGroupingSource, renderRollGroupingScreenScore } from './rollGroupingWrap';
 import { projectHymnLyrics } from '../../domain/hymnLyricPolicy';
+import type { HymnOpeningSettings } from './hymnOpeningWrap';
 import { clearOhHowOpeningWrap, reportOhHowOpeningSettings, reflowOhHowOpeningScreenScore, clearSandsOpeningWrap, reportSandsOpeningSettings, reflowSandsOpeningScreenScore, clearGodLeadsOpeningWrap, reportGodLeadsOpeningSettings, reflowGodLeadsOpeningScreenScore, clearSweetHourOpeningWrap, reportSweetHourOpeningSettings, reflowSweetHourOpeningScreenScore, clearOnlyTrustOpeningWrap, reportOnlyTrustOpeningSettings, reflowOnlyTrustOpeningScreenScore, clearHeLeadethOpeningWrap, reportHeLeadethOpeningSettings, reflowHeLeadethOpeningScreenScore, clearMightyFortressOpeningWrap, reportMightyFortressOpeningSettings, reflowMightyFortressOpeningScreenScore, clearMelitaOpeningWrap, reportMelitaOpeningSettings, reflowMelitaOpeningScreenScore, clearCoronationOpeningWrap, reportCoronationOpeningSettings, reflowCoronationOpeningScreenScore, clearSaviorsLoveOpeningWrap, reportSaviorsLoveOpeningSettings, reflowSaviorsLoveOpeningScreenScore, clearFaithOpeningWrap, reportFaithOpeningSettings, reflowFaithOpeningScreenScore, clearHymnOpeningWrap, reportHymnOpeningSettings, reflowHymnOpeningScreenScore, clearHidethOpeningWrap, reportHidethOpeningSettings, reflowHidethOpeningScreenScore } from './hymnOpeningWrap';
 import { extractUnderlayModel } from '../../domain/underlayIdentity';
 import type { UnderlayIdentityWitness } from '../../domain/underlayIdentity';
@@ -23,6 +24,7 @@ import { clearChurchSizeWrap, refineChurchSizeScreenScore } from './churchSizeWr
 import { clearTwoHymnSizeWrap, refineTwoHymnSizeScreenScore } from './twoHymnSizeWrap';
 import { refineHeKeepsSizeScreenScore } from './heKeepsSizeWrap';
 import { hasHeKeepsSizeSource } from './heKeepsSizeSource';
+import { reflowHeKeepsDefault, clearHeKeepsDefaultWrap } from './heKeepsDefaultWrap';
 import { getReportedDuplicateCarriers, presentReportedDuplicateCarriers } from '../../domain/reportedDuplicateCarriers';
 import type { ReportedDuplicateCarriers } from '../../domain/reportedDuplicateCarriers';
 import type { ReviewedUnderlay } from '../../domain/reviewedUnderlay';
@@ -282,7 +284,7 @@ export function hasGroupedStanzas(abc: string, stanzasPerGroup = 5, identity?: U
   return splitUnderlaidStanzas(abc, stanzasPerGroup, identity).length > 0;
 }
 
-function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGeneration, rollMetricsRevision, allCreaturesGroupingSource, heKeepsSizeSource, openingSource, lyricExtenders, hymnSlurClearance, accessibleLabel, scale, transpose, width, stanzasPerGroup, repeatLyricSpacing = false, hymnAboveResponse = false, hymnBelowResponse = false, dottedRests81 = false, sourceHeads, sourceLayers, sharedRests133 = false, sharedQuarterRests, keySignatures143, keySignatures226, onNoteClick, registerVisible, trackingSupported, copy }: {
+function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGeneration, rollMetricsRevision, allCreaturesGroupingSource, heKeepsSizeSource, openingSource, openingSettings, lyricExtenders, hymnSlurClearance, accessibleLabel, scale, transpose, width, stanzasPerGroup, repeatLyricSpacing = false, hymnAboveResponse = false, hymnBelowResponse = false, dottedRests81 = false, sourceHeads, sourceLayers, sharedRests133 = false, sharedQuarterRests, keySignatures143, keySignatures226, onNoteClick, registerVisible, trackingSupported, copy }: {
   abc: string;
   songId?: string;
   rollGroupingSource?: string;
@@ -292,6 +294,7 @@ function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGe
   allCreaturesGroupingSource?: string;
   heKeepsSizeSource?: string;
   openingSource?: string;
+  openingSettings: HymnOpeningSettings;
   stanzasPerGroup: number;
   accessibleLabel: string;
   scale: number;
@@ -316,16 +319,23 @@ function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGe
 }) {
   const hostRef = useRef<HTMLDivElement>(null);
   const onNoteClickRef = useRef(onNoteClick);
+  const openingSession = useRef(newOpeningBeatSession()).current;
+  const openingGeneration = useRef(0);
   onNoteClickRef.current = onNoteClick;
 
   useEffect(() => {
     const host = hostRef.current;
     if (!host) return;
     clearPsalterGroupedOpeningWrap(host);
+    clearOpeningBeatReflow(host);
+    const groupedBeat = (songId === PSALTER47_GROUPED_ID || songId === PSALTER44_GROUPED_ID) && !!openingSource && scale === 1;
+    const openingRevision = ++openingGeneration.current;
+    let openingFrame: BeatFrame | undefined, openingSealed = false;
     clearRollInteriorReflow(host);
     host.replaceChildren();
     const generation = rollGeneration?.current;
-    const current = () => host.isConnected && rollGeneration?.current === generation;
+    const current = () => host.isConnected && host === hostRef.current &&
+      openingGeneration.current === openingRevision && rollGeneration?.current === generation;
     releaseRollInteriorFrame(rollSession);
     const settled: { baseline?: RollGroupingBaseline } = {};
     let tune: abcjs.TuneObject | undefined;
@@ -346,6 +356,8 @@ function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGe
           reserveHymnSlurClearance(tune, hymnSlurClearance);
           if (rollSession && rollGroupingSource && scale === 1 && stanzasPerGroup === 1)
             captureRollInteriorFrame(rollSession, tune, source, abc);
+          if (groupedBeat && !openingSealed)
+            openingFrame = captureOpeningBeatFrame(openingSession, tune, source, abc, songId);
           return tune;
         },
         accentAbove: true,
@@ -370,6 +382,7 @@ function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGe
       const groupedRender = refineAllCreaturesGroupingScreenScore(host, abc, songId, options,
         refineWondrousGroupingScreenScore(host, abc, songId, options,
           renderRollGroupingScreenScore(host, abc, songId, options, rollGroupingSource, settled)), allCreaturesGroupingSource);
+      openingSealed = true;
       const interiorRender = reflowRollInterior({ host, canonical: rollGroupingSource, prepared: abc, options, original: groupedRender,
         baseline: settled.baseline, session: rollSession, scale, stanzasPerGroup, current });
       if (heKeepsSizeSource) { preserveBlankLyricRows(host); containScreenSvgSystems(host); }
@@ -377,8 +390,12 @@ function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGe
         { requestedScale: scale, scoreWidth: width, transpose, stanzasPerGroup });
       const openingRender = reflowAllCreaturesOpeningScreenScore(host, abc, songId, options, sizeRender,
         allCreaturesGroupingSource, scale, width, stanzasPerGroup);
-      const rendered = reflowPsalterGroupedOpeningScreenScore(host, openingSource, abc, songId, options, openingRender,
+      let rendered = reflowPsalterGroupedOpeningScreenScore(host, openingSource, abc, songId, options, openingRender,
         { requestedScale: scale, scoreWidth: width, transpose, stanzasPerGroup });
+      if (groupedBeat && openingSource) rendered = reflowOpeningBeats({ diagnosticHost: host, host,
+        source: openingSource, prepared: abc, options, original: rendered, song: songId!,
+        settings: openingSettings, frame: openingFrame, current });
+      openingFrame = undefined;
       restoreHymnResponseRows(rendered[0]);
       tune = rendered[0];
       preserveBlankLyricRows(host);
@@ -387,8 +404,22 @@ function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGe
       presentSourceLayers(tune, sourceLayers);
       if (abc.includes('[K:') && !keysRecognized143 && !keysRecognized226) removeInlineKeySignatureArtifacts(host);
       containScreenSvgSystems(host);
-      if (tune) return registerVisible?.({ host, tune, source: abc, copy, supported: trackingSupported });
+      if (tune) {
+        const unregister = registerVisible?.({ host, tune, source: abc, copy, supported: trackingSupported });
+        if (!groupedBeat) return unregister;
+        return () => {
+          tune = undefined;
+          openingFrame = undefined;
+          openingGeneration.current++;
+          clearOpeningBeatReflow(host);
+          unregister?.();
+        };
+      }
     } catch (error) {
+      openingGeneration.current++;
+      openingFrame = undefined;
+      tune = undefined;
+      clearOpeningBeatReflow(host);
       clearPsalterGroupedOpeningWrap(host);
       clearRollInteriorReflow(host);
       host.replaceChildren();
@@ -397,7 +428,7 @@ function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGe
       alert.textContent = error instanceof Error ? `Unable to render this score: ${error.message}` : 'Unable to render this score.';
       host.appendChild(alert);
     } finally { releaseRollInteriorFrame(rollSession); }
-  }, [abc, songId, rollGroupingSource, rollSession, rollGeneration, rollMetricsRevision, allCreaturesGroupingSource, heKeepsSizeSource, openingSource, lyricExtenders, hymnSlurClearance, hymnAboveResponse, hymnBelowResponse, dottedRests81, sourceHeads, sourceLayers, sharedRests133, sharedQuarterRests, keySignatures143, keySignatures226, repeatLyricSpacing, scale, transpose, width, stanzasPerGroup, registerVisible, trackingSupported, copy]);
+  }, [openingSession, openingSettings, abc, songId, rollGroupingSource, rollSession, rollGeneration, rollMetricsRevision, allCreaturesGroupingSource, heKeepsSizeSource, openingSource, lyricExtenders, hymnSlurClearance, hymnAboveResponse, hymnBelowResponse, dottedRests81, sourceHeads, sourceLayers, sharedRests133, sharedQuarterRests, keySignatures143, keySignatures226, repeatLyricSpacing, scale, transpose, width, stanzasPerGroup, registerVisible, trackingSupported, copy]);
 
   return <div className="score-canvas" ref={hostRef} role="img" aria-label={accessibleLabel} />;
 }
@@ -1297,10 +1328,11 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
   const beatOpening = songId === ALL_CREATURES_OPENING_ID || songId === HIDETH_OPENING_ID || songId === GOD_LEADS_OPENING_ID || songId === MIGHTY_FORTRESS_OPENING_ID || songId === SAVIORS_LOVE_OPENING_ID || songId === PSALTER39_OPENING_ID || songId === PSALTER46_LYRIC_ID || songId === OH_HOW_OPENING_ID || songId === HE_LEADETH_OPENING_ID || songId === CHURCH_OPENING_ID || songId === THOUSAND_OPENING_ID || songId === PSALTER_BEAT_ID;
   const rollInterior = hasRollGroupingSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 1 && scale === 1;
   const oLoveInterior = hasOLoveOpeningSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 4 && scale === 1;
+  const heKeepsDefault = hasHeKeepsSizeSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 5 && scale === 1;
   const oLoveSession = useMemo(newOLoveSession, [abc, songId, transpose, learnerAccidentals, visibleKey, stanzasPerGroup, scale, showOriginalLyrics]);
   useEffect(() => () => disposeOLoveSession(oLoveSession), [oLoveSession]);
-  const coalesceScoreResize = beatOpening || rollInterior || oLoveInterior;
-  const settleFortressResize = useMemo(() => hasMightyFortressOpeningSource(songId, abc), [songId, abc]);
+  const coalesceScoreResize = beatOpening || rollInterior || oLoveInterior || heKeepsDefault;
+  const settleScoreResize = useMemo(() => hasMightyFortressOpeningSource(songId, abc) || heKeepsDefault, [songId, abc, heKeepsDefault]);
   const rollSession = useMemo(newRollInteriorSession, [abc, songId, transpose, learnerAccidentals, visibleKey, stanzasPerGroup, scale, showOriginalLyrics]);
   useEffect(() => () => disposeRollInteriorSession(rollSession), [rollSession]);
   const beatSession = useMemo(newOpeningBeatSession, [abc, songId, transpose, learnerAccidentals, visibleKey, stanzasPerGroup, showOriginalLyrics]);
@@ -1386,6 +1418,15 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
     : repeatGroups.length ? repeatGroups : splitUnderlaidStanzas(underlayAbc, stanzasPerGroup, underlayIdentity);
   const groupedUnderlaid = underlaidGroups.length > 0;
   const grouped = !preparation143.error && !preparation226.error && groupedUnderlaid;
+  // Pass actual UI state, even though openingSource separately proves these
+  // settings eligible. Never label an enabled option false to admit reflow.
+  const groupRepeatUnderlay = !!repeatUnderlay, groupReviewedUnderlay = !!reviewedUnderlay;
+  const groupOpeningSettings = useMemo<HymnOpeningSettings>(() => ({
+    requestedScale: scale, scoreWidth: width, transpose: engravingTranspose,
+    learnerAccidentals, visibleKey, stanzasPerGroup, grouped, musicOnly,
+    repeatUnderlay: groupRepeatUnderlay, reviewedUnderlay: groupReviewedUnderlay,
+  }), [scale, width, engravingTranspose, learnerAccidentals, visibleKey,
+    stanzasPerGroup, grouped, musicOnly, groupRepeatUnderlay, groupReviewedUnderlay]);
   // This edition's ambiguous-underlay fallback keeps every source row.
   // ScoreViewer clamps every positive verse preference to this effective 1.
   const ohHowPickup = ohHowPickupSource && !musicOnly && !learnerAccidentals && transpose === 0 &&
@@ -1463,12 +1504,12 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       invalidateMetrics ||= invalidate;
       beatGeneration.current++;
       if (queued !== undefined) {
-        if (!settleFortressResize) return;
+        if (!settleScoreResize) return;
         window.clearTimeout(queued);
       }
-      // This exact edition can require multiple complete engraving passes.
+      // These exact editions can require multiple complete engraving passes.
       // One shared slot holds the latest-width job after a 100 ms quiet period.
-      queued = settleFortressResize ? window.setTimeout(commitLatestWidth, 100)
+      queued = settleScoreResize ? window.setTimeout(commitLatestWidth, 100)
         : requestAnimationFrame(commitLatestWidth);
     };
     const observer = new ResizeObserver(([entry]) => schedule(entry.contentRect.width));
@@ -1483,14 +1524,14 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
     return () => {
       active = false; observer.disconnect(); beatGeneration.current++;
       if (queued !== undefined) {
-        if (settleFortressResize) window.clearTimeout(queued);
+        if (settleScoreResize) window.clearTimeout(queued);
         else cancelAnimationFrame(queued);
       }
       document.fonts.removeEventListener('loadingdone', fonts); window.removeEventListener('resize', zoom);
     };
     // Scope scheduling to the admitted profiles and cancel queued generations whenever
     // its source/parts/scale/underlay configuration changes or unmounts.
-  }, [coalesceScoreResize, settleFortressResize, coalesceScoreResize ? beatSession : null, oLoveInterior ? oLoveSession : null, coalesceScoreResize ? scale : null]);
+  }, [coalesceScoreResize, settleScoreResize, coalesceScoreResize ? beatSession : null, oLoveInterior ? oLoveSession : null, coalesceScoreResize ? scale : null]);
 
   useEffect(() => {
     const host = hostRef.current;
@@ -1501,6 +1542,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
     let ordinaryFrameSealed = false;
     releaseOLoveFrame(oLoveSession);
     clearOLoveReflow(host);
+    clearHeKeepsDefaultWrap(host);
     clearOpeningBeatReflow(probeHost);
     const probeSettings = { requestedScale: scale, scoreWidth: width, transpose, learnerAccidentals, visibleKey,
       stanzasPerGroup, grouped, musicOnly, repeatUnderlay: !!repeatUnderlay, reviewedUnderlay: !!reviewedUnderlay };
@@ -1659,6 +1701,10 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       rendered = reflowOhHowOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
       if (songId === 'psalter50' || songId === 'psalter28' || songId === 'psalter25' || songId === 'psalter26') rendered = reflowPsalterGroupedOpeningScreenScore(host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
       const ordinaryRendered = rendered;
+      if (heKeepsDefault) rendered = reflowHeKeepsDefault({ host: host!, source: abc, prepared: notationOnlyAbc,
+        songId, options: screenOptions, original: ordinaryRendered, settings: probeSettings,
+        current: () => generation === beatGeneration.current && host === hostRef.current && host!.isConnected &&
+          !!probeHost && Math.abs(Math.max(320, probeHost.getBoundingClientRect().width) - width) <= 1 / 32 });
       if (oLoveInterior) {
         rendered = reflowOLove({ host: host!, canonical: abc, prepared: notationOnlyAbc, options: screenOptions,
           original: ordinaryRendered, fit: screenFit, session: oLoveSession, settings: probeSettings,
@@ -1685,7 +1731,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       if (!musicOnly && !lyricExtenders && notationOnlyAbc === fullNotationAbc && rendered[0] && !sharedRests133 && !sharedQuarterRests && !keySignatures143 && !keySignatures226 && !sourceHeads && !sourceLayers) {
         // The fragment is display-only. Resize keeps the same ordinary audio
         // owner and clock; it never sends the fragmented Tune to onRendered.
-        if ((!beatOpening && !oLoveInterior) || fullTuneRef.current?.key !== fullTuneKey)
+        if ((!beatOpening && !oLoveInterior && !heKeepsDefault) || fullTuneRef.current?.key !== fullTuneKey)
           fullTuneRef.current = { key: fullTuneKey, tune: ordinaryRendered[0] };
       } else if (fullTuneRef.current?.key !== fullTuneKey) {
         if (keySignatures143 || keySignatures226) fullTuneRef.current = null;
@@ -1695,7 +1741,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       }
       onRendered(fullTuneRef.current?.key === fullTuneKey ? fullTuneRef.current.tune : sharedRests133 || sharedQuarterRests || keySignatures143 || keySignatures226 || reviewedFermatas || timingCarrier || sourceHeads || sourceLayers || lyricExtenders ? undefined : ordinaryRendered[0]);
       let unregister = currentRenderedTune && registerVisible?.({ host: host!, tune: restSelectionView ?? currentRenderedTune, source: notationOnlyAbc, copy: 0, supported: trackingSupported });
-      if (!beatOpening && !oLoveInterior) return unregister;
+      if (!beatOpening && !oLoveInterior && !heKeepsDefault) return unregister;
       return () => {
         // The persistent ordinary owner retains this click listener. Retire
         // its display slot so a later width cannot retain an obsolete candidate.
@@ -1708,6 +1754,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       currentRenderedTune = undefined;
       beatFrame = undefined;
       clearOLoveReflow(host);
+      clearHeKeepsDefaultWrap(host);
       clearOpeningBeatReflow(probeHost);
       clearChurchSizeWrap(probeHost);
       clearTwoHymnSizeWrap(probeHost);
@@ -1902,6 +1949,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
                   heKeepsSizeSource={hasHeKeepsSizeSource(songId, abc) && visibleKey === '0,1,2,3' &&
                     transpose === 0 && !learnerAccidentals && !repeatUnderlay && !lyricFiltered &&
                     stanzasPerGroup === 1 && scale === 1 ? abc : undefined}
+                  openingSettings={groupOpeningSettings}
                   openingSource={hasPsalterGroupedOpeningSource(songId, abc) && visibleKey === '0,1,2,3' &&
                     transpose === 0 && !learnerAccidentals && !repeatUnderlay && !lyricFiltered && !reviewedUnderlay &&
                     stanzasPerGroup === (songId === 'psalter44' ? 1 : 5) ? abc : undefined}

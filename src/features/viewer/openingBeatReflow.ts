@@ -10,9 +10,10 @@ import { planSupplementalOpeningRest, projectSupplementalOpeningRest } from './s
 import { HIDETH_OPENING_ID, hasHidethOpeningSource, hidethOpeningWrappedNotation, readHidethOpeningIdentity } from './hidethOpeningSource';
 import { GOD_LEADS_OPENING_ID, hasGodLeadsOpeningSource, godLeadsOpeningWrappedNotation, readGodLeadsOpeningIdentity } from './godLeadsOpeningSource';
 import { HE_LEADETH_OPENING_ID, hasHeLeadethOpeningSource, heLeadethOpeningWrappedNotation, readHeLeadethOpeningIdentity } from './heLeadethOpeningSource';
-import { hasPsalterGroupedOpeningSource, psalter50WrappedNotation } from './psalter47OpeningWrap';
+import { hasPsalterGroupedOpeningSource, psalter50WrappedNotation, psalter47WrappedNotation, psalter44WrappedNotation, readPsalter44OpeningIdentity } from './psalter47OpeningWrap';
 import { hasPsalter46OpeningSource, psalter46WrappedNotation } from './psalter46OpeningWrap';
 import { PSALTER39_OPENING_ID, hasPsalter39OpeningSource, psalter39WrappedNotation, readPsalter39OpeningIdentity } from './psalter39OpeningSource';
+import { PSALTER47_GROUPED_ID, readPsalter47OpeningIdentity, hasPsalter47LyricBoundary, readPsalter47NativeContinuation } from './psalter47LyricContinuation';
 import { PSALTER46_LYRIC_ID, readPsalter46OpeningIdentity, hasPsalter46LyricBoundary, readPsalter46NativeContinuation } from './psalter46LyricContinuation';
 import { SAVIORS_LOVE_OPENING_ID, hasSaviorsLoveOpeningSource, saviorsLoveOpeningWrappedNotation, readSaviorsLoveOpeningIdentity } from './saviorsLoveOpeningSource';
 import { hasSaviorsLoveLyricBoundary, readSaviorsLoveNativeContinuation } from './saviorsLoveLyricContinuation';
@@ -24,12 +25,26 @@ import { preserveBlankLyricRows } from './lyricRows';
 import { containScreenSvgSystems } from './screenSvgBounds';
 import type { HymnOpeningSettings } from './hymnOpeningWrap';
 
-export { ALL_CREATURES_OPENING_ID, HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, CHURCH_OPENING_ID, HE_LEADETH_OPENING_ID, OH_HOW_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, SAVIORS_LOVE_OPENING_ID, THOUSAND_OPENING_ID };
+export { PSALTER47_GROUPED_ID, ALL_CREATURES_OPENING_ID, HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, CHURCH_OPENING_ID, HE_LEADETH_OPENING_ID, OH_HOW_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, SAVIORS_LOVE_OPENING_ID, THOUSAND_OPENING_ID };
 const ATTRIBUTE = 'data-opening-beat-reflow';
 export function clearOpeningBeatReflow(host: HTMLElement | null) { host?.removeAttribute(ATTRIBUTE); }
 export const PSALTER_BEAT_ID = 'psalter50';
+export const PSALTER44_GROUPED_ID = 'psalter44';
 // Only these exact-source profiles may split the opening measure.
 function profile(song: string) {
+  if (song === PSALTER44_GROUPED_ID) return {
+    source: (source: string) => hasPsalterGroupedOpeningSource(song, source),
+    parser: psalter44WrappedNotation, read: readPsalter44OpeningIdentity,
+    numerator: 3, denominator: 4, stanzasPerGroup: 1, lyricRows: 1, suffixBeam: false,
+    grouped: true, usefulRemainder: true,
+  };
+  if (song === PSALTER47_GROUPED_ID) return {
+    source: (source: string) => hasPsalterGroupedOpeningSource(song, source),
+    parser: psalter47WrappedNotation, read: readPsalter47OpeningIdentity,
+    numerator: 3, denominator: 4, stanzasPerGroup: 5, lyricRows: 5, suffixBeam: false,
+    grouped: true, usefulRemainder: true,
+    lyricContinuation: { boundary: hasPsalter47LyricBoundary, read: readPsalter47NativeContinuation },
+  };
   if (song === ALL_CREATURES_OPENING_ID) return {
     source: hasAllCreaturesOpeningSource, parser: allCreaturesDefaultWrappedNotation, read: readAllCreaturesGroupingIdentity,
     numerator: 6, denominator: 4, stanzasPerGroup: 5, lyricRows: 5, suffixBeam: false, reviewedUnderlay: true,
@@ -416,13 +431,14 @@ export function reflowOpeningBeats({ diagnosticHost, host, source, prepared, opt
     const engine = runtime();
     if (!engine || !edition?.source(source) || !frame || frame.parser !== edition.parser(prepared)) return finish(original, 'source-or-frame');
     if (settings.visibleKey !== '0,1,2,3' || settings.stanzasPerGroup !== edition.stanzasPerGroup || settings.transpose !== 0 || settings.learnerAccidentals ||
-      settings.grouped || settings.musicOnly || settings.repeatUnderlay || settings.reviewedUnderlay !== !!edition.reviewedUnderlay || options.print ||
+      !!settings.grouped !== !!edition.grouped || settings.musicOnly || settings.repeatUnderlay || settings.reviewedUnderlay !== !!edition.reviewedUnderlay || options.print ||
       host.closest('.print-score-canvas') || !host.isConnected || !options.wrap || options.lineBreaks || options.visualTranspose ||
       options.scale !== 1 || options.responsive !== 'resize' || options.oneSvgPerLine !== true || options.minPadding !== 6 ||
       options.format || options.expandToWidest || options.timeBasedLayout || options.tablature || options.viewportHorizontal || options.viewportVertical ||
       options.paddingleft !== undefined || options.paddingright !== undefined || options.wrap.minSpacing !== 1.5 || options.wrap.maxSpacing !== 2.7 ||
       options.wrap.preferredMeasuresPerLine !== 0 || options.wrap.minSpacingLimit !== undefined || options.wrap.lastLineLimit !== undefined ||
       !Number.isFinite(options.staffwidth) || Math.abs(options.staffwidth! - settings.scoreWidth / settings.requestedScale) > EPSILON || !current()) return finish(original, 'unsupported-or-stale');
+    if (edition.grouped && !host.ownerDocument.defaultView?.matchMedia?.('(max-width: 600px)').matches) return finish(original, 'unsupported-grouped-width');
     if (edition.lyricContinuation && settings.requestedScale !== 1) return finish(original, 'unsupported-lyric-scale');
     if (edition.prefixBeam && (settings.requestedScale !== 1 ||
       !host.ownerDocument.defaultView?.matchMedia?.('(max-width: 600px)').matches)) return finish(original, 'unsupported-prefix-size');

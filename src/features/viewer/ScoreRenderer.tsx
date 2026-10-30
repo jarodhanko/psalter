@@ -86,6 +86,17 @@ import type { PreparedScreenAbc } from '../export/abcExport';
 // Keep distinct lyric words separated even when the available width compresses
 // a system. Apply the same event spacing to screen and print engraving.
 const SCORE_MIN_PADDING = 6;
+// Copy primitive defaults into each fresh options object; never share mutable options.
+// Responsive SVG width owns the requested size, so ABCJS wrapping stays at scale 1.
+const SCORE_SVG_OPTIONS = { oneSvgPerLine: true, minPadding: SCORE_MIN_PADDING, responsive: 'resize' as const, scale: 1 };
+
+// The same probe-owned diagnostics are reset before rendering and on failure.
+function clearSizeOpeningWraps(probeHost: HTMLElement | null) {
+  clearChurchSizeWrap(probeHost);
+  clearTwoHymnSizeWrap(probeHost);
+  clearPsalter46OpeningWrap(probeHost);
+  probeHost?.removeAttribute('data-psalter433-opening-wrap');
+}
 
 type HymnSlurClearance = readonly [margin: 'stafftopmargin' | 'vocalspace', points: number] | undefined;
 
@@ -368,12 +379,7 @@ function ScoreGroupCanvas({ abc, songId, rollGroupingSource, rollSession, rollGe
             onNoteClickRef.current?.(tune, element.startChar);
           }
         },
-        oneSvgPerLine: true,
-        minPadding: SCORE_MIN_PADDING,
-        responsive: 'resize',
-        // Responsive SVG width already applies the requested score size.
-        // ABCJS also divides its wrap budget by scale, so keep that factor neutral.
-        scale: 1,
+        ...SCORE_SVG_OPTIONS,
         staffwidth: width / scale,
         visualTranspose: transpose,
         viewportHorizontal: false,
@@ -1325,10 +1331,22 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
   const [width, setWidth] = useState(900);
   const [renderError, setRenderError] = useState<string | undefined>();
   const visibleKey = visibleVoiceIndexes.join(',');
-  const beatOpening = songId === ALL_CREATURES_OPENING_ID || songId === HIDETH_OPENING_ID || songId === GOD_LEADS_OPENING_ID || songId === MIGHTY_FORTRESS_OPENING_ID || songId === SAVIORS_LOVE_OPENING_ID || songId === PSALTER39_OPENING_ID || songId === PSALTER46_LYRIC_ID || songId === OH_HOW_OPENING_ID || songId === HE_LEADETH_OPENING_ID || songId === CHURCH_OPENING_ID || songId === THOUSAND_OPENING_ID || songId === PSALTER_BEAT_ID;
+  // Only this arrangement requests the optional repair. Import failure retains
+  // the ordinary renderer, and a newer song/unmount retires the pending load.
+  const [psalter433Opening, setPsalter433Opening] = useState<typeof import('./lordsPrayerOpeningWrap')>();
+  useEffect(() => {
+    if (songId !== 'psalter433' || psalter433Opening) return;
+    let active = true;
+    void import('./lordsPrayerOpeningWrap').then(module => {
+      if (active) setPsalter433Opening(module);
+    }).catch(() => undefined);
+    return () => { active = false; };
+  }, [songId, psalter433Opening]);
+  const beatOpening = ([ALL_CREATURES_OPENING_ID, HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, SAVIORS_LOVE_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, OH_HOW_OPENING_ID, HE_LEADETH_OPENING_ID, CHURCH_OPENING_ID, THOUSAND_OPENING_ID, PSALTER_BEAT_ID] as readonly (string | undefined)[]).includes(songId);
   const rollInterior = hasRollGroupingSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 1 && scale === 1;
   const oLoveInterior = hasOLoveOpeningSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 4 && scale === 1;
   const heKeepsDefault = hasHeKeepsSizeSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 5 && scale === 1;
+  const ordinaryOwner = !beatOpening && !oLoveInterior && !heKeepsDefault;
   const oLoveSession = useMemo(newOLoveSession, [abc, songId, transpose, learnerAccidentals, visibleKey, stanzasPerGroup, scale, showOriginalLyrics]);
   useEffect(() => () => disposeOLoveSession(oLoveSession), [oLoveSession]);
   const coalesceScoreResize = beatOpening || rollInterior || oLoveInterior || heKeepsDefault;
@@ -1546,27 +1564,17 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
     clearOpeningBeatReflow(probeHost);
     const probeSettings = { requestedScale: scale, scoreWidth: width, transpose, learnerAccidentals, visibleKey,
       stanzasPerGroup, grouped, musicOnly, repeatUnderlay: !!repeatUnderlay, reviewedUnderlay: !!reviewedUnderlay };
-    clearChurchSizeWrap(probeHost);
-    clearTwoHymnSizeWrap(probeHost);
-    clearPsalter46OpeningWrap(probeHost);
+    clearSizeOpeningWraps(probeHost);
     // Clear stale source-bound reflow evidence for unsupported/grouped states too.
     observeSaviorWidthProbe(probeHost, null, abc, undefined, songId, undefined, undefined, probeSettings);
-    reportNearPickupSettings(probeHost, songId, probeSettings);
-    reportHymnOpeningSettings(probeHost, songId, probeSettings);
-    reportOLoveOpeningSettings(probeHost, songId, probeSettings);
-    reportHidethOpeningSettings(probeHost, songId, probeSettings);
-    reportFaithOpeningSettings(probeHost, songId, probeSettings);
-    reportSaviorsLoveOpeningSettings(probeHost, songId, probeSettings);
-    reportMelitaOpeningSettings(probeHost, songId, probeSettings);
-    reportCoronationOpeningSettings(probeHost, songId, probeSettings);
-    reportMightyFortressOpeningSettings(probeHost, songId, probeSettings);
-    reportOnlyTrustOpeningSettings(probeHost, songId, probeSettings);
-    reportHeLeadethOpeningSettings(probeHost, songId, probeSettings);
-    reportSweetHourOpeningSettings(probeHost, songId, probeSettings);
-    reportGodLeadsOpeningSettings(probeHost, songId, probeSettings);
-    reportItIsWellOpeningSettings(probeHost, songId, probeSettings);
-    reportSandsOpeningSettings(probeHost, songId, probeSettings);
-    reportOhHowOpeningSettings(probeHost, songId, probeSettings);
+    for (const report of [
+      reportNearPickupSettings, reportHymnOpeningSettings, reportOLoveOpeningSettings,
+      reportHidethOpeningSettings, reportFaithOpeningSettings, reportSaviorsLoveOpeningSettings,
+      reportMelitaOpeningSettings, reportCoronationOpeningSettings, reportMightyFortressOpeningSettings,
+      reportOnlyTrustOpeningSettings, reportHeLeadethOpeningSettings, reportSweetHourOpeningSettings,
+      reportGodLeadsOpeningSettings, reportItIsWellOpeningSettings, reportSandsOpeningSettings,
+      reportOhHowOpeningSettings,
+    ]) report(probeHost, songId, probeSettings);
     // Only this synchronous screen render can publish a current limit. The
     // requested preference and independent print render are never changed.
     onScreenFitRef.current?.(undefined);
@@ -1596,10 +1604,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
           const full = abcjs.renderAbc(detached, fullNotationAbc, {
             accentAbove: true,
             add_classes: true,
-            oneSvgPerLine: true,
-            minPadding: SCORE_MIN_PADDING,
-            responsive: 'resize',
-            scale: 1,
+            ...SCORE_SVG_OPTIONS,
             staffwidth: width / scale,
             visualTranspose: engravingTranspose,
             viewportHorizontal: false,
@@ -1619,12 +1624,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
           const tune = currentRenderedTune;
           if (tune) onNoteClickRef.current?.(tune, element.startChar);
         },
-        oneSvgPerLine: true,
-        minPadding: SCORE_MIN_PADDING,
-        responsive: 'resize' as const,
-        // Responsive SVG width already applies the requested score size.
-        // ABCJS also divides its wrap budget by scale, so keep that factor neutral.
-        scale: 1,
+        ...SCORE_SVG_OPTIONS,
         staffwidth: width / scale,
         visualTranspose: engravingTranspose,
         viewportHorizontal: false,
@@ -1675,6 +1675,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       if (notationOnlyAbc.includes('[K:') && !keysRecognized143 && !keysRecognized226) removeInlineKeySignatureArtifacts(host!);
       containScreenSvgSystems(host!);
       rendered = reflowPsalter46OpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
+      if (psalter433Opening) rendered = psalter433Opening.reflowPsalter433OpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
       const beforeChurchSize = rendered, beforeChurchFrame = beatFrame;
       // This synchronous source-bound repair may accept a new whole-bar
       // partition. Capture its clean parse, but retain that frame only on
@@ -1683,33 +1684,27 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       rendered = refineChurchSizeScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
       ordinaryFrameSealed = true;
       if (rendered === beforeChurchSize) beatFrame = beforeChurchFrame;
-      rendered = refineTwoHymnSizeScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowSaviorScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowNearScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowHymnOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowHidethOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowSaviorsLoveOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowMelitaOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowCoronationOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowMightyFortressOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowOnlyTrustOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowHeLeadethOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowSweetHourOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowGodLeadsOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowItIsWellOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowSandsOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      rendered = reflowOhHowOpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      if (songId === 'psalter50' || songId === 'psalter28' || songId === 'psalter25' || songId === 'psalter26') rendered = reflowPsalterGroupedOpeningScreenScore(host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
+      // Preserve the existing synchronous order and pass each result to the next adapter.
+      for (const reflow of [
+        refineTwoHymnSizeScreenScore, reflowSaviorScreenScore, reflowNearScreenScore,
+        reflowHymnOpeningScreenScore, reflowHidethOpeningScreenScore, reflowSaviorsLoveOpeningScreenScore,
+        reflowMelitaOpeningScreenScore, reflowCoronationOpeningScreenScore, reflowMightyFortressOpeningScreenScore,
+        reflowOnlyTrustOpeningScreenScore, reflowHeLeadethOpeningScreenScore, reflowSweetHourOpeningScreenScore,
+        reflowGodLeadsOpeningScreenScore, reflowItIsWellOpeningScreenScore, reflowSandsOpeningScreenScore,
+        reflowOhHowOpeningScreenScore,
+      ]) rendered = reflow(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
+      if ((['psalter50', 'psalter28', 'psalter25', 'psalter26'] as readonly (string | undefined)[]).includes(songId)) rendered = reflowPsalterGroupedOpeningScreenScore(host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
       const ordinaryRendered = rendered;
+      // All three synchronous transactions use the same latest-frame predicate.
+      const currentScreen = () => generation === beatGeneration.current && host === hostRef.current && host!.isConnected &&
+          !!probeHost && Math.abs(Math.max(320, probeHost.getBoundingClientRect().width) - width) <= 1 / 32;
       if (heKeepsDefault) rendered = reflowHeKeepsDefault({ host: host!, source: abc, prepared: notationOnlyAbc,
         songId, options: screenOptions, original: ordinaryRendered, settings: probeSettings,
-        current: () => generation === beatGeneration.current && host === hostRef.current && host!.isConnected &&
-          !!probeHost && Math.abs(Math.max(320, probeHost.getBoundingClientRect().width) - width) <= 1 / 32 });
+        current: currentScreen });
       if (oLoveInterior) {
         rendered = reflowOLove({ host: host!, canonical: abc, prepared: notationOnlyAbc, options: screenOptions,
           original: ordinaryRendered, fit: screenFit, session: oLoveSession, settings: probeSettings,
-          current: () => generation === beatGeneration.current && host === hostRef.current && host!.isConnected &&
-            !!probeHost && Math.abs(Math.max(320, probeHost.getBoundingClientRect().width) - width) <= 1 / 32 });
+          current: currentScreen });
         // The stronger accepted candidate fits the requested size. Do not feed
         // the old indivisible-bar ceiling back into the Size preference UI.
         if (rendered !== ordinaryRendered) screenFit = undefined;
@@ -1719,8 +1714,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
         prepared: notationOnlyAbc, options: screenOptions, original: ordinaryRendered, settings: probeSettings,
         frame: beatFrame, song: songId,
         onRestProjection: tune => { restSelectionView = tune; },
-        current: () => generation === beatGeneration.current && host === hostRef.current && host!.isConnected &&
-          !!probeHost && Math.abs(Math.max(320, probeHost.getBoundingClientRect().width) - width) <= 1 / 32 });
+        current: currentScreen });
       beatFrame = undefined;
       currentRenderedTune = rendered[0];
       if (screenFit?.accepted && screenFit.limited && host?.isConnected && host === hostRef.current &&
@@ -1731,7 +1725,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       if (!musicOnly && !lyricExtenders && notationOnlyAbc === fullNotationAbc && rendered[0] && !sharedRests133 && !sharedQuarterRests && !keySignatures143 && !keySignatures226 && !sourceHeads && !sourceLayers) {
         // The fragment is display-only. Resize keeps the same ordinary audio
         // owner and clock; it never sends the fragmented Tune to onRendered.
-        if ((!beatOpening && !oLoveInterior && !heKeepsDefault) || fullTuneRef.current?.key !== fullTuneKey)
+        if (ordinaryOwner || fullTuneRef.current?.key !== fullTuneKey)
           fullTuneRef.current = { key: fullTuneKey, tune: ordinaryRendered[0] };
       } else if (fullTuneRef.current?.key !== fullTuneKey) {
         if (keySignatures143 || keySignatures226) fullTuneRef.current = null;
@@ -1741,7 +1735,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       }
       onRendered(fullTuneRef.current?.key === fullTuneKey ? fullTuneRef.current.tune : sharedRests133 || sharedQuarterRests || keySignatures143 || keySignatures226 || reviewedFermatas || timingCarrier || sourceHeads || sourceLayers || lyricExtenders ? undefined : ordinaryRendered[0]);
       let unregister = currentRenderedTune && registerVisible?.({ host: host!, tune: restSelectionView ?? currentRenderedTune, source: notationOnlyAbc, copy: 0, supported: trackingSupported });
-      if (!beatOpening && !oLoveInterior && !heKeepsDefault) return unregister;
+      if (ordinaryOwner) return unregister;
       return () => {
         // The persistent ordinary owner retains this click listener. Retire
         // its display slot so a later width cannot retain an obsolete candidate.
@@ -1756,26 +1750,15 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       clearOLoveReflow(host);
       clearHeKeepsDefaultWrap(host);
       clearOpeningBeatReflow(probeHost);
-      clearChurchSizeWrap(probeHost);
-      clearTwoHymnSizeWrap(probeHost);
-      clearPsalter46OpeningWrap(probeHost);
-      clearSaviorWidthProbe(probeHost);
-      clearNearPickupWrap(probeHost);
-      clearHymnOpeningWrap(probeHost);
-      clearOLoveOpeningWrap(probeHost);
-      clearHidethOpeningWrap(probeHost);
-      clearFaithOpeningWrap(probeHost);
-      clearSaviorsLoveOpeningWrap(probeHost);
-      clearMelitaOpeningWrap(probeHost);
-      clearCoronationOpeningWrap(probeHost);
-      clearMightyFortressOpeningWrap(probeHost);
-      clearOnlyTrustOpeningWrap(probeHost);
-      clearHeLeadethOpeningWrap(probeHost);
-      clearSweetHourOpeningWrap(probeHost);
-      clearGodLeadsOpeningWrap(probeHost);
-      clearItIsWellOpeningWrap(probeHost);
-      clearSandsOpeningWrap(probeHost);
-      clearOhHowOpeningWrap(probeHost);
+      clearSizeOpeningWraps(probeHost);
+      for (const clear of [
+        clearSaviorWidthProbe, clearNearPickupWrap, clearHymnOpeningWrap,
+        clearOLoveOpeningWrap, clearHidethOpeningWrap, clearFaithOpeningWrap,
+        clearSaviorsLoveOpeningWrap, clearMelitaOpeningWrap, clearCoronationOpeningWrap,
+        clearMightyFortressOpeningWrap, clearOnlyTrustOpeningWrap, clearHeLeadethOpeningWrap,
+        clearSweetHourOpeningWrap, clearGodLeadsOpeningWrap, clearItIsWellOpeningWrap,
+        clearSandsOpeningWrap, clearOhHowOpeningWrap,
+      ]) clear(probeHost);
       host?.removeAttribute('data-psalter26-terminal-wrap');
       host?.removeAttribute('data-psalter28-opening-wrap');
       host?.removeAttribute('data-psalter50-opening-wrap');
@@ -1786,7 +1769,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       setRenderError(error instanceof Error ? `Unable to render this score: ${error.message}` : 'Unable to render this score.');
       onRendered(undefined);
     } finally { releaseOLoveFrame(oLoveSession); }
-  }, [abc, songId, grouped, musicOnly, lyricProjection, stanzasPerGroup, completeInTheeWidth, dayByDayWrap, ohHowPickup, hymnAboveResponse, hymnBelowResponse, lyricExtenders, hymnSlurClearance, timingCarrier, sourceTimingContext, sourceHeads, sourceLayers, carrier226, sharedRests133, sharedQuarterRests, keySignatures143, keySignatures226, preparation143.error, preparation226.error, renderingAbc, underlayAbc, underlayIdentity, reviewedUnderlay, duplicateCarriers, engravingTranspose, learnerAccidentals, onRendered, repeatActive, repeatUnderlay, scale, transpose, visibleKey, width, registerVisible, trackingSupported, beatOpening, beatSession, beatMetricsRevision, oLoveInterior, oLoveSession]);
+  }, [abc, songId, grouped, musicOnly, lyricProjection, stanzasPerGroup, completeInTheeWidth, dayByDayWrap, ohHowPickup, hymnAboveResponse, hymnBelowResponse, lyricExtenders, hymnSlurClearance, timingCarrier, sourceTimingContext, sourceHeads, sourceLayers, carrier226, sharedRests133, sharedQuarterRests, keySignatures143, keySignatures226, preparation143.error, preparation226.error, renderingAbc, underlayAbc, underlayIdentity, reviewedUnderlay, duplicateCarriers, engravingTranspose, learnerAccidentals, onRendered, repeatActive, repeatUnderlay, scale, transpose, visibleKey, width, registerVisible, trackingSupported, beatOpening, beatSession, beatMetricsRevision, oLoveInterior, oLoveSession, psalter433Opening]);
 
   useEffect(() => {
     const host = printHostRef.current;
@@ -1863,10 +1846,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
         },
         accentAbove: true,
         add_classes: true,
-        oneSvgPerLine: true,
-        minPadding: SCORE_MIN_PADDING,
-        responsive: 'resize' as const,
-        scale: 1,
+        ...SCORE_SVG_OPTIONS,
         staffwidth: 900,
         visualTranspose: engravingTranspose,
         viewportHorizontal: false,

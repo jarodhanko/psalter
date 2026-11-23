@@ -1,6 +1,7 @@
 import type { SourceTimingContext } from '../data/timingWitnesses';
 import type { LyricTranscriptLine } from './lyricTranscript';
 import type { SongProvenance } from './songProvenance';
+import type { EditorialStanzaUnderlay } from './editorialStanzaUnderlay';
 
 /** A small, UI-independent representation of an ABC tune in a songbook. */
 export interface SongVoice {
@@ -45,6 +46,8 @@ export interface SongbookCatalogSong extends Omit<SongMetadata, "lyrics" | "sear
 /** A catalog song with its notation source loaded for viewing or playback. */
 export interface SongbookSong extends SongbookCatalogSong {
   abc: string;
+  /** Optional presentation-only alignment, never a replacement for canonical ABC. */
+  editorialUnderlay?: EditorialStanzaUnderlay;
   /** Loaded independent timing evidence; null explicitly means this edition has no policy. */
   sourceTimingContext?: SourceTimingContext | null;
   /** Per-edition credits, source links, rights assertions and territory limits. */

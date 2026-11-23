@@ -1,3 +1,4 @@
+import type { EditorialStanzaUnderlay } from '../../domain/editorialStanzaUnderlay';
 import { hasOLoveOpeningSource } from './oLoveOpeningSource';
 import { newOLoveSession, disposeOLoveSession, releaseOLoveFrame, captureOLoveFrame, reflowOLove, clearOLoveReflow } from './oLoveInteriorReflow';
 import { newRollInteriorSession, disposeRollInteriorSession, releaseRollInteriorFrame, captureRollInteriorFrame, reflowRollInterior, clearRollInteriorReflow } from './rollInteriorReflow';
@@ -16,7 +17,6 @@ import { clearOhHowOpeningWrap, reportOhHowOpeningSettings, reflowOhHowOpeningSc
 import { extractUnderlayModel } from '../../domain/underlayIdentity';
 import type { UnderlayIdentityWitness } from '../../domain/underlayIdentity';
 import { getReviewedUnderlay, presentReviewedChorus, qualifyAllCreaturesUnderlayParts } from '../../domain/reviewedUnderlay';
-import { getEditorialStanzaUnderlay } from '../../domain/editorialStanzaUnderlay';
 import { getPublishedStanzaVariant } from '../../domain/publishedStanzaVariant';
 import { refineWondrousGroupingScreenScore } from './wondrousGroupingWrap';
 import { refineAllCreaturesGroupingScreenScore } from './allCreaturesGroupingWrap';
@@ -92,6 +92,7 @@ const SCORE_SVG_OPTIONS = { oneSvgPerLine: true, minPadding: SCORE_MIN_PADDING, 
 
 // The same probe-owned diagnostics are reset before rendering and on failure.
 function clearSizeOpeningWraps(probeHost: HTMLElement | null) {
+  probeHost?.removeAttribute('data-psalter211-repeat-wrap');
   clearChurchSizeWrap(probeHost);
   clearTwoHymnSizeWrap(probeHost);
   clearPsalter46OpeningWrap(probeHost);
@@ -154,6 +155,7 @@ interface ScoreRendererProps {
   showOriginalLyrics?: boolean;
   visibleVoiceIndexes: readonly number[];
   repeatUnderlay?: RepeatUnderlay;
+  editorialUnderlay?: EditorialStanzaUnderlay;
   onRendered: (tune: abcjs.TuneObject | undefined) => void;
   onScreenAbc?: (prepared: PreparedScreenAbc | undefined) => void;
   onScreenFit?: (fit: ScreenScoreFit | undefined) => void;
@@ -1317,7 +1319,7 @@ export function ScoreRenderer(props: ScoreRendererProps) {
     : <p className="notice error" role="alert">This score could not be loaded.</p>;
 }
 
-function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel, scale, transpose, learnerAccidentals = false, stanzasPerGroup = 5, printStanzaNumbers, showOriginalLyrics, visibleVoiceIndexes, repeatUnderlay, onRendered, onScreenAbc, onScreenFit, onNoteClick, onPrintReady, registerVisible }: ScoreRendererProps) {
+function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel, scale, transpose, learnerAccidentals = false, stanzasPerGroup = 5, printStanzaNumbers, showOriginalLyrics, visibleVoiceIndexes, repeatUnderlay, editorialUnderlay, onRendered, onScreenAbc, onScreenFit, onNoteClick, onPrintReady, registerVisible }: ScoreRendererProps) {
   const hostRef = useRef<HTMLDivElement>(null);
   const measureRef = useRef<HTMLDivElement>(null);
   const printHostRef = useRef<HTMLDivElement>(null);
@@ -1331,17 +1333,17 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
   const [width, setWidth] = useState(900);
   const [renderError, setRenderError] = useState<string | undefined>();
   const visibleKey = visibleVoiceIndexes.join(',');
-  // Only this arrangement requests the optional repair. Import failure retains
-  // the ordinary renderer, and a newer song/unmount retires the pending load.
-  const [psalter433Opening, setPsalter433Opening] = useState<typeof import('./lordsPrayerOpeningWrap')>();
+  // Exact-source adapters remain optional and arrangement-lazy. A newer song
+  // retires pending completion; failed imports retain the ordinary renderer.
+  const [screenReflow, setScreenReflow] = useState<typeof import('./optionalPsalterWrap')>();
   useEffect(() => {
-    if (songId !== 'psalter433' || psalter433Opening) return;
+    if (songId !== 'psalter211' && songId !== 'psalter433') return;
     let active = true;
-    void import('./lordsPrayerOpeningWrap').then(module => {
-      if (active) setPsalter433Opening(module);
+    void import('./optionalPsalterWrap').then(module => {
+      if (active) setScreenReflow(module);
     }).catch(() => undefined);
     return () => { active = false; };
-  }, [songId, psalter433Opening]);
+  }, [songId]);
   const beatOpening = ([ALL_CREATURES_OPENING_ID, HIDETH_OPENING_ID, GOD_LEADS_OPENING_ID, MIGHTY_FORTRESS_OPENING_ID, SAVIORS_LOVE_OPENING_ID, PSALTER39_OPENING_ID, PSALTER46_LYRIC_ID, OH_HOW_OPENING_ID, HE_LEADETH_OPENING_ID, CHURCH_OPENING_ID, THOUSAND_OPENING_ID, PSALTER_BEAT_ID] as readonly (string | undefined)[]).includes(songId);
   const rollInterior = hasRollGroupingSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 1 && scale === 1;
   const oLoveInterior = hasOLoveOpeningSource(songId, abc) && visibleKey === '0,1,2,3' && transpose === 0 && !learnerAccidentals && stanzasPerGroup === 4 && scale === 1;
@@ -1392,7 +1394,6 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
   }, [abc, songId, transpose]);
   const keySignatures143 = preparation143.display;
   const keySignatures226 = preparation226.display;
-  const editorialUnderlay = useMemo(() => getEditorialStanzaUnderlay(songId, abc), [songId, abc]);
   const publishedVariant = useMemo(() => getPublishedStanzaVariant(songId, abc), [songId, abc]);
   const renderingAbc = withHymnVocalPlacement(
     withInheritedHymnClefs(keySignatures143?.abc ?? keySignatures226?.abc ?? editorialUnderlay?.abc ?? publishedVariant?.abc ?? abc, songId), songId,
@@ -1497,7 +1498,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       return { error: scorePreparationError(error) };
     }
     // All source witnesses and underlay groups above derive from these inputs.
-  }, [abc, songId, transpose, learnerAccidentals, stanzasPerGroup, visibleKey, repeatUnderlay, showOriginalLyrics, lyricProjection]);
+  }, [abc, songId, transpose, learnerAccidentals, stanzasPerGroup, visibleKey, repeatUnderlay, editorialUnderlay, showOriginalLyrics, lyricProjection]);
   useEffect(() => { onScreenAbc?.(screenPreparation.prepared); }, [onScreenAbc, screenPreparation]);
   const printStanzaKey = printStanzaNumbers?.join(',') ?? '';
   onNoteClickRef.current = onNoteClick;
@@ -1675,7 +1676,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       if (notationOnlyAbc.includes('[K:') && !keysRecognized143 && !keysRecognized226) removeInlineKeySignatureArtifacts(host!);
       containScreenSvgSystems(host!);
       rendered = reflowPsalter46OpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
-      if (psalter433Opening) rendered = psalter433Opening.reflowPsalter433OpeningScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
+      if (screenReflow) rendered = screenReflow.reflowOptionalPsalterScreenScore(probeHost, host!, abc, notationOnlyAbc, songId, screenOptions, rendered, probeSettings);
       const beforeChurchSize = rendered, beforeChurchFrame = beatFrame;
       // This synchronous source-bound repair may accept a new whole-bar
       // partition. Capture its clean parse, but retain that frame only on
@@ -1769,7 +1770,7 @@ function ReadyScoreRenderer({ abc, songId, sourceTimingContext, accessibleLabel,
       setRenderError(error instanceof Error ? `Unable to render this score: ${error.message}` : 'Unable to render this score.');
       onRendered(undefined);
     } finally { releaseOLoveFrame(oLoveSession); }
-  }, [abc, songId, grouped, musicOnly, lyricProjection, stanzasPerGroup, completeInTheeWidth, dayByDayWrap, ohHowPickup, hymnAboveResponse, hymnBelowResponse, lyricExtenders, hymnSlurClearance, timingCarrier, sourceTimingContext, sourceHeads, sourceLayers, carrier226, sharedRests133, sharedQuarterRests, keySignatures143, keySignatures226, preparation143.error, preparation226.error, renderingAbc, underlayAbc, underlayIdentity, reviewedUnderlay, duplicateCarriers, engravingTranspose, learnerAccidentals, onRendered, repeatActive, repeatUnderlay, scale, transpose, visibleKey, width, registerVisible, trackingSupported, beatOpening, beatSession, beatMetricsRevision, oLoveInterior, oLoveSession, psalter433Opening]);
+  }, [abc, songId, grouped, musicOnly, lyricProjection, stanzasPerGroup, completeInTheeWidth, dayByDayWrap, ohHowPickup, hymnAboveResponse, hymnBelowResponse, lyricExtenders, hymnSlurClearance, timingCarrier, sourceTimingContext, sourceHeads, sourceLayers, carrier226, sharedRests133, sharedQuarterRests, keySignatures143, keySignatures226, preparation143.error, preparation226.error, renderingAbc, underlayAbc, underlayIdentity, reviewedUnderlay, duplicateCarriers, engravingTranspose, learnerAccidentals, onRendered, repeatActive, repeatUnderlay, scale, transpose, visibleKey, width, registerVisible, trackingSupported, beatOpening, beatSession, beatMetricsRevision, oLoveInterior, oLoveSession, screenReflow]);
 
   useEffect(() => {
     const host = printHostRef.current;

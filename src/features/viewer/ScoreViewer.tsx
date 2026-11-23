@@ -135,7 +135,7 @@ function ReadyScoreViewer({ song, songbook, navigation, initialSettings, onSetti
       ? psalter345RepeatUnderlay : undefined;
   const carrier99 = hasPsalter99CarrierSource(song.id, song.abc);
   const sourceReviewedUnderlay = useMemo(() => getReviewedUnderlay(song.id, song.abc), [song.id, song.abc]);
-  const editorialUnderlay = useMemo(() => getEditorialStanzaUnderlay(song.id, song.abc), [song.id, song.abc]);
+  const editorialUnderlay = song.editorialUnderlay ?? getEditorialStanzaUnderlay(song.id, song.abc);
   const publishedVariant = useMemo(() => getPublishedStanzaVariant(song.id, song.abc), [song.id, song.abc]);
   const sourceUnderlayAbc = useMemo(() => sourceReviewedUnderlay?.abc ?? editorialUnderlay?.abc ?? publishedVariant?.abc ?? withPsalter99StanzaIdentities(song.id, song.abc), [song.id, song.abc, sourceReviewedUnderlay, editorialUnderlay, publishedVariant]);
   const sourceUnderlayModel = useMemo(() => extractUnderlayModel(sourceUnderlayAbc, sourceReviewedUnderlay?.identity), [sourceUnderlayAbc, sourceReviewedUnderlay]);
@@ -753,6 +753,7 @@ function ReadyScoreViewer({ song, songbook, navigation, initialSettings, onSetti
         printStanzaNumbers={lyricProjection && selectedPrintVerses.length === 0 ? [] : underlayModel.ambiguous && !repeatUnderlay ? undefined : selectedPrintVerses}
         showOriginalLyrics={lyricProjection ? showOriginalLyrics : undefined}
         repeatUnderlay={repeatUnderlay}
+        editorialUnderlay={editorialUnderlay}
         visibleVoiceIndexes={visibleVoices}
         onRendered={setRenderedTune}
         onScreenFit={presentationOnly ? undefined : setScreenFit}

@@ -11,7 +11,10 @@ export async function loadLegacyPsalterSource(song: SongbookCatalogSong, loadAbc
     const digest = await globalThis.crypto.subtle.digest('SHA-256', new TextEncoder().encode(abc));
     sourceSha256 = Array.from(new Uint8Array(digest), byte => byte.toString(16).padStart(2, '0')).join('');
   } catch { /* Without native hashing, display normally and do not infer legacy selection intent. */ }
+  const editorialUnderlay = song.id === 'psalter233'
+    ? await import('./rollandEditorialUnderlay').then(module => module.psalter233EditorialUnderlay(abc), () => undefined)
+    : undefined;
   const lyricTranscript = lyricTranscriptFromAbc(abc, song.id);
-  return { ...song, abc, sourceTimingContext, sourceSha256, lyricTranscript,
+  return { ...song, abc, editorialUnderlay, sourceTimingContext, sourceSha256, lyricTranscript,
     lyrics: lyricTranscript.map((line) => line.text), rightsNotices: rightsNoticesFromAbc(abc) };
 }

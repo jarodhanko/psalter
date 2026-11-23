@@ -13,12 +13,12 @@ V:T1 clef=treble name="Soprano"
 V:T2 clef=treble name="Alto"
 V:B1 clef=bass name="Tenor"
 V:B2 clef=bass name="Bass"
-[V:T1] G2 | G2 B2 G2 B2 | B A G F G2 ||
+[V:T1] G2 | G2 B2 G2 B2 | BA GF G2 ||
 w:1.~Praise God, ye serv- ants of _ the _ Lord,
 w:2.~From ris- ing un- to set- _ ting _ sun
 w:3.~On whom but God can we _ re- _ ly,
 w:4.~He lifts the poor and makes _ them _ great,
-G2 | B2 d2 B2 d2 | d c B A B2 ||
+G2 | B2 d2 B2 d2 | dc BA B2 ||
 w:Praise, praise His Name with one _ ac- _ cord;
 w:Praised be the Lord, the Might- _ y _ One;
 w:The Lord our God Who reigns _ on _ high,
@@ -39,11 +39,11 @@ w:A- bove the heav'ns in glo- ry bright.
 w:The things of heav'n and earth be- low?
 w:His mer- cy and His might pro- claim.
 [V:T2] G2 | D2 D2 D2 D2 | D2 D2 D2 ||
-G2 | G2 B2 G2 B2 | B A G F G2 ||
+G2 | G2 B2 G2 B2 | BA GF G2 ||
 D2 | E2 E2 D3 D | F2 F2 G2 ||
 G2 | G2 G2 G3 D | D2 D2 D2 ||
 G2 | G2 G2 G3 D | D2 F2 G2 |]
-[V:B1] G,2 | B,2 D2 B,2 D2 | D C B, A, B,2 ||
+[V:B1] G,2 | B,2 D2 B,2 D2 | DC B,A, B,2 ||
 B,2 | D2 D2 D2 D2 | D2 D2 D2 ||
 B,2 | C2 C2 B,3 B, | D2 D2 D2 ||
 B,2 | C2 C2 D3 G, | F,2 F,2 G,2 ||

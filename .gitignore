@@ -40,6 +40,7 @@ scripts
 
 # Derived from canonical score modules by generate:psalter; never edit or commit.
 /src/data/generated/
+/public/psalter-index.html
 
 # Explicit audio:prepare downloads and generated note extensions, never source.
 /public/soundfonts/

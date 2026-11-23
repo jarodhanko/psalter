@@ -6,16 +6,36 @@
     <meta name="theme-color" content="#18352d" />
     <meta
       name="description"
-      content="Psalter sheet music with transposition, part playback, printable booklets, downloadable ABC notation, source-based review, and user issue feedback."
+      content="Browse the 1912 Psalter online. Print metrical psalm sheet music, hear individual harmony parts, transpose scores, and download ABC notation."
     />
     <link rel="canonical" href="https://oldpsalter.com/" />
     <link rel="icon" href="/psalter-icon.svg" type="image/svg+xml" />
     <link rel="apple-touch-icon" href="/psalter-icon-192.png" />
-    <title>Old Psalter | Psalter Sheet Music and Part Playback</title>
+    <title>1912 Psalter Online: Sheet Music &amp; Part Playback | Old Psalter</title>
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Old Psalter" />
+    <meta property="og:url" content="https://oldpsalter.com/" />
+    <meta property="og:title" content="1912 Psalter Online: Sheet Music &amp; Part Playback" />
+    <meta property="og:description" content="Find 1912 Psalter selections by number. Print sheet music, play harmony parts, transpose, or download ABC notation." />
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Old Psalter","url":"https://oldpsalter.com/"}</script>
+    <style>
+      .psalter-discovery { max-width: 48rem; margin: 1.5rem auto; padding: 0 1rem; text-align: left; }
+      .psalter-discovery a { color: inherit; text-decoration: underline; }
+      .psalter-discovery nav { display: flex; flex-wrap: wrap; gap: .5rem 1rem; }
+      @media print { .psalter-discovery { display: none; } }
+    </style>
   </head>
   <body>
     <div id="root"></div>
-    <noscript><p>The score viewer needs JavaScript. Read the <a href="/about.html">Old Psalter guide</a> for features, sources, and help.</p></noscript>
+    <section class="psalter-discovery" aria-labelledby="psalter-discovery-heading">
+      <h2 id="psalter-discovery-heading">The 1912 Psalter online</h2>
+      <p>Old Psalter is an online collection of metrical psalms based on <cite>The Psalter</cite> (1912), with later material. Find printable sheet music, hear individual harmony parts, transpose a score, or download editable ABC notation. The viewer also offers two separate hymnbooks.</p>
+      <nav aria-label="About Old Psalter">
+        <a href="/psalter-index.html">Browse Psalter numbers 1–434</a>
+        <a href="/about.html">Read the guide and source notes</a>
+      </nav>
+      <noscript><p>The interactive sheet music viewer requires JavaScript. The number index and guide do not.</p></noscript>
+    </section>
     <script type="module" src="/src/index.tsx"></script>
   </body>
 </html>

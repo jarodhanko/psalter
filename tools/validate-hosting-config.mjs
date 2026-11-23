@@ -40,8 +40,9 @@ assert.ok(!production.hosting.headers.some((rule) => rule.headers.some((entry) =
 'production must not send a blocking robots header');
 
 const landingPages = [
-  ['index.html', 'https://oldpsalter.com/', 'Old Psalter | Psalter Sheet Music and Part Playback'],
-  ['public/about.html', 'https://oldpsalter.com/about.html', 'About and Guide | Old Psalter'],
+  ['index.html', 'https://oldpsalter.com/', '1912 Psalter Online: Sheet Music & Part Playback | Old Psalter'],
+  ['public/about.html', 'https://oldpsalter.com/about.html', 'How to Use the 1912 Psalter Online | Old Psalter'],
+  ['public/psalter-index.html', 'https://oldpsalter.com/psalter-index.html', '1912 Psalter Index: Numbers 1–434 | Old Psalter'],
 ];
 for (const [path, canonical, title] of landingPages) {
   const html = new JSDOM(await read(path)).window.document;
@@ -63,6 +64,29 @@ assert.match(robots, /^Sitemap: https:\/\/oldpsalter\.com\/sitemap\.xml$/m, 'rob
 const sitemap = new JSDOM(await read('public/sitemap.xml'), { contentType: 'application/xml' }).window.document;
 assert.equal(sitemap.documentElement.namespaceURI, 'http://www.sitemaps.org/schemas/sitemap/0.9');
 assert.equal(sitemap.documentElement.localName, 'urlset');
-assert.deepEqual([...sitemap.querySelectorAll('loc')].map((loc) => loc.textContent), landingPages.map((page) => page[1]), 'only the substantive homepage and guide are listed, not query-state song URLs');
+assert.deepEqual([...sitemap.querySelectorAll('loc')].map((loc) => loc.textContent), landingPages.map((page) => page[1]), 'only the substantive homepage, guide and index are listed, not query-state song URLs');
+
+const homepage = new JSDOM(await read('index.html')).window.document;
+const discovery = homepage.querySelector('.psalter-discovery');
+assert.ok(discovery?.textContent.includes('metrical psalms'), 'Home must have useful static copy');
+for (const path of ['/psalter-index.html', '/about.html']) {
+  assert.ok(discovery.querySelector(`a[href="${path}"]`), `Home discovery links to ${path} even without script execution`);
+}
+const website = JSON.parse(homepage.querySelector('script[type="application/ld+json"]').textContent);
+assert.equal(website['@type'], 'WebSite');
+assert.equal(website.url, 'https://oldpsalter.com/');
+const index = new JSDOM(await read('public/psalter-index.html')).window.document;
+assert.equal(index.scripts.length, 0, 'The number index must not need JavaScript');
+const scoreLinks = [...index.querySelectorAll('.psalter-entry a')];
+assert.equal(scoreLinks.length, 434);
+for (const [i, link] of scoreLinks.entries()) {
+  assert.equal(link.getAttribute('href'), `/?book=psalter-1912&number=${i + 1}&tune=psalter${i + 1}`);
+  assert.match(link.textContent, new RegExp(`^Psalter ${i + 1}: .+`));
+}
+assert.equal(scoreLinks[218].textContent, 'Psalter 219: Restoration and Revival');
+assert.match(scoreLinks[432].textContent, /Lord.s Prayer/i);
+for (const link of index.querySelectorAll('nav a')) assert.ok(index.getElementById(link.hash.slice(1)));
+const llms = await read('public/llms.txt');
+for (const [, url] of landingPages) assert.ok(llms.includes(`(${url})`), `Agent reference links to ${url}`);
 
 console.log('Hosting and discovery: preview noindex, indexable production, identical cache/rewrite settings, canonical metadata, robots.txt, and landing-page sitemap verified.');

@@ -1,3 +1,4 @@
+import { renderPsalterIndex } from './render-psalter-index.mjs';
 import { readCanonicalPsalterSource } from './read-canonical-psalter-source.mjs';
 import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { resolve } from "node:path";
@@ -121,4 +122,5 @@ const manifest = {
   generatedArtifactsSha256: hashGeneratedArtifacts(artifacts),
 };
 await writeFile(resolve(generatedPath, "legacyPsalterManifest.ts"), `// Generated from src/psalter-abc.ts. Do not edit manually.\n\nexport const legacyPsalterManifest = ${JSON.stringify(manifest, null, 2)} as const;\n`);
-console.log(`Generated compact metadata, one lazy search index, and ${songs.length} lazy ABC modules.`);
+await writeFile(resolve(root, "public/psalter-index.html"), renderPsalterIndex(metadata));
+console.log(`Generated static Psalter number index, compact metadata, one lazy search index, and ${songs.length} lazy ABC modules.`);

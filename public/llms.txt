@@ -3,6 +3,7 @@
 > Old Psalter is an interactive online collection based on The Psalter (1912), with later material and separate hymnbooks.
 
 - [1912 Psalter number index](https://oldpsalter.com/psalter-index.html): Plain HTML index of numbers 1–434, with titles, tune names where known, Psalm references, and links to the primary settings.
+- [Original ABC index](https://oldpsalter.com/abc/psalter-1912/index.json): JSON catalog, provenance, exact hashes and original ABC transcriptions for the primary and verified alternate 1912 settings. Later additions and unverified alternates are not included.
 - [Guide and source notes](https://oldpsalter.com/about.html): What the site offers, how to practice and print, where the notation comes from, and how to report a reproducible problem.
 - [Interactive score viewer](https://oldpsalter.com/): JavaScript is required for sheet music rendering, part playback, transposition, and ABC export.
 

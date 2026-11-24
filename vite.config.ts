@@ -89,6 +89,7 @@ export default defineConfig({
         globPatterns: ['**/*.{js,css,html,ico,png,svg,woff2,mp3,txt}'],
         globIgnores: ['**/soundfonts/optional-v1/**', '**/psalter-icon.svg', '**/psalter-icon-192.png', '**/psalter-icon-512.png'],
         navigateFallback: 'index.html',
+        navigateFallbackDenylist: [/^\/abc(?:[/?]|$)/],
       },
     }),
   ],

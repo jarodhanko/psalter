@@ -4,7 +4,7 @@
     "public": "dist",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
-      { "source": "**", "destination": "/index.html" }
+      { "regex": "^/(?:|a|ab|[^a].*|a[^b].*|ab[^c].*|abc[^/].*)$", "destination": "/index.html" }
     ],
     "headers": [
       {
@@ -25,6 +25,17 @@
       },
       {
         "source": "/manifest.webmanifest",
+        "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+      },
+      {
+        "source": "/abc/psalter-1912/*.abc",
+        "headers": [
+          { "key": "Content-Type", "value": "text/vnd.abc; charset=utf-8" },
+          { "key": "Cache-Control", "value": "no-cache" }
+        ]
+      },
+      {
+        "source": "/abc/psalter-1912/index.json",
         "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
       },
       {

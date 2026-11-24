@@ -3,13 +3,20 @@
 const escape = (value) => String(value).replace(/[&<>"']/g, (ch) =>
   ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[ch]);
 
-export function renderPsalterIndex(metadata) {
+export function renderPsalterIndex(metadata, approvedAbc = new Map()) {
   const entries = metadata.filter(({ number, variant }) => number >= 1 && number <= 434 && variant === '');
   if (entries.length !== 434 || entries.some(({ number, id, title }, i) =>
     number !== i + 1 || id !== `psalter${number}` || !title?.trim())) {
     throw new Error('Expected one titled primary setting for each 1912 Psalter number 1–434.');
   }
   const displayTitle = (number, title) => title.replace(new RegExp(`^${number}[.:]\\s+`), '');
+  const abcLinksByNumber = new Map();
+  for (const item of approvedAbc.values()) {
+    if (!abcLinksByNumber.has(item.number)) abcLinksByNumber.set(item.number, []);
+    abcLinksByNumber.get(item.number).push(item);
+  }
+  const sourceLinks = (number) => (abcLinksByNumber.get(number) ?? []).map(({ abc, variant }) =>
+    ` · <a class="source-abc" href="/abc/psalter-1912/${escape(abc.slice(2))}">${variant ? 'Alternate ABC' : 'Original ABC'}</a>`).join('');
   const groups = Array.from({ length: 9 }, (_, i) => entries.slice(i * 50, (i + 1) * 50));
   const heading = (group) => `${group[0].number}–${group.at(-1).number}`;
   return `<!doctype html>
@@ -36,13 +43,14 @@ export function renderPsalterIndex(metadata) {
     <h1>1912 Psalter index: Numbers 1–434</h1>
     <p>Browse selections 1–434 in Old Psalter, a collection based on <cite>The Psalter</cite> (1912). Each number links to its main sheet music setting, where you can practice parts, transpose, or print. The collection also includes later material; additional settings and selections are available in the viewer.</p>
     <p>This index works without JavaScript. The sheet music viewer requires JavaScript.</p>
+    ${approvedAbc.size ? '<p><a href="/abc/psalter-1912/index.json">Machine-readable ABC source index</a> for the original-edition transcriptions and verified alternate settings.</p>' : ''}
     <nav aria-label="Jump to a number range"><ul>
       ${groups.map(group => `<li><a href="#numbers-${group[0].number}">${heading(group)}</a></li>`).join('\n      ')}
     </ul></nav>
     ${groups.map(group => `<section aria-labelledby="numbers-${group[0].number}">
       <h2 id="numbers-${group[0].number}">Psalter numbers ${heading(group)}</h2>
       <ul>
-        ${group.map(({ number, id, title, psalmNumber, tune }) => `<li class="psalter-entry"><a href="/?book=psalter-1912&amp;number=${number}&amp;tune=${id}">Psalter ${number}: ${escape(displayTitle(number, title))}</a>${psalmNumber ? ` · Psalm ${psalmNumber}` : ''}${tune ? ` · Tune: ${escape(tune)}` : ''}</li>`).join('\n        ')}
+        ${group.map(({ number, id, title, psalmNumber, tune }) => `<li class="psalter-entry"><a href="/?book=psalter-1912&amp;number=${number}&amp;tune=${id}">Psalter ${number}: ${escape(displayTitle(number, title))}</a>${psalmNumber ? ` · Psalm ${psalmNumber}` : ''}${tune ? ` · Tune: ${escape(tune)}` : ''}${sourceLinks(number)}</li>`).join('\n        ')}
       </ul>
     </section>`).join('\n    ')}
   </main>

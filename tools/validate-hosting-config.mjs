@@ -1,5 +1,7 @@
+import { approvedAbc } from './render-approved-abc.mjs';
+import { createHash } from 'node:crypto';
 import assert from 'node:assert/strict';
-import { readFile } from 'node:fs/promises';
+import { readFile, readdir } from 'node:fs/promises';
 import { JSDOM } from 'jsdom';
 
 const read = (path) => readFile(new URL(`../${path}`, import.meta.url), 'utf8');
@@ -20,7 +22,11 @@ assert.deepEqual(production, indexablePreview, 'production may differ only by om
 for (const [name, config] of Object.entries({ preview, production })) {
   const hosting = config.hosting;
   assert.equal(hosting?.public, 'dist', `${name}: Firebase Hosting must publish only dist/`);
-  assert.ok(hosting.rewrites?.some((rule) => rule.source === '**' && rule.destination === '/index.html'), `${name}: SPA routes must rewrite to index.html`);
+  assert.equal(hosting.rewrites?.length, 1);
+  assert.equal(hosting.rewrites[0].destination, '/index.html');
+  const fallback = new RegExp(hosting.rewrites[0].regex);
+  for (const path of ['/', '/deep/link', '/about.html', '/ab', '/abcde']) assert.ok(fallback.test(path));
+  for (const path of ['/abc', '/abc/', '/abc/psalter-1912/253.abc', '/abc/psalter-1912/foo', '/abc/foo']) assert.ok(!fallback.test(path));
   function header(source, key) {
     return hosting.headers?.flatMap((rule) => rule.source === source ? rule.headers : [])
       .filter((entry) => entry.key.toLowerCase() === key.toLowerCase()).map((entry) => entry.value);
@@ -30,6 +36,9 @@ for (const [name, config] of Object.entries({ preview, production })) {
   for (const route of ['/', '/index.html', '/sw.js', '/manifest.webmanifest']) {
     assert.deepEqual(header(route, 'Cache-Control'), ['no-cache'], `${name}: ${route} must revalidate`);
   }
+  assert.deepEqual(header('/abc/psalter-1912/index.json', 'Cache-Control'), ['no-cache']);
+  assert.deepEqual(header('/abc/psalter-1912/*.abc', 'Content-Type'), ['text/vnd.abc; charset=utf-8']);
+  assert.deepEqual(header('/abc/psalter-1912/*.abc', 'Cache-Control'), ['no-cache']);
   for (const route of ['/assets/**', '/soundfonts/**']) {
     assert.deepEqual(header(route, 'Cache-Control'), ['public,max-age=31536000,immutable'], `${name}: ${route} must be immutable`);
   }
@@ -77,7 +86,7 @@ assert.equal(website['@type'], 'WebSite');
 assert.equal(website.url, 'https://oldpsalter.com/');
 const index = new JSDOM(await read('public/psalter-index.html')).window.document;
 assert.equal(index.scripts.length, 0, 'The number index must not need JavaScript');
-const scoreLinks = [...index.querySelectorAll('.psalter-entry a')];
+const scoreLinks = [...index.querySelectorAll('.psalter-entry a:not(.source-abc)')];
 assert.equal(scoreLinks.length, 434);
 for (const [i, link] of scoreLinks.entries()) {
   assert.equal(link.getAttribute('href'), `/?book=psalter-1912&number=${i + 1}&tune=psalter${i + 1}`);
@@ -86,6 +95,20 @@ for (const [i, link] of scoreLinks.entries()) {
 assert.equal(scoreLinks[218].textContent, 'Psalter 219: Restoration and Revival');
 assert.match(scoreLinks[432].textContent, /Lord.s Prayer/i);
 for (const link of index.querySelectorAll('nav a')) assert.ok(index.getElementById(link.hash.slice(1)));
+const staticDir = 'public/abc/psalter-1912';
+const manifest = JSON.parse(await read(`${staticDir}/index.json`));
+assert.equal(manifest.schemaVersion, 1);
+assert.equal(manifest.collection, 'psalter-1912');
+assert.deepEqual(manifest.sourceFiles.map(({ number, id, sourceSha256 }) => ({ number, id, sourceSha256 })),
+  approvedAbc.map(({ number, id, sourceSha256 }) => ({ number, id, sourceSha256 })));
+assert.deepEqual((await readdir(staticDir)).sort(), ['index.json', ...approvedAbc.map(({ slug }) => `${slug}.abc`)].sort());
+const abcLinks = [...index.querySelectorAll('a.source-abc')];
+assert.deepEqual(abcLinks.map(link => link.getAttribute('href')),
+  approvedAbc.map(({ slug }) => `/abc/psalter-1912/${slug}.abc`));
+for (const { slug, sourceSha256 } of approvedAbc) {
+  const body = await read(`${staticDir}/${slug}.abc`);
+  assert.equal(createHash('sha256').update(body).digest('hex'), sourceSha256);
+}
 const llms = await read('public/llms.txt');
 for (const [, url] of landingPages) assert.ok(llms.includes(`(${url})`), `Agent reference links to ${url}`);
 

@@ -45,3 +45,4 @@ scripts
 # Explicit audio:prepare downloads and generated note extensions, never source.
 /public/soundfonts/
 /.audio-cache/
+/public/abc/psalter-1912/
